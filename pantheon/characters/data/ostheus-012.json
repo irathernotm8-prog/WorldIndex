@@ -1,0 +1,17 @@
+{
+  "slug": "ostheus-012",
+  "name": "Ostheus",
+  "epithet": "The Lightning God",
+  "bio": [
+    "Boisterous. Bold. Recklessly heroic. Ostheus believes in the now — that glory is taken, not inherited. He loves mortals who challenge gods, and despises inaction. He’s the kind of god who leaps into a battle with a joke, a roar, and lightning already building in his chest. While charming, he’s also impatient and explosive — a storm of victory and destruction.",
+    "After Desaad’s fall, Ostheus was chosen by the gods to embody the new storm — controlled chaos rather than divine wrath. He soared through battles, led skies against invading forces, and was loved by warriors and peasants alike. But deep down, he wonders if he earned his title — or merely replaced someone who still holds a spark of power. His laugh masks uncertainty."
+  ],
+  "art": "art/ostheus-012.jpg",
+  "source_page": 12,
+  "faction": "The Pantheon",
+  "status": "Active",
+  "tags": [
+    "God",
+    "Warrior"
+  ]
+}

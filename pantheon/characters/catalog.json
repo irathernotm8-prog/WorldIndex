@@ -1,0 +1,465 @@
+[
+  {
+    "slug": "andromedus-017",
+    "name": "Andromedus",
+    "epithet": "The Enigma",
+    "bio": [
+      "No one in Elarion can say where Andromedus comes from, only that he arrived the same way lightning does -- a crack in the sky that shouldn't have been possible, and then simply a presence standing where nothing had stood before. He is not made of flesh in any way the gods or mortals understand; his eyes hold no pupils, only slow-turning galaxies, and he does not so much walk as allow the ground to exist beneath him.",
+      "He does not command armies, and he has never claimed a throne. What loyalty he offers to Valerius seems less about cause and more about curiosity -- Andromedus watches him the way one watches a fuse burning toward something enormous. His warnings are never simple. He speaks of two paths carried in Valerius's blood: one that leads to a crown, and one that leads to the end of all names. He has not yet said which path is which."
+    ],
+    "art": "art/andromedus-017.jpg",
+    "source_page": 17,
+    "faction": "Valerius's Fellowship",
+    "status": "Active",
+    "tags": [
+      "Enigma",
+      "Cosmic"
+    ]
+  },
+  {
+    "slug": "baldri-011",
+    "name": "Baldri",
+    "epithet": "The Night God",
+    "bio": [
+      "Detached, enigmatic, and inward-focused, Baldri is the most aloof of the gods. He exists between waking and dreaming — present, but never fully. Often mistaken for lazy or apathetic, Baldri is instead always watching, always listening. His insights come in riddles, and his guidance is rarely straightforward. Some say he speaks only when the moon is full, and when he does, it’s always a prophecy.",
+      "Born from the first dream cast by the universe itself, Baldri walked the stars before the earth was shaped. He taught mortals the secrets of rest, imagination, and magic. He also placed safeguards between the mortal mind and the horrors of the void. Though once a key figure among the gods, Baldri slowly faded from Pantheon politics, preferring his dreams to their wars and pride."
+    ],
+    "art": "art/baldri-011.jpg",
+    "source_page": 11,
+    "faction": "The Pantheon",
+    "status": "Active",
+    "tags": [
+      "God",
+      "Mystic"
+    ]
+  },
+  {
+    "slug": "breylar-027",
+    "name": "Breylar",
+    "epithet": "The Berserker",
+    "bio": [
+      "Breylar, the Flamebound Berserker, is a god of raw strength and fury, forged in the volcanic pits of Elarion’s southernmost reaches. Wielding a molten hammer and adorned in scorched hide and ash-woven cloth, Breylar is the embodiment of untamed power. He speaks little, lets his roars echo across battlefields, and fights with a primal fire that scorches both enemy and earth alike. While feared by many, he is revered by warriors who seek to channel their rage into divine strength. His arrival is often marked by the ground cracking beneath his steps and the air igniting with his wrath. Forged in pain by Manus himself, Breylar serves as his creator's herald -- sent not to strike down Valerius's fellowship, but to test it, tempting them with the one question every rebellion eventually has to answer: what happens after the throne is empty?"
+    ],
+    "art": "art/breylar-027.jpg",
+    "source_page": 27,
+    "faction": "Manus's Rebellion",
+    "status": "Active",
+    "tags": [
+      "Warrior",
+      "Berserker"
+    ]
+  },
+  {
+    "slug": "desaad-007",
+    "name": "Desaad",
+    "epithet": "The Mad God",
+    "bio": [
+      "Obsessive. Detached. Brilliant — and broken. Desaad once ruled the skies with logic and perfection, but his mind cracked when the laws of nature began to bend under the will of mortals. Rather than relinquish control, he dove deeper into forbidden knowledge, seeking to reclaim lightning by becoming one with it. Now, his speech is fragmented, his laughter erratic, his fury unpredictable. But behind the madness lies brilliance.",
+      "Desaad was once the original god of lightning — majestic, respected, and instrumental in many of the gods’ victories. But when his power began to wane and mortals started harnessing storms through science, he became paranoid. In a failed ritual to amplify his control, he was struck by his own divine bolt — burning out a portion of his mind. The Pantheon replaced him with Ostheus, a younger god... and that betrayal pushed Desaad over the edge."
+    ],
+    "art": "art/desaad-007.jpg",
+    "source_page": 7,
+    "faction": "The Pantheon",
+    "status": "Active",
+    "tags": [
+      "God",
+      "Mad"
+    ]
+  },
+  {
+    "slug": "drexl-003",
+    "name": "Drexl",
+    "epithet": "The Blood God",
+    "bio": [
+      "Cold, composed, and ruthlessly principled, Drexl is the embodiment of divine punishment. He despises indulgence and hypocrisy — even among the gods. Though feared, he is not cruel. His sense of justice is absolute, his punishments proportionate, and his wrath reserved for those who truly deserve it. He speaks rarely, acts decisively, and tolerates no deviation from his moral code — no matter how noble the excuse.",
+      "Once Valdre’s greatest executioner, Drexl was tasked with delivering judgment across the realms. When gods fell to pride or corruption, Drexl was sent to “cleanse” them. Mortals prayed to him when justice failed them — and feared him when it came. Over time, however, he began to question why he alone upheld the law while others bent it. As the Pantheon frayed, Drexl distanced himself, watching from the edges… waiting for a reckoning.",
+      "Long after the Pantheon falls silent, another figure will carry the name Drexl into a very different age -- whether by blood, by title, or by something stranger, not even the gods agree."
+    ],
+    "art": "art/drexl-003.jpg",
+    "source_page": 3,
+    "faction": "The Pantheon",
+    "status": "Active",
+    "tags": [
+      "God",
+      "Judge"
+    ]
+  },
+  {
+    "slug": "eliegh-015",
+    "name": "Eliegh",
+    "epithet": "The Stone Knight",
+    "bio": [
+      "Eliegh, the Stone-Bound, was once nothing more than a mortal man who wandered too far into Ordovis's wilds and was changed by what he found there. Whether it was blessing or curse, even Eliegh isn't certain -- his flesh hardened like old bark, moss threading through his veins, roots answering his call as if they remembered him from some older life.",
+      "Where Valerius brings fire and conviction, Eliegh brings something slower and more patient: runes carved into stone with bare hands, roots summoned from the earth to entangle an enemy's legs mid-charge, a stillness that unsettles those expecting a warrior to be loud. He rarely speaks of what he saw in the wilds. When he does, it is only ever in a whisper, and only ever about roots that remember."
+    ],
+    "art": "art/eliegh-015.jpg",
+    "source_page": 15,
+    "faction": "Valerius's Fellowship",
+    "status": "Active",
+    "tags": [
+      "Mortal",
+      "Mystic"
+    ]
+  },
+  {
+    "slug": "enoch-028",
+    "name": "Enoch",
+    "epithet": "The First God",
+    "bio": [
+      "Enoch is not a god in the way Valdre or Drexl or even Manus are gods. Enoch is older than the word. Before Elarion had a sky or a sea, before the first divine hand shaped a river or raised a mountain, something already existed in the burning dark between what-was and what-would-be -- formless, hungry, and utterly indifferent to being worshipped, feared, or even named.",
+      "The gods did not defeat Enoch. They stole from it. Fire, form, purpose -- every god who ever raised a temple did so with something quietly taken from the thing they buried and never spoke of again. They called it Enoch exactly once, in the moment they sealed it beneath the world in a place they would later call the Hollow Below, and then they built an age of worship on top of the silence.",
+      "That silence ended the moment Manus took up a blade grown from Enoch's own bones. Enoch does not want dominion, and it does not want revenge -- wanting, in any way a god or mortal would recognize it, isn't something Enoch is capable of. It simply is, again, after an age of not being allowed to be."
+    ],
+    "art": "art/enoch-028.jpg",
+    "source_page": 28,
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Primordial",
+      "Ancient"
+    ]
+  },
+  {
+    "slug": "farron-009",
+    "name": "Farron",
+    "epithet": "The Death God",
+    "bio": [
+      "Unapologetically alive. Farron is brash, fearless, and infectiously charismatic — a warrior who lives to kill and jokes while doing it. To him, death is not a tragedy — it’s purpose, it’s freedom, it’s honest. He doesn’t romanticize war, but he never ran from it either. Despite his brutality, many soldiers followed him gladly; he didn’t lie about what they were.",
+      "Farron was once a mortal champion — undefeated in a hundred battles, cursed in a thousand ways. After slaying a minor god during a legendary duel, he was cursed with visions of every death he caused. Instead of running from the weight, he embraced it — wearing his guilt like armor. The gods, curious and fearful, elevated him. Some hoped it would calm him. Instead, it only sharpened him."
+    ],
+    "art": "art/farron-009.jpg",
+    "source_page": 9,
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "God",
+      "Death"
+    ]
+  },
+  {
+    "slug": "farron-010",
+    "name": "Farron",
+    "epithet": "The Death God",
+    "bio": [
+      "Silent. Detached. Inevitable. Death has stripped Farron of joy, sarcasm, and laughter. What remains is presence — heavy, cold, and absolute. He does not favor the wicked or the righteous. He does not weep for the innocent. He simply answers the call when it is time.",
+      "When the gods began falling, Farron became the force that ensured they stayed dead. Ascending fully into Death’s role, he abandoned his mortal name, becoming myth, shadow, and legend. It is said even the gods fear to speak his name — lest he appear behind them."
+    ],
+    "art": "art/farron-010.jpg",
+    "source_page": 10,
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "God",
+      "Death"
+    ]
+  },
+  {
+    "slug": "father-godskin-021",
+    "name": "Father Godskin",
+    "epithet": "The Corrupted Priest",
+    "bio": [
+      "Once a revered spiritual leader, Father Godskin now guides a zealous following under the guise of divine purpose. In truth, he twists ancient doctrine to serve his own ambitions, wielding holy fire and silver-tongued sermons to root out dissent. Though cloaked in white, his heart is soaked in gold and blood."
+    ],
+    "art": "art/father-godskin-021.jpg",
+    "source_page": 21,
+    "faction": "Deneath",
+    "status": "Active",
+    "tags": [
+      "Priest",
+      "Corrupted"
+    ]
+  },
+  {
+    "slug": "fleough-016",
+    "name": "Fleough",
+    "epithet": "The Lightning God",
+    "bio": [
+      "Fleough is the youngest of Valerius's fellowship, and the one who still carries the weight of unfinished belief. He wields Stormbite, a curved blade said to be kin to the one that broke Desaad -- a lineage Fleough neither asked for nor fully understands. Storm-touched from birth, lightning gathers faintly along his blade whenever his temper does.",
+      "Unlike his companions, Fleough doesn't fight because the gods failed him. He fights because he isn't sure yet whether they did -- he still remembers a time when the divine felt more like teachers than tyrants, and that memory makes him doubt Valerius's cause even as he stays loyal to it. Some say that doubt, carried far enough, is its own kind of lightning -- and that the storm in him is still only just beginning to gather."
+    ],
+    "art": "art/fleough-016.jpg",
+    "source_page": 16,
+    "faction": "Valerius's Fellowship",
+    "status": "Active",
+    "tags": [
+      "Mortal",
+      "Warrior"
+    ]
+  },
+  {
+    "slug": "gavinus-020",
+    "name": "Gavinus",
+    "epithet": "The Light God",
+    "bio": [
+      "Gavinus, son of Valdre, is the god of light in the way a wildfire is light -- brilliant, consuming, and entirely certain of its own righteousness. Where his father rules through patience and hierarchy, Gavinus rules through conviction: mortals who question the gods are not misguided to him, they are infected, and infection is something to be burned out rather than reasoned with.",
+      "It was Gavinus who first called for the Pantheon to extinguish mortal will after Manus's rebellion began, and Gavinus who walked alone onto the Ridge of Darnan to make an example of Valerius in front of gods and mortals alike. What he found there was a man who bled but did not kneel -- and, for the first time in his long existence, a wound of his own that would not simply heal on command. He was carried from that battlefield in a streak of gold and storm, humbled in front of the very mortals he had come to punish. The Pantheon has not seen him since, and no one -- not even Valdre -- will say aloud what that silence might mean."
+    ],
+    "art": "art/gavinus-020.jpg",
+    "source_page": 20,
+    "faction": "The Pantheon",
+    "status": "Active",
+    "tags": [
+      "God",
+      "Warrior"
+    ]
+  },
+  {
+    "slug": "lucious-022",
+    "name": "Lucious",
+    "epithet": "The False King",
+    "bio": [
+      "Ruler of Deneath and pretender to divinity, King Lucious is a manipulative figure cloaked in regal decorum. Behind his measured voice and calm gaze lies treachery — he secretly serves Lord Drexl, feeding his realm into darkness in exchange for power and longevity. He is the architect of false peace, and his true allegiance may yet tip the balance of the world."
+    ],
+    "art": "art/lucious-022.jpg",
+    "source_page": 22,
+    "faction": "Deneath",
+    "status": "Active",
+    "tags": [
+      "King",
+      "Corrupted"
+    ]
+  },
+  {
+    "slug": "manus-019",
+    "name": "Manus",
+    "epithet": "The Abyss",
+    "bio": [
+      "Manus was, before any of this, only a man -- a warlord who had buried a child the gods refused to save, and who walked into the mountains of Blackreach looking less for power than for an answer. What he found there was worse than silence: a temple of ash and bone that had waited, patiently, for someone exactly like him. At its center lay a blade that had not been forged so much as grown, and the moment his hand closed around the hilt, something in Manus that had been merely grieving became something else entirely.",
+      "He was the first mortal in memory to kill a god. None remember which one fell first -- only that it bled black and screamed, and that the balance of Elarion cracked in that instant and never fully closed again. Where Manus walks now, light withers and stone remembers pain; his skin has taken on the texture of cooled magma, his voice arriving before his mouth moves, as though spoken from somewhere behind the world rather than in front of it.",
+      "He does not think of himself as a villain, and neither do the outcasts and grieving mortals who have gathered beneath his banner and call him Savior. Manus does not want a throne. He wants a world where no god ever again gets to decide, quietly and from a distance, whose child lives and whose doesn't. Whether that makes him a liberator or the thing every prayer will one day warn against is a question even Manus no longer asks himself."
+    ],
+    "art": "art/manus-019.jpg",
+    "source_page": 19,
+    "faction": "Manus's Rebellion",
+    "status": "Active",
+    "tags": [
+      "Mortal",
+      "God-Slayer",
+      "Corrupted"
+    ]
+  },
+  {
+    "slug": "ordovis-025",
+    "name": "Ordovis",
+    "epithet": "The Soldier",
+    "bio": [
+      "Stoic. Devout. Noble. Ordovis is quiet like a forest before rain. Every movement carries purpose. He speaks in parables, favors stillness over wrath, but his anger — when earned — is like a forest fire. He values honor, protection, and the old oaths made between gods and mortals. Though his strength is vast, he rarely uses it — for him, violence is not sport but a tragic necessity.",
+      "Ordovis was once a mortal knight — the Ironhorn — a war-hardened general who fought for the gods during the earliest divine conflicts. His loyalty was unmatched… until he saw the gods turn on each other and corrupt the world they swore to preserve. Disillusioned, he vanished into the wilds.",
+      "There, something ancient answered his sorrow — and grew from it. The forest did not reject him. It claimed him. In time, Ordovis ascended not through conquest, but through guardianship. He became the Tree God — protector of the wilds, the forgotten places, and the old magic that predates the gods themselves."
+    ],
+    "art": "art/ordovis-025.jpg",
+    "source_page": 25,
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Guardian",
+      "Nature"
+    ]
+  },
+  {
+    "slug": "ordovis-026",
+    "name": "Ordovis",
+    "epithet": "The Tree God",
+    "bio": [
+      "Stoic. Devout. Noble. Ordovis is quiet like a forest before rain. Every movement carries purpose. He speaks in parables, favors stillness over wrath, but his anger — when earned — is like a forest fire. He values honor, protection, and the old oaths made between gods and mortals. Though his strength is vast, he rarely uses it — for him, violence is not sport but a tragic necessity.",
+      "Ordovis was once a mortal knight — the Ironhorn — a war-hardened general who fought for the gods during the earliest divine conflicts. His loyalty was unmatched… until he saw the gods turn on each other and corrupt the world they swore to preserve. Disillusioned, he vanished into the wilds.",
+      "There, something ancient answered his sorrow — and grew from it. The forest did not reject him. It claimed him. In time, Ordovis ascended not through conquest, but through guardianship. He became the Tree God — protector of the wilds, the forgotten places, and the old magic that predates the gods themselves."
+    ],
+    "art": "art/ordovis-026.jpg",
+    "source_page": 26,
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Guardian",
+      "Nature"
+    ]
+  },
+  {
+    "slug": "orion-005",
+    "name": "Orion",
+    "epithet": "The Blight God",
+    "bio": [
+      "Soft-spoken. Regretful. Isolated. Orion is perhaps the most tragic of the gods — he was once a lover of wild things, a god of blooming forests and wandering beasts. But a divine curse corrupted him, turning his life-giving presence into one of death and rot. He avoids others, fearing what his aura will do to them. He speaks rarely, but when he does, his voice carries sorrow... and wisdom.",
+      "Orion’s fall was not due to ambition or rage, but by accident. In a battle long ago, he was struck by a cursed weapon forged by Serosh — one designed to unravel the spirit. Though he survived, his divine nature warped. The green things he once nurtured now die in his shadow. Once a companion of Ordovis and Reign, he wandered deep into the dying lands to contain himself, earning him the title “The Blight God” from those who only saw what he left behind."
+    ],
+    "art": "art/orion-005.jpg",
+    "source_page": 5,
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "God",
+      "Tragic"
+    ]
+  },
+  {
+    "slug": "ostheus-012",
+    "name": "Ostheus",
+    "epithet": "The Lightning God",
+    "bio": [
+      "Boisterous. Bold. Recklessly heroic. Ostheus believes in the now — that glory is taken, not inherited. He loves mortals who challenge gods, and despises inaction. He’s the kind of god who leaps into a battle with a joke, a roar, and lightning already building in his chest. While charming, he’s also impatient and explosive — a storm of victory and destruction.",
+      "After Desaad’s fall, Ostheus was chosen by the gods to embody the new storm — controlled chaos rather than divine wrath. He soared through battles, led skies against invading forces, and was loved by warriors and peasants alike. But deep down, he wonders if he earned his title — or merely replaced someone who still holds a spark of power. His laugh masks uncertainty."
+    ],
+    "art": "art/ostheus-012.jpg",
+    "source_page": 12,
+    "faction": "The Pantheon",
+    "status": "Active",
+    "tags": [
+      "God",
+      "Warrior"
+    ]
+  },
+  {
+    "slug": "radeem-004",
+    "name": "Radeem",
+    "epithet": "The War God",
+    "bio": [
+      "Pragmatic, blunt, and fiercely independent, Radeem has little patience for politics or peace. He is not cruel, but he finds purpose only in struggle. War is the natural state of things, he believes — it reveals truth, exposes weakness, and forges strength. Though he once served Valdre loyally, he grew tired of the elder god’s obsession with control and harmony.",
+      "Born from the first clash of titans, Radeem rose quickly through the divine ranks. He forged peace through dominance, won worship through victory, and mentored many younger gods in battle. But over time, the lack of conflict dulled him. With no worthy wars left to fight, he began provoking them — subtly at first, then more openly."
+    ],
+    "art": "art/radeem-004.jpg",
+    "source_page": 4,
+    "faction": "The Pantheon",
+    "status": "Active",
+    "tags": [
+      "God",
+      "Warrior"
+    ]
+  },
+  {
+    "slug": "reign-008",
+    "name": "Reign",
+    "epithet": "The Beast God",
+    "bio": [
+      "Silent. Unyielding. Honorable. Reign doesn’t speak — not because he can’t, but because he chooses not to. He believes words are too easily twisted. His presence is law; his actions speak for his beliefs. Reign is ruled by instinct and morality in equal measure — the wild and the noble. Though feared by many, he is not cruel — he punishes transgression, protects the natural order, and seeks peace that can only be earned.",
+      "Born of the wild — not sky nor flame — Reign is the oldest of the physical gods. He was not made but awakened, forged in the heart of nature’s fury. When the gods first took dominion over mortals, Reign stood apart — watching, testing, and judging. When they began to betray their own oaths, he was the first to strike one of them down. Since then, he has roamed battlefields, sacred woods, and forgotten temples, keeping balance through bloodshed.",
+      "Whether this Reign is myth, ancestor, or something stranger to the man who will carry the same name generations later, in the age of Valkorath, is not a question Elarion has an answer for -- only that the name, once spoken by something this old, rarely stays buried."
+    ],
+    "art": "art/reign-008.jpg",
+    "source_page": 8,
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "God",
+      "Beast"
+    ]
+  },
+  {
+    "slug": "renfry-018",
+    "name": "Renfry",
+    "epithet": "The Fire God",
+    "bio": [
+      "Renfry is a blazing warrior whose rage fuels his strength. Known for his fiery red hair and golden armor, he is both a symbol of war and an uncontrollable force of vengeance. Though once an honorable general, he now walks the battlefield consumed by wrath, wielding flame not as a tool of justice, but of destruction."
+    ],
+    "art": "art/renfry-018.jpg",
+    "source_page": 18,
+    "faction": "Deneath",
+    "status": "Active",
+    "tags": [
+      "Warrior",
+      "Templar"
+    ]
+  },
+  {
+    "slug": "serosh-006",
+    "name": "Serosh",
+    "epithet": "The Fell God",
+    "bio": [
+      "Once visionary, now vainglorious. Serosh believes he should have led the Pantheon — that he alone foresaw the decline of the gods, and that mortals were the true path to survival. When no one listened, he took matters into his own hands. He is charismatic, manipulative, and devastatingly intelligent. To him, exile was liberation. He does not seek redemption — only vindication.",
+      "Serosh was once the god of prophecy and divine right. He saw the gods stagnating, the mortals rising, and the balance tipping toward collapse. When he proposed harnessing mortal belief to rewrite divine law, the other gods rejected him — violently. Cast out and branded a heretic, he vanished for centuries… only to return with a secret cult, a new ideology, and power far beyond what he once wielded.",
+      "His worshippers — mortal and divine alike — form the Cult of the Red Flame, a hidden order who believe that only through Serosh can the universe be reborn."
+    ],
+    "art": "art/serosh-006.jpg",
+    "source_page": 6,
+    "faction": "Cult of the Red Flame",
+    "status": "Active",
+    "tags": [
+      "God",
+      "Manipulator"
+    ]
+  },
+  {
+    "slug": "the-dark-one-023",
+    "name": "The Dark One",
+    "epithet": "",
+    "bio": [
+      "He speaks not, yet all feel his presence. Cloaked in silence and",
+      "shadow, the Dark One’s origins are unknown, his purpose unclear. He does not lead armies nor claim dominion, yet kings and gods alike fear his gaze. Wherever he walks, the world forgets the light."
+    ],
+    "art": "art/the-dark-one-023.jpg",
+    "source_page": 23,
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Enigma"
+    ]
+  },
+  {
+    "slug": "thor-024",
+    "name": "Thor",
+    "epithet": "The Thunder God",
+    "bio": [
+      "From a realm beyond Valkorath, Thor arrives not as a savior, but as a challenger. Wielding his mythic hammer and braided binding rope, he seeks out worthy foes among gods and men alike — not for conquest, but for the thrill of combat. Boisterous, brutal, and bound by a warrior’s code, Thor respects strength above all. His clash with Ostheus, the lightning-born berserker of Valkorath, is destined to shake the skies."
+    ],
+    "art": "art/thor-024.jpg",
+    "source_page": 24,
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "God",
+      "Visitor"
+    ]
+  },
+  {
+    "slug": "tiavoss-014",
+    "name": "Tiavoss",
+    "epithet": "The Fierce Mortal",
+    "bio": [
+      "Tiavoss, the Iron-Clad Warden, was once among Gavinus's most devoted knights -- a soldier who bled for the god of light without question, until the day his devotion was answered with fire instead of grace. A scar coils across his chest where Gavinus very nearly burned him alive, a wound Tiavoss has never spoken of, not once, not even to those closest to him.",
+      "He fights now at Valerius's side, not as a zealot trading one banner for another, but as a man who has learned to trust his own hands more than any god's word. Steady where others break, he anchors the line in every battle -- and just as often anchors Valerius himself, reminding him, quietly and without ceremony, to stay a man even as the fire around him starts to feel like home."
+    ],
+    "art": "art/tiavoss-014.jpg",
+    "source_page": 14,
+    "faction": "Valerius's Fellowship",
+    "status": "Active",
+    "tags": [
+      "Mortal",
+      "Warrior"
+    ]
+  },
+  {
+    "slug": "valdre-002",
+    "name": "Valdre",
+    "epithet": "The Elder God",
+    "bio": [
+      "Wise, authoritative, and seemingly benevolent, Valdre is the architect of divine order and the father-figure to the gods. He believes deeply in structure, hierarchy, and the divine right of gods to rule over mortals. Though revered for his fairness, he is also inflexible — slow to change and quick to silence dissent in the name of balance.",
+      "Valdre was the first to rise from the cosmic void, forming the Pantheon and setting laws over creation. He raised the other gods, mentored them, and led with strength through countless eras. But as the world changed and mortals evolved, Valdre remained fixated on divine rule. His refusal to adapt — and his disdain for mortal independence — planted the seeds of rebellion."
+    ],
+    "art": "art/valdre-002.jpg",
+    "source_page": 2,
+    "faction": "The Pantheon",
+    "status": "Active",
+    "tags": [
+      "God",
+      "Leader"
+    ]
+  },
+  {
+    "slug": "valerius-013",
+    "name": "Valerius",
+    "epithet": "The Defiant Mortal",
+    "bio": [
+      "Valerius is a force of nature. Righteous but flawed, courageous but burdened, he is a man constantly at war — not just with the gods, but with doubt, duty, and the weight of destiny. He refuses to kneel, not out of pride, but out of belief: that mortals deserve the right to shape their own future. Fiercely loyal to his men, compassionate toward the innocent, and relentless against the divine, Valerius is the heart of the rebellion.",
+      "A decorated soldier turned reluctant rebel, Valerius began as a champion of the gods — until he saw firsthand the suffering they allowed, and the rot within their ranks. After refusing to carry out an order from Radeem that would have massacred innocents, he was cast out — and became a symbol of resistance. Over time, he gathered a platoon of mortals, demi-gods, and god-broken outcasts, all united under one cause: the fall of the Pantheon.",
+      "Generations later, in the age of Valkorath, a king will carry this same name and grapple with a strikingly similar question: what a mortal owes a crown he never asked to wear."
+    ],
+    "art": "art/valerius-013.jpg",
+    "source_page": 13,
+    "faction": "Valerius's Fellowship",
+    "status": "Active",
+    "tags": [
+      "Mortal",
+      "Rebel",
+      "Leader"
+    ]
+  }
+]

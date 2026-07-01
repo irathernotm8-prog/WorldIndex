@@ -1,0 +1,16 @@
+{
+  "slug": "lucious-022",
+  "name": "Lucious",
+  "epithet": "The False King",
+  "bio": [
+    "Ruler of Deneath and pretender to divinity, King Lucious is a manipulative figure cloaked in regal decorum. Behind his measured voice and calm gaze lies treachery — he secretly serves Lord Drexl, feeding his realm into darkness in exchange for power and longevity. He is the architect of false peace, and his true allegiance may yet tip the balance of the world."
+  ],
+  "art": "art/lucious-022.jpg",
+  "source_page": 22,
+  "faction": "Deneath",
+  "status": "Active",
+  "tags": [
+    "King",
+    "Corrupted"
+  ]
+}

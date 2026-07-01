@@ -1,0 +1,17 @@
+{
+  "slug": "fleough-016",
+  "name": "Fleough",
+  "epithet": "The Lightning God",
+  "bio": [
+    "Fleough is the youngest of Valerius's fellowship, and the one who still carries the weight of unfinished belief. He wields Stormbite, a curved blade said to be kin to the one that broke Desaad -- a lineage Fleough neither asked for nor fully understands. Storm-touched from birth, lightning gathers faintly along his blade whenever his temper does.",
+    "Unlike his companions, Fleough doesn't fight because the gods failed him. He fights because he isn't sure yet whether they did -- he still remembers a time when the divine felt more like teachers than tyrants, and that memory makes him doubt Valerius's cause even as he stays loyal to it. Some say that doubt, carried far enough, is its own kind of lightning -- and that the storm in him is still only just beginning to gather."
+  ],
+  "art": "art/fleough-016.jpg",
+  "source_page": 16,
+  "faction": "Valerius's Fellowship",
+  "status": "Active",
+  "tags": [
+    "Mortal",
+    "Warrior"
+  ]
+}

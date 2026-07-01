@@ -1,0 +1,17 @@
+{
+  "slug": "farron-009",
+  "name": "Farron",
+  "epithet": "The Death God",
+  "bio": [
+    "Unapologetically alive. Farron is brash, fearless, and infectiously charismatic — a warrior who lives to kill and jokes while doing it. To him, death is not a tragedy — it’s purpose, it’s freedom, it’s honest. He doesn’t romanticize war, but he never ran from it either. Despite his brutality, many soldiers followed him gladly; he didn’t lie about what they were.",
+    "Farron was once a mortal champion — undefeated in a hundred battles, cursed in a thousand ways. After slaying a minor god during a legendary duel, he was cursed with visions of every death he caused. Instead of running from the weight, he embraced it — wearing his guilt like armor. The gods, curious and fearful, elevated him. Some hoped it would calm him. Instead, it only sharpened him."
+  ],
+  "art": "art/farron-009.jpg",
+  "source_page": 9,
+  "faction": "Unaligned",
+  "status": "Active",
+  "tags": [
+    "God",
+    "Death"
+  ]
+}

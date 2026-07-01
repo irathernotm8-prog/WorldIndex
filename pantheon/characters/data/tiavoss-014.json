@@ -1,0 +1,17 @@
+{
+  "slug": "tiavoss-014",
+  "name": "Tiavoss",
+  "epithet": "The Fierce Mortal",
+  "bio": [
+    "Tiavoss, the Iron-Clad Warden, was once among Gavinus's most devoted knights -- a soldier who bled for the god of light without question, until the day his devotion was answered with fire instead of grace. A scar coils across his chest where Gavinus very nearly burned him alive, a wound Tiavoss has never spoken of, not once, not even to those closest to him.",
+    "He fights now at Valerius's side, not as a zealot trading one banner for another, but as a man who has learned to trust his own hands more than any god's word. Steady where others break, he anchors the line in every battle -- and just as often anchors Valerius himself, reminding him, quietly and without ceremony, to stay a man even as the fire around him starts to feel like home."
+  ],
+  "art": "art/tiavoss-014.jpg",
+  "source_page": 14,
+  "faction": "Valerius's Fellowship",
+  "status": "Active",
+  "tags": [
+    "Mortal",
+    "Warrior"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "eliegh-015",
+  "name": "Eliegh",
+  "epithet": "The Stone Knight",
+  "bio": [
+    "Eliegh, the Stone-Bound, was once nothing more than a mortal man who wandered too far into Ordovis's wilds and was changed by what he found there. Whether it was blessing or curse, even Eliegh isn't certain -- his flesh hardened like old bark, moss threading through his veins, roots answering his call as if they remembered him from some older life.",
+    "Where Valerius brings fire and conviction, Eliegh brings something slower and more patient: runes carved into stone with bare hands, roots summoned from the earth to entangle an enemy's legs mid-charge, a stillness that unsettles those expecting a warrior to be loud. He rarely speaks of what he saw in the wilds. When he does, it is only ever in a whisper, and only ever about roots that remember."
+  ],
+  "art": "art/eliegh-015.jpg",
+  "source_page": 15,
+  "faction": "Valerius's Fellowship",
+  "status": "Active",
+  "tags": [
+    "Mortal",
+    "Mystic"
+  ]
+}

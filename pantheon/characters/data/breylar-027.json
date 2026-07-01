@@ -1,0 +1,16 @@
+{
+  "slug": "breylar-027",
+  "name": "Breylar",
+  "epithet": "The Berserker",
+  "bio": [
+    "Breylar, the Flamebound Berserker, is a god of raw strength and fury, forged in the volcanic pits of Elarion’s southernmost reaches. Wielding a molten hammer and adorned in scorched hide and ash-woven cloth, Breylar is the embodiment of untamed power. He speaks little, lets his roars echo across battlefields, and fights with a primal fire that scorches both enemy and earth alike. While feared by many, he is revered by warriors who seek to channel their rage into divine strength. His arrival is often marked by the ground cracking beneath his steps and the air igniting with his wrath. Forged in pain by Manus himself, Breylar serves as his creator's herald -- sent not to strike down Valerius's fellowship, but to test it, tempting them with the one question every rebellion eventually has to answer: what happens after the throne is empty?"
+  ],
+  "art": "art/breylar-027.jpg",
+  "source_page": 27,
+  "faction": "Manus's Rebellion",
+  "status": "Active",
+  "tags": [
+    "Warrior",
+    "Berserker"
+  ]
+}

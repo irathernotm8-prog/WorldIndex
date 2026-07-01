@@ -1,0 +1,18 @@
+{
+  "slug": "ordovis-025",
+  "name": "Ordovis",
+  "epithet": "The Soldier",
+  "bio": [
+    "Stoic. Devout. Noble. Ordovis is quiet like a forest before rain. Every movement carries purpose. He speaks in parables, favors stillness over wrath, but his anger — when earned — is like a forest fire. He values honor, protection, and the old oaths made between gods and mortals. Though his strength is vast, he rarely uses it — for him, violence is not sport but a tragic necessity.",
+    "Ordovis was once a mortal knight — the Ironhorn — a war-hardened general who fought for the gods during the earliest divine conflicts. His loyalty was unmatched… until he saw the gods turn on each other and corrupt the world they swore to preserve. Disillusioned, he vanished into the wilds.",
+    "There, something ancient answered his sorrow — and grew from it. The forest did not reject him. It claimed him. In time, Ordovis ascended not through conquest, but through guardianship. He became the Tree God — protector of the wilds, the forgotten places, and the old magic that predates the gods themselves."
+  ],
+  "art": "art/ordovis-025.jpg",
+  "source_page": 25,
+  "faction": "Unaligned",
+  "status": "Active",
+  "tags": [
+    "Guardian",
+    "Nature"
+  ]
+}

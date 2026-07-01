@@ -1,0 +1,17 @@
+{
+  "slug": "orion-005",
+  "name": "Orion",
+  "epithet": "The Blight God",
+  "bio": [
+    "Soft-spoken. Regretful. Isolated. Orion is perhaps the most tragic of the gods — he was once a lover of wild things, a god of blooming forests and wandering beasts. But a divine curse corrupted him, turning his life-giving presence into one of death and rot. He avoids others, fearing what his aura will do to them. He speaks rarely, but when he does, his voice carries sorrow... and wisdom.",
+    "Orion’s fall was not due to ambition or rage, but by accident. In a battle long ago, he was struck by a cursed weapon forged by Serosh — one designed to unravel the spirit. Though he survived, his divine nature warped. The green things he once nurtured now die in his shadow. Once a companion of Ordovis and Reign, he wandered deep into the dying lands to contain himself, earning him the title “The Blight God” from those who only saw what he left behind."
+  ],
+  "art": "art/orion-005.jpg",
+  "source_page": 5,
+  "faction": "Unaligned",
+  "status": "Active",
+  "tags": [
+    "God",
+    "Tragic"
+  ]
+}

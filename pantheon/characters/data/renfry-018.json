@@ -1,0 +1,16 @@
+{
+  "slug": "renfry-018",
+  "name": "Renfry",
+  "epithet": "The Fire God",
+  "bio": [
+    "Renfry is a blazing warrior whose rage fuels his strength. Known for his fiery red hair and golden armor, he is both a symbol of war and an uncontrollable force of vengeance. Though once an honorable general, he now walks the battlefield consumed by wrath, wielding flame not as a tool of justice, but of destruction."
+  ],
+  "art": "art/renfry-018.jpg",
+  "source_page": 18,
+  "faction": "Deneath",
+  "status": "Active",
+  "tags": [
+    "Warrior",
+    "Templar"
+  ]
+}

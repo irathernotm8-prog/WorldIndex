@@ -1,0 +1,17 @@
+{
+  "slug": "andromedus-017",
+  "name": "Andromedus",
+  "epithet": "The Enigma",
+  "bio": [
+    "No one in Elarion can say where Andromedus comes from, only that he arrived the same way lightning does -- a crack in the sky that shouldn't have been possible, and then simply a presence standing where nothing had stood before. He is not made of flesh in any way the gods or mortals understand; his eyes hold no pupils, only slow-turning galaxies, and he does not so much walk as allow the ground to exist beneath him.",
+    "He does not command armies, and he has never claimed a throne. What loyalty he offers to Valerius seems less about cause and more about curiosity -- Andromedus watches him the way one watches a fuse burning toward something enormous. His warnings are never simple. He speaks of two paths carried in Valerius's blood: one that leads to a crown, and one that leads to the end of all names. He has not yet said which path is which."
+  ],
+  "art": "art/andromedus-017.jpg",
+  "source_page": 17,
+  "faction": "Valerius's Fellowship",
+  "status": "Active",
+  "tags": [
+    "Enigma",
+    "Cosmic"
+  ]
+}

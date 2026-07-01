@@ -1,0 +1,17 @@
+{
+  "slug": "gavinus-020",
+  "name": "Gavinus",
+  "epithet": "The Light God",
+  "bio": [
+    "Gavinus, son of Valdre, is the god of light in the way a wildfire is light -- brilliant, consuming, and entirely certain of its own righteousness. Where his father rules through patience and hierarchy, Gavinus rules through conviction: mortals who question the gods are not misguided to him, they are infected, and infection is something to be burned out rather than reasoned with.",
+    "It was Gavinus who first called for the Pantheon to extinguish mortal will after Manus's rebellion began, and Gavinus who walked alone onto the Ridge of Darnan to make an example of Valerius in front of gods and mortals alike. What he found there was a man who bled but did not kneel -- and, for the first time in his long existence, a wound of his own that would not simply heal on command. He was carried from that battlefield in a streak of gold and storm, humbled in front of the very mortals he had come to punish. The Pantheon has not seen him since, and no one -- not even Valdre -- will say aloud what that silence might mean."
+  ],
+  "art": "art/gavinus-020.jpg",
+  "source_page": 20,
+  "faction": "The Pantheon",
+  "status": "Active",
+  "tags": [
+    "God",
+    "Warrior"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "farron-010",
+  "name": "Farron",
+  "epithet": "The Death God",
+  "bio": [
+    "Silent. Detached. Inevitable. Death has stripped Farron of joy, sarcasm, and laughter. What remains is presence — heavy, cold, and absolute. He does not favor the wicked or the righteous. He does not weep for the innocent. He simply answers the call when it is time.",
+    "When the gods began falling, Farron became the force that ensured they stayed dead. Ascending fully into Death’s role, he abandoned his mortal name, becoming myth, shadow, and legend. It is said even the gods fear to speak his name — lest he appear behind them."
+  ],
+  "art": "art/farron-010.jpg",
+  "source_page": 10,
+  "faction": "Unaligned",
+  "status": "Active",
+  "tags": [
+    "God",
+    "Death"
+  ]
+}

@@ -19,7 +19,9 @@ Valkorath-World/
 ├── story/
 │   └── valkorath-story.md    ← Valkorath's full narrative, chapter by chapter
 ├── pantheon/
-│   └── index.html            ← placeholder page (story set before Valkorath)
+│   ├── catalog/index.html    ← Pantheon's interactive character browser
+│   ├── characters/           ← same layout as Valkorath's (catalog.json, data/, art/)
+│   └── story/pantheon-story.md
 ├── blade-of-honor/
 │   └── index.html            ← placeholder page (story set after Valkorath)
 └── centennial/
@@ -27,10 +29,34 @@ Valkorath-World/
 ```
 
 The landing page (`index.html`) is the front door to the whole universe — it links out to
-Valkorath's catalog and to the three not-yet-built stories. Each of those three currently
-just has a simple "coming soon" placeholder page; when you're ready to build one out, it'll
-follow the same pattern as Valkorath (its own `catalog/`, `characters/`, and `story/`
-folders sitting inside that story's own directory).
+each story. Valkorath and Pantheon are both live now; Blade of Honor and Centennial are
+still simple "coming soon" placeholder pages. When you're ready to build one of those out,
+it'll follow the same pattern as the other two (its own `catalog/`, `characters/`, and
+`story/` folders sitting inside that story's own directory).
+
+The rebuild script now works for any story:
+
+```bash
+python3 scripts/build_catalog.py            # rebuilds Valkorath (default)
+python3 scripts/build_catalog.py pantheon    # rebuilds Pantheon
+```
+
+## About Pantheon
+
+27 characters, extracted the same way as Valkorath: pulled from the visual-dictionary PDF,
+cross-referenced against the actual story (14 chapters so far, ending mid-arc — Pantheon
+is a story in progress, same as Valkorath was).
+
+A handful of characters had little or no bio in the source PDF (Tiavoss, Eliegh, Fleough,
+Manus, Enoch) or had one that was mistakenly copy-pasted from an unrelated source (Gavinus's
+bio was actually Valkorath's Reign bio, left over from an earlier draft) — those were
+rewritten from scratch, grounded in what the story actually establishes about them, and
+matched to the tone of the rest of the cast. Andromedus's one-line placeholder was expanded
+the same way. Worth a read-through to confirm these land the way you intended.
+
+Three characters -- Reign, Drexl, and Valerius -- share names with major Valkorath
+characters. The bios note this as an intentional echo across ages without asserting exactly
+how they're connected, since that's very much your call to make.
 
 ## Viewing it
 

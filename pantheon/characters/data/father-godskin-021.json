@@ -1,0 +1,16 @@
+{
+  "slug": "father-godskin-021",
+  "name": "Father Godskin",
+  "epithet": "The Corrupted Priest",
+  "bio": [
+    "Once a revered spiritual leader, Father Godskin now guides a zealous following under the guise of divine purpose. In truth, he twists ancient doctrine to serve his own ambitions, wielding holy fire and silver-tongued sermons to root out dissent. Though cloaked in white, his heart is soaked in gold and blood."
+  ],
+  "art": "art/father-godskin-021.jpg",
+  "source_page": 21,
+  "faction": "Deneath",
+  "status": "Active",
+  "tags": [
+    "Priest",
+    "Corrupted"
+  ]
+}
