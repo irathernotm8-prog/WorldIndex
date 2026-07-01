@@ -44,6 +44,27 @@ python3 scripts/build_catalog.py blade-of-honor   # rebuilds Blade of Honor
 python3 scripts/build_catalog.py centennial       # rebuilds Centennial
 ```
 
+## Faction realignment (from the character roster doc)
+
+You provided a full character roster with definitive affiliations, and it was a big
+upgrade over the story-inferred guesses from before -- **45 characters got corrected**
+faction assignments as a result, including a few clear miscategorizations (Kleon was
+wrongly filed under Drexl's Forces; Sir Tyrus, Sir Aldric, and Lady Valeria were wrongly
+under Hidden Holy Order instead of the Valkorath Crown; Aegen and Priest David were under
+Last Bastion instead of Hidden Holy Order).
+
+New faction categories came out of this pass to match your roster's own structure:
+**Sanctum of Aetheris** (Liora, Umbros, Aetheris), **Templar Order** (Baldric, Alaric,
+Frenry), **Titans** (Zornath, Corthos), and **Challenge of Rights** (the 15 characters tied
+to that specific trial -- Tendo, Hythm, Kazadar, Decker, Dreyfus's Hell incarnation, Moltar,
+Ganador, Patchwork, Caladan, both Landis cards, Helmut, Karethos, Axeon, and Chrieser). "The
+Kabal" was renamed **Black Kabal** to match your document's own terminology.
+
+Three characters from your roster aren't in the catalog yet because there's no art or
+source page for them to pull from: **Saeve** (Alexis's mother), **Silas** (Shattered Vale
+rogue mage), and the cosmic overseer **Death**. If you add visual-dictionary pages for
+them later, they'll slot into this same pipeline.
+
 ## About Pantheon
 
 27 characters, extracted the same way as Valkorath: pulled from the visual-dictionary PDF,
