@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Valkorath Universe</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&family=Spectral:ital,wght@0,400;0,500;0,600;1,400&family=Spectral+SC:wght@500&display=swap');
+
+  :root {
+    --bg: #0c0a10;
+    --bg-panel: #15121a;
+    --bg-card: #1b1722;
+    --hairline: #2c2733;
+    --gold: #d8b369;
+    --gold-dim: #8a7245;
+    --shadow-violet: #7a4fb5;
+    --ink: #e9e2d4;
+    --ink-dim: #a89e8e;
+    --ink-faint: #6e6557;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    font-family: 'Spectral', serif;
+    background: radial-gradient(ellipse 120% 80% at 50% -10%, #1c1624 0%, var(--bg) 55%);
+    color: var(--ink);
+    min-height: 100%;
+  }
+
+  .header { padding: 64px 24px 40px; text-align: center; position: relative; border-bottom: 1px solid var(--hairline); }
+  .header::before {
+    content: ''; position: absolute; top: 0; left: 50%; transform: translateX(-50%);
+    width: 1px; height: 28px; background: linear-gradient(to bottom, transparent, var(--gold-dim));
+  }
+  .eyebrow {
+    font-family: 'Spectral SC', serif; letter-spacing: 0.35em; font-size: 11px;
+    color: var(--shadow-violet); text-transform: uppercase; margin-bottom: 14px;
+  }
+  h1 {
+    font-family: 'Cinzel', serif; font-size: clamp(38px, 7vw, 62px); font-weight: 900;
+    letter-spacing: 0.06em;
+    background: linear-gradient(180deg, #f3e3b8 0%, var(--gold) 45%, #9d7e3e 100%);
+    -webkit-background-clip: text; background-clip: text; color: transparent;
+    margin: 0; line-height: 1.1;
+  }
+  .subtitle { font-style: italic; color: var(--ink-dim); font-size: 15px; margin-top: 10px; }
+  .divider { display: flex; align-items: center; gap: 14px; max-width: 320px; margin: 22px auto 0; }
+  .divider span { flex: 1; height: 1px; background: linear-gradient(to right, transparent, var(--hairline)); }
+  .divider span.r { background: linear-gradient(to left, transparent, var(--hairline)); }
+  .divider svg { width: 14px; height: 14px; color: var(--gold-dim); flex-shrink: 0; }
+
+  .timeline {
+    max-width: 900px; margin: 0 auto;
+    padding: 48px 24px 12px;
+    text-align: center;
+  }
+  .timeline-label {
+    font-family: 'Spectral SC', serif; font-size: 11px; letter-spacing: 0.2em;
+    text-transform: uppercase; color: var(--ink-faint); margin-bottom: 28px;
+  }
+
+  .stories {
+    max-width: 1080px; margin: 0 auto; padding: 0 24px 90px;
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 20px;
+  }
+
+  .story-card {
+    background: var(--bg-card);
+    border: 1px solid var(--hairline);
+    border-radius: 6px;
+    padding: 30px 24px;
+    text-decoration: none;
+    color: inherit;
+    position: relative;
+    display: flex; flex-direction: column; align-items: center; text-align: center;
+    transition: transform 0.22s ease, border-color 0.22s ease, box-shadow 0.22s ease;
+  }
+  .story-card.live:hover {
+    transform: translateY(-4px);
+    border-color: var(--gold-dim);
+    box-shadow: 0 12px 32px -12px rgba(0,0,0,0.6), 0 0 0 1px var(--gold-dim);
+  }
+  .story-card.soon {
+    cursor: default;
+    opacity: 0.55;
+  }
+  .story-card.soon:hover { opacity: 0.75; }
+
+  .story-era {
+    font-family: 'Spectral SC', serif; font-size: 10px; letter-spacing: 0.14em;
+    text-transform: uppercase; color: var(--shadow-violet); margin-bottom: 10px;
+  }
+  .story-name {
+    font-family: 'Cinzel', serif; font-weight: 700; font-size: 22px; color: var(--ink);
+    letter-spacing: 0.02em;
+  }
+  .story-status {
+    margin-top: 14px;
+    font-family: 'Spectral SC', serif; font-size: 10px; letter-spacing: 0.12em;
+    text-transform: uppercase;
+    padding: 5px 12px; border-radius: 3px;
+    border: 1px solid var(--hairline);
+  }
+  .story-card.live .story-status { color: var(--gold); border-color: var(--gold-dim); }
+  .story-card.soon .story-status { color: var(--ink-faint); }
+
+  .footer {
+    text-align: center; padding: 0 24px 50px;
+    color: var(--ink-faint); font-size: 12px; font-style: italic;
+  }
+</style>
+</head>
+<body>
+
+  <div class="header">
+    <div class="eyebrow">A World Across Ages</div>
+    <h1>THE VALKORATH UNIVERSE</h1>
+    <div class="subtitle">Four stories, one world, spanning ages past to the present day</div>
+    <div class="divider">
+      <span></span>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M12 2 L14 10 L22 12 L14 14 L12 22 L10 14 L2 12 L10 10 Z"/></svg>
+      <span class="r"></span>
+    </div>
+  </div>
+
+  <div class="timeline">
+    <div class="timeline-label">Chronological Order</div>
+  </div>
+
+  <div class="stories">
+    <a class="story-card soon" href="pantheon/">
+      <div class="story-era">Before Valkorath</div>
+      <div class="story-name">Pantheon</div>
+      <div class="story-status">Coming Soon</div>
+    </a>
+
+    <a class="story-card live" href="catalog/">
+      <div class="story-era">The Founding War</div>
+      <div class="story-name">Valkorath</div>
+      <div class="story-status">119 Characters</div>
+    </a>
+
+    <a class="story-card soon" href="blade-of-honor/">
+      <div class="story-era">After Valkorath</div>
+      <div class="story-name">Blade of Honor</div>
+      <div class="story-status">Coming Soon</div>
+    </a>
+
+    <a class="story-card soon" href="centennial/">
+      <div class="story-era">After Valkorath</div>
+      <div class="story-name">Centennial</div>
+      <div class="story-status">Coming Soon</div>
+    </a>
+  </div>
+
+  <div class="footer">Click a story to explore its world &middot; more chapters added as they're written</div>
+
+</body>
+</html>
