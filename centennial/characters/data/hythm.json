@@ -1,0 +1,16 @@
+{
+  "slug": "hythm",
+  "name": "Hythm",
+  "epithet": "The King Who Walked Away",
+  "faction": "Unaligned",
+  "status": "Active",
+  "tags": [
+    "Immortal",
+    "Amnesiac"
+  ],
+  "bio": [
+    "Hythm has lived many lives, though as of recently he can't remember any of them. He had his memories sealed away with his crown, then gave that crown to Aluccard -- he could no longer bear the pain of living forever, and would rather live as a mortal, treating every day as though it could be his last.",
+    "That's what he told himself, at least. When Aluccard finds him, what he sees is a depressed man with a crippling gambling addiction. Aluccard offers him the crown, and his old memories along with it, but the mortal-minded Hythm rejects the notion entirely and asks his old friend to leave. Aluccard knows Hythm may still be a target regardless -- and he can't stand by and watch a friend be murdered, wanted or not."
+  ],
+  "art": "art/hythm.jpg"
+}

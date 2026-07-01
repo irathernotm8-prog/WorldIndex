@@ -1,0 +1,17 @@
+{
+  "slug": "arthur",
+  "name": "Arthur",
+  "epithet": "The Night Walker",
+  "faction": "Aluccard's Circle",
+  "status": "Active",
+  "tags": [
+    "Knight",
+    "Spirit",
+    "Legend"
+  ],
+  "bio": [
+    "Arthur, another hero of Aridel, now seeks out his old allies to warn them of a coming imbalance. He was always a spirit, using objects and people as tethers to keep himself in the mortal plane -- but these days he holds a physical form through sheer will, and a little magic for good measure.",
+    "He can only become visible to his allies at night, but his goal hasn't changed since the old days: keep his friends safe. Ever selfless, he still represents the very best of the knights of old."
+  ],
+  "art": "art/arthur.jpg"
+}

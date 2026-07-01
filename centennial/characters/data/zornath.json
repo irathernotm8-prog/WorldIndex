@@ -1,0 +1,17 @@
+{
+  "slug": "zornath",
+  "name": "Zornath",
+  "epithet": "The Infernal Maw",
+  "faction": "Zornath's Empire",
+  "status": "Active",
+  "tags": [
+    "Ancient Threat",
+    "Crime Lord"
+  ],
+  "bio": [
+    "Zornath once wanted nothing more than to return to the mortal plane. A couple of decades ago, he got his wish -- only to find the world had changed considerably in his absence. The eras of war and fire had come and gone, and he was especially sad to have missed the nuclear arms race.",
+    "Zornath took his time learning about this new world and, in the process, discovered a new kind of power: knowledge. His goals recalibrated. Where he once wanted chaos, now he wants control -- and he came to understand that control boils down to money, arms, and influence. He began dealing directly with the American government, trading information no mortal could possibly know for the freedom to operate however he pleases, with complete discretion. The underground empire that resulted has earned him a new name in certain circles: the boogeyman.",
+    "Aluccard knows better than to go looking for trouble with Zornath. Some bears aren't worth poking."
+  ],
+  "art": "art/zornath.jpg"
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "ahere",
+  "name": "Ahere",
+  "epithet": "The Vengeful Assassin",
+  "faction": "Unaligned",
+  "status": "Active",
+  "tags": [
+    "Assassin",
+    "Returned"
+  ],
+  "bio": [
+    "A ghost from the past, Ahere was once Aluccard's mentor -- until a falling-out forced Aluccard to end his mentor's life. That was thousands of years ago, and from the looks of things, Ahere took it personally.",
+    "Now seemingly returned from the dead, Ahere is fixed on a single burning desire: revenge. Aluccard could hardly believe his eyes seeing his former master again, back from beyond the grave and equipped, this time, with modern weapons. How he returned remains a mystery. What he intends to do about it does not."
+  ],
+  "art": "art/ahere.jpg"
+}

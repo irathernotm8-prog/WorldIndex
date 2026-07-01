@@ -1,0 +1,18 @@
+{
+  "slug": "drexl-voss",
+  "name": "Drexl Voss",
+  "epithet": "The Hero From Afar",
+  "faction": "Edwin's Cause",
+  "status": "Fallen",
+  "tags": [
+    "Knight",
+    "Hidden Holy Order",
+    "Otherworldly"
+  ],
+  "bio": [
+    "Drexl Voss is what you'd call a hero of heroes -- the bravest and most selfless of them all, and a very different man from the mercenary Drexl the group once knew. That difference makes sense, given he isn't from this world at all.",
+    "Drexl Voss hailed from a world where he served as a knight of the Hidden Holy Order, tasked with holding back the darkness of the abyss and leading humanity toward a brighter future. Unfortunately, the abyss won. His home was lost, and he was left permanently disfigured by the ordeal.",
+    "As his world came to its end, he lost nearly all hope -- until a magic portal pulled him into this one, where he met Aluccard. With a renewed sense of purpose, he set out to become one of this world's champions. His sword, Thunder-Guard, echoed the tales of old with its own magic. The knight ultimately met his end freeing the people from the tyranny of Victor, and Aluccard was forced to say goodbye to another Drexl."
+  ],
+  "art": "art/drexl-voss.jpg"
+}

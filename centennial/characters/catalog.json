@@ -1,0 +1,302 @@
+[
+  {
+    "slug": "aetheris",
+    "name": "Aetheris",
+    "epithet": "Defender of the Balance",
+    "faction": "Aluccard's Circle",
+    "status": "Active",
+    "tags": [
+      "Guardian",
+      "Warrior"
+    ],
+    "bio": [
+      "Aetheris was once the being linked to the very balance of the world, powerful enough to tip the scales of any battle she joined. Now she's just a normal person working a 9-to-5, watching sitcoms in her off time.",
+      "Aluccard approaches her while checking on the surprising number of immortals currently living in New York City -- something about the city, perhaps. She turns his request down at first, until she notices Gareth standing beside him. He resembles, she says, a legendary hero she once fought alongside thousands of years ago. Just like that, she changes her mind, grabs her sword, and joins the others."
+    ],
+    "art": "art/aetheris.jpg"
+  },
+  {
+    "slug": "ahere",
+    "name": "Ahere",
+    "epithet": "The Vengeful Assassin",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Assassin",
+      "Returned"
+    ],
+    "bio": [
+      "A ghost from the past, Ahere was once Aluccard's mentor -- until a falling-out forced Aluccard to end his mentor's life. That was thousands of years ago, and from the looks of things, Ahere took it personally.",
+      "Now seemingly returned from the dead, Ahere is fixed on a single burning desire: revenge. Aluccard could hardly believe his eyes seeing his former master again, back from beyond the grave and equipped, this time, with modern weapons. How he returned remains a mystery. What he intends to do about it does not."
+    ],
+    "art": "art/ahere.jpg"
+  },
+  {
+    "slug": "aluccard",
+    "name": "Aluccard",
+    "epithet": "The Immortal Hero",
+    "faction": "Aluccard's Circle",
+    "status": "Active",
+    "tags": [
+      "Velkynai",
+      "Immortal",
+      "CEO"
+    ],
+    "bio": [
+      "Aluccard, immortal legend turned tech CEO, now faces a new kind of threat: someone, or something, is killing immortal beings. With his own existence potentially on the line, he sets out to take the fight to an unknown enemy.",
+      "As the last of the Velkynai, he has lived well beyond his years, spending most of that time collecting knowledge, resources, and whatever scraps of magic still remain in the 21st century. Along the way he may find unlikely allies, along with a few familiar faces from ages past -- though his own morals aren't always as clear as they first appear."
+    ],
+    "art": "art/aluccard.jpg"
+  },
+  {
+    "slug": "andromedus",
+    "name": "Andromedus",
+    "epithet": "The Blue Man",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Enigma",
+      "Cosmic",
+      "Businessman"
+    ],
+    "bio": [
+      "One of the oldest beings in the world -- older than the world itself, if the stories are true -- Andromedus spent thousands of years serving a friend's memory before finally choosing to live among mortals, who have accepted his otherworldly appearance with surprising ease. Perhaps the 21st century really is a more tolerant time.",
+      "Now running his own business, he looks like just another blue-skinned entrepreneur, but behind the facade he continues his true work: containing and concealing the supernatural from the common folk. He considers it his mission to keep this world's people protected from the kind of power that comes with that knowledge.",
+      "His hands have been especially full lately, keeping the bodies of dead immortals out of the wrong hands. He approached Aluccard about collaborating on the investigation -- Aluccard, still holding his reservations about the blue man, has so far turned him down."
+    ],
+    "art": "art/andromedus.jpg"
+  },
+  {
+    "slug": "arthur",
+    "name": "Arthur",
+    "epithet": "The Night Walker",
+    "faction": "Aluccard's Circle",
+    "status": "Active",
+    "tags": [
+      "Knight",
+      "Spirit",
+      "Legend"
+    ],
+    "bio": [
+      "Arthur, another hero of Aridel, now seeks out his old allies to warn them of a coming imbalance. He was always a spirit, using objects and people as tethers to keep himself in the mortal plane -- but these days he holds a physical form through sheer will, and a little magic for good measure.",
+      "He can only become visible to his allies at night, but his goal hasn't changed since the old days: keep his friends safe. Ever selfless, he still represents the very best of the knights of old."
+    ],
+    "art": "art/arthur.jpg"
+  },
+  {
+    "slug": "death",
+    "name": "Death",
+    "epithet": "The Classy Reaper",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Reaper",
+      "Retired"
+    ],
+    "bio": [
+      "Death, the reaper -- ever-present, all-powerful, and going through something of an existential crisis these last few centuries. These days he's the proud owner of a jazz bar, having put his reaping duties on the back burner in favor of living among people and trying, finally, to understand them. Along the way he's developed a taste for the finer things: fine dining, expensive suits, all of it.",
+      "He was one of the first people Aluccard approached about the dying immortals, but Death offered little clarity -- only that he sees humans inching their own lives toward the underworld's gates all on their own, through what they consume. He's retired now, and he and the ruler of the underworld aren't exactly on good terms. Still, he can't help but feel the death of the immortals; it's hard not to sense the weight of souls that heavy as they fall."
+    ],
+    "art": "art/death.jpg"
+  },
+  {
+    "slug": "drexl",
+    "name": "Drexl",
+    "epithet": "The Hero Reborn",
+    "faction": "Aluccard's Circle",
+    "status": "Active",
+    "tags": [
+      "Knight",
+      "Resurrected"
+    ],
+    "bio": [
+      "Drexl Voss, the hero from beyond, once fought alongside Aluccard and the heroes of Aridel, laying down his life for their cause despite being from an entirely different world. Now brought back through a combination of magic and machinery -- by Aluccard's own hand -- his higher calling toward justice compels him to join the investigation into the immortal killings.",
+      "He doesn't fully trust his old friend, though. Drexl sees his own resurrection as unnatural, and believes Aluccard shouldn't have bent the rules of life and death this way -- no matter how necessary Aluccard insists it was."
+    ],
+    "art": "art/drexl.jpg"
+  },
+  {
+    "slug": "dreyfus",
+    "name": "Dreyfus",
+    "epithet": "Ruler of the Underworld",
+    "faction": "The Underworld",
+    "status": "Active",
+    "tags": [
+      "King",
+      "Underworld",
+      "Possessor"
+    ],
+    "bio": [
+      "Once a king many thousands of years ago, Dreyfus now rules the underworld, using Minodas to funnel souls his way -- souls he then holds as leverage, sending their owners back into the world as agents of chaos.",
+      "Dreyfus has grown weary of his underworld dominion and wants a shot at reclaiming his rightful place as ruler of the mortal world, the way he once did as a living king. He can only appear to people by possessing a mortal body, and first shows himself to the heroes by taking over Leon's -- visibly disgusted, notably, at the mere mention of Drexl's name. He may be immensely powerful within his own realm, but in the mortal world, he can do very little without his lackeys to act for him."
+    ],
+    "art": "art/dreyfus.jpg"
+  },
+  {
+    "slug": "father-elias",
+    "name": "Father Elias",
+    "epithet": "The Corrupted Priest",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Priest",
+      "Cult Leader",
+      "Immortal"
+    ],
+    "bio": [
+      "Once known as Father Godskin, Elias is a priest who founded a cult built on dark magic many eons ago and has held onto his power throughout most of human history. Lately, though, people have turned away from faith in favor of technology and money as their new gods, and Elias has lost a substantial amount of his influence along the way.",
+      "His immortality comes from a medallion he wears around his neck, said to hold the heart of a dead god within it. He set his disciples to stalk Aluccard, and for a time Aluccard was nearly certain Elias had a hand in Lucan's death -- but their eventual confrontation reveals both parties are simply worried about the same immortal killer on the loose.",
+      "Aluccard still doesn't trust him, but a temporary alliance forms between the two regardless, at least until a killer can be found. Elias offers up his considerable wealth and connections in exchange for one thing: bringing the killer to him, for Elias's own divine judgment."
+    ],
+    "art": "art/father-elias.jpg"
+  },
+  {
+    "slug": "gareth",
+    "name": "Gareth",
+    "epithet": "The Gunslinger",
+    "faction": "Aluccard's Circle",
+    "status": "Active",
+    "tags": [
+      "Mercenary",
+      "Gunslinger"
+    ],
+    "bio": [
+      "Gareth, the gunslinger, is a mercenary who deals exclusively in supernatural happenings -- a lifestyle that's already cost him an arm. Nobody's hired him when he stumbles onto Aluccard and Leon investigating Lucan's death, and at first he assumes it was their doing. After a bit of clarification, he agrees to join the investigation, much to Aluccard's protest.",
+      "Narcissistic, bravado-fueled, and more than a little shady, Gareth has nonetheless been trying to do good lately -- though what caused the change of heart remains anyone's guess."
+    ],
+    "art": "art/gareth.jpg"
+  },
+  {
+    "slug": "hythm",
+    "name": "Hythm",
+    "epithet": "The King Who Walked Away",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Immortal",
+      "Amnesiac"
+    ],
+    "bio": [
+      "Hythm has lived many lives, though as of recently he can't remember any of them. He had his memories sealed away with his crown, then gave that crown to Aluccard -- he could no longer bear the pain of living forever, and would rather live as a mortal, treating every day as though it could be his last.",
+      "That's what he told himself, at least. When Aluccard finds him, what he sees is a depressed man with a crippling gambling addiction. Aluccard offers him the crown, and his old memories along with it, but the mortal-minded Hythm rejects the notion entirely and asks his old friend to leave. Aluccard knows Hythm may still be a target regardless -- and he can't stand by and watch a friend be murdered, wanted or not."
+    ],
+    "art": "art/hythm.jpg"
+  },
+  {
+    "slug": "kleon",
+    "name": "Kleon",
+    "epithet": "The King Out of Time",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "King",
+      "Vigilante",
+      "Time Traveler"
+    ],
+    "bio": [
+      "Kleon -- warrior, king, father, and above all, lost. In his own time he was obsessed with harnessing the power of time travel to save his home, a fixation that changed everything the day a mysterious time-traveling tyrant fought him through the time-stream itself. The tyrant ended up no one knows where. Kleon wound up in the 21st century, alone.",
+      "He spent a while trying to build his own time machine -- 21st century technology was impressive, but it fell well short of the time magic that had stranded him here in the first place. Eventually he found a new calling as a vigilante defender of the weak and innocent in New York City, making it his personal mission to end the shady practices of the city's corporate powerhouses -- Aluccard included, whose path he's crossed more than once.",
+      "Though not an immortal himself, Kleon does care about the immortal killings, seeing them as a plain injustice. He still refuses to work with Aluccard, though -- old grudges die hard."
+    ],
+    "art": "art/kleon.jpg"
+  },
+  {
+    "slug": "leon",
+    "name": "Leon",
+    "epithet": "The Mortal Assassin",
+    "faction": "Aluccard's Circle",
+    "status": "Active",
+    "tags": [
+      "Mortal",
+      "Assassin",
+      "Assistant"
+    ],
+    "bio": [
+      "Leon is Aluccard's trained apprentice. Though only mortal, he's been pushed past the natural limits of the human body, now capable of assisting his master with far more serious matters than his day job -- Aluccard's business assistant -- would suggest.",
+      "Leon is fiercely loyal to Aluccard, who saved him during a supernatural attack on his family by a force that remains unknown to this day. Lately, he's begun to worry -- for the first time, he can see the fear of dying starting to reach his master."
+    ],
+    "art": "art/leon.jpg"
+  },
+  {
+    "slug": "lucan",
+    "name": "Lucan",
+    "epithet": "The Hero Who Never Was",
+    "faction": "Unaligned",
+    "status": "Fallen",
+    "tags": [
+      "Immortal",
+      "Prince",
+      "Victim"
+    ],
+    "bio": [
+      "Lucan was the first immortal to die -- the death that sparked Aluccard's entire investigation. A prince who never quite reached the level of king, Lucan had lost his family and his most trusted companion over the years, leaving him without much left to hold onto. And yet he liked living, and kept at it as best he could.",
+      "His life being cut short angers Aluccard more than he expected. What could a simple man have ever done to anyone, to warrant this? Among Lucan's belongings, the heroes find a suit of armor -- proof that, should the need have ever arisen, he would have been ready to fight for humanity after all."
+    ],
+    "art": "art/lucan.jpg"
+  },
+  {
+    "slug": "minodas",
+    "name": "Minodas",
+    "epithet": "The Devil's Dealer",
+    "faction": "The Underworld",
+    "status": "Active",
+    "tags": [
+      "Demon",
+      "Businessman"
+    ],
+    "bio": [
+      "Minodas, the beastly businessman, is another figure Aluccard has had the displeasure of crossing paths with. A venture capitalist by trade, Minodas offers \"the devil's deal\" to those he sees as vulnerable. Most people see only a man; Aluccard is under no such illusion.",
+      "Minodas serves the lord of the underworld, handing out deals he knows he'll be able to collect on -- and what he's collecting is nothing less than souls. He has no morals, and he'll offer his deal to almost anyone foolish enough to take it."
+    ],
+    "art": "art/minodas.jpg"
+  },
+  {
+    "slug": "paradigm",
+    "name": "Paradigm",
+    "epithet": "God of the New Age",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "God",
+      "Business Rival"
+    ],
+    "bio": [
+      "Paradigm, god of technology, was born during the Industrial Revolution and has only grown in power since. By the 21st century, very few remain who can challenge his influence.",
+      "Given that he isn't exactly a force for good, Aluccard suspects Paradigm may be behind the culling of immortal beings -- though he lacks the resources or strength to confront the tech titan alone. Their respective businesses are also in the middle of a hostile takeover, which does nothing to ease the tension between them."
+    ],
+    "art": "art/paradigm.jpg"
+  },
+  {
+    "slug": "patchwork",
+    "name": "Patchwork",
+    "epithet": "The Chaos Walker",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Anachronism",
+      "Torturer"
+    ],
+    "bio": [
+      "True name unknown, Patchwork was once a trusted soldier to an ancient king -- though trusted never really meant good. He was cruel and deranged in how he dealt with his king's enemies, with a particular fondness for toxic gas as a method of torture.",
+      "He seemingly died, having lived out a normal lifespan, thousands of years ago. And yet here he is in the 21st century, causing all sorts of havoc with the new toys at his disposal. Aluccard initially wrote him off as a distraction -- until he realized there was real foul play afoot. A being like Patchwork simply shouldn't be here, now, in the flesh. And yet there he is."
+    ],
+    "art": "art/patchwork.jpg"
+  },
+  {
+    "slug": "zornath",
+    "name": "Zornath",
+    "epithet": "The Infernal Maw",
+    "faction": "Zornath's Empire",
+    "status": "Active",
+    "tags": [
+      "Ancient Threat",
+      "Crime Lord"
+    ],
+    "bio": [
+      "Zornath once wanted nothing more than to return to the mortal plane. A couple of decades ago, he got his wish -- only to find the world had changed considerably in his absence. The eras of war and fire had come and gone, and he was especially sad to have missed the nuclear arms race.",
+      "Zornath took his time learning about this new world and, in the process, discovered a new kind of power: knowledge. His goals recalibrated. Where he once wanted chaos, now he wants control -- and he came to understand that control boils down to money, arms, and influence. He began dealing directly with the American government, trading information no mortal could possibly know for the freedom to operate however he pleases, with complete discretion. The underground empire that resulted has earned him a new name in certain circles: the boogeyman.",
+      "Aluccard knows better than to go looking for trouble with Zornath. Some bears aren't worth poking."
+    ],
+    "art": "art/zornath.jpg"
+  }
+]

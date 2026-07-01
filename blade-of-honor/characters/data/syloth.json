@@ -1,0 +1,16 @@
+{
+  "slug": "syloth",
+  "name": "Syloth",
+  "epithet": "The Black Knight",
+  "faction": "Kruxer's Forces",
+  "status": "Fallen",
+  "tags": [
+    "Knight",
+    "Loyalist"
+  ],
+  "bio": [
+    "Loyal to Kruxer and one of his most formidable knights, Syloth stood at the entrance to Kruxer's dwelling and put up the fiercest fight the heroes faced on their approach -- ultimately the one to end Baine's life.",
+    "In the end, there wasn't much more to Syloth than that: a loyal soldier serving a would-be despot to the last. He met his end at the hands of the mercenary Drexl."
+  ],
+  "art": "art/syloth.jpg"
+}

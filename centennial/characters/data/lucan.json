@@ -1,0 +1,17 @@
+{
+  "slug": "lucan",
+  "name": "Lucan",
+  "epithet": "The Hero Who Never Was",
+  "faction": "Unaligned",
+  "status": "Fallen",
+  "tags": [
+    "Immortal",
+    "Prince",
+    "Victim"
+  ],
+  "bio": [
+    "Lucan was the first immortal to die -- the death that sparked Aluccard's entire investigation. A prince who never quite reached the level of king, Lucan had lost his family and his most trusted companion over the years, leaving him without much left to hold onto. And yet he liked living, and kept at it as best he could.",
+    "His life being cut short angers Aluccard more than he expected. What could a simple man have ever done to anyone, to warrant this? Among Lucan's belongings, the heroes find a suit of armor -- proof that, should the need have ever arisen, he would have been ready to fight for humanity after all."
+  ],
+  "art": "art/lucan.jpg"
+}

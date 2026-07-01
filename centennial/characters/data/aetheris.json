@@ -1,0 +1,16 @@
+{
+  "slug": "aetheris",
+  "name": "Aetheris",
+  "epithet": "Defender of the Balance",
+  "faction": "Aluccard's Circle",
+  "status": "Active",
+  "tags": [
+    "Guardian",
+    "Warrior"
+  ],
+  "bio": [
+    "Aetheris was once the being linked to the very balance of the world, powerful enough to tip the scales of any battle she joined. Now she's just a normal person working a 9-to-5, watching sitcoms in her off time.",
+    "Aluccard approaches her while checking on the surprising number of immortals currently living in New York City -- something about the city, perhaps. She turns his request down at first, until she notices Gareth standing beside him. He resembles, she says, a legendary hero she once fought alongside thousands of years ago. Just like that, she changes her mind, grabs her sword, and joins the others."
+  ],
+  "art": "art/aetheris.jpg"
+}

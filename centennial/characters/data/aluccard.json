@@ -1,0 +1,17 @@
+{
+  "slug": "aluccard",
+  "name": "Aluccard",
+  "epithet": "The Immortal Hero",
+  "faction": "Aluccard's Circle",
+  "status": "Active",
+  "tags": [
+    "Velkynai",
+    "Immortal",
+    "CEO"
+  ],
+  "bio": [
+    "Aluccard, immortal legend turned tech CEO, now faces a new kind of threat: someone, or something, is killing immortal beings. With his own existence potentially on the line, he sets out to take the fight to an unknown enemy.",
+    "As the last of the Velkynai, he has lived well beyond his years, spending most of that time collecting knowledge, resources, and whatever scraps of magic still remain in the 21st century. Along the way he may find unlikely allies, along with a few familiar faces from ages past -- though his own morals aren't always as clear as they first appear."
+  ],
+  "art": "art/aluccard.jpg"
+}

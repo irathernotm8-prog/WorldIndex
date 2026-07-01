@@ -1,0 +1,16 @@
+{
+  "slug": "drexl",
+  "name": "Drexl",
+  "epithet": "The Hero Reborn",
+  "faction": "Aluccard's Circle",
+  "status": "Active",
+  "tags": [
+    "Knight",
+    "Resurrected"
+  ],
+  "bio": [
+    "Drexl Voss, the hero from beyond, once fought alongside Aluccard and the heroes of Aridel, laying down his life for their cause despite being from an entirely different world. Now brought back through a combination of magic and machinery -- by Aluccard's own hand -- his higher calling toward justice compels him to join the investigation into the immortal killings.",
+    "He doesn't fully trust his old friend, though. Drexl sees his own resurrection as unnatural, and believes Aluccard shouldn't have bent the rules of life and death this way -- no matter how necessary Aluccard insists it was."
+  ],
+  "art": "art/drexl.jpg"
+}

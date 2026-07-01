@@ -1,0 +1,184 @@
+[
+  {
+    "slug": "ahere",
+    "name": "Ahere",
+    "epithet": "The Devious Assassin",
+    "faction": "Kruxer's Forces",
+    "status": "Fallen",
+    "tags": [
+      "Assassin",
+      "Mentor"
+    ],
+    "bio": [
+      "A crazed assassin in Kruxer's employ, Ahere was once a mentor to Aluccard, before a falling-out over Ahere's methods split them apart. Ruthless, and in love with the thrill of the hunt, he stayed fixated on Aluccard long after his former student bested him in combat.",
+      "When Edwin needed Aluccard gotten rid of for good, it was Ahere he hired for the job. Aluccard ultimately killed his old mentor in the confrontation that followed -- and left Edwin's side for good over the betrayal."
+    ],
+    "art": "art/ahere.jpg"
+  },
+  {
+    "slug": "aluccard",
+    "name": "Aluccard",
+    "epithet": "The Unsung Hero",
+    "faction": "Edwin's Cause",
+    "status": "Active",
+    "tags": [
+      "Outcast",
+      "Velkynai",
+      "Warrior"
+    ],
+    "bio": [
+      "An outcast from birth, Aluccard's pale skin and lanky frame meant he never quite fit anywhere. Even so, he always carried a clear sense of right and wrong, and the state of the world never sat easy with him. He had no real power to change any of it -- until he crossed paths with Drexl. The adventure that followed would change both their lives and destinies more than either could have known.",
+      "After Drexl's death, Aluccard stayed with the quest, where he ultimately met another man who shared the name: Drexl Voss, a knight from an entirely different plane of existence. Their bond ran deep -- arguably deeper than his bond with the first Drexl -- built on a shared sense of honor between them.",
+      "Aluccard's fate changed forever when he was bitten by a Velkynai, a race thought extinct, akin to the legend of vampires. His lifespan stretched far beyond a mortal's, and his agility and senses sharpened with it. He panicked at first, but came to see the change as a gift rather than a curse. By the journey's end, he left Edwin's side -- the king had long since abandoned the beliefs he once championed."
+    ],
+    "art": "art/aluccard.jpg"
+  },
+  {
+    "slug": "arthur",
+    "name": "Arthur",
+    "epithet": "The Silver Knight",
+    "faction": "Edwin's Cause",
+    "status": "Fallen",
+    "tags": [
+      "Knight",
+      "Undead",
+      "Legend"
+    ],
+    "bio": [
+      "Loyal to Edwin, powerful, and skilled -- Arthur, yes, that Arthur, of legend -- carried a secret few knew. He had died years prior. What the world saw was only a suit of armor tethering his existence to this plane.",
+      "His loyalty was no less real for it. He wanted to see a united kingdom under Edwin more than almost anyone. He would never get the chance -- the armor, and the tether that kept him bound to the world, was destroyed in the fight against Syloth. Tales of a ghost appearing behind Edwin spread for years to come."
+    ],
+    "art": "art/arthur.jpg"
+  },
+  {
+    "slug": "baine",
+    "name": "Baine",
+    "epithet": "The Burnt Knight",
+    "faction": "Edwin's Cause",
+    "status": "Fallen",
+    "tags": [
+      "Knight",
+      "Amnesiac"
+    ],
+    "bio": [
+      "A lost knight with no recollection of who he once was, Baine stumbled upon the group of heroes as they marched toward Kruxer. Something -- some pull from the spirits of old -- compelled him to keep fighting, to keep moving forward.",
+      "He would sometimes whisper to himself, unprompted: \"must make it,\" \"must go to the Last Bastion.\" He never would. Baine was among the many casualties of the battle with Kruxer, his goals and his past both left unfinished."
+    ],
+    "art": "art/baine.jpg"
+  },
+  {
+    "slug": "drexl-mercenary",
+    "name": "Drexl",
+    "epithet": "The Hired Mercenary",
+    "faction": "Edwin's Cause",
+    "status": "Fallen",
+    "tags": [
+      "Mercenary",
+      "Warrior"
+    ],
+    "bio": [
+      "Demon in combat, money-hungry, and endlessly ambitious, Drexl carries a name that holds more legacy than he himself knows. He grew up on stories of a distant island, a fallen kingdom, and a man who shared his name being deeply wronged. He never paid the tales much mind, but he understood the feeling at their center all too well -- the sense that the world owed him more than what he was born into.",
+      "He grew into the fiercest of warriors, nearly unbeatable in combat, with no special powers or magic behind it -- just diligent training and incredible battle awareness. He eventually came to blows with a young outcast named Aluccard, who, after losing to him, asked to learn under him. Drexl reluctantly agreed; a decoy could come in handy in certain situations.",
+      "Word of Edwin's cause -- and Edwin's riches -- eventually set Drexl and Aluccard on the road together. After a long journey, Drexl would uncharacteristically give his life to save Aluccard against the fire lord Kruxer, a sacrifice his former student never truly came to understand."
+    ],
+    "art": "art/drexl-mercenary.jpg"
+  },
+  {
+    "slug": "drexl-voss",
+    "name": "Drexl Voss",
+    "epithet": "The Hero From Afar",
+    "faction": "Edwin's Cause",
+    "status": "Fallen",
+    "tags": [
+      "Knight",
+      "Hidden Holy Order",
+      "Otherworldly"
+    ],
+    "bio": [
+      "Drexl Voss is what you'd call a hero of heroes -- the bravest and most selfless of them all, and a very different man from the mercenary Drexl the group once knew. That difference makes sense, given he isn't from this world at all.",
+      "Drexl Voss hailed from a world where he served as a knight of the Hidden Holy Order, tasked with holding back the darkness of the abyss and leading humanity toward a brighter future. Unfortunately, the abyss won. His home was lost, and he was left permanently disfigured by the ordeal.",
+      "As his world came to its end, he lost nearly all hope -- until a magic portal pulled him into this one, where he met Aluccard. With a renewed sense of purpose, he set out to become one of this world's champions. His sword, Thunder-Guard, echoed the tales of old with its own magic. The knight ultimately met his end freeing the people from the tyranny of Victor, and Aluccard was forced to say goodbye to another Drexl."
+    ],
+    "art": "art/drexl-voss.jpg"
+  },
+  {
+    "slug": "florkil",
+    "name": "Florkil",
+    "epithet": "The Northern Beast",
+    "faction": "Edwin's Cause",
+    "status": "Fallen",
+    "tags": [
+      "Warrior",
+      "Viking"
+    ],
+    "bio": [
+      "The raging beast of the northern territories, Florkil was a would-be viking and a brutally challenging warrior to best. Once he learned of the adventure the heroes were on, he joined the quest in search of a worthy death.",
+      "He ultimately got his wish in the battle against Kruxer, where he and many others lost their lives -- but he died happy, knowing he'd found the end he was looking for."
+    ],
+    "art": "art/florkil.jpg"
+  },
+  {
+    "slug": "hythm",
+    "name": "Hythm",
+    "epithet": "The Loyal Soldier",
+    "faction": "Edwin's Cause",
+    "status": "Active",
+    "tags": [
+      "Immortal",
+      "Wanderer"
+    ],
+    "bio": [
+      "A simple man making his way through the land where this story takes place, Hythm was, in truth, the very same man who would be considered royalty in a distant land and a forgotten time. He has no interest in the crown. He walks the earth as an immortal, simply trying to do right by the people he meets.",
+      "Hearing of Edwin's story, Hythm joined the party to see it play out -- only to leave again after Kruxer's defeat, once more disillusioned with the path of mankind, and content to consider himself apart from it."
+    ],
+    "art": "art/hythm.jpg"
+  },
+  {
+    "slug": "kruxer",
+    "name": "Kruxer",
+    "epithet": "The Fire Lord",
+    "faction": "Kruxer's Forces",
+    "status": "Fallen",
+    "tags": [
+      "Warlord",
+      "Pyromancer"
+    ],
+    "bio": [
+      "The fierce fire lord Kruxer ruled with an iron fist, one of very few in this age to possess magic of any kind -- let alone the power of pyromancy. Cruel and power-hungry, he was in many ways a dark reflection of the mercenary Drexl, save for one thing: he lacked any humanity at all.",
+      "His goal was never conquest. It was to end all life everywhere, scorching the earth as he went. He finally met his end at the hands of Drexl, the two of them trading blows to the last inside a crumbling castle."
+    ],
+    "art": "art/kruxer.jpg"
+  },
+  {
+    "slug": "syloth",
+    "name": "Syloth",
+    "epithet": "The Black Knight",
+    "faction": "Kruxer's Forces",
+    "status": "Fallen",
+    "tags": [
+      "Knight",
+      "Loyalist"
+    ],
+    "bio": [
+      "Loyal to Kruxer and one of his most formidable knights, Syloth stood at the entrance to Kruxer's dwelling and put up the fiercest fight the heroes faced on their approach -- ultimately the one to end Baine's life.",
+      "In the end, there wasn't much more to Syloth than that: a loyal soldier serving a would-be despot to the last. He met his end at the hands of the mercenary Drexl."
+    ],
+    "art": "art/syloth.jpg"
+  },
+  {
+    "slug": "victor",
+    "name": "Victor",
+    "epithet": "The Twisted Warlord",
+    "faction": "Victor's Forces",
+    "status": "Fallen",
+    "tags": [
+      "Warlord",
+      "Cultist"
+    ],
+    "bio": [
+      "Victor, warlord of the south, proved to be a warrior like no other -- and one of the most difficult foes the heroes ever faced, ultimately the one to kill Drexl Voss. Aluccard was able to kill him in turn, but only after a brutal, hard-fought battle.",
+      "Victor himself was a strange man who never removed his armor -- not cruel, exactly, but entirely removed from empathy, treating people as little more than labor to raise his castles. All of it was done in the name of the only lord Victor ever recognized: Vornath."
+    ],
+    "art": "art/victor.jpg"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "slug": "victor",
+  "name": "Victor",
+  "epithet": "The Twisted Warlord",
+  "faction": "Victor's Forces",
+  "status": "Fallen",
+  "tags": [
+    "Warlord",
+    "Cultist"
+  ],
+  "bio": [
+    "Victor, warlord of the south, proved to be a warrior like no other -- and one of the most difficult foes the heroes ever faced, ultimately the one to kill Drexl Voss. Aluccard was able to kill him in turn, but only after a brutal, hard-fought battle.",
+    "Victor himself was a strange man who never removed his armor -- not cruel, exactly, but entirely removed from empathy, treating people as little more than labor to raise his castles. All of it was done in the name of the only lord Victor ever recognized: Vornath."
+  ],
+  "art": "art/victor.jpg"
+}
