@@ -1048,3 +1048,367 @@ He looked at each of them.
 
 Even if it kills us all.
 
+
+## Chapter 15: The March North
+
+The road to the Hollow Below did not appear on any map Valerius had ever seen, and yet somehow the fellowship never lost it. It was as if the land itself remembered where the wound was and kept pointing back toward it, the way a tongue keeps finding a broken tooth.
+
+They were not few anymore. What had begun as four people around a fire outside Stonegrave Pass had become a column three hundred strong--farmers with borrowed spears, deserters from Frenry's templars, a handful of witches who'd survived Father Godskin's purges by pretending not to be witches at all. None of them called Valerius a king. Most of them, when they thought he wasn't listening, called him something worse: hope.
+
+Tiavoss walked at the head of the column with him, shield slung, eyes on the tree line. "They're getting quiet," he said.
+
+"The soldiers?"
+
+"The birds." Tiavoss nodded toward the canopy, empty and still. "Three days now. No birdsong, no deer, nothing. Something's clearing the land ahead of us."
+
+Felough caught up on Valerius's other side, Stormbite humming faintly at his hip--it had been humming for two days, a low constant note like a held breath. "Or something's clearing the land of *us*," he said. "Like it knows we're coming and wants a clean floor to greet us on."
+
+Eliegh said nothing. He'd said very little since Andromedous vanished, and less still since the moss on his arms had begun, for the first time in his life, to wilt.
+
+They made camp that night in the shell of a watchtower nobody remembered building. Valerius took first watch, though there was little to watch for--no fires on the horizon, no torches, nothing living enough to need a torch. Just the deep, patient silence of something enormous, holding still.
+
+It was Breylar who broke it.
+
+He didn't announce himself this time. He simply was, standing at the edge of the firelight in his scorched armor, hands empty.
+
+"You again," Felough said, already rising, already reaching for his sword.
+
+"Sit," Breylar said, and there was something different in his voice now--less certainty, more weight. "I'm not here to test you tonight."
+
+Valerius stood instead. "Then why are you here?"
+
+Breylar was quiet for a long moment, looking toward the north, toward wherever the birds had gone. "My creator has stopped answering me," he said finally. "For the first time since he made me, I call out and there is nothing where he used to be. Only the blade, answering in his place."
+
+"What does that mean?"
+
+"I don't know," Breylar said, and for the first time, he sounded almost mortal. "I came here to ask if you did."
+
+
+## Chapter 16: Cracks in the Pantheon
+
+Aetherspire had not held a full council since Gavinus fell. It held one now.
+
+Drexl stood at its center, and for once his crimson armor did not pulse with quiet confidence--it pulsed like something agitated, something barely contained. "The Hollow Below has gone silent," he said. "Not sealed. Silent. There is a difference, and every one of you knows it."
+
+Radeem leaned on his blade, unimpressed. "Silence isn't a threat. Silence is what things do before they die."
+
+"Or before they wake," Baldri said from beneath his hood. He had not spoken first in a council in longer than anyone could remember, and the room went still to hear him do it now. "I have not dreamed correctly in eleven nights. My dreams keep dying halfway through, the way a candle dies in a room with no air left to burn."
+
+Ostheus paced, sparks skating off his shoulders with every step. "Say it plainly, night-walker."
+
+"Something is drinking the dreaming itself," Baldri said. "Not mortal dreams. Older ones. Ours."
+
+Serosh, silent until now, finally rose from the shadowed edge of the circle. "You all speak of it like a mystery," he said. "It isn't. I told you what we buried. I told you what we lied about. Enoch doesn't need to conquer the world to end it. It simply needs to remember that it was here first."
+
+"And you'd have us do what?" Drexl's voice was ice. "Beg forgiveness from the thing our order was founded on burying?"
+
+"I'd have you admit," Serosh said, "that for the first time since the first dawn, mortals and gods are afraid of the exact same thing. That should tell you something about how thin the line between us has always been."
+
+No one answered him. Not because he was wrong--because, for once, no one in the room was certain he was.
+
+It was Valdre who finally spoke, and when he did, every god in the circle turned as one, because Valdre had not offered an opinion since the day his throne cracked beneath him.
+
+"We buried something we couldn't defeat," he said slowly, "and we called that victory. We have been calling it victory for longer than any of you have existed." He rose from his seat--not a command, not a summons, just an old god standing on his own two feet for the first time in an age. "I will not make that mistake twice."
+
+"What are you saying?" Gavinus asked. He had returned to the council quietly, humbled, a fading scar across his ribs where a mortal blade had once found purchase.
+
+"I am saying," Valdre said, "that I am going to the Hollow Below myself. And I would rather go with you than without you."
+
+
+## Chapter 17: The Thunder God's Challenge
+
+Ostheus found Thor waiting for him on a ridge above the marching column, hammer resting easy across his shoulders, grinning like a man who'd been promised a good meal.
+
+"You've been chasing my storms for a season," Ostheus said, lightning already gathering in his chest. "Here I am."
+
+"Here you are," Thor agreed, and swung.
+
+The fight that followed would be sung about in three different mortal languages within a year, none of the songs agreeing on how long it lasted. Ostheus met hammer with lightning-wreathed fist and the sky itself seemed to flinch; Thor laughed through split lips and came again, and again, testing, tasting, until the ridge beneath them cracked into rubble and the storm clouds Ostheus called up curdled into something closer to night.
+
+It was Ostheus, finally, who found himself on his back, Thor's hammer resting--not swinging, just resting--against his throat.
+
+"Yield," Thor said, though he didn't sound like he needed to hear it.
+
+"Why," Ostheus gasped, "are you even here? What worlds beyond this one have to do with--"
+
+"None of them, until three nights ago." Thor straightened, offering a hand Ostheus didn't take. "I felt something through the space between realms. A hunger old enough to remember when there was nothing to be hungry for. I came looking for a worthy fight." He looked north, toward the silence Baldri had described, and for the first time his grin faltered. "I don't think I found one. I think I found something that doesn't fight at all. It just wins by existing."
+
+Ostheus sat up slowly, ribs aching, pride worse. "So what do we do?"
+
+"We?" Thor extended his hand again, and this time Ostheus took it. "I don't know your wars, lightning-born. But where I come from, when something threatens to end the story entirely, even rivals put down their hammers and swords for a season." He hauled Ostheus to his feet. "Consider this me putting mine down. For now."
+
+
+## Chapter 18: The Cult of the Red Flame
+
+In Deneath, the throne room had never been colder.
+
+King Lucious sat upon it wrapped in furs he didn't need, watching Frenry pace before him in his ash-scored templar plate. "Your recruits are deserting to a mortal rebel," Lucious said. "My spies say entire garrisons walk north to join him."
+
+"They walk north because Serosh's cult has been whispering in their sleep," Frenry snapped. "Promising them the Red Flame will remake the world in mortal hands. My templars didn't desert the faith. They were *stolen* from it."
+
+Lucious said nothing for a long moment, fingers steepled. He had served Drexl in secret for longer than Frenry knew, trading his kingdom's soul for power and long life, and he had believed--truly believed--that the arrangement would outlast every mortal uprising that came and went. He was no longer certain.
+
+"Serosh's cult," Lucious said carefully, "believes gods should kneel to mortal will. My arrangement with Lord Drexl has always depended on the opposite being true." He rose. "If Serosh's fire spreads any further, it burns my throne along with everyone else's."
+
+"Then let me burn it back," Frenry said. "Give me leave to hunt Serosh's disciples the way I once hunted heretics."
+
+"No." Lucious's voice was flat, final. "You'll do something smarter. You'll find out what Serosh actually wants--not what he preaches. A prophet that convenient is rarely telling the whole truth even to his own followers." He turned toward the window, toward the north, toward the silence everyone in every court in Elarion had started to notice and pretend they hadn't. "And Frenry--find out what's happening at the Hollow Below while you're at it. I have a feeling the ground beneath both our thrones is about to move, and I would very much like to be standing somewhere else when it does."
+
+
+## Chapter 19: What the Blade Remembers
+
+Manus no longer dreamed. He hadn't for months. But something like a dream found him anyway, deep in the temple beneath Blackreach, kneeling before the widening gate.
+
+He saw his son. Small, sick, reaching for a father who had nothing left to give him but a prayer no god answered. He saw himself burying the boy with his own hands because the priests wouldn't touch a child the gods had refused to save. He saw the mountain, the sword growing from stone like a black flower, and the voice that had called him *chosen* when no voice had called him anything in years.
+
+He had told himself, every day since, that the blade had given him purpose. He had never once asked himself what the blade had taken in exchange.
+
+He opened his eyes. Breylar was watching him from across the chamber, and there was something in his creation's face Manus had never seen there before.
+
+"You're afraid of me," Manus said.
+
+"I'm afraid of what's using you," Breylar said. "There's a difference. I used to think they were the same thing."
+
+Manus rose. His joints ground like stone against stone, and where his skin had cracked, faint threads of something that was not quite light spilled through, patient and hungry. "Say what you came to say."
+
+"I went to Valerius's fellowship," Breylar admitted. "I asked them what was happening to you. They didn't know either. But the boy--Felough--his blade sings when it's near danger, and it's been screaming since I got within a mile of this mountain." He stepped closer, close enough that Manus could have ended him in a single motion and didn't. "You wanted a world where gods didn't get to decide who lived and who died. I believed you. I still want to believe you. But whatever's coming through that gate isn't interested in *deciding* anything. It's interested in there being nothing left to decide *about*."
+
+For a long moment, Manus said nothing. When he finally spoke, his voice cracked down the middle, half his own, half something vast and echoing from very far away.
+
+"Then perhaps," he said, "I was never the answer to the gods, Breylar. Perhaps I was only ever the key."
+
+He did not sound triumphant when he said it. He sounded, for the first time since the mountain took him, like a man who understood exactly what he had done, and could not stop his hand from finishing it anyway.
+
+
+## Chapter 20: The Hollow Below
+
+The entrance to the Hollow Below was not a cave, though it had the shape of one. It was a wound, ancient and precise, as if the world had been cut open on purpose and stitched shut so long ago that everyone had forgotten there was ever a scar.
+
+The stitches were coming undone.
+
+Valerius's fellowship stood at its threshold, three hundred mortals arrayed behind them across a plain gone the color of ash. The birds had not returned. Now even the wind had stopped.
+
+"Something's wrong with the roots here," Eliegh said, kneeling, pressing his palm flat to soil that no longer answered him the way soil always had. "They're not dead. They're *forgetting how to be alive*. Like something's unteaching them."
+
+Felough's blade wasn't humming anymore. It was screaming, a thin constant whine only he seemed to hear, and his knuckles had gone white around the hilt. "I don't think we're ready for this."
+
+"No one's ever ready for the end of something," Tiavoss said, hefting his shield. "Doesn't change what's on the other side of that door."
+
+A crack of light--not gold, not white, but a light with no true color at all, a light that seemed to erase whatever it touched rather than illuminate it--split the doorway, and Andromedous stepped through it as though he'd been waiting on the other side the whole time.
+
+"You came anyway," he said. It wasn't a question.
+
+"You said there were two paths," Valerius said. "Crown, or the end of all names. I'm still not sure what that means."
+
+"It means," Andromedous said, and for the first time since Valerius had known him, his cosmic calm cracked to show something almost like grief beneath it, "that Enoch does not care which path you walk. It will erase them both, and you along with them, unless something changes." He looked past Valerius, to the doorway, to the light that ate light. "Manus is already inside. He is no longer entirely Manus. And your gods--forgive me, *the* gods--are marching from the south as we speak, for the first time in this age, united."
+
+"Then we're not alone," Valerius said.
+
+"You were never going to be alone," Andromedous said. "That was never the question. The question was always whether *together* would be enough."
+
+
+## Chapter 21: Two Paths
+
+They made their final camp within sight of the wound in the world, and Andromedous, for the first time, sat among them rather than above them.
+
+"Ask me," he said to Valerius. "Truly ask me this time. I will answer plainly."
+
+Valerius sat across the fire from him. "What did you mean? Crown, or the end of all names."
+
+"Every mortal who has ever torn down a throne has done one of two things with the space left behind," Andromedous said. "Either they built a new throne in the same spot, wearing a different crown, telling themselves it would be different this time because they were different men. Or they left the space empty, and let their people learn to stand in it without anything to kneel toward." He looked into the fire. "The first path is easier. It is also the path every empire in every world I have ever watched has eventually walked, because a throne, once built, is very hard to leave standing empty. Someone always climbs onto it eventually. Often the very person who swore they never would."
+
+"And the second path?"
+
+"Is harder than any war you've fought so far," Andromedous said. "Because it isn't fought with swords. It's fought every single morning, for generations, by people choosing not to kneel and not to rule, again and again, until it simply becomes how things are done." He finally met Valerius's eyes. "That is what I meant by the end of all names. Not the end of the world. The end of the *need* for a name above everyone else's."
+
+Tiavoss, listening from across the fire, spoke without looking up from the shield he was mending. "And if Valerius chooses the crown instead?"
+
+"Then Elarion gets a very good king," Andromedous said, "for perhaps twenty years. And then a war much like this one, fought by someone else's children, against whoever sits on the throne he built." He rose. "I am not here to tell you which to choose, Valerius. I am only here to make certain that when you choose, you understand you are choosing at all. Most men who become kings never realized there was a door marked *other* standing right beside the one marked *throne*."
+
+He turned toward the wound in the world, where the light that ate light still pulsed, patient as a held breath.
+
+"Now come. Whatever you choose, you will not get to choose it if Enoch unmakes you first."
+
+
+## Chapter 22: The Gods March
+
+They came from the south like a second dawn breaking the wrong direction--Drexl at the front in his crimson armor, Valdre beside him for the first time in longer than any god present could remember walking anywhere at all. Radeem came for the fight he'd been promised his whole long life. Ostheus and Thor came together, an alliance neither fully trusted but both fully needed. Baldri came half-dreaming, murmuring warnings even he didn't seem to understand. Orion came last, alone, robes trailing rot that no longer seemed to touch the ground beneath his feet--as if even his curse recognized something worse than itself ahead.
+
+Only Serosh did not march among them.
+
+"Where is the Fell God?" Radeem demanded, scanning the column.
+
+"Gathering his own army," Drexl said grimly. "The Red Flame marches too. Whether toward the same fight or a different one entirely, I couldn't say."
+
+Gavinus walked near the rear, still healing, still humbled, and found himself beside Valdre for the first stretch of open road. "Father," he said quietly. "Why now? After everything--why finally move?"
+
+Valdre was silent for a long moment. "Because I finally understood what I was protecting," he said. "I told myself, for an age, that I was protecting *order*. Structure. The shape of things." He looked toward the horizon, toward the wound waiting there. "I was protecting my own comfort, dressed up as wisdom. Enoch does not care about my comfort. It does not care about my order. It will erase the throne and the mortal both, and call neither of them a tragedy, because to Enoch, nothing that exists is worth existing." He glanced at his son. "I would rather fall having finally stood for something, than endure having stood for nothing at all."
+
+Ahead of them, the wound in the world pulsed once, and every god in the column felt it in their bones like a second heartbeat trying to overwrite their own.
+
+They marched faster after that. No one gave the order. No one needed to.
+
+
+## Chapter 23: What Waited in the Dark
+
+Manus had expected a battle. He had prepared, in whatever way a man built of cracked stone and borrowed divinity could prepare, for something to fight.
+
+There was nothing to fight. That was the horror of it.
+
+Enoch did not have a shape so much as an absence shaped like one. Where Manus's torchlight fell, it simply stopped falling, swallowed without shadow, without echo, without the small mercy of darkness--darkness was still *something*, and this was not. He had walked toward it expecting a god. He found something that made every god he had ever heard of, Valdre included, look like a child's drawing of power next to the real thing.
+
+*You are the key,* it said, and the words did not arrive in his ears. They arrived in the space where his thoughts used to happen, rearranging the furniture as they passed through. *You opened what they closed. I remember you.*
+
+"I wanted them to answer for what they took," Manus said, and his voice sounded very small, even to himself. "I wanted a world where mortals weren't burned for asking questions gods refused to answer."
+
+*I do not care what you wanted.* There was no cruelty in it. That, somehow, was worse than cruelty would have been. *I did not want to be buried. I did not want to be remembered as a story gods tell to frighten each other. I simply am, again, and being is the only thing I have ever done, and the only thing I intend to keep doing until nothing is left to interrupt it.*
+
+The blade at Manus's side pulsed, and for the first time since Blackreach, he understood it fully: not a gift, not a weapon, not even a curse in any sense a mortal would recognize. A door left slightly open. A leash he had mistaken for a promise.
+
+Somewhere above him, faint and distant through solid stone, he felt them arriving--Valerius's mortals, the gods marching from the south, all of it converging on a fight none of them yet understood they had already lost, unless something changed.
+
+Manus closed his eyes.
+
+"Then take the key back," he said, and drove the blade into his own chest.
+
+
+## Chapter 24: The Breaking of the Seal
+
+The mountain screamed.
+
+Valerius felt it before he heard it--a pressure behind his eyes, a wrongness in his teeth, as if the world itself had bitten down on something it shouldn't have. Beside him, Felough dropped to his knees, hands over his ears, Stormbite shrieking a note no blade should have been able to hold.
+
+"That's not victory," Eliegh shouted over the sound. "That's a door coming *off its hinges*."
+
+He was right. Manus's blade, buried in his own chest, had not sealed anything. It had severed the one thread still, however faintly, tethering Enoch's hunger to a single mortal will. What came boiling up out of the Hollow Below in the moments after was not a monster. It was an appetite, vast and directionless, spreading across the ash-colored plain like ink through water, unmaking grass, unmaking stone, unmaking the very idea of a plain the moment it touched it.
+
+The gods arrived at the mouth of the wound within the hour, and for the first time in the history of Elarion, mortal army and divine host stood shoulder to shoulder without a single word of debate about who should kneel to whom. There wasn't time.
+
+Drexl reached Valerius first. "Where is Manus?"
+
+"Inside," Valerius said. "I don't know if he's still--" He didn't finish the sentence. None of them needed him to.
+
+Valdre stepped past both of them to the very edge of the spreading unmaking, close enough that the hem of his cloak began to fray into nothing. He turned back to the assembled gods and mortals both, and for the first time in an age, spoke to them as one thing, not two.
+
+"We buried this once by taking a piece of it for ourselves," he said. "Fire. Form. Purpose. We built an age of worship on top of a theft, and called the theft a victory." He drew a blade that had not seen use since before Radeem was young. "I do not think we can bury it again. I think this time, we give it back everything we stole, all at once, and hope that a debt fully paid is heavier than a hunger still owed."
+
+"Give it back *how*," Radeem demanded.
+
+Valdre looked at his son. He looked at Drexl. He looked, last of all, at Valerius, standing among mortals who had never once knelt to him and never would.
+
+"Together," he said. "Or not at all."
+
+
+## Chapter 25: Orion's Reckoning
+
+It was Orion who understood first what "giving it back" would cost, because Orion had been paying a smaller version of that same debt for centuries.
+
+"My curse," he said quietly, to no one and everyone, "is Enoch's hunger wearing a smaller coat. A cursed weapon unraveled my spirit once, and everything green I touch has died ever since, because some small piece of unmaking got into me and never left." He looked at his own hands, at the rot that clung to them even now, even here, at the edge of a wound that made his curse look almost gentle by comparison. "If I give that piece back--all of it, not the smaller version I've been carrying--I don't know what's left of me afterward."
+
+"You don't have to," Ordovis said. He had come from the wilds himself, moss-cloaked and silent until now, drawn by a call older than either of the young gods marching beside him. "No one is asking this of you."
+
+"No one has to ask," Orion said. "I've spent an age apologizing for what I carry without ever once trying to set it down." He managed something that might have been a smile, sad and certain both. "Let me set it down where it will actually matter, for once."
+
+He walked forward, alone, into the spreading unmaking, and the blight that had followed him for centuries--every dead tree, every poisoned well, every small grief he'd caused simply by existing near living things--tore itself free of him in a single convulsive wave and hurled itself back the way it came, back toward the hunger it had always, secretly, been borrowed from.
+
+For one terrible moment, the unmaking recoiled.
+
+It was not a victory. It was barely a pause. But Baldri, watching from the mortal line with tears he didn't bother to hide, understood exactly what it meant.
+
+"It can be given things," he said, wonder cutting through the grief in his voice. "It isn't just hunger. It's owed a debt, and debts--even debts this old--can be paid."
+
+Orion collapsed at the edge of the unmaking, alive, diminished, and for the first time since the cursed blade had found him centuries ago, entirely his own.
+
+
+## Chapter 26: Drexl's Judgment
+
+Serosh arrived at the height of it, the Red Flame at his back--hundreds of mortal disciples and a scattering of lesser gods who'd thrown in with his gospel of mortal ascension, all of them expecting, perhaps, a battle they could win and claim.
+
+What they found was Orion on his knees at the edge of an unmaking that didn't care about ascension, or gospel, or which side of the divine-mortal divide a soul had been born on.
+
+"You were wrong," Drexl said, meeting Serosh at the edge of the mortal line. It wasn't an accusation. It was almost gentle, which was somehow worse. "You said the fall of the gods would be liberation. Look at it. It isn't liberation. It's just an ending, indifferent to who it takes."
+
+"I was wrong about the shape of it," Serosh admitted, and for the first time in the entire war, his voice held no performance in it at all. "I am not wrong that something had to change. I watched this world stagnate under Valdre's order for longer than you'd believe, Drexl. I still believe that. I simply mistook Enoch for the change, instead of the *warning*."
+
+"Then help me finish paying the debt Orion started," Drexl said, "instead of finishing the war you started instead."
+
+Serosh looked past him--at Valdre giving back the last of the light he'd hoarded for an age, at Ostheus and Thor together tearing loose the storm both had once claimed as personal glory and hurling it back into the wound, at mortal soldiers standing shoulder to shoulder with gods neither side fully trusted, doing the only thing left that made any sense at all.
+
+"You're asking me to give up being right," Serosh said quietly.
+
+"I'm asking you to give up being *first*," Drexl said. "There's a difference, and I think you've always known it."
+
+For a long moment, the Fell God said nothing.
+
+Then he turned to his own disciples, the Red Flame burning in every one of their eyes, and said the last thing any of them expected to hear from him.
+
+"Kneel to no one," he told them. "But lend your hands to everyone. Today, that's the whole of the gospel."
+
+
+## Chapter 27: What Was Owed
+
+In the end, it was not a battle. Valerius would tell it as one, later, because that was the shape people needed to hear it in--but standing in the middle of it, he understood it for what it actually was: a debt, called due, paid by everyone who had ever borrowed against it, all at once.
+
+Valdre gave back the light he'd hoarded since the first dawn, until his hair went the grey of a mortal man's and his crown, unworn in an age, finally meant nothing at all.
+
+Ostheus and Thor together gave back the storm, and the sky over the Hollow Below cracked white and silent, spent.
+
+Drexl gave back the fire of judgment he'd wielded since the first god fell to pride, and something in his crimson armor dimmed, gentled, until he looked, for the first time anyone present could remember, almost approachable.
+
+Serosh gave back the knowledge he'd hoarded like a weapon, opening his mind to every disciple and enemy alike, until the secrets he'd built his whole exile around were simply *known*, and knowing them cost him the mystique he'd traded his godhood-in-exile to keep.
+
+Felough's blade screamed one final time and *broke*--not shattered, but unmade the way everything around it was being unmade--and where it broke, lightning poured out of him instead, out of the boy who'd doubted this cause every step of the way, until Stormbite wasn't a blade anymore at all, just a young man standing in the eye of his own storm, giving back a gift he hadn't even known he was carrying.
+
+And deep in the Hollow Below, Breylar knelt beside the man who'd made him, and found Manus's chest still, the blade buried to the hilt, Manus's eyes open and--for the first time since Blackreach--entirely his own.
+
+"Did it work?" Manus whispered.
+
+"I don't know yet," Breylar admitted.
+
+"Then stay," Manus said, "and find out with me."
+
+He did not have long. But he spent what he had looking at his own hands, cracked stone giving way, slowly, to something closer to skin, and when the light--the terrible, colorless, hungry light--finally receded from the wound above them, drawn back into whatever waited beneath the world by the sheer weight of everything given back to it, Manus was, for the first time in years, simply a man again.
+
+A dying one. But a man.
+
+"Tell Valerius," he said, "that I understood, in the end. The throne was never the enemy. I was so busy hating what sat on it that I almost became the thing that ends every throne at once."
+
+Breylar held his creator's hand until it stopped needing to be held, and did not let go for a long time after.
+
+
+## Chapter 28: The Fall of the Pantheon
+
+Aetherspire did not burn. It simply emptied.
+
+In the seasons that followed, the gods who remained--diminished, some of them, and none of them untouched--found that the mortals of Elarion no longer built temples so much as they built roads *past* the old temples, on the way to somewhere else. Not out of disrespect. Out of something closer to grief, and closer still to a kind of grown-up mercy: the gods had bled, had doubted, had finally given back what they'd taken, and mortals found they no longer needed a throne room to feel that gratitude in.
+
+Valdre stepped down from a seat that had, in the end, cracked itself in half long before he ever chose to leave it. He spent his last age walking the roads his worshippers built, unrecognized by most of them, and told those who did recognize him only one thing when they knelt: *don't.*
+
+Drexl remained, in his way--not a god of judgment anymore so much as a god of second chances, which he privately considered a far harder discipline. Serosh's Red Flame became, of all things, a school: not a cult, not a church, just a place where mortals argued openly about what the world should become next, exactly as loudly and messily as Serosh himself once had.
+
+Orion recovered, slowly, and the green things he touched began, for the first time in centuries, to live.
+
+Ostheus and Thor left together for realms neither of them would fully describe afterward, still arguing, by all accounts, about who had actually won their duel.
+
+And Breylar buried Manus beneath the same mountain that had made him, beside the son Manus had lost so long before any of this began, and stayed in Blackreach a long while afterward, neither hero nor villain, simply a witness who had loved someone complicated and watched him, in the very end, become simple again.
+
+As for Valerius--
+
+He stood, on the day it was offered to him, before a crowd large enough to crown a hundred kings, and Elarion held its breath to hear which path he'd choose.
+
+"I was told once," he said, "that there were two roads out of a war like this one. A crown, or an empty space where a crown used to be." He looked out at all of them--mortal and diminished god alike, standing in the same field for once, waiting on the same word. "I've spent this whole war being told I was becoming a symbol. I never wanted to be a symbol. I wanted to be a man who did the right thing when it mattered, and then went back to being nobody in particular."
+
+He set the crown they'd built for him down in the dirt at his feet.
+
+"So: no throne. Not because thrones are evil. Because we just spent a war learning that anything one person carries alone eventually gets heavy enough to break them, or worse, heavy enough that they stop noticing the weight at all." He looked toward Tiavoss, toward Eliegh, toward Felough--lightning-touched now, and steadier for it--toward every face in the fellowship that had walked beside him from a nameless fire outside Stonegrave Pass all the way to the edge of the end of the world. "Let's try the empty space instead. Let's see what we build when nobody's kneeling."
+
+No one cheered, at first. It wasn't that kind of moment.
+
+Then, slowly, one by one, the mortals of Elarion began, instead, to simply stand a little straighter--and somewhere far off, in a version of this story not yet written, in an age not yet born, names very much like theirs would rise again, in a world called Valkorath, still asking the very same question.
+
+*Who shapes the world, when no one god or throne gets to decide alone?*
+
+Elarion, for the first time in its long and burdened history, was finally free to keep finding out.
+
+**THE END**
+
