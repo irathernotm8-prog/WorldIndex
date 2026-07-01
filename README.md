@@ -23,22 +23,25 @@ Valkorath-World/
 │   ├── characters/           ← same layout as Valkorath's (catalog.json, data/, art/)
 │   └── story/pantheon-story.md
 ├── blade-of-honor/
-│   └── index.html            ← placeholder page (story set after Valkorath)
+│   ├── catalog/index.html    ← Blade of Honor's interactive character browser
+│   ├── characters/
+│   └── story/blade-of-honor-story.md
 └── centennial/
-    └── index.html            ← placeholder page (story set after Valkorath)
+    ├── catalog/index.html    ← Centennial's interactive character browser
+    ├── characters/
+    └── story/centennial-story.md
 ```
 
-The landing page (`index.html`) is the front door to the whole universe — it links out to
-each story. Valkorath and Pantheon are both live now; Blade of Honor and Centennial are
-still simple "coming soon" placeholder pages. When you're ready to build one of those out,
-it'll follow the same pattern as the other two (its own `catalog/`, `characters/`, and
-`story/` folders sitting inside that story's own directory).
+All four stories are live now. The landing page (`index.html`) is the front door to the
+whole universe — it links out to each one.
 
-The rebuild script now works for any story:
+The rebuild script works for any story:
 
 ```bash
-python3 scripts/build_catalog.py            # rebuilds Valkorath (default)
-python3 scripts/build_catalog.py pantheon    # rebuilds Pantheon
+python3 scripts/build_catalog.py                 # rebuilds Valkorath (default)
+python3 scripts/build_catalog.py pantheon         # rebuilds Pantheon
+python3 scripts/build_catalog.py blade-of-honor   # rebuilds Blade of Honor
+python3 scripts/build_catalog.py centennial       # rebuilds Centennial
 ```
 
 ## About Pantheon
@@ -57,6 +60,25 @@ the same way. Worth a read-through to confirm these land the way you intended.
 Three characters -- Reign, Drexl, and Valerius -- share names with major Valkorath
 characters. The bios note this as an intentional echo across ages without asserting exactly
 how they're connected, since that's very much your call to make.
+
+## About Blade of Honor and Centennial
+
+Both were built from PowerPoint decks rather than PDFs, but went through the same process:
+character art extracted directly from the slides, bios lightly cleaned up (typos, spacing,
+consistent capitalization) and organized into paragraphs, with faction and status assigned
+based on what each character's own bio actually says. Nothing needed heavy invention here —
+your original bios were already complete for every character in both decks.
+
+Neither story has a chapter-by-chapter narrative yet, just the premise/setting text from
+each deck's first slide — that's what's sitting in `story/blade-of-honor-story.md` and
+`story/centennial-story.md`. When you write the fuller narrative for either one, drop it
+into that same file and it'll read the same way Valkorath's and Pantheon's do.
+
+Centennial in particular pulls a lot of threads forward — Andromedus, Aetheris, Zornath,
+Dreyfus, and Father Elias (Father Godskin) all reappear from earlier in the timeline, along
+with Blade of Honor's own Aluccard, Drexl Voss, and Arthur. Worth knowing if you ever want
+a "first appearance" index across all four stories — that'd be a natural next feature for
+the landing page.
 
 ## Viewing it
 
