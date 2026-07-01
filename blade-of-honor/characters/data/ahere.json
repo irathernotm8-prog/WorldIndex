@@ -1,0 +1,16 @@
+{
+  "slug": "ahere",
+  "name": "Ahere",
+  "epithet": "The Devious Assassin",
+  "faction": "Kruxer's Forces",
+  "status": "Fallen",
+  "tags": [
+    "Assassin",
+    "Mentor"
+  ],
+  "bio": [
+    "A crazed assassin in Kruxer's employ, Ahere was once a mentor to Aluccard, before a falling-out over Ahere's methods split them apart. Ruthless, and in love with the thrill of the hunt, he stayed fixated on Aluccard long after his former student bested him in combat.",
+    "When Edwin needed Aluccard gotten rid of for good, it was Ahere he hired for the job. Aluccard ultimately killed his old mentor in the confrontation that followed -- and left Edwin's side for good over the betrayal."
+  ],
+  "art": "art/ahere.jpg"
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "aluccard",
+  "name": "Aluccard",
+  "epithet": "The Unsung Hero",
+  "faction": "Edwin's Cause",
+  "status": "Active",
+  "tags": [
+    "Outcast",
+    "Velkynai",
+    "Warrior"
+  ],
+  "bio": [
+    "An outcast from birth, Aluccard's pale skin and lanky frame meant he never quite fit anywhere. Even so, he always carried a clear sense of right and wrong, and the state of the world never sat easy with him. He had no real power to change any of it -- until he crossed paths with Drexl. The adventure that followed would change both their lives and destinies more than either could have known.",
+    "After Drexl's death, Aluccard stayed with the quest, where he ultimately met another man who shared the name: Drexl Voss, a knight from an entirely different plane of existence. Their bond ran deep -- arguably deeper than his bond with the first Drexl -- built on a shared sense of honor between them.",
+    "Aluccard's fate changed forever when he was bitten by a Velkynai, a race thought extinct, akin to the legend of vampires. His lifespan stretched far beyond a mortal's, and his agility and senses sharpened with it. He panicked at first, but came to see the change as a gift rather than a curse. By the journey's end, he left Edwin's side -- the king had long since abandoned the beliefs he once championed."
+  ],
+  "art": "art/aluccard.jpg"
+}

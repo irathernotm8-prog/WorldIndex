@@ -1,0 +1,16 @@
+{
+  "slug": "patchwork",
+  "name": "Patchwork",
+  "epithet": "The Chaos Walker",
+  "faction": "Unaligned",
+  "status": "Active",
+  "tags": [
+    "Anachronism",
+    "Torturer"
+  ],
+  "bio": [
+    "True name unknown, Patchwork was once a trusted soldier to an ancient king -- though trusted never really meant good. He was cruel and deranged in how he dealt with his king's enemies, with a particular fondness for toxic gas as a method of torture.",
+    "He seemingly died, having lived out a normal lifespan, thousands of years ago. And yet here he is in the 21st century, causing all sorts of havoc with the new toys at his disposal. Aluccard initially wrote him off as a distraction -- until he realized there was real foul play afoot. A being like Patchwork simply shouldn't be here, now, in the flesh. And yet there he is."
+  ],
+  "art": "art/patchwork.jpg"
+}

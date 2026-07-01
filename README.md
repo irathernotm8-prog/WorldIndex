@@ -23,23 +23,70 @@ Valkorath-World/
 │   ├── characters/           ← same layout as Valkorath's (catalog.json, data/, art/)
 │   └── story/pantheon-story.md
 ├── blade-of-honor/
-│   └── index.html            ← placeholder page (story set after Valkorath)
+│   ├── catalog/index.html    ← Blade of Honor's interactive character browser
+│   ├── characters/
+│   └── story/blade-of-honor-story.md
 └── centennial/
-    └── index.html            ← placeholder page (story set after Valkorath)
+    ├── catalog/index.html    ← Centennial's interactive character browser
+    ├── characters/
+    └── story/centennial-story.md
 ```
 
-The landing page (`index.html`) is the front door to the whole universe — it links out to
-each story. Valkorath and Pantheon are both live now; Blade of Honor and Centennial are
-still simple "coming soon" placeholder pages. When you're ready to build one of those out,
-it'll follow the same pattern as the other two (its own `catalog/`, `characters/`, and
-`story/` folders sitting inside that story's own directory).
+All four stories are live now. The landing page (`index.html`) is the front door to the
+whole universe — it links out to each one.
 
-The rebuild script now works for any story:
+The rebuild script works for any story:
 
 ```bash
-python3 scripts/build_catalog.py            # rebuilds Valkorath (default)
-python3 scripts/build_catalog.py pantheon    # rebuilds Pantheon
+python3 scripts/build_catalog.py                 # rebuilds Valkorath (default)
+python3 scripts/build_catalog.py pantheon         # rebuilds Pantheon
+python3 scripts/build_catalog.py blade-of-honor   # rebuilds Blade of Honor
+python3 scripts/build_catalog.py centennial       # rebuilds Centennial
 ```
+
+## Reading chapter by chapter
+
+Each story now has a reader alongside its catalog:
+
+```
+reader/index.html               ← Valkorath's chapter reader
+pantheon/reader/index.html      ← Pantheon's chapter reader
+blade-of-honor/reader/index.html
+centennial/reader/index.html
+```
+
+It reads the story's `.md` file directly, splits it on `## Chapter N: Title` /
+`## Prologue:` / `## Epilogue:` headers, and gives you a dropdown to jump to any chapter
+plus Prev/Next navigation (both a sticky top bar and buttons at the bottom of each
+chapter). There's a "Read the Story →" link on every catalog page, and each reader links
+back to its catalog and to the universe homepage.
+
+Because it's driven entirely by those `## ` headers, adding a new chapter to Valkorath's
+or Pantheon's story file is all it takes to get it recognized -- no extra step needed.
+Blade of Honor and Centennial currently show up as a single "chapter" (their premise
+text), since neither has a full narrative yet; once you add real chapters with `##`
+headers to those `.md` files, the reader picks them up the same way.
+
+## Faction realignment (from the character roster doc)
+
+You provided a full character roster with definitive affiliations, and it was a big
+upgrade over the story-inferred guesses from before -- **45 characters got corrected**
+faction assignments as a result, including a few clear miscategorizations (Kleon was
+wrongly filed under Drexl's Forces; Sir Tyrus, Sir Aldric, and Lady Valeria were wrongly
+under Hidden Holy Order instead of the Valkorath Crown; Aegen and Priest David were under
+Last Bastion instead of Hidden Holy Order).
+
+New faction categories came out of this pass to match your roster's own structure:
+**Sanctum of Aetheris** (Liora, Umbros, Aetheris), **Templar Order** (Baldric, Alaric,
+Frenry), **Titans** (Zornath, Corthos), and **Challenge of Rights** (the 15 characters tied
+to that specific trial -- Tendo, Hythm, Kazadar, Decker, Dreyfus's Hell incarnation, Moltar,
+Ganador, Patchwork, Caladan, both Landis cards, Helmut, Karethos, Axeon, and Chrieser). "The
+Kabal" was renamed **Black Kabal** to match your document's own terminology.
+
+Three characters from your roster aren't in the catalog yet because there's no art or
+source page for them to pull from: **Saeve** (Alexis's mother), **Silas** (Shattered Vale
+rogue mage), and the cosmic overseer **Death**. If you add visual-dictionary pages for
+them later, they'll slot into this same pipeline.
 
 ## About Pantheon
 
@@ -57,6 +104,25 @@ the same way. Worth a read-through to confirm these land the way you intended.
 Three characters -- Reign, Drexl, and Valerius -- share names with major Valkorath
 characters. The bios note this as an intentional echo across ages without asserting exactly
 how they're connected, since that's very much your call to make.
+
+## About Blade of Honor and Centennial
+
+Both were built from PowerPoint decks rather than PDFs, but went through the same process:
+character art extracted directly from the slides, bios lightly cleaned up (typos, spacing,
+consistent capitalization) and organized into paragraphs, with faction and status assigned
+based on what each character's own bio actually says. Nothing needed heavy invention here —
+your original bios were already complete for every character in both decks.
+
+Neither story has a chapter-by-chapter narrative yet, just the premise/setting text from
+each deck's first slide — that's what's sitting in `story/blade-of-honor-story.md` and
+`story/centennial-story.md`. When you write the fuller narrative for either one, drop it
+into that same file and it'll read the same way Valkorath's and Pantheon's do.
+
+Centennial in particular pulls a lot of threads forward — Andromedus, Aetheris, Zornath,
+Dreyfus, and Father Elias (Father Godskin) all reappear from earlier in the timeline, along
+with Blade of Honor's own Aluccard, Drexl Voss, and Arthur. Worth knowing if you ever want
+a "first appearance" index across all four stories — that'd be a natural next feature for
+the landing page.
 
 ## Viewing it
 

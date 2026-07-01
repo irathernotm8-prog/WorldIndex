@@ -1,0 +1,16 @@
+{
+  "slug": "kruxer",
+  "name": "Kruxer",
+  "epithet": "The Fire Lord",
+  "faction": "Kruxer's Forces",
+  "status": "Fallen",
+  "tags": [
+    "Warlord",
+    "Pyromancer"
+  ],
+  "bio": [
+    "The fierce fire lord Kruxer ruled with an iron fist, one of very few in this age to possess magic of any kind -- let alone the power of pyromancy. Cruel and power-hungry, he was in many ways a dark reflection of the mercenary Drexl, save for one thing: he lacked any humanity at all.",
+    "His goal was never conquest. It was to end all life everywhere, scorching the earth as he went. He finally met his end at the hands of Drexl, the two of them trading blows to the last inside a crumbling castle."
+  ],
+  "art": "art/kruxer.jpg"
+}

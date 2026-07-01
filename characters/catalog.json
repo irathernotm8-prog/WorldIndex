@@ -3,7 +3,7 @@
     "slug": "aegen-009",
     "name": "Aegen",
     "epithet": "The Eccentric Sage",
-    "faction": "Last Bastion",
+    "faction": "Hidden Holy Order",
     "status": "Fallen",
     "tags": [
       "Mage",
@@ -23,7 +23,7 @@
     "slug": "aetheris-038",
     "name": "Aetheris",
     "epithet": "The Twin Aspect",
-    "faction": "Unaligned",
+    "faction": "Sanctum of Aetheris",
     "status": "Active",
     "tags": [
       "Warrior",
@@ -43,7 +43,7 @@
     "slug": "alaric-061",
     "name": "Alaric",
     "epithet": "The Devoted Disciple",
-    "faction": "Unaligned",
+    "faction": "Templar Order",
     "status": "Corrupted",
     "tags": [
       "Knight",
@@ -62,7 +62,7 @@
     "slug": "aldric-012",
     "name": "Aldric",
     "epithet": "The Valiant Protector",
-    "faction": "Hidden Holy Order",
+    "faction": "Valkorath Crown",
     "status": "Fallen",
     "tags": [
       "Knight",
@@ -96,7 +96,7 @@
     "slug": "armadus-025",
     "name": "Armadus",
     "epithet": "The Blade of Darkness",
-    "faction": "The Kabal",
+    "faction": "Black Kabal",
     "status": "Fallen",
     "tags": [
       "Knight",
@@ -114,7 +114,7 @@
     "slug": "axeon-078",
     "name": "Axeon",
     "epithet": "The Orc Chieftain",
-    "faction": "Unaligned",
+    "faction": "Challenge of Rights",
     "status": "Fallen",
     "tags": [
       "Beast/Creature"
@@ -130,7 +130,7 @@
     "slug": "baldric-060",
     "name": "Baldric",
     "epithet": "The Unyielding",
-    "faction": "Unaligned",
+    "faction": "Templar Order",
     "status": "Fallen",
     "tags": [
       "Knight",
@@ -166,7 +166,7 @@
     "slug": "blyght-048",
     "name": "Blyght",
     "epithet": "Plague Incarnate",
-    "faction": "The Kabal",
+    "faction": "Black Kabal",
     "status": "Corrupted",
     "tags": [
       "Mage"
@@ -185,7 +185,7 @@
     "slug": "caladan-087",
     "name": "Caladan",
     "epithet": "King of Nothing",
-    "faction": "Unaligned",
+    "faction": "Challenge of Rights",
     "status": "Fallen",
     "tags": [
       "Royalty",
@@ -252,7 +252,7 @@
     "slug": "chrieser-079",
     "name": "Chrieser",
     "epithet": "The Soul Dust King",
-    "faction": "Unaligned",
+    "faction": "Challenge of Rights",
     "status": "Fallen",
     "tags": [
       "Mage",
@@ -287,7 +287,7 @@
     "slug": "corthos-042",
     "name": "Corthos",
     "epithet": "The Clockwork Sentinel",
-    "faction": "Unaligned",
+    "faction": "Titans",
     "status": "Active",
     "tags": [
       "Undead"
@@ -337,7 +337,7 @@
     "slug": "david-008",
     "name": "David",
     "epithet": "Apprentice of Maxim",
-    "faction": "Last Bastion",
+    "faction": "Hidden Holy Order",
     "status": "Fallen",
     "tags": [
       "Warrior"
@@ -355,7 +355,7 @@
     "slug": "decker-092",
     "name": "Decker",
     "epithet": "The Cruel Hunter",
-    "faction": "Unaligned",
+    "faction": "Challenge of Rights",
     "status": "Fallen",
     "tags": [
       "Royalty"
@@ -518,7 +518,7 @@
     "slug": "dreyfus-103",
     "name": "Dreyfus",
     "epithet": "The Fallen King",
-    "faction": "Valkorath Crown",
+    "faction": "Challenge of Rights",
     "status": "Fallen",
     "tags": [
       "Royalty"
@@ -549,7 +549,7 @@
     "slug": "enoch-049",
     "name": "Enoch",
     "epithet": "The Ancient One",
-    "faction": "Unaligned",
+    "faction": "Hidden Holy Order",
     "status": "Active",
     "tags": [
       "Mage"
@@ -619,7 +619,7 @@
     "slug": "frenry-062",
     "name": "Frenry",
     "epithet": "The Fire Templar",
-    "faction": "Unaligned",
+    "faction": "Templar Order",
     "status": "Active",
     "tags": [
       "Unclassified"
@@ -637,7 +637,7 @@
     "slug": "ganador-085",
     "name": "Ganador",
     "epithet": "The Cursed King",
-    "faction": "Unaligned",
+    "faction": "Challenge of Rights",
     "status": "Fallen",
     "tags": [
       "Mage",
@@ -714,7 +714,7 @@
     "slug": "grallok-019",
     "name": "Grallok",
     "epithet": "Guardian of Mosstone",
-    "faction": "Last Bastion",
+    "faction": "Eastern Marshlands",
     "status": "Fallen",
     "tags": [
       "Mage",
@@ -770,7 +770,7 @@
     "slug": "helmut-094",
     "name": "Helmut",
     "epithet": "The Fire Knight",
-    "faction": "Valkorath Crown",
+    "faction": "Challenge of Rights",
     "status": "Fallen",
     "tags": [
       "Knight",
@@ -788,7 +788,7 @@
     "slug": "hythm-102",
     "name": "Hythm",
     "epithet": "The King Immortal",
-    "faction": "Unaligned",
+    "faction": "Challenge of Rights",
     "status": "Active",
     "tags": [
       "Royalty",
@@ -876,7 +876,7 @@
     "slug": "karethos-065",
     "name": "Karethos",
     "epithet": "The Dragon Lord",
-    "faction": "Unaligned",
+    "faction": "Challenge of Rights",
     "status": "Active",
     "tags": [
       "Royalty",
@@ -893,7 +893,7 @@
     "slug": "kazadar-091",
     "name": "Kazadar",
     "epithet": "The Malice King",
-    "faction": "Unaligned",
+    "faction": "Challenge of Rights",
     "status": "Fallen",
     "tags": [
       "Royalty"
@@ -960,7 +960,7 @@
     "slug": "kleon-113",
     "name": "Kleon",
     "epithet": "The King Out of Time",
-    "faction": "Drexl's Forces",
+    "faction": "Unaligned",
     "status": "Active",
     "tags": [
       "Knight",
@@ -997,7 +997,7 @@
     "slug": "lady-valeria-011",
     "name": "Lady Valeria",
     "epithet": "The Gilded Guardian",
-    "faction": "Hidden Holy Order",
+    "faction": "Valkorath Crown",
     "status": "Fallen",
     "tags": [
       "Knight",
@@ -1016,7 +1016,7 @@
     "slug": "landis-093",
     "name": "Landis",
     "epithet": "The Embered King",
-    "faction": "Valkorath Crown",
+    "faction": "Challenge of Rights",
     "status": "Fallen",
     "tags": [
       "Mage",
@@ -1034,7 +1034,7 @@
     "slug": "landis-095",
     "name": "Landis",
     "epithet": "The Angered King",
-    "faction": "Valkorath Crown",
+    "faction": "Challenge of Rights",
     "status": "Fallen",
     "tags": [
       "Mage",
@@ -1068,7 +1068,7 @@
     "slug": "lina-018",
     "name": "Lina",
     "epithet": "The Arcane Luminary",
-    "faction": "Last Bastion",
+    "faction": "Unaligned",
     "status": "Active",
     "tags": [
       "Mage"
@@ -1085,7 +1085,7 @@
     "slug": "liora-036",
     "name": "Liora",
     "epithet": "The Light Aspect",
-    "faction": "Unaligned",
+    "faction": "Sanctum of Aetheris",
     "status": "Active",
     "tags": [
       "Warrior",
@@ -1117,7 +1117,7 @@
     "slug": "lucan-114",
     "name": "Lucan",
     "epithet": "The King That Never Was",
-    "faction": "Garrux's Empire",
+    "faction": "Unaligned",
     "status": "Active",
     "tags": [
       "Assassin",
@@ -1271,7 +1271,7 @@
     "slug": "moltar-104",
     "name": "Moltar",
     "epithet": "Loyal Avatar",
-    "faction": "Valkorath Crown",
+    "faction": "Challenge of Rights",
     "status": "Active",
     "tags": [
       "Warrior",
@@ -1289,7 +1289,7 @@
     "slug": "nyx-028",
     "name": "Nyx",
     "epithet": "The Shadowfang",
-    "faction": "Drexl's Forces",
+    "faction": "Black Kabal",
     "status": "Active",
     "tags": [
       "Mage",
@@ -1306,7 +1306,7 @@
     "slug": "obsidyn-032",
     "name": "Obsidyn",
     "epithet": "The Steel Shade",
-    "faction": "The Kabal",
+    "faction": "Black Kabal",
     "status": "Fallen",
     "tags": [
       "Mage",
@@ -1341,7 +1341,7 @@
     "slug": "patchwork-086",
     "name": "Patchwork",
     "epithet": "The Rogue Soldier",
-    "faction": "Unaligned",
+    "faction": "Challenge of Rights",
     "status": "Active",
     "tags": [
       "Assassin",
@@ -1497,7 +1497,7 @@
     "slug": "sir-thorne-valecross-056",
     "name": "Sir Thorne Valecross",
     "epithet": "The Stoic Protector",
-    "faction": "Order of the Iron Oath",
+    "faction": "Valkorath Crown",
     "status": "Active",
     "tags": [
       "Knight",
@@ -1516,7 +1516,7 @@
     "slug": "sir-tyrus-010",
     "name": "Sir Tyrus",
     "epithet": "The Lone Holy Knight",
-    "faction": "Hidden Holy Order",
+    "faction": "Valkorath Crown",
     "status": "Active",
     "tags": [
       "Knight"
@@ -1533,7 +1533,7 @@
     "slug": "sir-tyrus-013",
     "name": "Sir Tyrus",
     "epithet": "The Gilded Champion",
-    "faction": "Hidden Holy Order",
+    "faction": "Valkorath Crown",
     "status": "Active",
     "tags": [
       "Knight",
@@ -1550,7 +1550,7 @@
     "slug": "slender-055",
     "name": "Slender",
     "epithet": "The Chainbound Rogue",
-    "faction": "Unaligned",
+    "faction": "Shattered Vale",
     "status": "Active",
     "tags": [
       "Warrior",
@@ -1569,7 +1569,7 @@
     "slug": "solas-046",
     "name": "Solas",
     "epithet": "The Silver Tongue",
-    "faction": "Valkorath Crown",
+    "faction": "Last Bastion",
     "status": "Fallen",
     "tags": [
       "Warrior",
@@ -1587,7 +1587,7 @@
     "slug": "solas-109",
     "name": "Solas",
     "epithet": "The Resurrected Brother",
-    "faction": "Valkorath Crown",
+    "faction": "Last Bastion",
     "status": "Fallen",
     "tags": [
       "Warrior",
@@ -1641,7 +1641,7 @@
     "slug": "tendo-083",
     "name": "Tendo",
     "epithet": "The Unlikely Heir",
-    "faction": "Unaligned",
+    "faction": "Challenge of Rights",
     "status": "Fallen",
     "tags": [
       "Warrior"
@@ -1744,7 +1744,7 @@
     "slug": "tyrus-090",
     "name": "Tyrus",
     "epithet": "The Last Hero Standing",
-    "faction": "Hidden Holy Order",
+    "faction": "Valkorath Crown",
     "status": "Active",
     "tags": [
       "Knight"
@@ -1761,7 +1761,7 @@
     "slug": "umbros-037",
     "name": "Umbros",
     "epithet": "The Shadow Aspect",
-    "faction": "Unaligned",
+    "faction": "Sanctum of Aetheris",
     "status": "Active",
     "tags": [
       "Unclassified"
@@ -1937,7 +1937,7 @@
     "slug": "vornath-043",
     "name": "Vornath",
     "epithet": "The Infernal Maw",
-    "faction": "Drexl's Forces",
+    "faction": "Unaligned",
     "status": "Active",
     "tags": [
       "Unclassified"
@@ -1986,7 +1986,7 @@
     "slug": "zephyr-014",
     "name": "Zephyr",
     "epithet": "The Wind Monk",
-    "faction": "Last Bastion",
+    "faction": "Valkorath Crown",
     "status": "Active",
     "tags": [
       "Unclassified"
@@ -2003,7 +2003,7 @@
     "slug": "zornath-076",
     "name": "Zornath",
     "epithet": "Master of Chaos",
-    "faction": "Unaligned",
+    "faction": "Titans",
     "status": "Corrupted",
     "tags": [
       "Unclassified"

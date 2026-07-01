@@ -1,0 +1,17 @@
+{
+  "slug": "leon",
+  "name": "Leon",
+  "epithet": "The Mortal Assassin",
+  "faction": "Aluccard's Circle",
+  "status": "Active",
+  "tags": [
+    "Mortal",
+    "Assassin",
+    "Assistant"
+  ],
+  "bio": [
+    "Leon is Aluccard's trained apprentice. Though only mortal, he's been pushed past the natural limits of the human body, now capable of assisting his master with far more serious matters than his day job -- Aluccard's business assistant -- would suggest.",
+    "Leon is fiercely loyal to Aluccard, who saved him during a supernatural attack on his family by a force that remains unknown to this day. Lately, he's begun to worry -- for the first time, he can see the fear of dying starting to reach his master."
+  ],
+  "art": "art/leon.jpg"
+}

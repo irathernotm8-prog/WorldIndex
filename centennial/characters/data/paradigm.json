@@ -1,0 +1,16 @@
+{
+  "slug": "paradigm",
+  "name": "Paradigm",
+  "epithet": "God of the New Age",
+  "faction": "Unaligned",
+  "status": "Active",
+  "tags": [
+    "God",
+    "Business Rival"
+  ],
+  "bio": [
+    "Paradigm, god of technology, was born during the Industrial Revolution and has only grown in power since. By the 21st century, very few remain who can challenge his influence.",
+    "Given that he isn't exactly a force for good, Aluccard suspects Paradigm may be behind the culling of immortal beings -- though he lacks the resources or strength to confront the tech titan alone. Their respective businesses are also in the middle of a hostile takeover, which does nothing to ease the tension between them."
+  ],
+  "art": "art/paradigm.jpg"
+}

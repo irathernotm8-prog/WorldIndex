@@ -1,0 +1,16 @@
+{
+  "slug": "minodas",
+  "name": "Minodas",
+  "epithet": "The Devil's Dealer",
+  "faction": "The Underworld",
+  "status": "Active",
+  "tags": [
+    "Demon",
+    "Businessman"
+  ],
+  "bio": [
+    "Minodas, the beastly businessman, is another figure Aluccard has had the displeasure of crossing paths with. A venture capitalist by trade, Minodas offers \"the devil's deal\" to those he sees as vulnerable. Most people see only a man; Aluccard is under no such illusion.",
+    "Minodas serves the lord of the underworld, handing out deals he knows he'll be able to collect on -- and what he's collecting is nothing less than souls. He has no morals, and he'll offer his deal to almost anyone foolish enough to take it."
+  ],
+  "art": "art/minodas.jpg"
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "death",
+  "name": "Death",
+  "epithet": "The Classy Reaper",
+  "faction": "Unaligned",
+  "status": "Active",
+  "tags": [
+    "Reaper",
+    "Retired"
+  ],
+  "bio": [
+    "Death, the reaper -- ever-present, all-powerful, and going through something of an existential crisis these last few centuries. These days he's the proud owner of a jazz bar, having put his reaping duties on the back burner in favor of living among people and trying, finally, to understand them. Along the way he's developed a taste for the finer things: fine dining, expensive suits, all of it.",
+    "He was one of the first people Aluccard approached about the dying immortals, but Death offered little clarity -- only that he sees humans inching their own lives toward the underworld's gates all on their own, through what they consume. He's retired now, and he and the ruler of the underworld aren't exactly on good terms. Still, he can't help but feel the death of the immortals; it's hard not to sense the weight of souls that heavy as they fall."
+  ],
+  "art": "art/death.jpg"
+}

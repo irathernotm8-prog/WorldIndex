@@ -1,0 +1,18 @@
+{
+  "slug": "kleon",
+  "name": "Kleon",
+  "epithet": "The King Out of Time",
+  "faction": "Unaligned",
+  "status": "Active",
+  "tags": [
+    "King",
+    "Vigilante",
+    "Time Traveler"
+  ],
+  "bio": [
+    "Kleon -- warrior, king, father, and above all, lost. In his own time he was obsessed with harnessing the power of time travel to save his home, a fixation that changed everything the day a mysterious time-traveling tyrant fought him through the time-stream itself. The tyrant ended up no one knows where. Kleon wound up in the 21st century, alone.",
+    "He spent a while trying to build his own time machine -- 21st century technology was impressive, but it fell well short of the time magic that had stranded him here in the first place. Eventually he found a new calling as a vigilante defender of the weak and innocent in New York City, making it his personal mission to end the shady practices of the city's corporate powerhouses -- Aluccard included, whose path he's crossed more than once.",
+    "Though not an immortal himself, Kleon does care about the immortal killings, seeing them as a plain injustice. He still refuses to work with Aluccard, though -- old grudges die hard."
+  ],
+  "art": "art/kleon.jpg"
+}

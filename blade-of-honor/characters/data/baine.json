@@ -1,0 +1,16 @@
+{
+  "slug": "baine",
+  "name": "Baine",
+  "epithet": "The Burnt Knight",
+  "faction": "Edwin's Cause",
+  "status": "Fallen",
+  "tags": [
+    "Knight",
+    "Amnesiac"
+  ],
+  "bio": [
+    "A lost knight with no recollection of who he once was, Baine stumbled upon the group of heroes as they marched toward Kruxer. Something -- some pull from the spirits of old -- compelled him to keep fighting, to keep moving forward.",
+    "He would sometimes whisper to himself, unprompted: \"must make it,\" \"must go to the Last Bastion.\" He never would. Baine was among the many casualties of the battle with Kruxer, his goals and his past both left unfinished."
+  ],
+  "art": "art/baine.jpg"
+}

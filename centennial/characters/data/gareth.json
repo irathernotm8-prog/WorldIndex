@@ -1,0 +1,16 @@
+{
+  "slug": "gareth",
+  "name": "Gareth",
+  "epithet": "The Gunslinger",
+  "faction": "Aluccard's Circle",
+  "status": "Active",
+  "tags": [
+    "Mercenary",
+    "Gunslinger"
+  ],
+  "bio": [
+    "Gareth, the gunslinger, is a mercenary who deals exclusively in supernatural happenings -- a lifestyle that's already cost him an arm. Nobody's hired him when he stumbles onto Aluccard and Leon investigating Lucan's death, and at first he assumes it was their doing. After a bit of clarification, he agrees to join the investigation, much to Aluccard's protest.",
+    "Narcissistic, bravado-fueled, and more than a little shady, Gareth has nonetheless been trying to do good lately -- though what caused the change of heart remains anyone's guess."
+  ],
+  "art": "art/gareth.jpg"
+}

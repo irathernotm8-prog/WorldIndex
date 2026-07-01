@@ -1,0 +1,17 @@
+{
+  "slug": "arthur",
+  "name": "Arthur",
+  "epithet": "The Silver Knight",
+  "faction": "Edwin's Cause",
+  "status": "Fallen",
+  "tags": [
+    "Knight",
+    "Undead",
+    "Legend"
+  ],
+  "bio": [
+    "Loyal to Edwin, powerful, and skilled -- Arthur, yes, that Arthur, of legend -- carried a secret few knew. He had died years prior. What the world saw was only a suit of armor tethering his existence to this plane.",
+    "His loyalty was no less real for it. He wanted to see a united kingdom under Edwin more than almost anyone. He would never get the chance -- the armor, and the tether that kept him bound to the world, was destroyed in the fight against Syloth. Tales of a ghost appearing behind Edwin spread for years to come."
+  ],
+  "art": "art/arthur.jpg"
+}

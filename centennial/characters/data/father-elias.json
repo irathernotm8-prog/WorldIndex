@@ -1,0 +1,18 @@
+{
+  "slug": "father-elias",
+  "name": "Father Elias",
+  "epithet": "The Corrupted Priest",
+  "faction": "Unaligned",
+  "status": "Active",
+  "tags": [
+    "Priest",
+    "Cult Leader",
+    "Immortal"
+  ],
+  "bio": [
+    "Once known as Father Godskin, Elias is a priest who founded a cult built on dark magic many eons ago and has held onto his power throughout most of human history. Lately, though, people have turned away from faith in favor of technology and money as their new gods, and Elias has lost a substantial amount of his influence along the way.",
+    "His immortality comes from a medallion he wears around his neck, said to hold the heart of a dead god within it. He set his disciples to stalk Aluccard, and for a time Aluccard was nearly certain Elias had a hand in Lucan's death -- but their eventual confrontation reveals both parties are simply worried about the same immortal killer on the loose.",
+    "Aluccard still doesn't trust him, but a temporary alliance forms between the two regardless, at least until a killer can be found. Elias offers up his considerable wealth and connections in exchange for one thing: bringing the killer to him, for Elias's own divine judgment."
+  ],
+  "art": "art/father-elias.jpg"
+}

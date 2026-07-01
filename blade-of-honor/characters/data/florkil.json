@@ -1,0 +1,16 @@
+{
+  "slug": "florkil",
+  "name": "Florkil",
+  "epithet": "The Northern Beast",
+  "faction": "Edwin's Cause",
+  "status": "Fallen",
+  "tags": [
+    "Warrior",
+    "Viking"
+  ],
+  "bio": [
+    "The raging beast of the northern territories, Florkil was a would-be viking and a brutally challenging warrior to best. Once he learned of the adventure the heroes were on, he joined the quest in search of a worthy death.",
+    "He ultimately got his wish in the battle against Kruxer, where he and many others lost their lives -- but he died happy, knowing he'd found the end he was looking for."
+  ],
+  "art": "art/florkil.jpg"
+}

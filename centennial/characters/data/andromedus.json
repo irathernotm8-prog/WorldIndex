@@ -1,0 +1,18 @@
+{
+  "slug": "andromedus",
+  "name": "Andromedus",
+  "epithet": "The Blue Man",
+  "faction": "Unaligned",
+  "status": "Active",
+  "tags": [
+    "Enigma",
+    "Cosmic",
+    "Businessman"
+  ],
+  "bio": [
+    "One of the oldest beings in the world -- older than the world itself, if the stories are true -- Andromedus spent thousands of years serving a friend's memory before finally choosing to live among mortals, who have accepted his otherworldly appearance with surprising ease. Perhaps the 21st century really is a more tolerant time.",
+    "Now running his own business, he looks like just another blue-skinned entrepreneur, but behind the facade he continues his true work: containing and concealing the supernatural from the common folk. He considers it his mission to keep this world's people protected from the kind of power that comes with that knowledge.",
+    "His hands have been especially full lately, keeping the bodies of dead immortals out of the wrong hands. He approached Aluccard about collaborating on the investigation -- Aluccard, still holding his reservations about the blue man, has so far turned him down."
+  ],
+  "art": "art/andromedus.jpg"
+}

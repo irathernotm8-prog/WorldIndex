@@ -1,0 +1,17 @@
+{
+  "slug": "drexl-mercenary",
+  "name": "Drexl",
+  "epithet": "The Hired Mercenary",
+  "faction": "Edwin's Cause",
+  "status": "Fallen",
+  "tags": [
+    "Mercenary",
+    "Warrior"
+  ],
+  "bio": [
+    "Demon in combat, money-hungry, and endlessly ambitious, Drexl carries a name that holds more legacy than he himself knows. He grew up on stories of a distant island, a fallen kingdom, and a man who shared his name being deeply wronged. He never paid the tales much mind, but he understood the feeling at their center all too well -- the sense that the world owed him more than what he was born into.",
+    "He grew into the fiercest of warriors, nearly unbeatable in combat, with no special powers or magic behind it -- just diligent training and incredible battle awareness. He eventually came to blows with a young outcast named Aluccard, who, after losing to him, asked to learn under him. Drexl reluctantly agreed; a decoy could come in handy in certain situations.",
+    "Word of Edwin's cause -- and Edwin's riches -- eventually set Drexl and Aluccard on the road together. After a long journey, Drexl would uncharacteristically give his life to save Aluccard against the fire lord Kruxer, a sacrifice his former student never truly came to understand."
+  ],
+  "art": "art/drexl-mercenary.jpg"
+}

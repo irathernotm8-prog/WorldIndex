@@ -1,0 +1,16 @@
+{
+  "slug": "hythm",
+  "name": "Hythm",
+  "epithet": "The Loyal Soldier",
+  "faction": "Edwin's Cause",
+  "status": "Active",
+  "tags": [
+    "Immortal",
+    "Wanderer"
+  ],
+  "bio": [
+    "A simple man making his way through the land where this story takes place, Hythm was, in truth, the very same man who would be considered royalty in a distant land and a forgotten time. He has no interest in the crown. He walks the earth as an immortal, simply trying to do right by the people he meets.",
+    "Hearing of Edwin's story, Hythm joined the party to see it play out -- only to leave again after Kruxer's defeat, once more disillusioned with the path of mankind, and content to consider himself apart from it."
+  ],
+  "art": "art/hythm.jpg"
+}

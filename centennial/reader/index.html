@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CENTENNIAL — Read</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&family=Spectral:ital,wght@0,400;0,500;0,600;1,400&family=Spectral+SC:wght@500&display=swap');
+
+  :root {
+    --bg: #0c0a10;
+    --bg-panel: #15121a;
+    --bg-card: #1b1722;
+    --hairline: #2c2733;
+    --gold: #d8b369;
+    --gold-dim: #8a7245;
+    --shadow-violet: #7a4fb5;
+    --ink: #e9e2d4;
+    --ink-dim: #a89e8e;
+    --ink-faint: #6e6557;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    font-family: 'Spectral', serif;
+    background: radial-gradient(ellipse 120% 80% at 50% -10%, #1c1624 0%, var(--bg) 55%);
+    color: var(--ink);
+    min-height: 100%;
+  }
+
+  .vk-header {
+    padding: 48px 24px 28px;
+    text-align: center;
+    position: relative;
+    border-bottom: 1px solid var(--hairline);
+  }
+  .vk-header::before {
+    content: ''; position: absolute; top: 0; left: 50%; transform: translateX(-50%);
+    width: 1px; height: 24px; background: linear-gradient(to bottom, transparent, var(--gold-dim));
+  }
+  .backlink {
+    display: inline-block; font-family: 'Spectral SC', serif; font-size: 10.5px;
+    letter-spacing: 0.14em; text-transform: uppercase; color: var(--gold-dim);
+    text-decoration: none; margin: 0 10px 16px;
+  }
+  .vk-eyebrow {
+    font-family: 'Spectral SC', serif; letter-spacing: 0.35em; font-size: 11px;
+    color: var(--shadow-violet); text-transform: uppercase; margin-bottom: 12px;
+  }
+  .vk-title {
+    font-family: 'Cinzel', serif; font-size: clamp(30px, 6vw, 46px); font-weight: 900;
+    letter-spacing: 0.06em;
+    background: linear-gradient(180deg, #f3e3b8 0%, var(--gold) 45%, #9d7e3e 100%);
+    -webkit-background-clip: text; background-clip: text; color: transparent;
+    margin: 0; line-height: 1.1;
+  }
+  .vk-subtitle { font-style: italic; color: var(--ink-dim); font-size: 14px; margin-top: 8px; }
+
+  .nav-bar {
+    position: sticky; top: 0; z-index: 20;
+    background: rgba(12,10,16,0.92);
+    backdrop-filter: blur(6px);
+    border-bottom: 1px solid var(--hairline);
+    padding: 14px 20px;
+    display: flex; align-items: center; justify-content: center; gap: 14px;
+    flex-wrap: wrap;
+  }
+  .nav-btn {
+    font-family: 'Spectral SC', serif; font-size: 11px; letter-spacing: 0.1em;
+    text-transform: uppercase; color: var(--ink-dim);
+    background: var(--bg-panel); border: 1px solid var(--hairline); border-radius: 3px;
+    padding: 8px 16px; cursor: pointer; transition: all 0.15s;
+  }
+  .nav-btn:hover:not(:disabled) { color: var(--gold); border-color: var(--gold-dim); }
+  .nav-btn:disabled { opacity: 0.3; cursor: default; }
+  .chapter-select {
+    font-family: 'Spectral', serif; font-size: 13px; color: var(--ink);
+    background: var(--bg-panel); border: 1px solid var(--hairline); border-radius: 3px;
+    padding: 8px 12px; max-width: 320px; cursor: pointer;
+  }
+  .progress {
+    font-family: 'Spectral SC', serif; font-size: 10.5px; letter-spacing: 0.1em;
+    color: var(--ink-faint); text-transform: uppercase; white-space: nowrap;
+  }
+
+  .reading-pane {
+    max-width: 700px; margin: 0 auto; padding: 56px 24px 100px;
+  }
+  .chapter-label {
+    font-family: 'Spectral SC', serif; font-size: 11px; letter-spacing: 0.2em;
+    color: var(--shadow-violet); text-transform: uppercase; text-align: center;
+    margin-bottom: 10px;
+  }
+  .chapter-title {
+    font-family: 'Cinzel', serif; font-weight: 700; font-size: clamp(24px, 4vw, 34px);
+    color: var(--gold); text-align: center; margin: 0 0 40px; line-height: 1.25;
+  }
+  .chapter-body p {
+    font-size: 17px; line-height: 1.85; color: var(--ink-dim); margin: 0 0 22px;
+  }
+  .chapter-body p:first-of-type::first-letter {
+    font-family: 'Cinzel', serif; font-size: 46px; font-weight: 700; color: var(--gold);
+    float: left; line-height: 0.8; padding: 6px 10px 0 0;
+  }
+
+  .bottom-nav {
+    max-width: 700px; margin: 20px auto 0; padding: 28px 24px 0;
+    border-top: 1px solid var(--hairline);
+    display: flex; justify-content: space-between; gap: 16px;
+  }
+  .bottom-nav-btn {
+    flex: 1; text-align: left; text-decoration: none; cursor: pointer;
+    background: none; border: none; padding: 14px 16px;
+    border: 1px solid var(--hairline); border-radius: 4px;
+    transition: border-color 0.15s;
+  }
+  .bottom-nav-btn:hover { border-color: var(--gold-dim); }
+  .bottom-nav-btn.next { text-align: right; }
+  .bottom-nav-btn:disabled { opacity: 0.3; cursor: default; }
+  .bottom-nav-btn:disabled:hover { border-color: var(--hairline); }
+  .bottom-nav-label {
+    font-family: 'Spectral SC', serif; font-size: 9.5px; letter-spacing: 0.14em;
+    color: var(--ink-faint); text-transform: uppercase; margin-bottom: 4px;
+  }
+  .bottom-nav-title { font-size: 13px; color: var(--ink); font-style: italic; }
+
+  .loading, .error {
+    text-align: center; padding: 80px 24px; color: var(--ink-faint); font-style: italic;
+  }
+</style>
+</head>
+<body>
+
+  <div class="vk-header">
+    <a class="backlink" href="../../">&larr; The Valkorath Universe</a>
+    <a class="backlink" href="../catalog/">&larr; Centennial Catalog</a>
+    <div class="vk-eyebrow">Present Day</div>
+    <h1 class="vk-title">CENTENNIAL</h1>
+    <div class="vk-subtitle">Read Chapter by Chapter</div>
+  </div>
+
+  <div class="nav-bar" id="nav-bar" style="display:none;">
+    <button class="nav-btn" id="prev-btn">&larr; Prev</button>
+    <select class="chapter-select" id="chapter-select"></select>
+    <button class="nav-btn" id="next-btn">Next &rarr;</button>
+    <span class="progress" id="progress"></span>
+  </div>
+
+  <div id="content">
+    <div class="loading">Loading the chronicles&hellip;</div>
+  </div>
+
+<script>
+(function() {
+  const content = document.getElementById('content');
+  const navBar = document.getElementById('nav-bar');
+  const select = document.getElementById('chapter-select');
+  const prevBtn = document.getElementById('prev-btn');
+  const nextBtn = document.getElementById('next-btn');
+  const progress = document.getElementById('progress');
+
+  let chapters = [];
+  let current = 0;
+
+  fetch('../story/centennial-story.md')
+    .then(r => { if (!r.ok) throw new Error('fetch failed'); return r.text(); })
+    .then(md => {
+      chapters = parseChapters(md);
+      if (chapters.length === 0) {
+        content.innerHTML = '<div class="error">No chapters found yet.</div>';
+        return;
+      }
+      buildSelect();
+      navBar.style.display = 'flex';
+      const hash = parseInt((location.hash || '').replace('#', ''), 10);
+      goTo(Number.isInteger(hash) && hash >= 0 && hash < chapters.length ? hash : 0);
+    })
+    .catch(() => {
+      content.innerHTML = `<div class="error">Couldn't load the story file.<br><br>
+        If you opened this page directly (file://), browsers block local fetch requests.<br>
+        Run a local server instead — e.g. <code>python3 -m http.server</code> from the repo root.</div>`;
+    });
+
+  function parseChapters(md) {
+    // strip the top-level "# Title" and any italic subtitle line before the first "## "
+    const firstHeading = md.indexOf('\n## ');
+    const body = firstHeading === -1 ? md : md.slice(firstHeading + 1);
+    const parts = body.split(/\n(?=## )/).filter(s => s.trim().startsWith('## '));
+    return parts.map(part => {
+      const lines = part.trim().split('\n');
+      const title = lines[0].replace(/^##\s*/, '').trim();
+      const bodyText = lines.slice(1).join('\n').trim();
+      const paragraphs = bodyText.split(/\n\s*\n/).map(p => p.trim()).filter(Boolean);
+      return { title, paragraphs };
+    });
+  }
+
+  function buildSelect() {
+    select.innerHTML = '';
+    chapters.forEach((c, i) => {
+      const opt = document.createElement('option');
+      opt.value = i;
+      opt.textContent = `${i + 1}. ${c.title}`;
+      select.appendChild(opt);
+    });
+    select.addEventListener('change', () => goTo(parseInt(select.value, 10)));
+    prevBtn.addEventListener('click', () => goTo(current - 1));
+    nextBtn.addEventListener('click', () => goTo(current + 1));
+  }
+
+  function goTo(i) {
+    if (i < 0 || i >= chapters.length) return;
+    current = i;
+    location.hash = String(i);
+    select.value = String(i);
+    prevBtn.disabled = i === 0;
+    nextBtn.disabled = i === chapters.length - 1;
+    progress.textContent = `Chapter ${i + 1} of ${chapters.length}`;
+
+    const c = chapters[i];
+    content.innerHTML = `
+      <div class="reading-pane">
+        <div class="chapter-label">${i === 0 ? 'Beginning' : 'Chapter ' + (i + 1)}</div>
+        <div class="chapter-title">${escapeHtml(c.title)}</div>
+        <div class="chapter-body">${c.paragraphs.map(p => `<p>${escapeHtml(p)}</p>`).join('')}</div>
+      </div>
+      <div class="bottom-nav">
+        <button class="bottom-nav-btn prev" ${i === 0 ? 'disabled' : ''} onclick="window.__vkGoTo(${i - 1})">
+          <div class="bottom-nav-label">&larr; Previous</div>
+          <div class="bottom-nav-title">${i > 0 ? escapeHtml(chapters[i - 1].title) : ''}</div>
+        </button>
+        <button class="bottom-nav-btn next" ${i === chapters.length - 1 ? 'disabled' : ''} onclick="window.__vkGoTo(${i + 1})">
+          <div class="bottom-nav-label">Next &rarr;</div>
+          <div class="bottom-nav-title">${i < chapters.length - 1 ? escapeHtml(chapters[i + 1].title) : ''}</div>
+        </button>
+      </div>
+    `;
+    window.scrollTo({ top: 0, behavior: 'instant' in window ? 'instant' : 'auto' });
+  }
+
+  window.__vkGoTo = goTo;
+
+  function escapeHtml(s) {
+    return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  }
+
+  window.addEventListener('hashchange', () => {
+    const hash = parseInt((location.hash || '').replace('#', ''), 10);
+    if (Number.isInteger(hash) && hash >= 0 && hash < chapters.length && hash !== current) {
+      goTo(hash);
+    }
+  });
+})();
+</script>
+</body>
+</html>
