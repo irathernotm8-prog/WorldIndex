@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>ARIDEL — Read</title>
+<title>NEW YORK — Read</title>
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&family=Spectral:ital,wght@0,400;0,500;0,600;1,400&family=Spectral+SC:wght@500&display=swap');
 
@@ -133,9 +133,9 @@
 
   <div class="vk-header">
     <a class="backlink" href="../../">&larr; The Valkorath Universe</a>
-    <a class="backlink" href="../catalog/">&larr; Aridel Catalog</a>
-    <div class="vk-eyebrow">After the Age of Valkorath</div>
-    <h1 class="vk-title">ARIDEL</h1>
+    <a class="backlink" href="../catalog/">&larr; Greece Catalog</a>
+    <div class="vk-eyebrow">After Valkorath</div>
+    <h1 class="vk-title">GREECE</h1>
     <div class="vk-subtitle">Read Chapter by Chapter</div>
   </div>
 
@@ -162,7 +162,7 @@
   let chapters = [];
   let current = 0;
 
-  fetch('../story/blade-of-honor-story.md')
+  fetch('../story/centennial-story.md')
     .then(r => { if (!r.ok) throw new Error('fetch failed'); return r.text(); })
     .then(md => {
       chapters = parseChapters(md);

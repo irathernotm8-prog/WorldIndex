@@ -3,6 +3,13 @@
 A personal D&D-inspired worldbuilding archive — spanning multiple stories across a shared
 timeline, starting with Valkorath's story, lore, and an interactive character catalog.
 
+**A note on naming:** the stories are now titled by where they take place rather than by
+their working titles — **Elarion** (formerly "Pantheon"), **Aridel** (formerly "Blade of
+Honor"), and **New York** (formerly "Centennial"). Valkorath keeps its name since it's
+also a place. Only the *display* names changed — the folder paths on disk and in URLs
+still use the old working titles (`pantheon/`, `blade-of-honor/`, `centennial/`), so
+existing links and the build script commands below are unaffected.
+
 ## What's in here
 
 ```
@@ -19,29 +26,34 @@ Valkorath-World/
 ├── story/
 │   └── valkorath-story.md    ← Valkorath's full narrative, chapter by chapter
 ├── pantheon/
-│   ├── catalog/index.html    ← Pantheon's interactive character browser
+│   ├── catalog/index.html    ← Elarion's interactive character browser
 │   ├── characters/           ← same layout as Valkorath's (catalog.json, data/, art/)
 │   └── story/pantheon-story.md
 ├── blade-of-honor/
-│   ├── catalog/index.html    ← Blade of Honor's interactive character browser
+│   ├── catalog/index.html    ← Aridel's interactive character browser
 │   ├── characters/
 │   └── story/blade-of-honor-story.md
-└── centennial/
-    ├── catalog/index.html    ← Centennial's interactive character browser
-    ├── characters/
-    └── story/centennial-story.md
+├── centennial/
+│   ├── catalog/index.html    ← New York's interactive character browser
+│   ├── characters/
+│   └── story/centennial-story.md
+└── greece/
+    ├── catalog/index.html    ← Greece's interactive character browser
+    ├── characters/           ← currently empty, awaiting character art
+    └── story/greece-story.md
 ```
 
-All four stories are live now. The landing page (`index.html`) is the front door to the
+All five stories are live now. The landing page (`index.html`) is the front door to the
 whole universe — it links out to each one.
 
 The rebuild script works for any story:
 
 ```bash
 python3 scripts/build_catalog.py                 # rebuilds Valkorath (default)
-python3 scripts/build_catalog.py pantheon         # rebuilds Pantheon
-python3 scripts/build_catalog.py blade-of-honor   # rebuilds Blade of Honor
-python3 scripts/build_catalog.py centennial       # rebuilds Centennial
+python3 scripts/build_catalog.py pantheon         # rebuilds Elarion
+python3 scripts/build_catalog.py blade-of-honor   # rebuilds Aridel
+python3 scripts/build_catalog.py centennial       # rebuilds New York
+python3 scripts/build_catalog.py greece           # rebuilds Greece
 ```
 
 ## Reading chapter by chapter
@@ -50,7 +62,7 @@ Each story now has a reader alongside its catalog:
 
 ```
 reader/index.html               ← Valkorath's chapter reader
-pantheon/reader/index.html      ← Pantheon's chapter reader
+pantheon/reader/index.html      ← Elarion's chapter reader
 blade-of-honor/reader/index.html
 centennial/reader/index.html
 ```
@@ -62,8 +74,8 @@ chapter). There's a "Read the Story →" link on every catalog page, and each re
 back to its catalog and to the universe homepage.
 
 Because it's driven entirely by those `## ` headers, adding a new chapter to Valkorath's
-or Pantheon's story file is all it takes to get it recognized -- no extra step needed.
-Blade of Honor and Centennial currently show up as a single "chapter" (their premise
+or Elarion's story file is all it takes to get it recognized -- no extra step needed.
+Aridel and New York currently show up as a single "chapter" (their premise
 text), since neither has a full narrative yet; once you add real chapters with `##`
 headers to those `.md` files, the reader picks them up the same way.
 
@@ -88,11 +100,11 @@ source page for them to pull from: **Saeve** (Alexis's mother), **Silas** (Shatt
 rogue mage), and the cosmic overseer **Death**. If you add visual-dictionary pages for
 them later, they'll slot into this same pipeline.
 
-## About Pantheon
+## About Elarion (the "pantheon" folder)
 
 27 characters, extracted the same way as Valkorath: pulled from the visual-dictionary PDF,
-cross-referenced against the actual story (14 chapters so far, ending mid-arc — Pantheon
-is a story in progress, same as Valkorath was).
+cross-referenced against the actual story (28 chapters now, a complete arc — Elarion's
+story reached its ending, unlike Valkorath's ongoing one).
 
 A handful of characters had little or no bio in the source PDF (Tiavoss, Eliegh, Fleough,
 Manus, Enoch) or had one that was mistakenly copy-pasted from an unrelated source (Gavinus's
@@ -105,7 +117,7 @@ Three characters -- Reign, Drexl, and Valerius -- share names with major Valkora
 characters. The bios note this as an intentional echo across ages without asserting exactly
 how they're connected, since that's very much your call to make.
 
-## About Blade of Honor and Centennial
+## About Aridel and New York (the "blade-of-honor" and "centennial" folders)
 
 Both were built from PowerPoint decks rather than PDFs, but went through the same process:
 character art extracted directly from the slides, bios lightly cleaned up (typos, spacing,
@@ -116,13 +128,39 @@ your original bios were already complete for every character in both decks.
 Neither story has a chapter-by-chapter narrative yet, just the premise/setting text from
 each deck's first slide — that's what's sitting in `story/blade-of-honor-story.md` and
 `story/centennial-story.md`. When you write the fuller narrative for either one, drop it
-into that same file and it'll read the same way Valkorath's and Pantheon's do.
+into that same file and it'll read the same way Valkorath's and Elarion's do.
 
-Centennial in particular pulls a lot of threads forward — Andromedus, Aetheris, Zornath,
+New York in particular pulls a lot of threads forward — Andromedus, Aetheris, Zornath,
 Dreyfus, and Father Elias (Father Godskin) all reappear from earlier in the timeline, along
-with Blade of Honor's own Aluccard, Drexl Voss, and Arthur. Worth knowing if you ever want
-a "first appearance" index across all four stories — that'd be a natural next feature for
-the landing page.
+with Aridel's own Aluccard, Drexl Voss, and Arthur. Worth knowing if you ever want a "first
+appearance" index across all four stories — that'd be a natural next feature for the
+landing page.
+
+## About Greece
+
+A full 31-chapter story (plus prologue and epilogue), drafted from scratch based on your
+character list and the "inverted history" concept -- the twist being that Rome's gods
+(Jupiter, Mars, Pluto) aren't just renamed versions of the Greek Olympians, they're
+parasitic reflections that grow by stealing belief from the originals, and Chronos has
+braided three centuries of mortal history (Troy, the Persian invasion, Alexander's
+conquests) into one compressed timeline so the Greek gods have a fighting chance to meet
+that threat while they still can. Every Olympian falls a different way, on purpose:
+Zeus loses despite winning his fight outright, Ares loses a duel he never needed to
+accept, Hades erodes without ever being defeated, Athena is the only one who chooses her
+own ending, and so on.
+
+Three characters got added along the way that weren't on your original list, because
+Troy's side of the story needed them to make sense: **Hector** (Trojan prince, Achilles's
+counterpart), **Patroclus** (Achilles's companion), and **Priam** (King of Troy, Hector's
+father). Flagging these clearly since they'll need art whenever you get to them -- nothing
+was added without calling it out.
+
+No character catalog data yet -- `greece/characters/` is set up and ready, but empty,
+since art hasn't been made for this cast yet. The story itself is fully readable at
+`greece/reader/` in the meantime. Once character art starts coming in, it'll go through
+the same pipeline as everyone else: a JSON file per character in `characters/data/`, the
+portrait in `characters/art/`, then `python3 scripts/build_catalog.py greece` to wire it
+into the catalog.
 
 ## Viewing it
 

@@ -1,4 +1,4 @@
-# Blade of Honor
+# Aridel
 
 *After Valkorath*
 
