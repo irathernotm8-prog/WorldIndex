@@ -1,0 +1,18 @@
+{
+  "slug": "dionysus",
+  "name": "Dionysus",
+  "epithet": "The God Who Went Underground",
+  "faction": "Olympians",
+  "status": "Active",
+  "tags": [
+    "God",
+    "Wine",
+    "Revelry"
+  ],
+  "art": "art/dionysus.jpg",
+  "bio": [
+    "Dionysus was never entirely an Olympian in the first place \u2014 he was always half-mortal in origin, always the god of the thing that blurred the line between divine and human rather than maintained it, always more comfortable in a vineyard or a festival crowd than on a mountain throne. This made him harder to replace than most.",
+    "When Rome came for him, it sent Bacchus \u2014 familiar enough in function but Roman in his priorities, a god of excess fitted to an empire's appetite rather than a god of release fitted to a human need. Dionysus found the distinction mattered more than he expected. He went underground, not as a retreat but as a genuine tactical move: the cults that had always honored him in basements and back roads and harvest festivals that the civic authorities preferred not to examine too closely simply kept honoring him, under whatever name seemed safest.",
+    "He survives not in the temples but in the celebrations, not in the official record but in the human habit of finding reasons to mark the turning of the year with something that loosens the hold the day has on you. Dionysus is patient in a way that few gods who are also party gods have any right to be. He understands that what he represents cannot actually be eliminated \u2014 only driven underground, from which it always eventually returns."
+  ]
+}

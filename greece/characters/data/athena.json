@@ -1,0 +1,18 @@
+{
+  "slug": "athena",
+  "name": "Athena",
+  "epithet": "The Owl's Last Watch",
+  "faction": "Olympians",
+  "status": "Fallen",
+  "tags": [
+    "Goddess",
+    "Wisdom",
+    "Warrior"
+  ],
+  "art": "art/athena.jpg",
+  "bio": [
+    "Athena understood Chronos's plan before any other god \u2014 she always understood first, the way wisdom tends to arrive slightly ahead of everyone else. She saw the braided histories and recognized not a trick but a strategy, one desperate and perhaps doomed and still the best option remaining. She favored the Greeks at Troy openly and without apology, because she had watched Troy's priesthood and found their faith beautiful but brittle.",
+    "Of all the Olympians, Athena fought the Roman advance most clearly and most honestly. Where others were unmade by subtraction \u2014 their belief quietly redirected, their faces borrowed and replaced \u2014 Athena fought Minerva directly on the plane of ideas: philosophy against philosophy, civic wisdom against civic wisdom, the Athens she had shaped against the Rome that claimed to have learned from it.",
+    "She is the only god in this story who chooses her own ending. When she sees that the fight is lost, she does not wait to be unmade or replaced. She makes a decision, deliberate and clear-eyed, that is neither surrender nor victory but something rarer: the act of a mind that has always moved one step ahead, choosing to step out of the game entirely rather than be reduced to something smaller than she was. Chronos, who watched everything, found her ending the hardest to look at."
+  ]
+}

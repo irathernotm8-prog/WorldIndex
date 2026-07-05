@@ -1,0 +1,18 @@
+{
+  "slug": "osman",
+  "name": "Osman",
+  "epithet": "The Archer Who Asked the Wrong Question",
+  "faction": "Persian Empire",
+  "status": "Active",
+  "tags": [
+    "Archer",
+    "Persian",
+    "Mortal"
+  ],
+  "art": "art/osman.jpg",
+  "bio": [
+    "Osman was Xerxes's most trusted archer, a man defined by precision \u2014 precision of aim, of judgment, of the silence he kept when other advisors spoke too much. He noticed things. At Thermopylae, watching three hundred Spartans hold the pass against an empire, he went quiet in a way that Xerxes noticed, and when the king asked, Osman said that what the Spartans were doing wasn't strategy. It was belief. And he didn't know what it felt like to believe in something enough to die for it that plainly.",
+    "The question he had asked Xerxes \u2014 whether the king believed in something the way those men believed \u2014 was the kind of question that doesn't go away once it's spoken aloud. Xerxes had answered with a deflection. Osman had listened to the deflection, understood it for what it was, and drawn his own conclusions quietly, in the way that archers tend to process difficult information: by holding very still and watching what moves.",
+    "He is not a convert. He does not abandon Xerxes or the Persian campaign or his own faith for the Greek one. But he carries the question through the rest of the story the way an arrow carries momentum \u2014 something released that cannot be called back, finding its mark at a moment he does not yet know is coming."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "alexander",
+  "name": "Alexander",
+  "epithet": "The Conqueror Whose World Thinned",
+  "faction": "Greek Heroes",
+  "status": "Fallen",
+  "tags": [
+    "Conqueror",
+    "King",
+    "Mortal"
+  ],
+  "art": "art/alexander.jpg",
+  "bio": [
+    "Alexander spread Greek faith and language and culture across a world so wide it grew thin enough to snap. Chronos saw this clearly: Alexander's conquests were exactly the kind of grand, sprawling, rapidly-evaporating legacy that Rome would later point to as proof that Greece had already overextended itself before Rome arrived to finish the job. He braided Alexander's campaigns into the same held breath as Troy and Thermopylae because an honest enemy deserved an honest battlefield.",
+    "Alexander himself is the most complicated mortal in this story, because he is both a genuine champion of the Greek world and its most efficient method of self-destruction. Every city he renamed, every Persian temple he converted, every calendar he adjusted \u2014 all of it spread Greek faith wider and thinner, and width without depth is exactly what Rome's patient, temple-by-temple advance required.",
+    "He dies young, as he always did, before he can see what his empire becomes without him \u2014 which is, in Chronos's reckoning, possibly a mercy. The conqueror who spread everything across a world too large to hold it does not have to watch the world let go. Some versions of this story would call that a gift. Chronos, who watches everything, calls it simply what time does to the things that reach too far."
+  ]
+}

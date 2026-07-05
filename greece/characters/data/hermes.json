@@ -1,0 +1,18 @@
+{
+  "slug": "hermes",
+  "name": "Hermes",
+  "epithet": "The Last Guide",
+  "faction": "Olympians",
+  "status": "Active",
+  "tags": [
+    "God",
+    "Messenger",
+    "Guide"
+  ],
+  "art": "art/hermes.jpg",
+  "bio": [
+    "Hermes was always the most adaptable of the Olympians, which was either a strength or a sign that he had never been entirely committed to any single version of himself. He moved between worlds \u2014 mortal and divine, living and dead, spoken and unspoken \u2014 with a ease that the other gods sometimes mistook for lightness and occasionally resented as a kind of absence.",
+    "When the Roman advance came, Hermes recognized Mercury immediately: the same function, the same swift step, the same caduceus, the same smile that meant I am only carrying the message, not responsible for what it says. The recognition was mutual, and it was the most civil encounter between an Olympian and their Roman equivalent in the entire war, which is perhaps not surprising given that the messenger gods were the ones most practiced at finding common ground.",
+    "Hermes survives as himself, more or less \u2014 still guiding, still running between what is and what was, still carrying word of the dead to wherever the dead need word carried. He is the last of the old gods to still move freely across the ground that used to be Olympus's, and he does it not by fighting but by continuing to be useful, which may be the oldest form of survival any god has ever managed."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "zeus",
+  "name": "Zeus",
+  "epithet": "Lord of Olympus",
+  "faction": "Olympians",
+  "status": "Fallen",
+  "tags": [
+    "God",
+    "King",
+    "Thunder"
+  ],
+  "art": "art/zeus.jpg",
+  "bio": [
+    "Zeus's throne was, at the opening of this story, still the tallest seat on Olympus. He still commanded lightning, still held the shape of the king of gods that centuries of mortal belief had built for him. He simply did not know how close the ceiling was.",
+    "When Jupiter came \u2014 not as an enemy army but as a hungry mirror, growing fat on redirected belief \u2014 Zeus discovered that his authority was less a fortress than a reputation. He won his direct battle with Jupiter, a clash of storms that shook the Aegean and split the sky for three days. And he lost anyway, because the worshippers who had watched the sky change had already begun whispering a different name for what they'd seen.",
+    "Zeus falls not to a stronger god but to a simple arithmetic of faith: Rome's empire spread faster than Olympus could convert, and Jupiter needed no throne of his own as long as he could wear Zeus's face whenever belief required one. He is the only god in this story who wins his fight outright and still loses the war \u2014 a distinction that Chronos, watching from the mountain's edge, had seen coming for a very long time."
+  ]
+}

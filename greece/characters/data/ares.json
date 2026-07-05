@@ -1,0 +1,18 @@
+{
+  "slug": "ares",
+  "name": "Ares",
+  "epithet": "The God Who Learned Obsolete",
+  "faction": "Olympians",
+  "status": "Fallen",
+  "tags": [
+    "God",
+    "War",
+    "Fallen"
+  ],
+  "art": "art/ares.jpg",
+  "bio": [
+    "Ares was never subtle. He was the god of war in the most direct possible sense \u2014 not strategy, not conquest, not the civic order an empire requires to sustain its campaigns, but the raw fact of violence, the thing at the center of every battle that no general's plan can account for. Fotios had prayed to him at Thermopylae and heard nothing, and that silence was the first sign that something had already gone wrong.",
+    "Mars challenged him to a duel rather than a battle \u2014 a subtle, deliberate distinction framed with just enough ceremony that Ares, whose entire identity was built on ritual combat, found himself unable to decline without feeling, for the first time in his existence, like a coward. He fought anyway. Of course he fought anyway. He was Ares. The duel was closer than Zeus's fight with Jupiter had been \u2014 blow for blow, Ares was still the more skilled combatant. But war had begun meaning something new to mortals: not glory, not single combat, but legion, machinery, discipline. Mars did not need to be a better warrior. He only needed war itself to have started meaning something Ares no longer recognized.",
+    "The blow that ended it was not dramatic. Ares simply found, in the moment his blade should have landed true, that his own certainty faltered \u2014 the same fraction-of-a-second doubt that had left three hundred Spartans without an answered prayer, finally circling back to unmake the god who'd never resolved it. He did not die. He diminished, still burning, just smaller, just quieter. He walked away from that battlefield having personally, intimately learned the one word his entire nature had never made room for: *obsolete*."
+  ]
+}

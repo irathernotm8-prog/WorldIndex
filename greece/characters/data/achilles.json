@@ -1,0 +1,18 @@
+{
+  "slug": "achilles",
+  "name": "Achilles",
+  "epithet": "The Fastest Man at Troy",
+  "faction": "Mortals of Troy",
+  "status": "Fallen",
+  "tags": [
+    "Hero",
+    "Warrior",
+    "Mortal"
+  ],
+  "art": "art/achilles.jpg",
+  "bio": [
+    "Achilles was seventeen and already the finest warrior the mainland had produced in a generation, not because a god had dipped him in anything \u2014 that particular tale would be Rome's later invention, a tidy magical excuse for a very human, very mortal kind of greatness \u2014 but because he had trained harder, been born faster, and cared less about dying than anyone else on either side of the war. Patroclus once told him this was worse than cowardice, this not-caring, and was closer to right than Achilles ever wanted to admit.",
+    "He cared for none of the war's reasons. He cared only that there was a fight worth being the best at, and Troy had the best fights. It was Patroclus's death \u2014 wearing Achilles's armor, in a battle Achilles had refused to fight over a quarrel with Agamemnon \u2014 that taught him the cost of that particular priority. The grief that followed was not the grief of legend. It was smaller and worse: the specific horror of realizing that his own pride had cost him the one person whose company had never been about being the best at anything.",
+    "He fought Hector three days later, and won not because a god favored him but because grief, it turns out, makes a man faster than pride ever did. He did not feel like a hero afterward. He simply felt like a man who had won a thing that no longer seemed worth winning, which is perhaps the most honest ending any story about the finest warrior of his generation could manage."
+  ]
+}

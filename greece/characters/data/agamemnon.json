@@ -1,0 +1,18 @@
+{
+  "slug": "agamemnon",
+  "name": "Agamemnon",
+  "epithet": "King of the Expedition",
+  "faction": "Mortals of Troy",
+  "status": "Fallen",
+  "tags": [
+    "King",
+    "Commander",
+    "Mortal"
+  ],
+  "art": "art/agamemnon.jpg",
+  "bio": [
+    "Agamemnon understood the war better than he let on. He told his brother, privately, the night before the ships launched, that they were not going to war for a woman \u2014 they were going because Troy's priests had been outpreaching Olympus for a decade, and if that faith won, half of Greece would stop praying to the gods within a generation. He intended to be remembered as the king who prevented that. He wanted Helen's face to be the easier story because easier stories make better rallying points.",
+    "He was a better strategist than he was a leader, and the distinction mattered enormously over four years of siege. His quarrel with Achilles over a captured woman neither of them actually wanted came close to ending the war from the inside \u2014 and it was Odysseus, not Agamemnon's own wisdom, that kept the expedition from collapsing over pride. He resented this. He was not wrong to be annoyed, but he was wrong about what mattered more.",
+    "His fate after Troy is not the point of this story, but it is the kind of fate that tends to find men who spent four years making necessary decisions through the worst possible methods. He was a king who understood what he was fighting for. He did not always understand what that cost the men who had to fight it for him."
+  ]
+}

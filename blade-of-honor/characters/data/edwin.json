@@ -1,0 +1,18 @@
+{
+  "slug": "edwin",
+  "name": "Edwin",
+  "epithet": "The King Who Lost His Way",
+  "faction": "Edwin's Cause",
+  "status": "Active",
+  "tags": [
+    "King",
+    "Leader",
+    "Fallen Ideals"
+  ],
+  "art": "art/edwin.jpg",
+  "bio": [
+    "Edwin was the cause before the cause had a name. A king who believed, at least at the outset, in something more than the maintenance of his own power \u2014 in a kingdom that served its people rather than the other way around. Aluccard, Drexl, Arthur, Baine, and the rest did not simply follow a man. They followed what the man stood for, and in the early days, what Edwin stood for was worth following.",
+    "The tragedy of Edwin's story is not betrayal from outside but erosion from within. The beliefs he once championed did not vanish in any single decisive moment \u2014 they were worn down by the compromises that ruling actually requires, by the distance between the king he intended to be and the king the world kept making it easier to become. By the time the people around him noticed the change, it was a change that had been accumulating for years.",
+    "Aluccard, the companion who stayed longest, eventually left Edwin's side at the journey's end \u2014 not out of anger but out of recognition that the king had long since stopped standing for the thing that had made following him worth the cost. The cause outlasted the man who named it. That, in the end, may be the most honest thing that can be said of Edwin: he was the beginning of something that turned out to be larger than him, which is a legacy not every king gets, and not every king deserves."
+  ]
+}

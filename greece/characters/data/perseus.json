@@ -1,0 +1,18 @@
+{
+  "slug": "perseus",
+  "name": "Perseus",
+  "epithet": "The Hero Between Ages",
+  "faction": "Greek Heroes",
+  "status": "Active",
+  "tags": [
+    "Hero",
+    "Demigod",
+    "Monster-Slayer"
+  ],
+  "art": "art/perseus.jpg",
+  "bio": [
+    "Perseus exists in this story the way a man exists at the edge of two eras \u2014 born in one world, still walking through another, carrying proof of a past age in the form of a severed head that he has never quite figured out how to put down. Chronos's braiding of the histories pulled him closer to Troy and Thermopylae and Alexander than any honest chronology would allow, and he finds himself in the company of men who fight for reasons he recognizes and several he doesn't.",
+    "He is a hero in the oldest sense: not the inspiring kind who leads armies, but the practical kind who goes to the specific place where a specific monster is and deals with it, and then returns. The Gorgon's head is still useful. It turns out a weapon that stops things in their tracks has applications beyond the mythological, and Perseus has had time to discover several of them.",
+    "What he represents, in Chronos's braided history, is the evidence that the heroic age and the age of war and the age of empire were never as separate as later storytelling made them. He is living proof that the old deeds happened, and that the gods who commissioned them were real, and that something is worth defending even now \u2014 though he is less certain than he once was exactly what that something is, and more honest about the uncertainty than most heroes manage."
+  ]
+}

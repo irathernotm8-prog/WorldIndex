@@ -1,0 +1,18 @@
+{
+  "slug": "hades",
+  "name": "Hades",
+  "epithet": "King of What Remains",
+  "faction": "Olympians",
+  "status": "Fallen",
+  "tags": [
+    "God",
+    "Underworld",
+    "Death"
+  ],
+  "art": "art/hades.jpg",
+  "bio": [
+    "Hades never asked for the underworld. He accepted it because someone among the brothers had to, and he had always been the one most willing to do the necessary thing rather than the glorious one. He ruled his kingdom with a kind of grim and genuine fairness \u2014 the dead were the dead, and deserved better than to be used as political currency by the living.",
+    "Pluto came for him not with war but with attrition. Rome's afterlife was bigger, grander, more Roman in its ambitions, and it needed the territory that Hades had spent centuries quietly maintaining. The erosion was slow \u2014 one soul's destination rerouted, then a prayer addressed to a name that wasn't quite his, then a temple built in a city that had never heard his name spoken without a shudder.",
+    "Hades erodes without ever being defeated. That is the particular tragedy of his ending: there is no moment of loss, no battle he fought and failed. He simply looks up one day and finds the kingdom smaller than it was, and the name on the gates slightly different, and realizes that the most persistent thing in his underworld was not the dead but the slow, patient hunger of an empire that never stopped building."
+  ]
+}

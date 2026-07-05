@@ -1,0 +1,18 @@
+{
+  "slug": "odysseus",
+  "name": "Odysseus",
+  "epithet": "The One Who Remembered Why",
+  "faction": "Mortals of Troy",
+  "status": "Active",
+  "tags": [
+    "Hero",
+    "Strategist",
+    "Mortal"
+  ],
+  "art": "art/odysseus.jpg",
+  "bio": [
+    "Odysseus was the cleverest man at Troy, which at Troy meant he was the most exhausted. He spent four years watching proud men make decisions that would cost other men their lives, and spent considerable energy finding diplomatic language for the observation that everyone around him had lost sight of why they came. He was not always successful. He was always right.",
+    "Where Achilles fought for the glory of fighting and Agamemnon fought for the authority of commanding, Odysseus fought because he genuinely understood what was at stake: not Helen, not pride, not territory, but the question of whose faith would still be standing when the dust cleared. He held the coalition together not through leadership but through the patient and repeated act of reminding people what they were actually doing.",
+    "Getting home cost him more than the war did. He bargained with Poseidon, encountered something in the deep that preceded Poseidon's own authority, and ended the confrontation not with strength but with genuine gratitude offered directly \u2014 a move that worked precisely because it was honest rather than strategic, which may be the only time in the story that Odysseus did something without calculating the outcome first. It was the right thing to do. He went home."
+  ]
+}

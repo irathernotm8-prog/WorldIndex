@@ -1,0 +1,18 @@
+{
+  "slug": "jupiter",
+  "name": "Jupiter",
+  "epithet": "The Victor Who Lost Lying Down",
+  "faction": "Roman Pantheon",
+  "status": "Active",
+  "tags": [
+    "Roman God",
+    "Sky",
+    "Conqueror"
+  ],
+  "art": "art/jupiter.jpg",
+  "bio": [
+    "Jupiter is what you get when enough people decide to call their sky-god by a different name. He is not Zeus wearing a Roman costume \u2014 he is something genuinely new, fed on the specific quality of belief that Rome generates: organized, civic, tied to law and calendar and empire rather than to awe and myth. He grew fat on redirected faith long before he was strong enough to challenge the god he was replacing.",
+    "The battle above Olympus was, by any honest measure, a decisive loss. Zeus beat him completely \u2014 bloodied, humbled, beaten in every way a fight can be lost. Jupiter fell from the sky without offering surrender or plea. He told Zeus to kill him if he wanted, and meant it, because he understood something Zeus did not yet: he was never the point. Rome didn't need him to win the fight. Rome only needed its people to keep calling their sky-god by his name instead of Zeus's, and Rome's roads and laws and calendar were already doing exactly that whether Jupiter was standing or not.",
+    "Zeus let him go out of contempt, and spent the next year watching temples built in his own name quietly rededicating themselves to Jupiter \u2014 not because Jupiter had won anything, but because Rome had simply out-organized him. Jupiter had lost the battle and won the war in the same afternoon, and the genius of it was that he had barely needed to be present for either outcome. He is the most efficient god in this story, and the least heroic, and he would consider those two things to be entirely compatible."
+  ]
+}

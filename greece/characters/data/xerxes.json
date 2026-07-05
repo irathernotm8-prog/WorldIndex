@@ -1,0 +1,18 @@
+{
+  "slug": "xerxes",
+  "name": "Xerxes",
+  "epithet": "King of the Mountain That Held",
+  "faction": "Persian Empire",
+  "status": "Active",
+  "tags": [
+    "King",
+    "Conqueror",
+    "Persian"
+  ],
+  "art": "art/xerxes.jpg",
+  "bio": [
+    "Xerxes did not consider himself Olympus's enemy. He considered himself a king with an empire to expand and a mountain range in his way, and if the mountain range happened to be defended by men who prayed to gods he didn't recognize, that was simply a detail of the terrain. He was, in his own estimation, a practical man \u2014 which is the self-description of most men who bring hundreds of thousands of soldiers to force a pass held by three hundred.",
+    "His most trusted archer, Osman, went quiet watching the Spartans hold Thermopylae, and Xerxes noticed, and asked, and received an answer he hadn't expected: that what the three hundred were doing wasn't strategy, it was belief, and Osman didn't know what it felt like to believe in something that clearly. The conversation unsettled Xerxes more than the pass did. An army he could eventually get through. A question about faith he couldn't stop thinking about.",
+    "Xerxes wins at Thermopylae, as history records, and carries Greece's sacred sites for a season, and finds the gods in the ash of their burned temples not quite as absent as he expected. He is not, in this story, a villain. He is a king doing what kings do, surrounded by a war whose actual stakes he is only beginning to understand, and watching his most trusted man come back from the front lines asking questions that have nothing to do with the width of the pass."
+  ]
+}

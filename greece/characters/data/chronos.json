@@ -1,0 +1,18 @@
+{
+  "slug": "chronos",
+  "name": "Chronos",
+  "epithet": "The Weaver of Threads",
+  "faction": "Beyond Olympus",
+  "status": "Active",
+  "tags": [
+    "Titan",
+    "God",
+    "Architect"
+  ],
+  "art": "art/chronos.jpg",
+  "bio": [
+    "Chronos is not time itself \u2014 he is what time looks like when it has a face. Ancient beyond the memory of Olympus, he wears the shape of a man because gods, like everything else in this world, are only as real as the shape belief gives them. He carries a scythe fused with the machinery of clocks, a weapon that cuts through centuries as easily as flesh.",
+    "When he saw Rome's inevitable rise \u2014 saw what Jupiter and Mars and Pluto would do to the older, truer faces of Olympus \u2014 he did the only thing a god of time is equipped to do: he cheated. He braided three centuries of mortal history into one compressed moment, pulling Troy, Thermopylae, and Alexander's conquests into a single held breath, buying Olympus one last chance to face what was coming while there was still enough belief left in them to fight with.",
+    "Chronos is not cruel, but he is cold in the way that only something genuinely outside of time can be. He does not prophesy \u2014 prophecy is a mortal comfort. He simply sees the stone falling before the hand opens, and acts accordingly. Whether his gambit saves Olympus or only delays the inevitable is, in the end, a question even he cannot answer."
+  ]
+}

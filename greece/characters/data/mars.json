@@ -1,0 +1,18 @@
+{
+  "slug": "mars",
+  "name": "Mars",
+  "epithet": "The God Who Made War Mean Something New",
+  "faction": "Roman Pantheon",
+  "status": "Active",
+  "tags": [
+    "Roman God",
+    "War",
+    "Legion"
+  ],
+  "art": "art/mars.jpg",
+  "bio": [
+    "Mars is not Ares. The story is at pains to make this clear, and so is Mars himself. Where Ares is the raw fact of violence \u2014 the thing at the center of every battle that no plan can account for \u2014 Mars is what war looks like when an empire needs it to be sustainable: disciplined, organized, legionary, the machinery of conquest rather than the ecstasy of combat. He arrived as Rome's soldiers began teaching an entire generation of mortals that war meant formations and supply lines and patient siege, not glory and single combat and mythic clashes between champions.",
+    "He challenged Ares to a duel rather than a battle \u2014 a deliberate choice, framed with enough ceremony that Ares couldn't refuse without feeling like a coward. He did not need to be a better warrior than Ares, and he wasn't, not blow for blow. He only needed war itself to have started meaning something Ares no longer fully recognized, and by the time they met on the field, it already had. The doubt that made Ares's blade falter at the crucial moment was not Mars's doing. It was Thermopylae's, and Fotios's unanswered prayers, circling back through years to find the god who had never resolved them.",
+    "Mars walks away from the duel the god of a war that has already won \u2014 not because he was the strongest fighter, but because the world had already decided to fight his way instead of Ares's. He is, like Jupiter, efficient in a way that requires no particular heroism. The old gods would call this contemptible. Mars would call it effective, which is exactly the difference between them."
+  ]
+}

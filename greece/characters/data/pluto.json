@@ -1,0 +1,18 @@
+{
+  "slug": "pluto",
+  "name": "Pluto",
+  "epithet": "The Hunger Wearing Hades's Face",
+  "faction": "Roman Pantheon",
+  "status": "Active",
+  "tags": [
+    "Roman God",
+    "Underworld",
+    "Parasite"
+  ],
+  "art": "art/pluto.jpg",
+  "bio": [
+    "Pluto is not Hades with a different name. That is the lie Rome's scribes would later write, to make the histories tidy, and Chronos knew it for a lie the moment he saw the first Roman afterlife take shape: grander, more ambitious, more Roman in its desire to organize and expand even the territory of the dead. Pluto did not simply replace Hades. He came for Hades's kingdom the way an empire comes for a province \u2014 not with a single conquering battle but with patient, incremental rerouting, one soul's destination redirected at a time.",
+    "He operates in darkness in two senses: the literal dark of the underworld, and the administrative darkness of a process so gradual that the god being replaced doesn't notice until the kingdom is already smaller than it was. There is no moment Hades could point to and say *this* is when Pluto arrived. That is exactly how Pluto designed it.",
+    "Of all the Roman gods in this story, Pluto is the one Chronos watches most carefully \u2014 not because he is the most powerful but because his method is the most complete. Jupiter needed Zeus's authority. Mars needed Ares's battlefield. But Pluto needed nothing from Hades at all. He only needed Hades to keep ruling until there was nothing left worth ruling, and then step quietly to the side to reveal that the name on the gate had already changed."
+  ]
+}

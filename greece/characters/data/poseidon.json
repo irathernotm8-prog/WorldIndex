@@ -1,0 +1,18 @@
+{
+  "slug": "poseidon",
+  "name": "Poseidon",
+  "epithet": "Loudest Tenant of the Deep",
+  "faction": "Olympians",
+  "status": "Active",
+  "tags": [
+    "God",
+    "Sea",
+    "Ocean"
+  ],
+  "art": "art/posidon.jpg",
+  "bio": [
+    "Poseidon ruled the sea the way a king rules a country that existed long before he was born \u2014 by authority, not by ownership, and with an underlying unease he had learned to stop examining too closely. He warned Odysseus on the first night of the voyage home: Troy's sea-faith hadn't died with the city, it had gone looking for its oldest debtor, and what lived in the deep water was something Poseidon had been borrowing authority from since before he had a name for his own domain.",
+    "The confrontation beneath the waves, in water so old and so dark that even his own light struggled, nearly undid him. The Kraken \u2014 if it could be called that \u2014 reminded him that every prayer sailors had ever given to the sea had passed through those depths before it ever reached his throne. He was never the ocean. He was only its loudest tenant.",
+    "He surfaces changed. Not broken, not replaced \u2014 Poseidon is one of the few Olympians who survives the Roman advance with his domain still recognizably his own, perhaps because the sea is genuinely harder to rename than a function. But he carries the weight of that confrontation, the knowledge that his authority was always borrowed, and he will not pretend otherwise again."
+  ]
+}

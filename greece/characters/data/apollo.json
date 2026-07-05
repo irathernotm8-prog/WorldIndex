@@ -1,0 +1,18 @@
+{
+  "slug": "apollo",
+  "name": "Apollo",
+  "epithet": "The Sun Before It Fades",
+  "faction": "Olympians",
+  "status": "Fallen",
+  "tags": [
+    "God",
+    "Sun",
+    "Oracle"
+  ],
+  "art": "art/apollo.jpg",
+  "bio": [
+    "Apollo was older and warier than most of Olympus. He favored no side at Troy outright, but kept a quiet fondness for the city's seer-priests, who read his omens more precisely than any mainland priest bothered to. He understood, in a way few of the others did, that prophecy and poetry and the light of reason were all the same gift dressed differently \u2014 and that gift was exactly what Rome intended to claim as its own.",
+    "When the Roman advance came for him, it came dressed as progress. Rational thought, civic order, the measured light of a civilization that had studied Greece and decided it could improve on it. Apollo watched his own domain \u2014 the sun, the oracle, the lyre \u2014 translated into something cleaner and less mysterious, and felt what a god feels when their mystery is the first thing to go: not death but a kind of evaporation.",
+    "He fades rather than falls, the sun going dim by degrees rather than extinguished in any single moment. Of all the Olympians' endings, his is the most poetic and the most honest. The light does not go out. It simply moves on to somewhere its old name no longer applies."
+  ]
+}

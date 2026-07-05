@@ -1,0 +1,18 @@
+{
+  "slug": "hephaestus",
+  "name": "Hephaestus",
+  "epithet": "The God Who Made Everything They Used",
+  "faction": "Olympians",
+  "status": "Active",
+  "tags": [
+    "God",
+    "Forge",
+    "Craft"
+  ],
+  "art": "art/hephestus.jpg",
+  "bio": [
+    "Hephaestus had always been the odd god out \u2014 cast aside, then called back whenever Olympus needed something made, the craftsman who was brilliant and overlooked in exactly equal measure. He built the weapons the others used, the armor they wore, the tools that won wars whose glory he was never asked to share.",
+    "When the Roman advance reached him, it found him already in a mortal forge. He had, at some point during the long campaign against the Roman pantheon, simply left Olympus and gone to find the best mortal smith alive, and worked alongside him for reasons that had nothing to do with strategy and everything to do with genuine interest. Vulcan, Rome's version of him, was identical in function and culturally indistinguishable \u2014 which Hephaestus found, against all expectation, more comforting than insulting.",
+    "He is the only Olympian who treats the Roman advance less as a catastrophe and more as a change of management. The forge still needs tending. The metal still needs shaping. He will make what needs making for whoever asks, and call it neither victory nor defeat, and go back to work. The gods who find dignity in endings may have something to say about this. Hephaestus has never particularly cared what gods find dignified."
+  ]
+}

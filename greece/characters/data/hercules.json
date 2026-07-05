@@ -1,0 +1,18 @@
+{
+  "slug": "hercules",
+  "name": "Hercules",
+  "epithet": "The Weapon Who Chose His Own Fight",
+  "faction": "Greek Heroes",
+  "status": "Active",
+  "tags": [
+    "Hero",
+    "Demigod",
+    "Champion"
+  ],
+  "art": "art/hercules.jpg",
+  "bio": [
+    "Hercules had spent his entire existence being used \u2014 by Hera's old grudges, by mortal kings who wanted his labor and his fame both, by his own father Zeus, who loved him in the distant complicated way gods love the children who remind them of their own limitations. He arrived in this braided war already exhausted by being someone else's instrument.",
+    "Both sides wanted him. Athena urged him to fight for Olympus \u2014 he was the strongest mortal-born hero who had ever lived, and this was exactly the kind of cause worth his strength. An early emissary of Rome's stirring ambitions offered him the alternative: let the old gods handle their own succession, and use that strength to build something new instead of dying to defend something old. He refused both, in the one act of the whole war that was entirely, defiantly his own choice rather than anyone else's instrument.",
+    "\"I've spent my whole life being someone's weapon,\" he told them both, in words close enough to identical that Chronos, watching, allowed himself something like a smile. \"I'll choose my own fights from here forward. Ask me again once you've stopped assuming the asking is the same as deciding for me.\" He would choose his fight eventually. But he chose the moment, and that, for Hercules, was the victory that actually mattered \u2014 the first one, in a very long life of labor, that was entirely his."
+  ]
+}
