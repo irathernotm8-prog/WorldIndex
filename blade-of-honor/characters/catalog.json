@@ -1,202 +1,452 @@
 [
   {
-    "slug": "ahere",
-    "name": "Ahere",
-    "epithet": "The Devious Assassin",
-    "faction": "Kruxer's Forces",
+    "slug": "achilles",
+    "name": "Achilles",
+    "epithet": "The Fastest Man at Troy",
+    "faction": "Mortals of Troy",
     "status": "Fallen",
     "tags": [
-      "Assassin",
-      "Mentor"
+      "Hero",
+      "Warrior",
+      "Mortal"
     ],
+    "art": "art/achilles.jpg",
     "bio": [
-      "A crazed assassin in Kruxer's employ, Ahere was once a mentor to Aluccard, before a falling-out over Ahere's methods split them apart. Ruthless, and in love with the thrill of the hunt, he stayed fixated on Aluccard long after his former student bested him in combat.",
-      "When Edwin needed Aluccard gotten rid of for good, it was Ahere he hired for the job. Aluccard ultimately killed his old mentor in the confrontation that followed -- and left Edwin's side for good over the betrayal."
-    ],
-    "art": "art/ahere.jpg"
-  },
-  {
-    "slug": "aluccard",
-    "name": "Aluccard",
-    "epithet": "The Unsung Hero",
-    "faction": "Edwin's Cause",
-    "status": "Active",
-    "tags": [
-      "Outcast",
-      "Velkynai",
-      "Warrior"
-    ],
-    "bio": [
-      "An outcast from birth, Aluccard's pale skin and lanky frame meant he never quite fit anywhere. Even so, he always carried a clear sense of right and wrong, and the state of the world never sat easy with him. He had no real power to change any of it -- until he crossed paths with Drexl. The adventure that followed would change both their lives and destinies more than either could have known.",
-      "After Drexl's death, Aluccard stayed with the quest, where he ultimately met another man who shared the name: Drexl Voss, a knight from an entirely different plane of existence. Their bond ran deep -- arguably deeper than his bond with the first Drexl -- built on a shared sense of honor between them.",
-      "Aluccard's fate changed forever when he was bitten by a Velkynai, a race thought extinct, akin to the legend of vampires. His lifespan stretched far beyond a mortal's, and his agility and senses sharpened with it. He panicked at first, but came to see the change as a gift rather than a curse. By the journey's end, he left Edwin's side -- the king had long since abandoned the beliefs he once championed."
-    ],
-    "art": "art/aluccard.jpg"
-  },
-  {
-    "slug": "arthur",
-    "name": "Arthur",
-    "epithet": "The Silver Knight",
-    "faction": "Edwin's Cause",
-    "status": "Fallen",
-    "tags": [
-      "Knight",
-      "Undead",
-      "Legend"
-    ],
-    "bio": [
-      "Loyal to Edwin, powerful, and skilled -- Arthur, yes, that Arthur, of legend -- carried a secret few knew. He had died years prior. What the world saw was only a suit of armor tethering his existence to this plane.",
-      "His loyalty was no less real for it. He wanted to see a united kingdom under Edwin more than almost anyone. He would never get the chance -- the armor, and the tether that kept him bound to the world, was destroyed in the fight against Syloth. Tales of a ghost appearing behind Edwin spread for years to come."
-    ],
-    "art": "art/arthur.jpg"
-  },
-  {
-    "slug": "baine",
-    "name": "Baine",
-    "epithet": "The Burnt Knight",
-    "faction": "Edwin's Cause",
-    "status": "Fallen",
-    "tags": [
-      "Knight",
-      "Amnesiac"
-    ],
-    "bio": [
-      "A lost knight with no recollection of who he once was, Baine stumbled upon the group of heroes as they marched toward Kruxer. Something -- some pull from the spirits of old -- compelled him to keep fighting, to keep moving forward.",
-      "He would sometimes whisper to himself, unprompted: \"must make it,\" \"must go to the Last Bastion.\" He never would. Baine was among the many casualties of the battle with Kruxer, his goals and his past both left unfinished."
-    ],
-    "art": "art/baine.jpg"
-  },
-  {
-    "slug": "drexl-mercenary",
-    "name": "Drexl",
-    "epithet": "The Hired Mercenary",
-    "faction": "Edwin's Cause",
-    "status": "Fallen",
-    "tags": [
-      "Mercenary",
-      "Warrior"
-    ],
-    "bio": [
-      "Demon in combat, money-hungry, and endlessly ambitious, Drexl carries a name that holds more legacy than he himself knows. He grew up on stories of a distant island, a fallen kingdom, and a man who shared his name being deeply wronged. He never paid the tales much mind, but he understood the feeling at their center all too well -- the sense that the world owed him more than what he was born into.",
-      "He grew into the fiercest of warriors, nearly unbeatable in combat, with no special powers or magic behind it -- just diligent training and incredible battle awareness. He eventually came to blows with a young outcast named Aluccard, who, after losing to him, asked to learn under him. Drexl reluctantly agreed; a decoy could come in handy in certain situations.",
-      "Word of Edwin's cause -- and Edwin's riches -- eventually set Drexl and Aluccard on the road together. After a long journey, Drexl would uncharacteristically give his life to save Aluccard against the fire lord Kruxer, a sacrifice his former student never truly came to understand."
-    ],
-    "art": "art/drexl-mercenary.jpg"
-  },
-  {
-    "slug": "drexl-voss",
-    "name": "Drexl Voss",
-    "epithet": "The Hero From Afar",
-    "faction": "Edwin's Cause",
-    "status": "Fallen",
-    "tags": [
-      "Knight",
-      "Hidden Holy Order",
-      "Otherworldly"
-    ],
-    "bio": [
-      "Drexl Voss is what you'd call a hero of heroes -- the bravest and most selfless of them all, and a very different man from the mercenary Drexl the group once knew. That difference makes sense, given he isn't from this world at all.",
-      "Drexl Voss hailed from a world where he served as a knight of the Hidden Holy Order, tasked with holding back the darkness of the abyss and leading humanity toward a brighter future. Unfortunately, the abyss won. His home was lost, and he was left permanently disfigured by the ordeal.",
-      "As his world came to its end, he lost nearly all hope -- until a magic portal pulled him into this one, where he met Aluccard. With a renewed sense of purpose, he set out to become one of this world's champions. His sword, Thunder-Guard, echoed the tales of old with its own magic. The knight ultimately met his end freeing the people from the tyranny of Victor, and Aluccard was forced to say goodbye to another Drexl."
-    ],
-    "art": "art/drexl-voss.jpg"
-  },
-  {
-    "slug": "edwin",
-    "name": "Edwin",
-    "epithet": "The King Who Lost His Way",
-    "faction": "Edwin's Cause",
-    "status": "Active",
-    "tags": [
-      "King",
-      "Leader",
-      "Fallen Ideals"
-    ],
-    "art": "art/edwin.jpg",
-    "bio": [
-      "Edwin was the cause before the cause had a name. A king who believed, at least at the outset, in something more than the maintenance of his own power — in a kingdom that served its people rather than the other way around. Aluccard, Drexl, Arthur, Baine, and the rest did not simply follow a man. They followed what the man stood for, and in the early days, what Edwin stood for was worth following.",
-      "The tragedy of Edwin's story is not betrayal from outside but erosion from within. The beliefs he once championed did not vanish in any single decisive moment — they were worn down by the compromises that ruling actually requires, by the distance between the king he intended to be and the king the world kept making it easier to become. By the time the people around him noticed the change, it was a change that had been accumulating for years.",
-      "Aluccard, the companion who stayed longest, eventually left Edwin's side at the journey's end — not out of anger but out of recognition that the king had long since stopped standing for the thing that had made following him worth the cost. The cause outlasted the man who named it. That, in the end, may be the most honest thing that can be said of Edwin: he was the beginning of something that turned out to be larger than him, which is a legacy not every king gets, and not every king deserves."
+      "Achilles was seventeen and already the finest warrior the mainland had produced in a generation, not because a god had dipped him in anything — that particular tale would be Rome's later invention, a tidy magical excuse for a very human, very mortal kind of greatness — but because he had trained harder, been born faster, and cared less about dying than anyone else on either side of the war. Patroclus once told him this was worse than cowardice, this not-caring, and was closer to right than Achilles ever wanted to admit.",
+      "He cared for none of the war's reasons. He cared only that there was a fight worth being the best at, and Troy had the best fights. It was Patroclus's death — wearing Achilles's armor, in a battle Achilles had refused to fight over a quarrel with Agamemnon — that taught him the cost of that particular priority. The grief that followed was not the grief of legend. It was smaller and worse: the specific horror of realizing that his own pride had cost him the one person whose company had never been about being the best at anything.",
+      "He fought Hector three days later, and won not because a god favored him but because grief, it turns out, makes a man faster than pride ever did. He did not feel like a hero afterward. He simply felt like a man who had won a thing that no longer seemed worth winning, which is perhaps the most honest ending any story about the finest warrior of his generation could manage."
     ]
   },
   {
-    "slug": "florkil",
-    "name": "Florkil",
-    "epithet": "The Northern Beast",
-    "faction": "Edwin's Cause",
+    "slug": "agamemnon",
+    "name": "Agamemnon",
+    "epithet": "King of the Expedition",
+    "faction": "Mortals of Troy",
     "status": "Fallen",
     "tags": [
-      "Warrior",
-      "Viking"
+      "King",
+      "Commander",
+      "Mortal"
     ],
+    "art": "art/agamemnon.jpg",
     "bio": [
-      "The raging beast of the northern territories, Florkil was a would-be viking and a brutally challenging warrior to best. Once he learned of the adventure the heroes were on, he joined the quest in search of a worthy death.",
-      "He ultimately got his wish in the battle against Kruxer, where he and many others lost their lives -- but he died happy, knowing he'd found the end he was looking for."
-    ],
-    "art": "art/florkil.jpg"
+      "Agamemnon understood the war better than he let on. He told his brother, privately, the night before the ships launched, that they were not going to war for a woman — they were going because Troy's priests had been outpreaching Olympus for a decade, and if that faith won, half of Greece would stop praying to the gods within a generation. He intended to be remembered as the king who prevented that. He wanted Helen's face to be the easier story because easier stories make better rallying points.",
+      "He was a better strategist than he was a leader, and the distinction mattered enormously over four years of siege. His quarrel with Achilles over a captured woman neither of them actually wanted came close to ending the war from the inside — and it was Odysseus, not Agamemnon's own wisdom, that kept the expedition from collapsing over pride. He resented this. He was not wrong to be annoyed, but he was wrong about what mattered more.",
+      "His fate after Troy is not the point of this story, but it is the kind of fate that tends to find men who spent four years making necessary decisions through the worst possible methods. He was a king who understood what he was fighting for. He did not always understand what that cost the men who had to fight it for him."
+    ]
   },
   {
-    "slug": "hythm",
-    "name": "Hythm",
-    "epithet": "The Loyal Soldier",
-    "faction": "Edwin's Cause",
+    "slug": "alexander",
+    "name": "Alexander",
+    "epithet": "The Conqueror Whose World Thinned",
+    "faction": "Greek Heroes",
+    "status": "Fallen",
+    "tags": [
+      "Conqueror",
+      "King",
+      "Mortal"
+    ],
+    "art": "art/alexander.jpg",
+    "bio": [
+      "Alexander spread Greek faith and language and culture across a world so wide it grew thin enough to snap. Chronos saw this clearly: Alexander's conquests were exactly the kind of grand, sprawling, rapidly-evaporating legacy that Rome would later point to as proof that Greece had already overextended itself before Rome arrived to finish the job. He braided Alexander's campaigns into the same held breath as Troy and Thermopylae because an honest enemy deserved an honest battlefield.",
+      "Alexander himself is the most complicated mortal in this story, because he is both a genuine champion of the Greek world and its most efficient method of self-destruction. Every city he renamed, every Persian temple he converted, every calendar he adjusted — all of it spread Greek faith wider and thinner, and width without depth is exactly what Rome's patient, temple-by-temple advance required.",
+      "He dies young, as he always did, before he can see what his empire becomes without him — which is, in Chronos's reckoning, possibly a mercy. The conqueror who spread everything across a world too large to hold it does not have to watch the world let go. Some versions of this story would call that a gift. Chronos, who watches everything, calls it simply what time does to the things that reach too far."
+    ]
+  },
+  {
+    "slug": "aphrodite",
+    "name": "Aphrodite",
+    "epithet": "The One Being Rewritten",
+    "faction": "Olympians",
+    "status": "Fallen",
+    "tags": [
+      "Goddess",
+      "Love",
+      "Rewritten"
+    ],
+    "art": "art/aphrodite.jpg",
+    "bio": [
+      "Aphrodite's involvement in the Trojan War was, in its own way, the most honest of any god's: she had made a promise to Paris, and gods are bound tightest by their own given word. She did not care about faith or territory or the survival of Olympus as an institution. She cared about a promise, and she kept it, and when Athena called this a vanity she replied that Athena would understand it better if she had ever wanted something enough to promise for it. She was not wrong.",
+      "Rome did not attack Aphrodite. Rome courted her — and that, it turned out, was far more effective than any battle could have been. Roman nobility began claiming descent from Venus, weaving her into their own family lineages, making her the patron of conquering generals, of emperors claiming divine bloodright, of political marriages dressed up as passion. The goddess of love became the justification for ambition dressed in love's language.",
+      "She told Athena, near the end, that she didn't think this was a fall the way the others were falling. She was not disappearing. She was being *rewritten*, in front of her own eyes, by people who never once asked what she actually wanted love to mean. The grief in it was real, and Athena — her old rival — found it harder to look at than the gods who had simply faded. Aphrodite survives, in a sense, because Venus survives. But what survives is not entirely her."
+    ]
+  },
+  {
+    "slug": "apollo",
+    "name": "Apollo",
+    "epithet": "The Sun Before It Fades",
+    "faction": "Olympians",
+    "status": "Fallen",
+    "tags": [
+      "God",
+      "Sun",
+      "Oracle"
+    ],
+    "art": "art/apollo.jpg",
+    "bio": [
+      "Apollo was older and warier than most of Olympus. He favored no side at Troy outright, but kept a quiet fondness for the city's seer-priests, who read his omens more precisely than any mainland priest bothered to. He understood, in a way few of the others did, that prophecy and poetry and the light of reason were all the same gift dressed differently — and that gift was exactly what Rome intended to claim as its own.",
+      "When the Roman advance came for him, it came dressed as progress. Rational thought, civic order, the measured light of a civilization that had studied Greece and decided it could improve on it. Apollo watched his own domain — the sun, the oracle, the lyre — translated into something cleaner and less mysterious, and felt what a god feels when their mystery is the first thing to go: not death but a kind of evaporation.",
+      "He fades rather than falls, the sun going dim by degrees rather than extinguished in any single moment. Of all the Olympians' endings, his is the most poetic and the most honest. The light does not go out. It simply moves on to somewhere its old name no longer applies."
+    ]
+  },
+  {
+    "slug": "ares",
+    "name": "Ares",
+    "epithet": "The God Who Learned Obsolete",
+    "faction": "Olympians",
+    "status": "Fallen",
+    "tags": [
+      "God",
+      "War",
+      "Fallen"
+    ],
+    "art": "art/ares.jpg",
+    "bio": [
+      "Ares was never subtle. He was the god of war in the most direct possible sense — not strategy, not conquest, not the civic order an empire requires to sustain its campaigns, but the raw fact of violence, the thing at the center of every battle that no general's plan can account for. Fotios had prayed to him at Thermopylae and heard nothing, and that silence was the first sign that something had already gone wrong.",
+      "Mars challenged him to a duel rather than a battle — a subtle, deliberate distinction framed with just enough ceremony that Ares, whose entire identity was built on ritual combat, found himself unable to decline without feeling, for the first time in his existence, like a coward. He fought anyway. Of course he fought anyway. He was Ares. The duel was closer than Zeus's fight with Jupiter had been — blow for blow, Ares was still the more skilled combatant. But war had begun meaning something new to mortals: not glory, not single combat, but legion, machinery, discipline. Mars did not need to be a better warrior. He only needed war itself to have started meaning something Ares no longer recognized.",
+      "The blow that ended it was not dramatic. Ares simply found, in the moment his blade should have landed true, that his own certainty faltered — the same fraction-of-a-second doubt that had left three hundred Spartans without an answered prayer, finally circling back to unmake the god who'd never resolved it. He did not die. He diminished, still burning, just smaller, just quieter. He walked away from that battlefield having personally, intimately learned the one word his entire nature had never made room for: *obsolete*."
+    ]
+  },
+  {
+    "slug": "athena",
+    "name": "Athena",
+    "epithet": "The Owl's Last Watch",
+    "faction": "Olympians",
+    "status": "Fallen",
+    "tags": [
+      "Goddess",
+      "Wisdom",
+      "Warrior"
+    ],
+    "art": "art/athena.jpg",
+    "bio": [
+      "Athena understood Chronos's plan before any other god — she always understood first, the way wisdom tends to arrive slightly ahead of everyone else. She saw the braided histories and recognized not a trick but a strategy, one desperate and perhaps doomed and still the best option remaining. She favored the Greeks at Troy openly and without apology, because she had watched Troy's priesthood and found their faith beautiful but brittle.",
+      "Of all the Olympians, Athena fought the Roman advance most clearly and most honestly. Where others were unmade by subtraction — their belief quietly redirected, their faces borrowed and replaced — Athena fought Minerva directly on the plane of ideas: philosophy against philosophy, civic wisdom against civic wisdom, the Athens she had shaped against the Rome that claimed to have learned from it.",
+      "She is the only god in this story who chooses her own ending. When she sees that the fight is lost, she does not wait to be unmade or replaced. She makes a decision, deliberate and clear-eyed, that is neither surrender nor victory but something rarer: the act of a mind that has always moved one step ahead, choosing to step out of the game entirely rather than be reduced to something smaller than she was. Chronos, who watched everything, found her ending the hardest to look at."
+    ]
+  },
+  {
+    "slug": "chronos",
+    "name": "Chronos",
+    "epithet": "The Weaver of Threads",
+    "faction": "Beyond Olympus",
     "status": "Active",
     "tags": [
-      "Immortal",
-      "Wanderer"
+      "Titan",
+      "God",
+      "Architect"
     ],
+    "art": "art/chronos.jpg",
     "bio": [
-      "A simple man making his way through the land where this story takes place, Hythm was, in truth, the very same man who would be considered royalty in a distant land and a forgotten time. He has no interest in the crown. He walks the earth as an immortal, simply trying to do right by the people he meets.",
-      "Hearing of Edwin's story, Hythm joined the party to see it play out -- only to leave again after Kruxer's defeat, once more disillusioned with the path of mankind, and content to consider himself apart from it."
-    ],
-    "art": "art/hythm.jpg"
+      "Chronos is not time itself — he is what time looks like when it has a face. Ancient beyond the memory of Olympus, he wears the shape of a man because gods, like everything else in this world, are only as real as the shape belief gives them. He carries a scythe fused with the machinery of clocks, a weapon that cuts through centuries as easily as flesh.",
+      "When he saw Rome's inevitable rise — saw what Jupiter and Mars and Pluto would do to the older, truer faces of Olympus — he did the only thing a god of time is equipped to do: he cheated. He braided three centuries of mortal history into one compressed moment, pulling Troy, Thermopylae, and Alexander's conquests into a single held breath, buying Olympus one last chance to face what was coming while there was still enough belief left in them to fight with.",
+      "Chronos is not cruel, but he is cold in the way that only something genuinely outside of time can be. He does not prophesy — prophecy is a mortal comfort. He simply sees the stone falling before the hand opens, and acts accordingly. Whether his gambit saves Olympus or only delays the inevitable is, in the end, a question even he cannot answer."
+    ]
   },
   {
-    "slug": "kruxer",
-    "name": "Kruxer",
-    "epithet": "The Fire Lord",
-    "faction": "Kruxer's Forces",
-    "status": "Fallen",
+    "slug": "dionysus",
+    "name": "Dionysus",
+    "epithet": "The God Who Went Underground",
+    "faction": "Olympians",
+    "status": "Active",
     "tags": [
-      "Warlord",
-      "Pyromancer"
+      "God",
+      "Wine",
+      "Revelry"
     ],
+    "art": "art/dionysus.jpg",
     "bio": [
-      "The fierce fire lord Kruxer ruled with an iron fist, one of very few in this age to possess magic of any kind -- let alone the power of pyromancy. Cruel and power-hungry, he was in many ways a dark reflection of the mercenary Drexl, save for one thing: he lacked any humanity at all.",
-      "His goal was never conquest. It was to end all life everywhere, scorching the earth as he went. He finally met his end at the hands of Drexl, the two of them trading blows to the last inside a crumbling castle."
-    ],
-    "art": "art/kruxer.jpg"
+      "Dionysus was never entirely an Olympian in the first place — he was always half-mortal in origin, always the god of the thing that blurred the line between divine and human rather than maintained it, always more comfortable in a vineyard or a festival crowd than on a mountain throne. This made him harder to replace than most.",
+      "When Rome came for him, it sent Bacchus — familiar enough in function but Roman in his priorities, a god of excess fitted to an empire's appetite rather than a god of release fitted to a human need. Dionysus found the distinction mattered more than he expected. He went underground, not as a retreat but as a genuine tactical move: the cults that had always honored him in basements and back roads and harvest festivals that the civic authorities preferred not to examine too closely simply kept honoring him, under whatever name seemed safest.",
+      "He survives not in the temples but in the celebrations, not in the official record but in the human habit of finding reasons to mark the turning of the year with something that loosens the hold the day has on you. Dionysus is patient in a way that few gods who are also party gods have any right to be. He understands that what he represents cannot actually be eliminated — only driven underground, from which it always eventually returns."
+    ]
   },
   {
-    "slug": "syloth",
-    "name": "Syloth",
-    "epithet": "The Black Knight",
-    "faction": "Kruxer's Forces",
-    "status": "Fallen",
+    "slug": "eros",
+    "name": "Eros",
+    "epithet": "The Arrow Outgrown",
+    "faction": "Olympians",
+    "status": "Active",
     "tags": [
-      "Knight",
-      "Loyalist"
+      "God",
+      "Love",
+      "Changed"
     ],
+    "art": "art/eros.jpg",
     "bio": [
-      "Loyal to Kruxer and one of his most formidable knights, Syloth stood at the entrance to Kruxer's dwelling and put up the fiercest fight the heroes faced on their approach -- ultimately the one to end Baine's life.",
-      "In the end, there wasn't much more to Syloth than that: a loyal soldier serving a would-be despot to the last. He met his end at the hands of the mercenary Drexl."
-    ],
-    "art": "art/syloth.jpg"
+      "Eros began this story as what the poets made of him: golden, winged, armed with arrows that turned mortal hearts toward or away from each other at the pleasure of gods who wanted something from the outcome. He served Aphrodite's purposes, as gods of love tend to serve purposes above their own.",
+      "What the story does to Eros over its thirty-one chapters is harder to name than what it does to any other god, because it is not a diminishment but a growth, and growth in a god is rare enough to be disorienting. He watches enough mortal love — at Troy, on the road home, at Thermopylae, in the camps of Alexander's army — to understand that what he has been doing with arrows is a very small part of what love actually is. The arrow creates the beginning. It has nothing to say about anything that comes after.",
+      "By the story's end, Eros carries the bow still but fires it less, having discovered that love which needs no arrow is the only kind that survives an empire's attempt to rename it. Cupid takes the arrows. Eros keeps the understanding of what they were for. It is, unexpectedly, the better deal."
+    ]
   },
   {
-    "slug": "victor",
-    "name": "Victor",
-    "epithet": "The Twisted Warlord",
-    "faction": "Victor's Forces",
+    "slug": "fotios",
+    "name": "Fotios",
+    "epithet": "The One Who Prayed and Heard Nothing",
+    "faction": "Greek Heroes",
+    "status": "Active",
+    "tags": [
+      "Spartan",
+      "Survivor",
+      "Mortal"
+    ],
+    "art": "art/fotios.jpg",
+    "bio": [
+      "Fotios was seventeen when Sparta held the pass, old enough to fight and young enough that his captain pulled him back before the final stand — not cowardice, but arithmetic, someone needed to carry word home. He prayed through every hour of that final night, to Ares specifically, the god his city had built its entire identity around. He prayed for strength for the men in the pass. He prayed for a sign. He heard nothing.",
+      "That absence, that specific silence in exactly the place a lifetime of belief had told him something would answer, is the beginning of his actual story rather than the end of it. He spends years afterward not losing faith — faith in Ares is not something a Spartan loses easily — but working through what it means that a god can exist and still not answer, whether through distance, distraction, or something worse.",
+      "By Chapter 30, Fotios finally hears something, though what he hears is not the answer he spent years expecting. He is the mortal most changed by what Chronos's braided history does to the divine order — not because he fights in any of its major battles, but because he spends the entire story paying the kind of quiet, sustained attention that gods are not used to mortals sustaining. What he eventually understands changes how he prays, which changes what he is praying to, which changes everything."
+    ]
+  },
+  {
+    "slug": "hades",
+    "name": "Hades",
+    "epithet": "King of What Remains",
+    "faction": "Olympians",
     "status": "Fallen",
     "tags": [
-      "Warlord",
-      "Cultist"
+      "God",
+      "Underworld",
+      "Death"
     ],
+    "art": "art/hades.jpg",
     "bio": [
-      "Victor, warlord of the south, proved to be a warrior like no other -- and one of the most difficult foes the heroes ever faced, ultimately the one to kill Drexl Voss. Aluccard was able to kill him in turn, but only after a brutal, hard-fought battle.",
-      "Victor himself was a strange man who never removed his armor -- not cruel, exactly, but entirely removed from empathy, treating people as little more than labor to raise his castles. All of it was done in the name of the only lord Victor ever recognized: Vornath."
+      "Hades never asked for the underworld. He accepted it because someone among the brothers had to, and he had always been the one most willing to do the necessary thing rather than the glorious one. He ruled his kingdom with a kind of grim and genuine fairness — the dead were the dead, and deserved better than to be used as political currency by the living.",
+      "Pluto came for him not with war but with attrition. Rome's afterlife was bigger, grander, more Roman in its ambitions, and it needed the territory that Hades had spent centuries quietly maintaining. The erosion was slow — one soul's destination rerouted, then a prayer addressed to a name that wasn't quite his, then a temple built in a city that had never heard his name spoken without a shudder.",
+      "Hades erodes without ever being defeated. That is the particular tragedy of his ending: there is no moment of loss, no battle he fought and failed. He simply looks up one day and finds the kingdom smaller than it was, and the name on the gates slightly different, and realizes that the most persistent thing in his underworld was not the dead but the slow, patient hunger of an empire that never stopped building."
+    ]
+  },
+  {
+    "slug": "hephaestus",
+    "name": "Hephaestus",
+    "epithet": "The God Who Made Everything They Used",
+    "faction": "Olympians",
+    "status": "Active",
+    "tags": [
+      "God",
+      "Forge",
+      "Craft"
     ],
-    "art": "art/victor.jpg"
+    "art": "art/hephestus.jpg",
+    "bio": [
+      "Hephaestus had always been the odd god out — cast aside, then called back whenever Olympus needed something made, the craftsman who was brilliant and overlooked in exactly equal measure. He built the weapons the others used, the armor they wore, the tools that won wars whose glory he was never asked to share.",
+      "When the Roman advance reached him, it found him already in a mortal forge. He had, at some point during the long campaign against the Roman pantheon, simply left Olympus and gone to find the best mortal smith alive, and worked alongside him for reasons that had nothing to do with strategy and everything to do with genuine interest. Vulcan, Rome's version of him, was identical in function and culturally indistinguishable — which Hephaestus found, against all expectation, more comforting than insulting.",
+      "He is the only Olympian who treats the Roman advance less as a catastrophe and more as a change of management. The forge still needs tending. The metal still needs shaping. He will make what needs making for whoever asks, and call it neither victory nor defeat, and go back to work. The gods who find dignity in endings may have something to say about this. Hephaestus has never particularly cared what gods find dignified."
+    ]
+  },
+  {
+    "slug": "hercules",
+    "name": "Hercules",
+    "epithet": "The Weapon Who Chose His Own Fight",
+    "faction": "Greek Heroes",
+    "status": "Active",
+    "tags": [
+      "Hero",
+      "Demigod",
+      "Champion"
+    ],
+    "art": "art/hercules.jpg",
+    "bio": [
+      "Hercules had spent his entire existence being used — by Hera's old grudges, by mortal kings who wanted his labor and his fame both, by his own father Zeus, who loved him in the distant complicated way gods love the children who remind them of their own limitations. He arrived in this braided war already exhausted by being someone else's instrument.",
+      "Both sides wanted him. Athena urged him to fight for Olympus — he was the strongest mortal-born hero who had ever lived, and this was exactly the kind of cause worth his strength. An early emissary of Rome's stirring ambitions offered him the alternative: let the old gods handle their own succession, and use that strength to build something new instead of dying to defend something old. He refused both, in the one act of the whole war that was entirely, defiantly his own choice rather than anyone else's instrument.",
+      "\"I've spent my whole life being someone's weapon,\" he told them both, in words close enough to identical that Chronos, watching, allowed himself something like a smile. \"I'll choose my own fights from here forward. Ask me again once you've stopped assuming the asking is the same as deciding for me.\" He would choose his fight eventually. But he chose the moment, and that, for Hercules, was the victory that actually mattered — the first one, in a very long life of labor, that was entirely his."
+    ]
+  },
+  {
+    "slug": "hermes",
+    "name": "Hermes",
+    "epithet": "The Last Guide",
+    "faction": "Olympians",
+    "status": "Active",
+    "tags": [
+      "God",
+      "Messenger",
+      "Guide"
+    ],
+    "art": "art/hermes.jpg",
+    "bio": [
+      "Hermes was always the most adaptable of the Olympians, which was either a strength or a sign that he had never been entirely committed to any single version of himself. He moved between worlds — mortal and divine, living and dead, spoken and unspoken — with a ease that the other gods sometimes mistook for lightness and occasionally resented as a kind of absence.",
+      "When the Roman advance came, Hermes recognized Mercury immediately: the same function, the same swift step, the same caduceus, the same smile that meant I am only carrying the message, not responsible for what it says. The recognition was mutual, and it was the most civil encounter between an Olympian and their Roman equivalent in the entire war, which is perhaps not surprising given that the messenger gods were the ones most practiced at finding common ground.",
+      "Hermes survives as himself, more or less — still guiding, still running between what is and what was, still carrying word of the dead to wherever the dead need word carried. He is the last of the old gods to still move freely across the ground that used to be Olympus's, and he does it not by fighting but by continuing to be useful, which may be the oldest form of survival any god has ever managed."
+    ]
+  },
+  {
+    "slug": "jupiter",
+    "name": "Jupiter",
+    "epithet": "The Victor Who Lost Lying Down",
+    "faction": "Roman Pantheon",
+    "status": "Active",
+    "tags": [
+      "Roman God",
+      "Sky",
+      "Conqueror"
+    ],
+    "art": "art/jupiter.jpg",
+    "bio": [
+      "Jupiter is what you get when enough people decide to call their sky-god by a different name. He is not Zeus wearing a Roman costume — he is something genuinely new, fed on the specific quality of belief that Rome generates: organized, civic, tied to law and calendar and empire rather than to awe and myth. He grew fat on redirected faith long before he was strong enough to challenge the god he was replacing.",
+      "The battle above Olympus was, by any honest measure, a decisive loss. Zeus beat him completely — bloodied, humbled, beaten in every way a fight can be lost. Jupiter fell from the sky without offering surrender or plea. He told Zeus to kill him if he wanted, and meant it, because he understood something Zeus did not yet: he was never the point. Rome didn't need him to win the fight. Rome only needed its people to keep calling their sky-god by his name instead of Zeus's, and Rome's roads and laws and calendar were already doing exactly that whether Jupiter was standing or not.",
+      "Zeus let him go out of contempt, and spent the next year watching temples built in his own name quietly rededicating themselves to Jupiter — not because Jupiter had won anything, but because Rome had simply out-organized him. Jupiter had lost the battle and won the war in the same afternoon, and the genius of it was that he had barely needed to be present for either outcome. He is the most efficient god in this story, and the least heroic, and he would consider those two things to be entirely compatible."
+    ]
+  },
+  {
+    "slug": "kraken",
+    "name": "The Kraken",
+    "epithet": "Oldest Debtor of the Deep",
+    "faction": "Beyond Olympus",
+    "status": "Active",
+    "tags": [
+      "Ancient",
+      "Sea Beast",
+      "Primordial"
+    ],
+    "art": "art/kraken.jpg",
+    "bio": [
+      "The Kraken is not a monster in the way the old stories dressed it up — not a many-armed terror devouring sailors for sport — but something far stranger: a vast, patient, half-drowned intelligence that has been fed on sea-faith since before Poseidon had a name for his own domain. It was old before Olympus existed. It will be old after whatever replaces Olympus fades in turn.",
+      "Every prayer sailors ever gave to the sea passed through its depths before it reached Poseidon's throne. Poseidon was never the ocean. He was only its loudest tenant, and the Kraken was the landlord who had simply stopped collecting rent long enough that the tenant forgot the arrangement existed.",
+      "When Odysseus's fleet passed through its waters after Troy, carrying the redirected sea-faith of a city that no longer stood, the Kraken stirred — not out of malice but out of debt-accounting, the cold and inhuman arithmetic of something that has been owed belief for centuries and finally sees payment within reach. It is Odysseus's honest, unstrategic gratitude that settles the debt, the only currency the Kraken has ever recognized: not tribute to Poseidon's credit, but acknowledgment offered directly. It accepts this, and lets the ships pass, and returns to waiting, which is the only thing something that old has ever needed to do."
+    ]
+  },
+  {
+    "slug": "mars",
+    "name": "Mars",
+    "epithet": "The God Who Made War Mean Something New",
+    "faction": "Roman Pantheon",
+    "status": "Active",
+    "tags": [
+      "Roman God",
+      "War",
+      "Legion"
+    ],
+    "art": "art/mars.jpg",
+    "bio": [
+      "Mars is not Ares. The story is at pains to make this clear, and so is Mars himself. Where Ares is the raw fact of violence — the thing at the center of every battle that no plan can account for — Mars is what war looks like when an empire needs it to be sustainable: disciplined, organized, legionary, the machinery of conquest rather than the ecstasy of combat. He arrived as Rome's soldiers began teaching an entire generation of mortals that war meant formations and supply lines and patient siege, not glory and single combat and mythic clashes between champions.",
+      "He challenged Ares to a duel rather than a battle — a deliberate choice, framed with enough ceremony that Ares couldn't refuse without feeling like a coward. He did not need to be a better warrior than Ares, and he wasn't, not blow for blow. He only needed war itself to have started meaning something Ares no longer fully recognized, and by the time they met on the field, it already had. The doubt that made Ares's blade falter at the crucial moment was not Mars's doing. It was Thermopylae's, and Fotios's unanswered prayers, circling back through years to find the god who had never resolved them.",
+      "Mars walks away from the duel the god of a war that has already won — not because he was the strongest fighter, but because the world had already decided to fight his way instead of Ares's. He is, like Jupiter, efficient in a way that requires no particular heroism. The old gods would call this contemptible. Mars would call it effective, which is exactly the difference between them."
+    ]
+  },
+  {
+    "slug": "odysseus",
+    "name": "Odysseus",
+    "epithet": "The One Who Remembered Why",
+    "faction": "Mortals of Troy",
+    "status": "Active",
+    "tags": [
+      "Hero",
+      "Strategist",
+      "Mortal"
+    ],
+    "art": "art/odysseus.jpg",
+    "bio": [
+      "Odysseus was the cleverest man at Troy, which at Troy meant he was the most exhausted. He spent four years watching proud men make decisions that would cost other men their lives, and spent considerable energy finding diplomatic language for the observation that everyone around him had lost sight of why they came. He was not always successful. He was always right.",
+      "Where Achilles fought for the glory of fighting and Agamemnon fought for the authority of commanding, Odysseus fought because he genuinely understood what was at stake: not Helen, not pride, not territory, but the question of whose faith would still be standing when the dust cleared. He held the coalition together not through leadership but through the patient and repeated act of reminding people what they were actually doing.",
+      "Getting home cost him more than the war did. He bargained with Poseidon, encountered something in the deep that preceded Poseidon's own authority, and ended the confrontation not with strength but with genuine gratitude offered directly — a move that worked precisely because it was honest rather than strategic, which may be the only time in the story that Odysseus did something without calculating the outcome first. It was the right thing to do. He went home."
+    ]
+  },
+  {
+    "slug": "osman",
+    "name": "Osman",
+    "epithet": "The Archer Who Asked the Wrong Question",
+    "faction": "Persian Empire",
+    "status": "Active",
+    "tags": [
+      "Archer",
+      "Persian",
+      "Mortal"
+    ],
+    "art": "art/osman.jpg",
+    "bio": [
+      "Osman was Xerxes's most trusted archer, a man defined by precision — precision of aim, of judgment, of the silence he kept when other advisors spoke too much. He noticed things. At Thermopylae, watching three hundred Spartans hold the pass against an empire, he went quiet in a way that Xerxes noticed, and when the king asked, Osman said that what the Spartans were doing wasn't strategy. It was belief. And he didn't know what it felt like to believe in something enough to die for it that plainly.",
+      "The question he had asked Xerxes — whether the king believed in something the way those men believed — was the kind of question that doesn't go away once it's spoken aloud. Xerxes had answered with a deflection. Osman had listened to the deflection, understood it for what it was, and drawn his own conclusions quietly, in the way that archers tend to process difficult information: by holding very still and watching what moves.",
+      "He is not a convert. He does not abandon Xerxes or the Persian campaign or his own faith for the Greek one. But he carries the question through the rest of the story the way an arrow carries momentum — something released that cannot be called back, finding its mark at a moment he does not yet know is coming."
+    ]
+  },
+  {
+    "slug": "perseus",
+    "name": "Perseus",
+    "epithet": "The Hero Between Ages",
+    "faction": "Greek Heroes",
+    "status": "Active",
+    "tags": [
+      "Hero",
+      "Demigod",
+      "Monster-Slayer"
+    ],
+    "art": "art/perseus.jpg",
+    "bio": [
+      "Perseus exists in this story the way a man exists at the edge of two eras — born in one world, still walking through another, carrying proof of a past age in the form of a severed head that he has never quite figured out how to put down. Chronos's braiding of the histories pulled him closer to Troy and Thermopylae and Alexander than any honest chronology would allow, and he finds himself in the company of men who fight for reasons he recognizes and several he doesn't.",
+      "He is a hero in the oldest sense: not the inspiring kind who leads armies, but the practical kind who goes to the specific place where a specific monster is and deals with it, and then returns. The Gorgon's head is still useful. It turns out a weapon that stops things in their tracks has applications beyond the mythological, and Perseus has had time to discover several of them.",
+      "What he represents, in Chronos's braided history, is the evidence that the heroic age and the age of war and the age of empire were never as separate as later storytelling made them. He is living proof that the old deeds happened, and that the gods who commissioned them were real, and that something is worth defending even now — though he is less certain than he once was exactly what that something is, and more honest about the uncertainty than most heroes manage."
+    ]
+  },
+  {
+    "slug": "pluto",
+    "name": "Pluto",
+    "epithet": "The Hunger Wearing Hades's Face",
+    "faction": "Roman Pantheon",
+    "status": "Active",
+    "tags": [
+      "Roman God",
+      "Underworld",
+      "Parasite"
+    ],
+    "art": "art/pluto.jpg",
+    "bio": [
+      "Pluto is not Hades with a different name. That is the lie Rome's scribes would later write, to make the histories tidy, and Chronos knew it for a lie the moment he saw the first Roman afterlife take shape: grander, more ambitious, more Roman in its desire to organize and expand even the territory of the dead. Pluto did not simply replace Hades. He came for Hades's kingdom the way an empire comes for a province — not with a single conquering battle but with patient, incremental rerouting, one soul's destination redirected at a time.",
+      "He operates in darkness in two senses: the literal dark of the underworld, and the administrative darkness of a process so gradual that the god being replaced doesn't notice until the kingdom is already smaller than it was. There is no moment Hades could point to and say *this* is when Pluto arrived. That is exactly how Pluto designed it.",
+      "Of all the Roman gods in this story, Pluto is the one Chronos watches most carefully — not because he is the most powerful but because his method is the most complete. Jupiter needed Zeus's authority. Mars needed Ares's battlefield. But Pluto needed nothing from Hades at all. He only needed Hades to keep ruling until there was nothing left worth ruling, and then step quietly to the side to reveal that the name on the gate had already changed."
+    ]
+  },
+  {
+    "slug": "poseidon",
+    "name": "Poseidon",
+    "epithet": "Loudest Tenant of the Deep",
+    "faction": "Olympians",
+    "status": "Active",
+    "tags": [
+      "God",
+      "Sea",
+      "Ocean"
+    ],
+    "art": "art/posidon.jpg",
+    "bio": [
+      "Poseidon ruled the sea the way a king rules a country that existed long before he was born — by authority, not by ownership, and with an underlying unease he had learned to stop examining too closely. He warned Odysseus on the first night of the voyage home: Troy's sea-faith hadn't died with the city, it had gone looking for its oldest debtor, and what lived in the deep water was something Poseidon had been borrowing authority from since before he had a name for his own domain.",
+      "The confrontation beneath the waves, in water so old and so dark that even his own light struggled, nearly undid him. The Kraken — if it could be called that — reminded him that every prayer sailors had ever given to the sea had passed through those depths before it ever reached his throne. He was never the ocean. He was only its loudest tenant.",
+      "He surfaces changed. Not broken, not replaced — Poseidon is one of the few Olympians who survives the Roman advance with his domain still recognizably his own, perhaps because the sea is genuinely harder to rename than a function. But he carries the weight of that confrontation, the knowledge that his authority was always borrowed, and he will not pretend otherwise again."
+    ]
+  },
+  {
+    "slug": "xerxes",
+    "name": "Xerxes",
+    "epithet": "King of the Mountain That Held",
+    "faction": "Persian Empire",
+    "status": "Active",
+    "tags": [
+      "King",
+      "Conqueror",
+      "Persian"
+    ],
+    "art": "art/xerxes.jpg",
+    "bio": [
+      "Xerxes did not consider himself Olympus's enemy. He considered himself a king with an empire to expand and a mountain range in his way, and if the mountain range happened to be defended by men who prayed to gods he didn't recognize, that was simply a detail of the terrain. He was, in his own estimation, a practical man — which is the self-description of most men who bring hundreds of thousands of soldiers to force a pass held by three hundred.",
+      "His most trusted archer, Osman, went quiet watching the Spartans hold Thermopylae, and Xerxes noticed, and asked, and received an answer he hadn't expected: that what the three hundred were doing wasn't strategy, it was belief, and Osman didn't know what it felt like to believe in something that clearly. The conversation unsettled Xerxes more than the pass did. An army he could eventually get through. A question about faith he couldn't stop thinking about.",
+      "Xerxes wins at Thermopylae, as history records, and carries Greece's sacred sites for a season, and finds the gods in the ash of their burned temples not quite as absent as he expected. He is not, in this story, a villain. He is a king doing what kings do, surrounded by a war whose actual stakes he is only beginning to understand, and watching his most trusted man come back from the front lines asking questions that have nothing to do with the width of the pass."
+    ]
+  },
+  {
+    "slug": "zeus",
+    "name": "Zeus",
+    "epithet": "Lord of Olympus",
+    "faction": "Olympians",
+    "status": "Fallen",
+    "tags": [
+      "God",
+      "King",
+      "Thunder"
+    ],
+    "art": "art/zeus.jpg",
+    "bio": [
+      "Zeus's throne was, at the opening of this story, still the tallest seat on Olympus. He still commanded lightning, still held the shape of the king of gods that centuries of mortal belief had built for him. He simply did not know how close the ceiling was.",
+      "When Jupiter came — not as an enemy army but as a hungry mirror, growing fat on redirected belief — Zeus discovered that his authority was less a fortress than a reputation. He won his direct battle with Jupiter, a clash of storms that shook the Aegean and split the sky for three days. And he lost anyway, because the worshippers who had watched the sky change had already begun whispering a different name for what they'd seen.",
+      "Zeus falls not to a stronger god but to a simple arithmetic of faith: Rome's empire spread faster than Olympus could convert, and Jupiter needed no throne of his own as long as he could wear Zeus's face whenever belief required one. He is the only god in this story who wins his fight outright and still loses the war — a distinction that Chronos, watching from the mountain's edge, had seen coming for a very long time."
+    ]
   }
 ]
