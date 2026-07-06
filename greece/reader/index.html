@@ -158,6 +158,16 @@
     transition: border-color 0.15s, transform 0.15s;
   }
   .char-card:hover { border-color: var(--gold-dim); transform: translateY(-1px); }
+  .char-card-img-wrap { position: relative; overflow: hidden; max-height: 160px; }
+  .char-card-zoom {
+    position: absolute; top: 6px; right: 6px;
+    background: rgba(12,10,16,0.75); border: 1px solid var(--hairline);
+    border-radius: 4px; color: var(--gold); font-size: 14px;
+    width: 28px; height: 28px; display: flex; align-items: center; justify-content: center;
+    cursor: pointer; opacity: 0; transition: opacity 0.15s;
+    padding: 0; line-height: 1;
+  }
+  .char-card-img-wrap:hover .char-card-zoom { opacity: 1; }
   .char-card-img {
     width: 100%; aspect-ratio: 3/4; object-fit: cover; object-position: top;
     display: block;
@@ -273,6 +283,29 @@
     .char-card { width: 140px; flex-shrink: 0; margin-bottom: 0; }
     .char-card-img { max-height: 120px; }
   }
+
+  /* PORTRAIT LIGHTBOX */
+  .portrait-overlay {
+    display: none; position: fixed; inset: 0; z-index: 200;
+    background: rgba(0,0,0,0.92); backdrop-filter: blur(8px);
+    align-items: center; justify-content: center;
+    cursor: zoom-out;
+  }
+  .portrait-overlay.open { display: flex; }
+  .portrait-img {
+    max-width: 90vw; max-height: 90vh;
+    object-fit: contain; border-radius: 6px;
+    box-shadow: 0 0 60px rgba(0,0,0,0.8);
+  }
+  .portrait-close {
+    position: fixed; top: 20px; right: 24px;
+    font-size: 22px; color: var(--ink-dim); cursor: pointer;
+    background: var(--bg-panel); border: 1px solid var(--hairline);
+    border-radius: 4px; width: 36px; height: 36px;
+    display: flex; align-items: center; justify-content: center;
+    transition: color 0.15s; z-index: 201;
+  }
+  .portrait-close:hover { color: var(--gold); }
 </style>
 </head>
 <body>
@@ -302,6 +335,12 @@
     <button class="bio-modal-close" onclick="closeBioModal()">Close &times;</button>
     <div id="bio-modal-inner"></div>
   </div>
+</div>
+
+<!-- Portrait lightbox -->
+<div class="portrait-overlay" id="portrait-overlay">
+  <div class="portrait-close" onclick="closePortrait()">&#x2715;</div>
+  <img class="portrait-img" id="portrait-img" src="" alt="">
 </div>
 
 <script>
@@ -401,11 +440,14 @@
       ? `<div class="sidebar-empty">No named characters this chapter.</div>`
       : chars.map(ch => `
           <div class="char-card" onclick="openBioModal('${ch.slug}')">
+            <div class="char-card-img-wrap">
             <img class="char-card-img" src="${ART_BASE}${ch.art.replace('art/','')}" alt="${esc(ch.name)}" loading="lazy">
+            <button class="char-card-zoom" onclick="event.stopPropagation();openPortrait('${ch.slug}')" title="View full portrait">&#128269;</button>
+          </div>
             <div class="char-card-body">
               <div class="char-card-name">${esc(ch.name)}</div>
               <div class="char-card-epithet">${esc(ch.epithet)}</div>
-              <div class="char-card-faction char-card-status-${ch.status.toLowerCase()}">${esc(ch.faction)} &middot; ${esc(ch.status)}</div>
+              <div class="char-card-faction">${esc(ch.faction)}</div>
             </div>
           </div>`).join('');
 
@@ -444,7 +486,7 @@
       <div class="bio-modal-body">
         <div class="bio-modal-name">${esc(ch.name)}</div>
         <div class="bio-modal-epithet">&ldquo;${esc(ch.epithet)}&rdquo;</div>
-        <div class="bio-modal-meta">${esc(ch.faction)} &middot; ${esc(ch.status)}</div>
+        <div class="bio-modal-meta">${esc(ch.faction)}</div>
         <div class="bio-modal-tags">${(ch.tags||[]).map(t => `<span class="bio-modal-tag">${esc(t)}</span>`).join('')}</div>
         ${(ch.bio||[]).map(p => `<p class="bio-modal-para">${esc(p)}</p>`).join('')}
       </div>`;
@@ -461,6 +503,23 @@
   function esc(s) {
     return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
   }
+
+
+  window.openPortrait = function(slug) {
+    const ch = catalog.find(c => c.slug === slug);
+    if (!ch) return;
+    const img = document.getElementById('portrait-img');
+    img.src = ART_BASE + ch.art.replace('art/','');
+    img.alt = ch.name;
+    const po = document.getElementById('portrait-overlay');
+    po.classList.add('open');
+    po.onclick = e => { if (e.target === po || e.target === img) closePortrait(); };
+  };
+  window.closePortrait = function() {
+    document.getElementById('portrait-overlay').classList.remove('open');
+  };
+  // Close portrait on Escape (alongside bio modal)
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') { closeBioModal(); closePortrait(); } });
 
   window.addEventListener('hashchange', () => {
     const hash = parseInt((location.hash||'').replace('#',''), 10);
