@@ -8,160 +8,180 @@
   @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&family=Spectral:ital,wght@0,400;0,500;0,600;1,400&family=Spectral+SC:wght@500&display=swap');
 
   :root {
-    --bg: #0c0a10;
-    --bg-panel: #15121a;
-    --bg-card: #1b1722;
-    --hairline: #2c2733;
-    --gold: #d8b369;
-    --gold-dim: #8a7245;
-    --shadow-violet: #7a4fb5;
-    --ink: #e9e2d4;
-    --ink-dim: #a89e8e;
-    --ink-faint: #6e6557;
+    --bg: #0c0a10; --bg-panel: #15121a; --bg-card: #1b1722; --hairline: #2c2733;
+    --gold: #d8b369; --gold-dim: #8a7245; --shadow-violet: #7a4fb5;
+    --ink: #e9e2d4; --ink-dim: #a89e8e; --ink-faint: #6e6557;
   }
   * { box-sizing: border-box; }
   html, body {
-    margin: 0;
-    font-family: 'Spectral', serif;
+    margin: 0; font-family: 'Spectral', serif;
     background: radial-gradient(ellipse 120% 80% at 50% -10%, #1c1624 0%, var(--bg) 55%);
-    color: var(--ink);
-    min-height: 100%;
+    color: var(--ink); min-height: 100%;
+  }
+  .header { padding: 64px 24px 44px; text-align: center; position: relative; border-bottom: 1px solid var(--hairline); }
+  .header::before { content:''; position:absolute; top:0; left:50%; transform:translateX(-50%); width:1px; height:28px; background:linear-gradient(to bottom,transparent,var(--gold-dim)); }
+  .eyebrow { font-family:'Spectral SC',serif; letter-spacing:.35em; font-size:11px; color:var(--shadow-violet); text-transform:uppercase; margin-bottom:14px; }
+  h1 { font-family:'Cinzel',serif; font-size:clamp(38px,7vw,62px); font-weight:900; letter-spacing:.06em; background:linear-gradient(180deg,#f3e3b8 0%,var(--gold) 45%,#9d7e3e 100%); -webkit-background-clip:text; background-clip:text; color:transparent; margin:0; line-height:1.1; }
+  .subtitle { font-style:italic; color:var(--ink-dim); font-size:15px; margin-top:10px; }
+  .divider { display:flex; align-items:center; gap:14px; max-width:320px; margin:24px auto 0; }
+  .divider span { flex:1; height:1px; background:linear-gradient(to right,transparent,var(--hairline)); }
+  .divider span.r { background:linear-gradient(to left,transparent,var(--hairline)); }
+  .divider svg { width:14px; height:14px; color:var(--gold-dim); flex-shrink:0; }
+
+  /* Timeline */
+  .timeline-wrap { max-width:700px; margin:0 auto; padding:64px 24px 80px; position:relative; }
+  .timeline-wrap::before {
+    content:''; position:absolute; left:50%; top:64px; bottom:80px;
+    width:1px; transform:translateX(-50%);
+    background:linear-gradient(to bottom,transparent,var(--hairline) 6%,var(--hairline) 94%,transparent);
   }
 
-  .header { padding: 64px 24px 40px; text-align: center; position: relative; border-bottom: 1px solid var(--hairline); }
-  .header::before {
-    content: ''; position: absolute; top: 0; left: 50%; transform: translateX(-50%);
-    width: 1px; height: 28px; background: linear-gradient(to bottom, transparent, var(--gold-dim));
+  .tl-entry {
+    display:grid; grid-template-columns:1fr 40px 1fr;
+    align-items:start; margin-bottom:52px; position:relative;
   }
-  .eyebrow {
-    font-family: 'Spectral SC', serif; letter-spacing: 0.35em; font-size: 11px;
-    color: var(--shadow-violet); text-transform: uppercase; margin-bottom: 14px;
-  }
-  h1 {
-    font-family: 'Cinzel', serif; font-size: clamp(38px, 7vw, 62px); font-weight: 900;
-    letter-spacing: 0.06em;
-    background: linear-gradient(180deg, #f3e3b8 0%, var(--gold) 45%, #9d7e3e 100%);
-    -webkit-background-clip: text; background-clip: text; color: transparent;
-    margin: 0; line-height: 1.1;
-  }
-  .subtitle { font-style: italic; color: var(--ink-dim); font-size: 15px; margin-top: 10px; }
-  .divider { display: flex; align-items: center; gap: 14px; max-width: 320px; margin: 22px auto 0; }
-  .divider span { flex: 1; height: 1px; background: linear-gradient(to right, transparent, var(--hairline)); }
-  .divider span.r { background: linear-gradient(to left, transparent, var(--hairline)); }
-  .divider svg { width: 14px; height: 14px; color: var(--gold-dim); flex-shrink: 0; }
+  .tl-entry:last-child { margin-bottom:0; }
 
-  .timeline {
-    max-width: 900px; margin: 0 auto;
-    padding: 48px 24px 12px;
-    text-align: center;
+  .tl-date {
+    font-family:'Spectral SC',serif; font-size:10.5px; letter-spacing:.14em;
+    text-transform:uppercase; color:var(--gold-dim);
+    padding-top:20px; text-align:right; padding-right:22px; line-height:1.6;
   }
-  .timeline-label {
-    font-family: 'Spectral SC', serif; font-size: 11px; letter-spacing: 0.2em;
-    text-transform: uppercase; color: var(--ink-faint); margin-bottom: 28px;
-  }
+  .tl-entry.flip .tl-date { grid-column:3; grid-row:1; text-align:left; padding-right:0; padding-left:22px; }
 
-  .stories {
-    max-width: 1080px; margin: 0 auto; padding: 0 24px 90px;
-    display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-    gap: 20px;
+  .tl-dot { display:flex; align-items:flex-start; justify-content:center; padding-top:24px; grid-column:2; grid-row:1; }
+  .tl-dot-inner {
+    width:11px; height:11px; border-radius:50%;
+    background:var(--gold-dim); border:2px solid var(--bg);
+    box-shadow:0 0 0 1px var(--gold-dim); flex-shrink:0; transition:all .2s;
   }
+  .tl-entry.live .tl-dot-inner { background:var(--gold); box-shadow:0 0 0 1px var(--gold),0 0 12px 2px rgba(216,179,105,.22); }
+  .tl-entry.soon .tl-dot-inner { background:var(--hairline); box-shadow:0 0 0 1px var(--ink-faint); }
 
-  .story-card {
-    background: var(--bg-card);
-    border: 1px solid var(--hairline);
-    border-radius: 6px;
-    padding: 30px 24px;
-    text-decoration: none;
-    color: inherit;
-    position: relative;
-    display: flex; flex-direction: column; align-items: center; text-align: center;
-    transition: transform 0.22s ease, border-color 0.22s ease, box-shadow 0.22s ease;
+  .tl-card {
+    background:var(--bg-card); border:1px solid var(--hairline); border-radius:6px;
+    padding:18px 20px 20px; text-decoration:none; color:inherit;
+    display:block; margin-left:22px;
+    transition:transform .2s ease,border-color .2s ease,box-shadow .2s ease;
   }
-  .story-card.live:hover {
-    transform: translateY(-4px);
-    border-color: var(--gold-dim);
-    box-shadow: 0 12px 32px -12px rgba(0,0,0,0.6), 0 0 0 1px var(--gold-dim);
-  }
-  .story-card.soon {
-    cursor: default;
-    opacity: 0.55;
-  }
-  .story-card.soon:hover { opacity: 0.75; }
+  .tl-entry.live .tl-card:hover { transform:translateY(-3px); border-color:var(--gold-dim); box-shadow:0 10px 28px -10px rgba(0,0,0,.6),0 0 0 1px var(--gold-dim); }
+  .tl-entry.soon .tl-card { cursor:default; opacity:.5; }
+  .tl-entry.flip .tl-card { grid-column:1; grid-row:1; margin-left:0; margin-right:22px; text-align:right; }
 
-  .story-era {
-    font-family: 'Spectral SC', serif; font-size: 10px; letter-spacing: 0.14em;
-    text-transform: uppercase; color: var(--shadow-violet); margin-bottom: 10px;
-  }
-  .story-name {
-    font-family: 'Cinzel', serif; font-weight: 700; font-size: 22px; color: var(--ink);
-    letter-spacing: 0.02em;
-  }
-  .story-status {
-    margin-top: 14px;
-    font-family: 'Spectral SC', serif; font-size: 10px; letter-spacing: 0.12em;
-    text-transform: uppercase;
-    padding: 5px 12px; border-radius: 3px;
-    border: 1px solid var(--hairline);
-  }
-  .story-card.live .story-status { color: var(--gold); border-color: var(--gold-dim); }
-  .story-card.soon .story-status { color: var(--ink-faint); }
+  .tl-card-era { font-family:'Spectral SC',serif; font-size:9.5px; letter-spacing:.14em; text-transform:uppercase; color:var(--shadow-violet); margin-bottom:6px; }
+  .tl-card-name { font-family:'Cinzel',serif; font-weight:700; font-size:21px; color:var(--ink); letter-spacing:.02em; line-height:1.1; margin-bottom:7px; }
+  .tl-card-desc { font-size:12.5px; color:var(--ink-faint); font-style:italic; line-height:1.55; margin-bottom:13px; }
+  .tl-card-badge { display:inline-block; font-family:'Spectral SC',serif; font-size:9.5px; letter-spacing:.12em; text-transform:uppercase; padding:4px 11px; border-radius:3px; border:1px solid var(--hairline); }
+  .tl-entry.live .tl-card-badge { color:var(--gold); border-color:var(--gold-dim); }
+  .tl-entry.soon .tl-card-badge { color:var(--ink-faint); }
 
-  .footer {
-    text-align: center; padding: 0 24px 50px;
-    color: var(--ink-faint); font-size: 12px; font-style: italic;
+  .footer { text-align:center; padding:28px 24px 56px; color:var(--ink-faint); font-size:12px; font-style:italic; border-top:1px solid var(--hairline); max-width:700px; margin:0 auto; }
+
+  @media (max-width:560px) {
+    .timeline-wrap::before { left:20px; transform:none; }
+    .tl-entry, .tl-entry.flip { grid-template-columns:28px 1fr; grid-template-rows:auto auto; }
+    .tl-date, .tl-entry.flip .tl-date { grid-column:2; grid-row:2; text-align:left; padding:5px 0 0; font-size:10px; }
+    .tl-dot { grid-column:1; grid-row:1; padding-top:20px; justify-content:flex-start; }
+    .tl-card, .tl-entry.flip .tl-card { grid-column:2; grid-row:1; margin:0; text-align:left; }
   }
 </style>
 </head>
 <body>
 
-  <div class="header">
-    <div class="eyebrow">A World Across Ages</div>
-    <h1>THE VALKORATH UNIVERSE</h1>
-    <div class="subtitle">Four stories, one world, spanning ages past to the present day</div>
-    <div class="divider">
-      <span></span>
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M12 2 L14 10 L22 12 L14 14 L12 22 L10 14 L2 12 L10 10 Z"/></svg>
-      <span class="r"></span>
+<div class="header">
+  <div class="eyebrow">A World Across Ages</div>
+  <h1>THE VALKORATH UNIVERSE</h1>
+  <div class="subtitle">Seven stories, one world — from ancient myth to the present day</div>
+  <div class="divider">
+    <span></span>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M12 2 L14 10 L22 12 L14 14 L12 22 L10 14 L2 12 L10 10 Z"/></svg>
+    <span class="r"></span>
+  </div>
+</div>
+
+<div class="timeline-wrap">
+  <div class="tl-entry live">
+    <div class="tl-date">c. 50,000 – 30,000 BC<br>The Primordial Age</div>
+    <div class="tl-dot"><div class="tl-dot-inner"></div></div>
+    <a class="tl-card" href="pantheon/catalog/">
+      <div class="tl-card-era">The Primordial Age</div>
+      <div class="tl-card-name">Elarion</div>
+      <div class="tl-card-desc">The age of the Pantheon — gods and demigods in the world before the Founding War reshaped everything that came after.</div>
+      <span class="tl-card-badge">Read Now</span>
+    </a>
+  </div>
+
+  <div class="tl-entry live flip">
+    <a class="tl-card" href="catalog/">
+      <div class="tl-card-era">Prehistoric Era</div>
+      <div class="tl-card-name">Valkorath</div>
+      <div class="tl-card-desc">The war that made the world. Armies of light and shadow clash across a continent whose name will become the age itself.</div>
+      <span class="tl-card-badge">Read Now</span>
+    </a>
+    <div class="tl-dot"><div class="tl-dot-inner"></div></div>
+    <div class="tl-date">c. 15,000 – 10,000 BC<br>The Founding War</div>
+  </div>
+
+  <div class="tl-entry live">
+    <div class="tl-date">c. 480 – 323 BC<br>Ancient Greece</div>
+    <div class="tl-dot"><div class="tl-dot-inner"></div></div>
+    <a class="tl-card" href="greece/catalog/">
+      <div class="tl-card-era">Myth &amp; Empire</div>
+      <div class="tl-card-name">Greece</div>
+      <div class="tl-card-desc">The Olympians face extinction as Rome's gods rise to claim their dominion — told across the age of Troy, Thermopylae, and Alexander.</div>
+      <span class="tl-card-badge">Read Now</span>
+    </a>
+  </div>
+
+  <div class="tl-entry live flip">
+    <a class="tl-card" href="blade-of-honor/catalog/">
+      <div class="tl-card-era">Medieval Era</div>
+      <div class="tl-card-name">Aridel</div>
+      <div class="tl-card-desc">A kingdom fractures under the weight of a king who forgot what he believed in. The cause outlasts the man who named it.</div>
+      <span class="tl-card-badge">Read Now</span>
+    </a>
+    <div class="tl-dot"><div class="tl-dot-inner"></div></div>
+    <div class="tl-date">After Valkorath<br>c. 900 – 1100 AD</div>
+  </div>
+
+  <div class="tl-entry soon">
+    <div class="tl-date">Early 2000s<br>London, England</div>
+    <div class="tl-dot"><div class="tl-dot-inner"></div></div>
+    <div class="tl-card">
+      <div class="tl-card-era">The Modern World</div>
+      <div class="tl-card-name">London</div>
+      <div class="tl-card-desc">A story unfolding in the early 2000s — the old world's capital at the edge of a century that will change everything.</div>
+      <span class="tl-card-badge">Coming Soon</span>
     </div>
   </div>
 
-  <div class="timeline">
-    <div class="timeline-label">Chronological Order</div>
+  <div class="tl-entry soon flip">
+    <div class="tl-card">
+      <div class="tl-card-era">The Modern World</div>
+      <div class="tl-card-name">Texas</div>
+      <div class="tl-card-desc">Set in 2020 — a world mid-fracture, a state that contains multitudes, and a story set at the exact moment everything shifted.</div>
+      <span class="tl-card-badge">Coming Soon</span>
+    </div>
+    <div class="tl-dot"><div class="tl-dot-inner"></div></div>
+    <div class="tl-date">2020<br>Texas, USA</div>
   </div>
 
-  <div class="stories">
-    <a class="story-card live" href="pantheon/catalog/">
-      <div class="story-era">Before Valkorath</div>
-      <div class="story-name">Elarion</div>
-      <div class="story-status">27 Characters</div>
-    </a>
-
-    <a class="story-card live" href="catalog/">
-      <div class="story-era">The Founding War</div>
-      <div class="story-name">Valkorath</div>
-      <div class="story-status">119 Characters</div>
-    </a>
-
-    <a class="story-card live" href="blade-of-honor/catalog/">
-      <div class="story-era">After Valkorath</div>
-      <div class="story-name">Aridel</div>
-      <div class="story-status">11 Characters</div>
-    </a>
-
-    <a class="story-card live" href="centennial/catalog/">
-      <div class="story-era">Present Day</div>
-      <div class="story-name">New York</div>
-      <div class="story-status">18 Characters</div>
-    </a>
-
-    <a class="story-card live" href="greece/catalog/">
-      <div class="story-era">After Valkorath</div>
-      <div class="story-name">Greece</div>
-      <div class="story-status">31 Chapters</div>
+  <div class="tl-entry live">
+    <div class="tl-date">Present Day<br>2026 · New York</div>
+    <div class="tl-dot"><div class="tl-dot-inner"></div></div>
+    <a class="tl-card" href="centennial/catalog/">
+      <div class="tl-card-era">The Centennial</div>
+      <div class="tl-card-name">New York</div>
+      <div class="tl-card-desc">The present day. A city that has always been a world unto itself, now at the center of something larger than any one story.</div>
+      <span class="tl-card-badge">Read Now</span>
     </a>
   </div>
 
-  <div class="footer">Click a story to explore its world &middot; more chapters added as they're written</div>
+</div>
+
+<div class="footer">
+  Click a story to explore its world &middot; timeline spans ancient myth to the present day
+</div>
 
 </body>
 </html>
