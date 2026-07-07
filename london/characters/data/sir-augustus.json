@@ -1,0 +1,18 @@
+{
+  "slug": "sir-augustus",
+  "name": "Sir Augustus",
+  "epithet": "The Architect of Influence",
+  "faction": "The Black Order",
+  "status": "Fallen",
+  "tags": [
+    "Black Order",
+    "Scholar",
+    "Villain"
+  ],
+  "art": "art/sir-augustus.jpg",
+  "bio": [
+    "Sir Augustus was the kind of man who made ambition look like courtesy. Immaculately dressed, unfailingly polite, possessed of a genuine intellectual brilliance that made his company pleasant and his intentions extremely difficult to read until they were already in motion \u2014 he was the Black Order's most useful face precisely because he looked nothing like what he was. Every sentence he spoke was correct in its surface meaning and doing something else underneath it.",
+    "He desired influence above all other things, which was a desire the Black Order had cultivated in him across decades and which had made him its most effective operative in Britain. The black ooze had given him abilities that he never deployed without thinking through the downstream consequences first, which made him considerably more dangerous than the people who used it impulsively.",
+    "His end was the Order's final piece of poetic justice: abandoned by his colleagues at the crucial moment, he released Vorath in desperation and was killed by the thing he'd called. He died exactly the way people die when they've spent a lifetime treating everything as an instrument and run out of instruments to hide behind."
+  ]
+}

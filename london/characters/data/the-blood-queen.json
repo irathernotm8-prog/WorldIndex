@@ -1,0 +1,18 @@
+{
+  "slug": "the-blood-queen",
+  "name": "The Blood Queen",
+  "epithet": "The One Who Won and Lost",
+  "faction": "Unaligned",
+  "status": "Fallen",
+  "tags": [
+    "Blood Mage",
+    "Betrayer",
+    "Final Antagonist"
+  ],
+  "art": "art/the-blood-queen.jpg",
+  "bio": [
+    "The Blood Queen was Mariella, and Mariella had always been the Blood Queen, and the gap between those two sentences is the entire story of London. She had been working her own agenda since before Gareth and Deek arrived, and had used them as efficiently as she'd used the Black Order \u2014 as obstacles to clear other obstacles, as tools whose utility she'd correctly assessed and whose emotional investment in her she had not calculated as a relevant factor.",
+    "She cut off Gareth's arm when the Order fell because she needed him out of the way long enough to consolidate the power she'd come for, not because she wanted him dead. This was a mistake in the way that underestimating grief is always a mistake. She killed Deek in the final confrontation because Deek was the logical threat to neutralise, which was correct tactically and catastrophic strategically.",
+    "Gareth killed her with Sir Elliot's sword in a fight she should have won, and might have, if she had understood that there is a specific kind of person who becomes more dangerous when you take everything from them rather than less. She had not understood that about Gareth because she had not needed to, right up until the moment she did."
+  ]
+}

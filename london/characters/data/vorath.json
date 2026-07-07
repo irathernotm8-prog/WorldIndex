@@ -1,0 +1,18 @@
+{
+  "slug": "vorath",
+  "name": "Vorath",
+  "epithet": "The Last Resort",
+  "faction": "The Black Order",
+  "status": "Fallen",
+  "tags": [
+    "Ancient Creature",
+    "Resurrected",
+    "Final Boss"
+  ],
+  "art": "art/vorath.jpg",
+  "bio": [
+    "Vorath was old enough that what he'd been before the ooze preserved and distorted him was no longer the interesting question. The interesting question was what he was now: a creature of ancient and genuine malice, dried out and wound through with the dark power that had kept him extant across centuries, extremely angry about all of it in a way that made no distinction between the person who'd imprisoned him and everyone else in the vicinity.",
+    "Augustus released him as a last resort and was the first thing Vorath killed, which was either gratitude or the settling of a very old score that had been pending since the original imprisonment. The creature then turned his attention to everyone else in the building, which included Gareth, Deek, and the remnants of the Black Order who had not yet managed to flee.",
+    "Gareth killed him with Sir Elliot's sword, which was the third time in this story that the dead man's blade solved a problem the living couldn't. By the end Gareth understood that he was carrying something that had been given to him on purpose, by someone who had known what he would need before he needed it. He didn't find this comforting. He found it accurate."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "sergei",
+  "name": "Sergei",
+  "epithet": "The Hunter From Elsewhere",
+  "faction": "Unaligned",
+  "status": "Active",
+  "tags": [
+    "Hunter",
+    "Serbian",
+    "Temporary Ally"
+  ],
+  "art": "art/sergei.jpg",
+  "bio": [
+    "Sergei had been tracking the Black Order's London operation from a different angle than Gareth and Deek \u2014 not because he cared about artifacts or ancient power, but because the Order had touched something in Serbia that his government had quietly tasked him with containing. He was a hunter in the specific sense of someone who treats the supernatural as a category of problem rather than a category of wonder, and he was very good at his job.",
+    "Their goals aligned for long enough to make collaboration useful and short enough that the disagreement when it came was not a surprise. Sergei's allegiance was to his country and his mission, not to any particular resolution of the Order's power struggle. When the endgame shifted from neutralising the Order to something more personal and more dangerous, he made his assessment and stepped back, which was the rational choice and also the one Gareth never quite forgave him for.",
+    "He left London with the intelligence he'd come for. He told himself that was the job. He was not wrong, and it didn't help much."
+  ]
+}

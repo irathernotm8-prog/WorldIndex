@@ -1,0 +1,18 @@
+{
+  "slug": "deek",
+  "name": "Deek",
+  "epithet": "The One Who Called",
+  "faction": "The Hunters",
+  "status": "Fallen",
+  "tags": [
+    "Military",
+    "Scholar",
+    "Friend"
+  ],
+  "art": "art/deek.jpg",
+  "bio": [
+    "Deek had done two tours before he decided that the things worth finding weren't being found by armies. He left the military with a methodical mind, a working knowledge of six languages, and the specific conviction of someone who has been trained to assess threats that there were far more of them in the world than the official record acknowledged. He became a treasure hunter the way some people become detectives \u2014 because the alternative was ignoring things he couldn't stop noticing.",
+    "He preferred brains over brawn, which was a preference he backed up with genuine lethality when the situation required. He called Gareth to London because he'd traced an artifact acquisition chain back to an address in Whitechapel that felt wrong in a way he couldn't quite name but trusted completely. He needed someone who could move fast and ask questions later. Gareth was the only person he trusted enough to call.",
+    "Deek was the anchor of the two of them \u2014 steadier, more careful, the one who thought about consequences before acting rather than after. His death at the Blood Queen's hands at the end was not a failure of his judgment but an outcome he had specifically arranged to prevent, which had worked for long enough. The thing about anchors is that they go down with the ship."
+  ]
+}

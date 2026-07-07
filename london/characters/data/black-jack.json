@@ -1,0 +1,18 @@
+{
+  "slug": "black-jack",
+  "name": "Black Jack",
+  "epithet": "The Ooze-Bearer",
+  "faction": "The Black Order",
+  "status": "Fallen",
+  "tags": [
+    "Black Order",
+    "Pirate",
+    "Hunter"
+  ],
+  "art": "art/black-jack.jpg",
+  "bio": [
+    "Black Jack was the face of the Black Order that Gareth and Deek met first, which was deliberate \u2014 the Order kept its more refined members in reserve and sent Jack when it wanted to make a point about what happened to people who asked inconvenient questions. He had the bearing and aesthetics of a pirate from a much earlier century, which he either cultivated for effect or simply hadn't bothered to update, and the black ooze he wielded moved off him like something alive.",
+    "He hunted Gareth and Deek across London for most of the story's first act, appearing always at slightly the wrong moment for them \u2014 close enough to keep the pressure on, not close enough to finish it cleanly. This was his assignment, not his preference. Jack was the kind of man who preferred finishing things.",
+    "He was the first member of the Order the heroes faced down seriously, and losing to them cost him his standing within the Order's hierarchy and eventually his life. He was not mourned. He had not expected to be."
+  ]
+}

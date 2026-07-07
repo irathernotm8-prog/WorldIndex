@@ -1,0 +1,18 @@
+{
+  "slug": "leopold",
+  "name": "Leopold",
+  "epithet": "The Knight Who Chose Wrong",
+  "faction": "The Black Order",
+  "status": "Fallen",
+  "tags": [
+    "Black Order",
+    "Traitor",
+    "Knight"
+  ],
+  "art": "art/leopold.jpg",
+  "bio": [
+    "Leopold wanted to be a knight in an age that didn't make them anymore, which was either an admirable anachronism or a warning sign, depending on how you read the armour he wore to places where armour wasn't worn. He had the bearing and the code and the genuine conviction that he was fighting on the side of order against chaos \u2014 he'd simply chosen, at some point, to interpret those terms in the Black Order's favour.",
+    "He helped Gareth and Deek substantially, in the way that someone helps you when they know the maze better than you do and need you moving in a particular direction. He was genuinely useful, and they trusted him in the way that you trust someone who has earned trust through competence, which is the only kind of trust that doesn't give you any warning.",
+    "His betrayal, when it came, was spectacular in the specific sense of being very well-prepared. He had always had the black ooze. He had simply never needed to use it until the moment he did. The look on Gareth's face when Leopold revealed it was one Gareth did not discuss afterward, because there was a version of himself in that look \u2014 the version that still believed people were mostly what they presented \u2014 that he couldn't afford to keep."
+  ]
+}

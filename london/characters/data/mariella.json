@@ -1,0 +1,18 @@
+{
+  "slug": "mariella",
+  "name": "Mariella",
+  "epithet": "The Blood Queen in Waiting",
+  "faction": "Unaligned",
+  "status": "Fallen",
+  "tags": [
+    "Blood Mage",
+    "Thief",
+    "Betrayer"
+  ],
+  "art": "art/mariella.jpg",
+  "bio": [
+    "Mariella was exactly as fun-loving as she appeared, which was what made the betrayal land so hard. She wasn't performing warmth \u2014 she genuinely enjoyed people, genuinely enjoyed the adventure of it all, and had a gift for making everyone around her feel like the most interesting person in the room. The blood magic she wielded with casual, slightly terrifying ease was just another tool to her, like lockpicks or a good lie: useful, morally neutral, entirely dependent on intent.",
+    "The intent, it turned out, had always been her own advancement. She'd been using the Black Order the same way she'd used Gareth and Deek \u2014 as a means to an end she'd been working toward since long before any of them appeared. The power the Order had accumulated across centuries was exactly what she wanted, and they were so busy keeping it from ordinary people that they never considered she might be something other than ordinary.",
+    "She revealed herself as the Blood Queen at the moment the Order was beaten \u2014 the predator who'd let two different sets of prey exhaust each other. She cut off Gareth's arm and took what she came for and in the final confrontation killed Deek, which was the last calculation she made correctly. The grief that followed was absolute, and Gareth's grief, when it became purpose, was something she had not accounted for."
+  ]
+}

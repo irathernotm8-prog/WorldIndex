@@ -1,0 +1,18 @@
+{
+  "slug": "maximus",
+  "name": "Maximus",
+  "epithet": "The Hollow Resurrection",
+  "faction": "The Black Order",
+  "status": "Fallen",
+  "tags": [
+    "Resurrected",
+    "Mage",
+    "Silent Threat"
+  ],
+  "art": "art/maximus.jpg",
+  "bio": [
+    "Maximus had been called Maxim once, in an age when that name meant something in certain circles of arcane scholarship. What the Black Order brought back was not Maxim. It was the shape of him, filled with the Order's purpose and the ooze's power and none of the things that had made the original man a person rather than a weapon. He didn't speak. There was nothing left to say.",
+    "He was the Order's final defence \u2014 brought out not when things were going well but when the Order needed something that would simply not stop until it was destroyed. He was extraordinarily powerful and moved with the particular economy of something that had no instinct for self-preservation because self-preservation was a concern of the living.",
+    "He killed Sir Elliot efficiently and without malice, which was the only way he did anything. Gareth killed him with Sir Elliot's sword, which the dark blade made possible in a way no ordinary weapon would have. There is something in that exchange \u2014 Elliot's death enabling the weapon that ended Maximus \u2014 that is either poetic or simply the way cause and effect works when you're paying attention. Gareth was not in a state to decide which."
+  ]
+}

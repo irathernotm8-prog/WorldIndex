@@ -1,0 +1,18 @@
+{
+  "slug": "gareth",
+  "name": "Gareth",
+  "epithet": "The Optimist Who Wasn't, After",
+  "faction": "The Hunters",
+  "status": "Active",
+  "tags": [
+    "Adventurer",
+    "Artifact Hunter",
+    "Survivor"
+  ],
+  "art": "art/gareth.jpg",
+  "bio": [
+    "In the early 2000s, Gareth was the kind of person who made bad ideas sound reasonable. Young, quick, and completely at ease in situations that should have killed him, he made his living finding old things in places that didn't want them found and selling them to people who didn't ask where they came from. Not the most honest work, he'd tell you cheerfully, but it suited the life he wanted \u2014 no fixed address, no obligations, no ceiling on what any given Tuesday might turn into.",
+    "He came to London because Deek called and said he'd found something. Gareth almost said no. He didn't, because he never did when Deek called, and because something big was exactly the kind of thing he'd been looking for without admitting it. London gave him Mariella, Sir Elliot, and a fight with the Black Order that cost him more than he knew how to calculate when it was over.",
+    "He left London with one arm, no best friend, and a sword that belonged to a dead man he'd known for two weeks. The narcissism and bravado that defined him in New York two decades later were not character flaws he was born with. They were armor, fitted carefully over something that had once been open and was now permanently closed. He was still trying to do good. He was less certain than he used to be about what that meant."
+  ]
+}

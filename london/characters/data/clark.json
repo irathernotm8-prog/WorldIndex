@@ -1,0 +1,18 @@
+{
+  "slug": "clark",
+  "name": "Clark",
+  "epithet": "The Man Who Didn't Know What He Was Asking For",
+  "faction": "The Black Order",
+  "status": "Fallen",
+  "tags": [
+    "Victim",
+    "Ooze-Consumed",
+    "Reluctant Threat"
+  ],
+  "art": "art/clark.jpg",
+  "bio": [
+    "Clark had nothing left. That was the thing Augustus had understood about him before Clark fully understood it himself \u2014 the specific texture of a man whose options had narrowed to a single point, who was looking for any door still open. Augustus offered him power in language that sounded like an opportunity, and Clark took it because the alternative was continuing to be Clark, which had stopped being sustainable.",
+    "What the ooze did to him was not what he'd expected power to look like. It poured out of him and through him and remade him into something that couldn't be entirely described as a person anymore \u2014 powerful, certainly, but powerful in the way a flood is powerful: comprehensive, indiscriminate, not especially interested in the distinction between enemy and bystander.",
+    "He was still Clark inside it. That was the part that made the fight terrible. He was still Clark, looking out through something that had eaten most of what Clark had been, and he did not want to be doing what he was doing, and he couldn't stop, and Gareth could see it in him and had to put him down anyway. Some things you do and then you carry. This was one of those things."
+  ]
+}

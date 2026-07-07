@@ -1,0 +1,218 @@
+[
+  {
+    "slug": "black-jack",
+    "name": "Black Jack",
+    "epithet": "The Ooze-Bearer",
+    "faction": "The Black Order",
+    "status": "Fallen",
+    "tags": [
+      "Black Order",
+      "Pirate",
+      "Hunter"
+    ],
+    "art": "art/black-jack.jpg",
+    "bio": [
+      "Black Jack was the face of the Black Order that Gareth and Deek met first, which was deliberate — the Order kept its more refined members in reserve and sent Jack when it wanted to make a point about what happened to people who asked inconvenient questions. He had the bearing and aesthetics of a pirate from a much earlier century, which he either cultivated for effect or simply hadn't bothered to update, and the black ooze he wielded moved off him like something alive.",
+      "He hunted Gareth and Deek across London for most of the story's first act, appearing always at slightly the wrong moment for them — close enough to keep the pressure on, not close enough to finish it cleanly. This was his assignment, not his preference. Jack was the kind of man who preferred finishing things.",
+      "He was the first member of the Order the heroes faced down seriously, and losing to them cost him his standing within the Order's hierarchy and eventually his life. He was not mourned. He had not expected to be."
+    ]
+  },
+  {
+    "slug": "clark",
+    "name": "Clark",
+    "epithet": "The Man Who Didn't Know What He Was Asking For",
+    "faction": "The Black Order",
+    "status": "Fallen",
+    "tags": [
+      "Victim",
+      "Ooze-Consumed",
+      "Reluctant Threat"
+    ],
+    "art": "art/clark.jpg",
+    "bio": [
+      "Clark had nothing left. That was the thing Augustus had understood about him before Clark fully understood it himself — the specific texture of a man whose options had narrowed to a single point, who was looking for any door still open. Augustus offered him power in language that sounded like an opportunity, and Clark took it because the alternative was continuing to be Clark, which had stopped being sustainable.",
+      "What the ooze did to him was not what he'd expected power to look like. It poured out of him and through him and remade him into something that couldn't be entirely described as a person anymore — powerful, certainly, but powerful in the way a flood is powerful: comprehensive, indiscriminate, not especially interested in the distinction between enemy and bystander.",
+      "He was still Clark inside it. That was the part that made the fight terrible. He was still Clark, looking out through something that had eaten most of what Clark had been, and he did not want to be doing what he was doing, and he couldn't stop, and Gareth could see it in him and had to put him down anyway. Some things you do and then you carry. This was one of those things."
+    ]
+  },
+  {
+    "slug": "deek",
+    "name": "Deek",
+    "epithet": "The One Who Called",
+    "faction": "The Hunters",
+    "status": "Fallen",
+    "tags": [
+      "Military",
+      "Scholar",
+      "Friend"
+    ],
+    "art": "art/deek.jpg",
+    "bio": [
+      "Deek had done two tours before he decided that the things worth finding weren't being found by armies. He left the military with a methodical mind, a working knowledge of six languages, and the specific conviction of someone who has been trained to assess threats that there were far more of them in the world than the official record acknowledged. He became a treasure hunter the way some people become detectives — because the alternative was ignoring things he couldn't stop noticing.",
+      "He preferred brains over brawn, which was a preference he backed up with genuine lethality when the situation required. He called Gareth to London because he'd traced an artifact acquisition chain back to an address in Whitechapel that felt wrong in a way he couldn't quite name but trusted completely. He needed someone who could move fast and ask questions later. Gareth was the only person he trusted enough to call.",
+      "Deek was the anchor of the two of them — steadier, more careful, the one who thought about consequences before acting rather than after. His death at the Blood Queen's hands at the end was not a failure of his judgment but an outcome he had specifically arranged to prevent, which had worked for long enough. The thing about anchors is that they go down with the ship."
+    ]
+  },
+  {
+    "slug": "gareth",
+    "name": "Gareth",
+    "epithet": "The Optimist Who Wasn't, After",
+    "faction": "The Hunters",
+    "status": "Active",
+    "tags": [
+      "Adventurer",
+      "Artifact Hunter",
+      "Survivor"
+    ],
+    "art": "art/gareth.jpg",
+    "bio": [
+      "In the early 2000s, Gareth was the kind of person who made bad ideas sound reasonable. Young, quick, and completely at ease in situations that should have killed him, he made his living finding old things in places that didn't want them found and selling them to people who didn't ask where they came from. Not the most honest work, he'd tell you cheerfully, but it suited the life he wanted — no fixed address, no obligations, no ceiling on what any given Tuesday might turn into.",
+      "He came to London because Deek called and said he'd found something. Gareth almost said no. He didn't, because he never did when Deek called, and because something big was exactly the kind of thing he'd been looking for without admitting it. London gave him Mariella, Sir Elliot, and a fight with the Black Order that cost him more than he knew how to calculate when it was over.",
+      "He left London with one arm, no best friend, and a sword that belonged to a dead man he'd known for two weeks. The narcissism and bravado that defined him in New York two decades later were not character flaws he was born with. They were armor, fitted carefully over something that had once been open and was now permanently closed. He was still trying to do good. He was less certain than he used to be about what that meant."
+    ]
+  },
+  {
+    "slug": "leopold",
+    "name": "Leopold",
+    "epithet": "The Knight Who Chose Wrong",
+    "faction": "The Black Order",
+    "status": "Fallen",
+    "tags": [
+      "Black Order",
+      "Traitor",
+      "Knight"
+    ],
+    "art": "art/leopold.jpg",
+    "bio": [
+      "Leopold wanted to be a knight in an age that didn't make them anymore, which was either an admirable anachronism or a warning sign, depending on how you read the armour he wore to places where armour wasn't worn. He had the bearing and the code and the genuine conviction that he was fighting on the side of order against chaos — he'd simply chosen, at some point, to interpret those terms in the Black Order's favour.",
+      "He helped Gareth and Deek substantially, in the way that someone helps you when they know the maze better than you do and need you moving in a particular direction. He was genuinely useful, and they trusted him in the way that you trust someone who has earned trust through competence, which is the only kind of trust that doesn't give you any warning.",
+      "His betrayal, when it came, was spectacular in the specific sense of being very well-prepared. He had always had the black ooze. He had simply never needed to use it until the moment he did. The look on Gareth's face when Leopold revealed it was one Gareth did not discuss afterward, because there was a version of himself in that look — the version that still believed people were mostly what they presented — that he couldn't afford to keep."
+    ]
+  },
+  {
+    "slug": "mariella",
+    "name": "Mariella",
+    "epithet": "The Blood Queen in Waiting",
+    "faction": "Unaligned",
+    "status": "Fallen",
+    "tags": [
+      "Blood Mage",
+      "Thief",
+      "Betrayer"
+    ],
+    "art": "art/mariella.jpg",
+    "bio": [
+      "Mariella was exactly as fun-loving as she appeared, which was what made the betrayal land so hard. She wasn't performing warmth — she genuinely enjoyed people, genuinely enjoyed the adventure of it all, and had a gift for making everyone around her feel like the most interesting person in the room. The blood magic she wielded with casual, slightly terrifying ease was just another tool to her, like lockpicks or a good lie: useful, morally neutral, entirely dependent on intent.",
+      "The intent, it turned out, had always been her own advancement. She'd been using the Black Order the same way she'd used Gareth and Deek — as a means to an end she'd been working toward since long before any of them appeared. The power the Order had accumulated across centuries was exactly what she wanted, and they were so busy keeping it from ordinary people that they never considered she might be something other than ordinary.",
+      "She revealed herself as the Blood Queen at the moment the Order was beaten — the predator who'd let two different sets of prey exhaust each other. She cut off Gareth's arm and took what she came for and in the final confrontation killed Deek, which was the last calculation she made correctly. The grief that followed was absolute, and Gareth's grief, when it became purpose, was something she had not accounted for."
+    ]
+  },
+  {
+    "slug": "maximus",
+    "name": "Maximus",
+    "epithet": "The Hollow Resurrection",
+    "faction": "The Black Order",
+    "status": "Fallen",
+    "tags": [
+      "Resurrected",
+      "Mage",
+      "Silent Threat"
+    ],
+    "art": "art/maximus.jpg",
+    "bio": [
+      "Maximus had been called Maxim once, in an age when that name meant something in certain circles of arcane scholarship. What the Black Order brought back was not Maxim. It was the shape of him, filled with the Order's purpose and the ooze's power and none of the things that had made the original man a person rather than a weapon. He didn't speak. There was nothing left to say.",
+      "He was the Order's final defence — brought out not when things were going well but when the Order needed something that would simply not stop until it was destroyed. He was extraordinarily powerful and moved with the particular economy of something that had no instinct for self-preservation because self-preservation was a concern of the living.",
+      "He killed Sir Elliot efficiently and without malice, which was the only way he did anything. Gareth killed him with Sir Elliot's sword, which the dark blade made possible in a way no ordinary weapon would have. There is something in that exchange — Elliot's death enabling the weapon that ended Maximus — that is either poetic or simply the way cause and effect works when you're paying attention. Gareth was not in a state to decide which."
+    ]
+  },
+  {
+    "slug": "sergei",
+    "name": "Sergei",
+    "epithet": "The Hunter From Elsewhere",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Hunter",
+      "Serbian",
+      "Temporary Ally"
+    ],
+    "art": "art/sergei.jpg",
+    "bio": [
+      "Sergei had been tracking the Black Order's London operation from a different angle than Gareth and Deek — not because he cared about artifacts or ancient power, but because the Order had touched something in Serbia that his government had quietly tasked him with containing. He was a hunter in the specific sense of someone who treats the supernatural as a category of problem rather than a category of wonder, and he was very good at his job.",
+      "Their goals aligned for long enough to make collaboration useful and short enough that the disagreement when it came was not a surprise. Sergei's allegiance was to his country and his mission, not to any particular resolution of the Order's power struggle. When the endgame shifted from neutralising the Order to something more personal and more dangerous, he made his assessment and stepped back, which was the rational choice and also the one Gareth never quite forgave him for.",
+      "He left London with the intelligence he'd come for. He told himself that was the job. He was not wrong, and it didn't help much."
+    ]
+  },
+  {
+    "slug": "sir-augustus",
+    "name": "Sir Augustus",
+    "epithet": "The Architect of Influence",
+    "faction": "The Black Order",
+    "status": "Fallen",
+    "tags": [
+      "Black Order",
+      "Scholar",
+      "Villain"
+    ],
+    "art": "art/sir-augustus.jpg",
+    "bio": [
+      "Sir Augustus was the kind of man who made ambition look like courtesy. Immaculately dressed, unfailingly polite, possessed of a genuine intellectual brilliance that made his company pleasant and his intentions extremely difficult to read until they were already in motion — he was the Black Order's most useful face precisely because he looked nothing like what he was. Every sentence he spoke was correct in its surface meaning and doing something else underneath it.",
+      "He desired influence above all other things, which was a desire the Black Order had cultivated in him across decades and which had made him its most effective operative in Britain. The black ooze had given him abilities that he never deployed without thinking through the downstream consequences first, which made him considerably more dangerous than the people who used it impulsively.",
+      "His end was the Order's final piece of poetic justice: abandoned by his colleagues at the crucial moment, he released Vorath in desperation and was killed by the thing he'd called. He died exactly the way people die when they've spent a lifetime treating everything as an instrument and run out of instruments to hide behind."
+    ]
+  },
+  {
+    "slug": "sir-elliot",
+    "name": "Sir Elliot",
+    "epithet": "The Phantom's Blade",
+    "faction": "Aluccard's Agent",
+    "status": "Fallen",
+    "tags": [
+      "Phantom",
+      "Swordsman",
+      "Agent"
+    ],
+    "art": "art/sir-elliot.jpg",
+    "bio": [
+      "Sir Elliot appeared at night, which was not a coincidence. He was a creature of thresholds — most visible at the edge of things, most useful in the dark, most himself in the moment between confrontation and resolution. He was antagonistic the first two times they encountered him and said almost nothing on either occasion, which was the kind of mystery that either meant there was something worth finding underneath or there wasn't. There was.",
+      "After Leopold's betrayal he revealed that he'd been tasked with destroying the Black Order by a mysterious benefactor — a name he didn't share, though anyone with the right context might recognise the fingerprints. He joined them without ceremony, carrying a dark blade that proved remarkably effective against the ooze in a way that suggested it had been made specifically for this purpose, which it had been.",
+      "Maximus killed him. It happened quickly and with the specific finality of a powerful silent thing meeting someone who had relied too long on being faster than the threat. Gareth picked up his sword. The sword worked just as well in Gareth's hand, which Sir Elliot, had he been there to see it, would have found exactly as it should be."
+    ]
+  },
+  {
+    "slug": "the-blood-queen",
+    "name": "The Blood Queen",
+    "epithet": "The One Who Won and Lost",
+    "faction": "Unaligned",
+    "status": "Fallen",
+    "tags": [
+      "Blood Mage",
+      "Betrayer",
+      "Final Antagonist"
+    ],
+    "art": "art/the-blood-queen.jpg",
+    "bio": [
+      "The Blood Queen was Mariella, and Mariella had always been the Blood Queen, and the gap between those two sentences is the entire story of London. She had been working her own agenda since before Gareth and Deek arrived, and had used them as efficiently as she'd used the Black Order — as obstacles to clear other obstacles, as tools whose utility she'd correctly assessed and whose emotional investment in her she had not calculated as a relevant factor.",
+      "She cut off Gareth's arm when the Order fell because she needed him out of the way long enough to consolidate the power she'd come for, not because she wanted him dead. This was a mistake in the way that underestimating grief is always a mistake. She killed Deek in the final confrontation because Deek was the logical threat to neutralise, which was correct tactically and catastrophic strategically.",
+      "Gareth killed her with Sir Elliot's sword in a fight she should have won, and might have, if she had understood that there is a specific kind of person who becomes more dangerous when you take everything from them rather than less. She had not understood that about Gareth because she had not needed to, right up until the moment she did."
+    ]
+  },
+  {
+    "slug": "vorath",
+    "name": "Vorath",
+    "epithet": "The Last Resort",
+    "faction": "The Black Order",
+    "status": "Fallen",
+    "tags": [
+      "Ancient Creature",
+      "Resurrected",
+      "Final Boss"
+    ],
+    "art": "art/vorath.jpg",
+    "bio": [
+      "Vorath was old enough that what he'd been before the ooze preserved and distorted him was no longer the interesting question. The interesting question was what he was now: a creature of ancient and genuine malice, dried out and wound through with the dark power that had kept him extant across centuries, extremely angry about all of it in a way that made no distinction between the person who'd imprisoned him and everyone else in the vicinity.",
+      "Augustus released him as a last resort and was the first thing Vorath killed, which was either gratitude or the settling of a very old score that had been pending since the original imprisonment. The creature then turned his attention to everyone else in the building, which included Gareth, Deek, and the remnants of the Black Order who had not yet managed to flee.",
+      "Gareth killed him with Sir Elliot's sword, which was the third time in this story that the dead man's blade solved a problem the living couldn't. By the end Gareth understood that he was carrying something that had been given to him on purpose, by someone who had known what he would need before he needed it. He didn't find this comforting. He found it accurate."
+    ]
+  }
+]

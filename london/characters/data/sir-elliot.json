@@ -1,0 +1,18 @@
+{
+  "slug": "sir-elliot",
+  "name": "Sir Elliot",
+  "epithet": "The Phantom's Blade",
+  "faction": "Aluccard's Agent",
+  "status": "Fallen",
+  "tags": [
+    "Phantom",
+    "Swordsman",
+    "Agent"
+  ],
+  "art": "art/sir-elliot.jpg",
+  "bio": [
+    "Sir Elliot appeared at night, which was not a coincidence. He was a creature of thresholds \u2014 most visible at the edge of things, most useful in the dark, most himself in the moment between confrontation and resolution. He was antagonistic the first two times they encountered him and said almost nothing on either occasion, which was the kind of mystery that either meant there was something worth finding underneath or there wasn't. There was.",
+    "After Leopold's betrayal he revealed that he'd been tasked with destroying the Black Order by a mysterious benefactor \u2014 a name he didn't share, though anyone with the right context might recognise the fingerprints. He joined them without ceremony, carrying a dark blade that proved remarkably effective against the ooze in a way that suggested it had been made specifically for this purpose, which it had been.",
+    "Maximus killed him. It happened quickly and with the specific finality of a powerful silent thing meeting someone who had relied too long on being faster than the threat. Gareth picked up his sword. The sword worked just as well in Gareth's hand, which Sir Elliot, had he been there to see it, would have found exactly as it should be."
+  ]
+}
