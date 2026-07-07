@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>GREECE — Read</title>
+<title>LONDON — Read</title>
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&family=Spectral:ital,wght@0,400;0,500;0,600;1,400&family=Spectral+SC:wght@500&display=swap');
 
@@ -312,9 +312,9 @@
 
 <div class="vk-header">
   <a class="backlink" href="../../">&larr; The Valkorath Universe</a>
-  <a class="backlink" href="../catalog/">&larr; GREECE Catalog</a>
-  <div class="vk-eyebrow">After Valkorath</div>
-  <h1 class="vk-title">GREECE</h1>
+  <a class="backlink" href="../catalog/">&larr; LONDON Catalog</a>
+  <div class="vk-eyebrow">Early 2000s &middot; London</div>
+  <h1 class="vk-title">LONDON</h1>
   <div class="vk-subtitle">Read Chapter by Chapter</div>
 </div>
 
@@ -365,7 +365,7 @@
   // Load catalog + story in parallel
   Promise.all([
     fetch('../characters/catalog.json').then(r => r.json()),
-    fetch('../story/greece-story.md').then(r => { if (!r.ok) throw new Error(); return r.text(); })
+    fetch('../story/london-story.md').then(r => { if (!r.ok) throw new Error(); return r.text(); })
   ]).then(([cat, md]) => {
     catalog  = cat;
     chapters = parseChapters(md);
