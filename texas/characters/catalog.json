@@ -1,0 +1,290 @@
+[
+  {
+    "slug": "brock",
+    "name": "Brock",
+    "epithet": "The Strongest Human in the Room",
+    "faction": "The Fighters",
+    "status": "Active",
+    "tags": [
+      "Brawler",
+      "Rival",
+      "Loyal"
+    ],
+    "art": "art/brock.jpg",
+    "bio": [
+      "Brock is what you get when brute strength becomes philosophy. He is, by any honest measurement, about as strong as a human man can get — no Ki, no inherited ability, no ceiling-breaker — and he has built an entire identity around the sufficiency of that, which it almost always is. His moral code is strong and genuine and does not require him to like everyone it applies to, which is good because there are people it applies to that he does not like.",
+      "Montana is the primary example. Brock's relationship with his childhood rival is the most complicated thing about him, which is saying something given the rest of his life. He has a reluctant admiration for Montana that he has never expressed directly and has expressed constantly through thirty years of showing up wherever Montana is and finding reasons to be there. He entered the Texas tournament feeling drawn to it, which he would describe as a coincidence to anyone who asked.",
+      "In the final fight against Heksh he came in without being asked, which is the most honest thing Brock ever did. He hit the grand monk of the Shin-Ju with everything a human body can generate. It was not enough to win and it was exactly enough to matter."
+    ]
+  },
+  {
+    "slug": "drexl",
+    "name": "Drexl",
+    "epithet": "The Still Point",
+    "faction": "The Fighters",
+    "status": "Fallen",
+    "tags": [
+      "Monk",
+      "Mentor",
+      "Fallen"
+    ],
+    "art": "art/drexl.jpg",
+    "bio": [
+      "Drexl is a monk of the old kind — not quiet in the way that suggests emptiness, but quiet in the way that suggests something very full held very still. He entered the Texas tournament with his apprentice Elmarie not to win but to stop the Shin-Ju's plan, which he had tracked to this venue through a combination of specific knowledge and the particular patience of someone who has been watching dangerous things for a long time and knows what they look like at a distance.",
+      "He rarely uses his full abilities, which is the kind of restraint that makes other fighters uncomfortable because it implies a gulf between what he's showing and what he has that they cannot accurately measure. He is calm and easy-going and can switch into a killing machine at the drop of a hat. He spent ten years teaching Elmarie everything he knew without holding anything back, which is the only decision in his life that he made specifically with his own death in mind.",
+      "Zhu killed him. He had assessed this as one of the acceptable outcomes. He sat against the wall afterward with the calm acceptance of someone who had run the numbers and made his peace, and said what he needed to say to Elmarie, and then let go. His death is the emotional weight that the final fight carries — everyone in that arena who went at Heksh was going for Drexl as much as for the talisman, even if they didn't say it."
+    ]
+  },
+  {
+    "slug": "dylan",
+    "name": "Dylan",
+    "epithet": "The Patriot Who Had a Point",
+    "faction": "The Fighters",
+    "status": "Active",
+    "tags": [
+      "Fighter",
+      "American",
+      "Loyal"
+    ],
+    "art": "art/dylan.jpg",
+    "bio": [
+      "Dylan is from Boston and fights to make his nation proud, which is a motivation that sounds simple until you spend time with him and understand that it is genuinely simple — he means it entirely, without irony or complication, and the complete absence of irony in the twenty-first century is its own kind of unusual. He is good at fighting and better at it when there's something at stake he believes in, which means he fights best at the worst moments.",
+      "He met Montana and the others over a drinking contest that he won on points and lost on outcome, walking away with a friend instead of a trophy, which he considered the better result. He and Montana share a love of fighting and disagree about almost everything it's supposed to represent — Dylan fights to represent something larger than himself, Montana fights because the thing in front of him is wrong and needs addressing, and neither of them thinks the other is incorrect.",
+      "Dylan pushed Montana toward something in their conversations that Montana didn't fully understand until later: the idea that living and practising what you preach was rare enough to be worth noting, which was Dylan's way of saying that Montana's instinct to show up for things was worth more than Montana gave it credit for. He came into the final fight against Heksh bleeding and came in anyway. This was very Dylan."
+    ]
+  },
+  {
+    "slug": "elmarie",
+    "name": "Elmarie",
+    "epithet": "Everything He Gave Her",
+    "faction": "The Fighters",
+    "status": "Active",
+    "tags": [
+      "Monk",
+      "Apprentice",
+      "Survivor"
+    ],
+    "art": "art/elmarie.jpg",
+    "bio": [
+      "Elmarie follows her master everywhere and questions his calmness at times of distress, which she does honestly and without apology because she has never been able to simply accept what seems to her like an inappropriate level of equanimity in the face of bad situations. She knows, underneath the questioning, that his calmness is not disregard. He has never given her a reason to doubt him. She follows him anyway, including into a situation she understood was going to cost him something significant.",
+      "Her younger brother Kai went to the Shin-Ju after Drexl chose her as his apprentice instead of him, which is a fact she has carried with the specific weight of something you are responsible for but did not cause. When she meets Kai unexpectedly in the tournament she beats him, which is not what she wanted to do and was the only available response to what he brought to the fight. He runs off. He comes back. That is Kai's arc and she knows it has to be his to complete.",
+      "After Drexl dies she carries ten years of his teaching into the final fight against Heksh and spends every piece of it. This is what he intended. She knows that, and it helps, and it also isn't the same as him being there to see it, and both of those things are true at the same time."
+    ]
+  },
+  {
+    "slug": "fehz",
+    "name": "Fehz",
+    "epithet": "The Cruel One",
+    "faction": "The Shin-Ju",
+    "status": "Fallen",
+    "tags": [
+      "Shin-Ju",
+      "Assassin",
+      "Fallen"
+    ],
+    "art": "art/fehz.jpg",
+    "bio": [
+      "Fehz is the Shin-Ju's assassin and witch doctor, which is a combination that makes more sense in the context of a clan that treats cruelty as a tool rather than a flaw. He is as cruel as he is deadly and enjoys toying with his victims, which is not an affectation but a preference — he finds drawn-out encounters more satisfying than efficient ones, and the purple Ki he wields is well-suited to the approach, coiling and dark and operating on a different timeline than the person on the receiving end would choose.",
+      "He fights in the tournament in a way that makes the crowd uncomfortable without technically violating the rules, which is exactly the kind of precision cruelty requires. He killed Kia's father. He killed Sir Henry because Drexl had gotten close enough to the Shin-Ju's plan to become a problem, and removing a variable adjacent to Drexl was the most efficient way to send a message.",
+      "He is the villain the story needed in the middle act — not the final boss, but the one who makes the final boss's agenda personal. His death is not the story's emotional peak. His death is the thing that makes the emotional peak possible."
+    ]
+  },
+  {
+    "slug": "heksh",
+    "name": "Heksh",
+    "epithet": "The Grand Monk",
+    "faction": "The Shin-Ju",
+    "status": "Fallen",
+    "tags": [
+      "Shin-Ju",
+      "Grand Monk",
+      "Final Boss"
+    ],
+    "art": "art/heksh.jpg",
+    "bio": [
+      "Heksh is the grand monk of the Shin-Ju and he wants complete dominion of the fighting world, which he states without preamble or justification because he does not consider it to require either. He is an unstoppable force with one goal and no interest in goals that aren't that one, which makes him simple in the way that the most dangerous things tend to be simple — no competing priorities, no doubt, nothing to work with except the fact of him.",
+      "He used the tournament as a mechanism to acquire the talisman, which he had identified as the thing that would take him from very difficult to defeat to effectively unbeatable. The talisman amplified what was already there, which was already enormous. He stepped onto the mat before the scheduled final could begin and dismissed the remaining structure because the structure had served its purpose.",
+      "He was beaten by everyone going at him together, which is the only way something like Heksh gets beaten — not by one person's individual greatness but by the specific aggregate of everyone Montana had encountered, made, or stumbled into across five days in Texas. Montana's white Ki found the opening. The rest of them made the opening possible. This is, when you think about it, a reasonable summary of what the story was about."
+    ]
+  },
+  {
+    "slug": "kai",
+    "name": "Kai",
+    "epithet": "The Prodigal Flame",
+    "faction": "The Shin-Ju",
+    "status": "Active",
+    "tags": [
+      "Shin-Ju",
+      "Ki User",
+      "Redemption"
+    ],
+    "art": "art/kai.jpg",
+    "bio": [
+      "Kai is Elmarie's younger brother and the story of what happens when rejection becomes fuel. Drexl chose Elmarie as his apprentice and did not choose Kai, which was a decision Drexl made for reasons that Kai understood intellectually and could not accept emotionally, which is the most human possible response to being passed over for someone you love. He went to the Shin-Ju because they offered him what Drexl hadn't: a place, a purpose, and a way to harness the rage he'd been sitting with into something with a form.",
+      "The flaming fist style he learned from the clan is devastating and entirely built on anger, which makes it effective and also means it tends to run hot in ways that create openings. He is a dark monk of the Shin-Ju and he meets his sister unexpectedly in the tournament, which neither of them was prepared for. She beats him. He runs off, which is what people do when the story they've been telling themselves runs into something it can't account for.",
+      "He comes back for the final fight. Drexl's death is part of it — the clan killed the man who'd made the choice that sent Kai down this road, which clarifies something that had been muddy. He comes in on Heksh's right side with his flaming fists and says nothing to anyone, which is the right call. Some returns don't need speeches. They just need to show up."
+    ]
+  },
+  {
+    "slug": "kia",
+    "name": "Kia",
+    "epithet": "Three Steps Ahead",
+    "faction": "The Fighters",
+    "status": "Active",
+    "tags": [
+      "Fighter",
+      "Strategist",
+      "Avenger"
+    ],
+    "art": "art/kia.jpg",
+    "bio": [
+      "Kia is the most dangerous of the three protagonists and the one most aware of it, which is not arrogance but accuracy. Her combat intelligence is the kind that develops when you have been training since childhood with the explicit goal of being better than everyone in the room, and she has the ability to keep a cool head during battle that Montana and Brock have always found both useful and slightly unnerving. She processes information while fighting in a way that most fighters can only do afterward.",
+      "She came to the Texas tournament to find her father's killer. She believed the person responsible was entering the bracket and she was correct — Fehz, the Shin-Ju's assassin, had been contracted for the job years before. She did not share this with Montana immediately because she had it handled and because telling him would result in him immediately trying to handle it for her, which was well-intentioned and not what she needed.",
+      "She is the one who picks up the talisman at the end, which is practical and correct. She has always been the practical one. She walks out of Texas with a question answered and a weapon in her possession and no particular interest in discussing either until she's decided what to do next, which will take exactly as long as it needs to and not a moment longer."
+    ]
+  },
+  {
+    "slug": "lorenzo",
+    "name": "Lorenzo",
+    "epithet": "The Dancer With Green Hands",
+    "faction": "The Fighters",
+    "status": "Active",
+    "tags": [
+      "Ki User",
+      "Italian",
+      "Rival"
+    ],
+    "art": "art/lorenzo.jpg",
+    "bio": [
+      "Lorenzo is an Italian dancer with a pension for getting into street fights, which sounds like the setup to a joke until you watch him move, at which point it becomes simply an accurate description of someone who has translated two different movement disciplines into something entirely his own. The green Ki he inherited from his English father coats him when he fights, amplifying every strike and absorbing impact in a way that makes him simultaneously beautiful to watch and extremely difficult to deal with.",
+      "He entered the Texas tournament to best his brother Louis and prove he was worthy of their shared bloodline, which is the kind of motivation that makes complete sense if you understand the specific dynamic of two half-brothers who share an ability and a father and very little else. He is not wrong that he is worthy. He is also not wrong that Louis is. The tournament gives them somewhere to put a conflict that was never really about fighting.",
+      "He is the person Montana watches when Montana discovers what Ki is. He provides the demonstration without knowing he's giving it, which is fitting for someone whose whole style is about movement that communicates things language can't quite reach. He and Louis move in the same rhythm in the final fight for the first time in their lives, which would have made their father cry, had their father been there to see it."
+    ]
+  },
+  {
+    "slug": "louis",
+    "name": "Louis",
+    "epithet": "The Fencer With Blue Light",
+    "faction": "The Fighters",
+    "status": "Active",
+    "tags": [
+      "Ki User",
+      "French",
+      "Rival"
+    ],
+    "art": "art/louis.jpg",
+    "bio": [
+      "Louis is the half-brother Lorenzo doesn't think is worthy, which means he spends most of the tournament being wrong about something he's extremely confident about. He is French, prideful, otherwise level-headed, and uses blue Ki in quick pincer strikes akin to fencing — precise, economical, exactly the kind of style that looks effortless right up until you try to find the opening it never leaves. He fights to prove his brother is not worthy, which is a goal that reveals more about Louis than about Lorenzo.",
+      "He inherited the ability from the same English father, which is the whole problem in two words. Sir Henry is the shared ground between them and the shared wound, and Louis has spent years using the wound as evidence of something it isn't. He is not wrong that there were failures. He is wrong about what they mean for the question of worthiness, which is a question that was never really being asked.",
+      "His father's death changes something. Not immediately — grief doesn't work on the timeline you'd prefer — but in the hallway outside the medical room, standing next to his brother in silence, the thing that had been separating them ran out of ground to stand on. They go into the final fight side by side. This is the resolution Sir Henry spent his last days trying to engineer and did not survive to see."
+    ]
+  },
+  {
+    "slug": "montana",
+    "name": "Montana",
+    "epithet": "The Man Who Didn't Know What He Was",
+    "faction": "The Fighters",
+    "status": "Active",
+    "tags": [
+      "Brawler",
+      "Ki User",
+      "Protagonist"
+    ],
+    "art": "art/montana.jpg",
+    "bio": [
+      "Montana grew up nomadic and never quite stopped — six years of following injustice from one address to the next, walking into situations that needed someone to walk into them and walking out the other side without ever settling anywhere long enough to call it home. His fighting style is brash and direct, the external expression of a personality that sees a problem and moves toward it without a lot of intermediary steps. He is also, when the situation calls for it, genuinely kind, which surprises people who clock the brash part first.",
+      "He has always been stronger than he should be. Not trained stronger — constitutionally stronger, the kind of strength that doesn't come from a gym and doesn't have a ceiling he's ever found. He spent thirty years not asking where it came from, partly from the instinct of someone raised nomadic to not examine gifts too carefully, and partly because the question felt like the beginning of a conversation he wasn't ready to have.",
+      "The Texas tournament gave him no choice. Watching Lorenzo fight, watching Ki manifest in the specific way it did, he understood what he had been carrying without knowing what to call it. White Ki — old, settled, the colour of a riverbed stone — came out of him in the final fight against Heksh not dramatically but inevitably, the way something comes out that has been waiting long enough. He left Texas with a tournament he hadn't quite won, friends he hadn't expected, and a question about his own history that the road would have to answer in its own time."
+    ]
+  },
+  {
+    "slug": "shin",
+    "name": "Shin",
+    "epithet": "The Stylist",
+    "faction": "The Fighters",
+    "status": "Active",
+    "tags": [
+      "Fighter",
+      "Provocateur",
+      "Ally"
+    ],
+    "art": "art/shin.jpg",
+    "bio": [
+      "Shin fights with the specific confidence of someone who comes from a long line of fighters and has never had to pretend otherwise. His style is built on provocation — not taunts but tactical irritation, physical redirections and touches designed to pull an opponent's anger to the surface where it becomes a liability. Against most fighters this works extremely well. Against Montana it worked until it didn't, and the moment it stopped working was the moment Shin decided Montana was worth knowing.",
+      "He is stylish in the way that fighters who have grown up around fighting are stylish — not performed, just the natural consequence of having spent your whole life watching excellence and developing an eye for what good movement looks like. He fights for pride, which is the most honest possible reason to fight in a tournament and also the one that leaves the least room for compromise.",
+      "He befriended the group before the tournament began, after they helped with an errand for his mother that was small in scope and apparently significant in effect. He was eliminated in the bracket but stayed to watch, taking notes with the expression of someone adding things to a file he intended to use eventually."
+    ]
+  },
+  {
+    "slug": "sir-henry",
+    "name": "Sir Henry",
+    "epithet": "The Father Who Ran Out of Time",
+    "faction": "The Fighters",
+    "status": "Fallen",
+    "tags": [
+      "Ki User",
+      "Father",
+      "Fallen"
+    ],
+    "art": "art/sir-henry.jpg",
+    "bio": [
+      "Sir Henry is a British gentleman in the fullest sense of the phrase, which in his case means genuine courtesy alongside genuine capability and the specific dignity of someone who has made mistakes and is attempting to address them without making the addressing of them into a new mistake. He is the father of Lorenzo and Louis — different mothers, shared ability, a family history that spread across two countries and several decades of not quite saying the right things at the right moments.",
+      "He enters the tournament as a surprise on the fourth day and reveals the red Ki that both his sons inherited from him, which neither of them knew came from him until the moment they saw it. He fights to defend his sons and to find the conversation he never quite managed to have. He finds versions of it — incomplete, bruised by years of distance and pride — and does not give up on it.",
+      "Fehz killed him because Drexl had come close enough to the Shin-Ju's plan that the clan needed to remove a variable, and Sir Henry was the nearest available one. He died having not quite finished what he came to finish. He died with his sons still separated. And yet the separation ended anyway, in the hallway afterward, which may be the most honest version of what reconciliation looks like: not the perfect conversation, but the absence of ground to stand on keeping you apart."
+    ]
+  },
+  {
+    "slug": "stugard",
+    "name": "Stugard",
+    "epithet": "The Precisionist",
+    "faction": "The Fighters",
+    "status": "Active",
+    "tags": [
+      "Fighter",
+      "German",
+      "Methodical"
+    ],
+    "art": "art/stugard.jpg",
+    "bio": [
+      "Stugard came to Texas from Germany to prove that a fight could be won with a level head and deadly precision, which is the kind of thesis that sounds very good right up until you meet someone who has a level head, deadly precision, and also something else. He is the biggest and strongest member of his family and has spent considerable time developing the specific kind of composure that makes strength reliable rather than impulsive. He does not find the American approach to most things optimal.",
+      "He fought well in the early rounds and was eliminated before the competition reached the level where his methodical style would have become a true advantage. He left without ceremony, which was also methodical. He did not stick around for the end.",
+      "There is something to admire in Stugard that the story doesn't have enough time to fully explore — a man who believes that correctness is its own reward, who has built himself around a discipline that asks nothing of anyone else. He left Texas with his principles intact and his record imperfect and an opinion of American brashness that the proceedings had done nothing to revise."
+    ]
+  },
+  {
+    "slug": "zhang-chen",
+    "name": "Zhang Chen",
+    "epithet": "The Syphon in a Suit",
+    "faction": "The Shin-Ju",
+    "status": "Fallen",
+    "tags": [
+      "Shin-Ju",
+      "Businessman",
+      "Fighter"
+    ],
+    "art": "art/zhang-chen.jpg",
+    "bio": [
+      "Zhang Chen is the financial and organisational face of the Shin-Ju's Texas operation, which means he is the person who made the tournament possible and the person who ensured the talisman would be accessible when Heksh needed it. He operates in business language and tournament bureaucracy and removes his jacket before stepping onto the mat with the specific precision of someone for whom every action is deliberate.",
+      "His fighting ability is the syphon — a draining technique that weakens opponents across the length of an exchange, getting stronger as they get weaker. It rewards patience and punishes anyone who comes in hard and fast without a plan to end things quickly. He is formidable precisely because he is so methodical, which is also true of his role in the clan's operations more generally.",
+      "He retrieved the talisman the night before the final, which was the logistical piece the Shin-Ju's plan required. He is not defeated in open combat so much as rendered irrelevant by the defeat of Heksh, which is the appropriate end for someone whose role was always more administrative than personal."
+    ]
+  },
+  {
+    "slug": "zhu",
+    "name": "Zhu",
+    "epithet": "The Honor That Remained",
+    "faction": "The Shin-Ju",
+    "status": "Fallen",
+    "tags": [
+      "Shin-Ju",
+      "Undead",
+      "Bound"
+    ],
+    "art": "art/zhu.jpg",
+    "bio": [
+      "Zhu does not speak. He has not spoken to anyone in the tournament, and possibly has not spoken to anyone in a very long time, which is the kind of detail that sits differently once you understand what he is. He was honorable once — it is said, and you can almost see it in the way he holds himself even now, a posture that has not entirely been overwritten. He chose not to use his sword in the tournament to keep things fair, which is either the Shin-Ju's instruction or something older than their instruction that found a way to persist.",
+      "He is bound to the clan. He absorbs damage that should stop a fight and keeps moving, not because he is fearless but because the mechanism that registers consequence has been altered in a way that makes consequence optional. He was sent to deal with Drexl and he dealt with Drexl, which he did without cruelty, which is the last honorable thing he managed.",
+      "Montana's white Ki stopped him. Not destroyed — stopped, in the way that something very old and very settled can stop something that has been running on compulsion. Zhu looked at the white Ki for a moment before the end and something in him recognised it. Montana would remember that pause for a long time and never quite decide what it meant."
+    ]
+  }
+]

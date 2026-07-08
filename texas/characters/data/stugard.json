@@ -1,0 +1,18 @@
+{
+  "slug": "stugard",
+  "name": "Stugard",
+  "epithet": "The Precisionist",
+  "faction": "The Fighters",
+  "status": "Active",
+  "tags": [
+    "Fighter",
+    "German",
+    "Methodical"
+  ],
+  "art": "art/stugard.jpg",
+  "bio": [
+    "Stugard came to Texas from Germany to prove that a fight could be won with a level head and deadly precision, which is the kind of thesis that sounds very good right up until you meet someone who has a level head, deadly precision, and also something else. He is the biggest and strongest member of his family and has spent considerable time developing the specific kind of composure that makes strength reliable rather than impulsive. He does not find the American approach to most things optimal.",
+    "He fought well in the early rounds and was eliminated before the competition reached the level where his methodical style would have become a true advantage. He left without ceremony, which was also methodical. He did not stick around for the end.",
+    "There is something to admire in Stugard that the story doesn't have enough time to fully explore \u2014 a man who believes that correctness is its own reward, who has built himself around a discipline that asks nothing of anyone else. He left Texas with his principles intact and his record imperfect and an opinion of American brashness that the proceedings had done nothing to revise."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "louis",
+  "name": "Louis",
+  "epithet": "The Fencer With Blue Light",
+  "faction": "The Fighters",
+  "status": "Active",
+  "tags": [
+    "Ki User",
+    "French",
+    "Rival"
+  ],
+  "art": "art/louis.jpg",
+  "bio": [
+    "Louis is the half-brother Lorenzo doesn't think is worthy, which means he spends most of the tournament being wrong about something he's extremely confident about. He is French, prideful, otherwise level-headed, and uses blue Ki in quick pincer strikes akin to fencing \u2014 precise, economical, exactly the kind of style that looks effortless right up until you try to find the opening it never leaves. He fights to prove his brother is not worthy, which is a goal that reveals more about Louis than about Lorenzo.",
+    "He inherited the ability from the same English father, which is the whole problem in two words. Sir Henry is the shared ground between them and the shared wound, and Louis has spent years using the wound as evidence of something it isn't. He is not wrong that there were failures. He is wrong about what they mean for the question of worthiness, which is a question that was never really being asked.",
+    "His father's death changes something. Not immediately \u2014 grief doesn't work on the timeline you'd prefer \u2014 but in the hallway outside the medical room, standing next to his brother in silence, the thing that had been separating them ran out of ground to stand on. They go into the final fight side by side. This is the resolution Sir Henry spent his last days trying to engineer and did not survive to see."
+  ]
+}

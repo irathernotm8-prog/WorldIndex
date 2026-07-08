@@ -1,0 +1,18 @@
+{
+  "slug": "brock",
+  "name": "Brock",
+  "epithet": "The Strongest Human in the Room",
+  "faction": "The Fighters",
+  "status": "Active",
+  "tags": [
+    "Brawler",
+    "Rival",
+    "Loyal"
+  ],
+  "art": "art/brock.jpg",
+  "bio": [
+    "Brock is what you get when brute strength becomes philosophy. He is, by any honest measurement, about as strong as a human man can get \u2014 no Ki, no inherited ability, no ceiling-breaker \u2014 and he has built an entire identity around the sufficiency of that, which it almost always is. His moral code is strong and genuine and does not require him to like everyone it applies to, which is good because there are people it applies to that he does not like.",
+    "Montana is the primary example. Brock's relationship with his childhood rival is the most complicated thing about him, which is saying something given the rest of his life. He has a reluctant admiration for Montana that he has never expressed directly and has expressed constantly through thirty years of showing up wherever Montana is and finding reasons to be there. He entered the Texas tournament feeling drawn to it, which he would describe as a coincidence to anyone who asked.",
+    "In the final fight against Heksh he came in without being asked, which is the most honest thing Brock ever did. He hit the grand monk of the Shin-Ju with everything a human body can generate. It was not enough to win and it was exactly enough to matter."
+  ]
+}

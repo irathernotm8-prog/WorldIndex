@@ -1,0 +1,18 @@
+{
+  "slug": "zhang-chen",
+  "name": "Zhang Chen",
+  "epithet": "The Syphon in a Suit",
+  "faction": "The Shin-Ju",
+  "status": "Fallen",
+  "tags": [
+    "Shin-Ju",
+    "Businessman",
+    "Fighter"
+  ],
+  "art": "art/zhang-chen.jpg",
+  "bio": [
+    "Zhang Chen is the financial and organisational face of the Shin-Ju's Texas operation, which means he is the person who made the tournament possible and the person who ensured the talisman would be accessible when Heksh needed it. He operates in business language and tournament bureaucracy and removes his jacket before stepping onto the mat with the specific precision of someone for whom every action is deliberate.",
+    "His fighting ability is the syphon \u2014 a draining technique that weakens opponents across the length of an exchange, getting stronger as they get weaker. It rewards patience and punishes anyone who comes in hard and fast without a plan to end things quickly. He is formidable precisely because he is so methodical, which is also true of his role in the clan's operations more generally.",
+    "He retrieved the talisman the night before the final, which was the logistical piece the Shin-Ju's plan required. He is not defeated in open combat so much as rendered irrelevant by the defeat of Heksh, which is the appropriate end for someone whose role was always more administrative than personal."
+  ]
+}

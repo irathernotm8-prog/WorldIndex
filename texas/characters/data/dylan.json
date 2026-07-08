@@ -1,0 +1,18 @@
+{
+  "slug": "dylan",
+  "name": "Dylan",
+  "epithet": "The Patriot Who Had a Point",
+  "faction": "The Fighters",
+  "status": "Active",
+  "tags": [
+    "Fighter",
+    "American",
+    "Loyal"
+  ],
+  "art": "art/dylan.jpg",
+  "bio": [
+    "Dylan is from Boston and fights to make his nation proud, which is a motivation that sounds simple until you spend time with him and understand that it is genuinely simple \u2014 he means it entirely, without irony or complication, and the complete absence of irony in the twenty-first century is its own kind of unusual. He is good at fighting and better at it when there's something at stake he believes in, which means he fights best at the worst moments.",
+    "He met Montana and the others over a drinking contest that he won on points and lost on outcome, walking away with a friend instead of a trophy, which he considered the better result. He and Montana share a love of fighting and disagree about almost everything it's supposed to represent \u2014 Dylan fights to represent something larger than himself, Montana fights because the thing in front of him is wrong and needs addressing, and neither of them thinks the other is incorrect.",
+    "Dylan pushed Montana toward something in their conversations that Montana didn't fully understand until later: the idea that living and practising what you preach was rare enough to be worth noting, which was Dylan's way of saying that Montana's instinct to show up for things was worth more than Montana gave it credit for. He came into the final fight against Heksh bleeding and came in anyway. This was very Dylan."
+  ]
+}

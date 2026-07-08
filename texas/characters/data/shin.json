@@ -1,0 +1,18 @@
+{
+  "slug": "shin",
+  "name": "Shin",
+  "epithet": "The Stylist",
+  "faction": "The Fighters",
+  "status": "Active",
+  "tags": [
+    "Fighter",
+    "Provocateur",
+    "Ally"
+  ],
+  "art": "art/shin.jpg",
+  "bio": [
+    "Shin fights with the specific confidence of someone who comes from a long line of fighters and has never had to pretend otherwise. His style is built on provocation \u2014 not taunts but tactical irritation, physical redirections and touches designed to pull an opponent's anger to the surface where it becomes a liability. Against most fighters this works extremely well. Against Montana it worked until it didn't, and the moment it stopped working was the moment Shin decided Montana was worth knowing.",
+    "He is stylish in the way that fighters who have grown up around fighting are stylish \u2014 not performed, just the natural consequence of having spent your whole life watching excellence and developing an eye for what good movement looks like. He fights for pride, which is the most honest possible reason to fight in a tournament and also the one that leaves the least room for compromise.",
+    "He befriended the group before the tournament began, after they helped with an errand for his mother that was small in scope and apparently significant in effect. He was eliminated in the bracket but stayed to watch, taking notes with the expression of someone adding things to a file he intended to use eventually."
+  ]
+}

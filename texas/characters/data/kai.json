@@ -1,0 +1,18 @@
+{
+  "slug": "kai",
+  "name": "Kai",
+  "epithet": "The Prodigal Flame",
+  "faction": "The Shin-Ju",
+  "status": "Active",
+  "tags": [
+    "Shin-Ju",
+    "Ki User",
+    "Redemption"
+  ],
+  "art": "art/kai.jpg",
+  "bio": [
+    "Kai is Elmarie's younger brother and the story of what happens when rejection becomes fuel. Drexl chose Elmarie as his apprentice and did not choose Kai, which was a decision Drexl made for reasons that Kai understood intellectually and could not accept emotionally, which is the most human possible response to being passed over for someone you love. He went to the Shin-Ju because they offered him what Drexl hadn't: a place, a purpose, and a way to harness the rage he'd been sitting with into something with a form.",
+    "The flaming fist style he learned from the clan is devastating and entirely built on anger, which makes it effective and also means it tends to run hot in ways that create openings. He is a dark monk of the Shin-Ju and he meets his sister unexpectedly in the tournament, which neither of them was prepared for. She beats him. He runs off, which is what people do when the story they've been telling themselves runs into something it can't account for.",
+    "He comes back for the final fight. Drexl's death is part of it \u2014 the clan killed the man who'd made the choice that sent Kai down this road, which clarifies something that had been muddy. He comes in on Heksh's right side with his flaming fists and says nothing to anyone, which is the right call. Some returns don't need speeches. They just need to show up."
+  ]
+}

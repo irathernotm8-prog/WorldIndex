@@ -1,0 +1,18 @@
+{
+  "slug": "drexl",
+  "name": "Drexl",
+  "epithet": "The Still Point",
+  "faction": "The Fighters",
+  "status": "Fallen",
+  "tags": [
+    "Monk",
+    "Mentor",
+    "Fallen"
+  ],
+  "art": "art/drexl.jpg",
+  "bio": [
+    "Drexl is a monk of the old kind \u2014 not quiet in the way that suggests emptiness, but quiet in the way that suggests something very full held very still. He entered the Texas tournament with his apprentice Elmarie not to win but to stop the Shin-Ju's plan, which he had tracked to this venue through a combination of specific knowledge and the particular patience of someone who has been watching dangerous things for a long time and knows what they look like at a distance.",
+    "He rarely uses his full abilities, which is the kind of restraint that makes other fighters uncomfortable because it implies a gulf between what he's showing and what he has that they cannot accurately measure. He is calm and easy-going and can switch into a killing machine at the drop of a hat. He spent ten years teaching Elmarie everything he knew without holding anything back, which is the only decision in his life that he made specifically with his own death in mind.",
+    "Zhu killed him. He had assessed this as one of the acceptable outcomes. He sat against the wall afterward with the calm acceptance of someone who had run the numbers and made his peace, and said what he needed to say to Elmarie, and then let go. His death is the emotional weight that the final fight carries \u2014 everyone in that arena who went at Heksh was going for Drexl as much as for the talisman, even if they didn't say it."
+  ]
+}

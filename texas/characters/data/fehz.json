@@ -1,0 +1,18 @@
+{
+  "slug": "fehz",
+  "name": "Fehz",
+  "epithet": "The Cruel One",
+  "faction": "The Shin-Ju",
+  "status": "Fallen",
+  "tags": [
+    "Shin-Ju",
+    "Assassin",
+    "Fallen"
+  ],
+  "art": "art/fehz.jpg",
+  "bio": [
+    "Fehz is the Shin-Ju's assassin and witch doctor, which is a combination that makes more sense in the context of a clan that treats cruelty as a tool rather than a flaw. He is as cruel as he is deadly and enjoys toying with his victims, which is not an affectation but a preference \u2014 he finds drawn-out encounters more satisfying than efficient ones, and the purple Ki he wields is well-suited to the approach, coiling and dark and operating on a different timeline than the person on the receiving end would choose.",
+    "He fights in the tournament in a way that makes the crowd uncomfortable without technically violating the rules, which is exactly the kind of precision cruelty requires. He killed Kia's father. He killed Sir Henry because Drexl had gotten close enough to the Shin-Ju's plan to become a problem, and removing a variable adjacent to Drexl was the most efficient way to send a message.",
+    "He is the villain the story needed in the middle act \u2014 not the final boss, but the one who makes the final boss's agenda personal. His death is not the story's emotional peak. His death is the thing that makes the emotional peak possible."
+  ]
+}

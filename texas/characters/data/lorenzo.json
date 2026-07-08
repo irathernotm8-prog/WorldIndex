@@ -1,0 +1,18 @@
+{
+  "slug": "lorenzo",
+  "name": "Lorenzo",
+  "epithet": "The Dancer With Green Hands",
+  "faction": "The Fighters",
+  "status": "Active",
+  "tags": [
+    "Ki User",
+    "Italian",
+    "Rival"
+  ],
+  "art": "art/lorenzo.jpg",
+  "bio": [
+    "Lorenzo is an Italian dancer with a pension for getting into street fights, which sounds like the setup to a joke until you watch him move, at which point it becomes simply an accurate description of someone who has translated two different movement disciplines into something entirely his own. The green Ki he inherited from his English father coats him when he fights, amplifying every strike and absorbing impact in a way that makes him simultaneously beautiful to watch and extremely difficult to deal with.",
+    "He entered the Texas tournament to best his brother Louis and prove he was worthy of their shared bloodline, which is the kind of motivation that makes complete sense if you understand the specific dynamic of two half-brothers who share an ability and a father and very little else. He is not wrong that he is worthy. He is also not wrong that Louis is. The tournament gives them somewhere to put a conflict that was never really about fighting.",
+    "He is the person Montana watches when Montana discovers what Ki is. He provides the demonstration without knowing he's giving it, which is fitting for someone whose whole style is about movement that communicates things language can't quite reach. He and Louis move in the same rhythm in the final fight for the first time in their lives, which would have made their father cry, had their father been there to see it."
+  ]
+}

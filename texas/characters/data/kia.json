@@ -1,0 +1,18 @@
+{
+  "slug": "kia",
+  "name": "Kia",
+  "epithet": "Three Steps Ahead",
+  "faction": "The Fighters",
+  "status": "Active",
+  "tags": [
+    "Fighter",
+    "Strategist",
+    "Avenger"
+  ],
+  "art": "art/kia.jpg",
+  "bio": [
+    "Kia is the most dangerous of the three protagonists and the one most aware of it, which is not arrogance but accuracy. Her combat intelligence is the kind that develops when you have been training since childhood with the explicit goal of being better than everyone in the room, and she has the ability to keep a cool head during battle that Montana and Brock have always found both useful and slightly unnerving. She processes information while fighting in a way that most fighters can only do afterward.",
+    "She came to the Texas tournament to find her father's killer. She believed the person responsible was entering the bracket and she was correct \u2014 Fehz, the Shin-Ju's assassin, had been contracted for the job years before. She did not share this with Montana immediately because she had it handled and because telling him would result in him immediately trying to handle it for her, which was well-intentioned and not what she needed.",
+    "She is the one who picks up the talisman at the end, which is practical and correct. She has always been the practical one. She walks out of Texas with a question answered and a weapon in her possession and no particular interest in discussing either until she's decided what to do next, which will take exactly as long as it needs to and not a moment longer."
+  ]
+}

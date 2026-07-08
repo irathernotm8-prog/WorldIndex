@@ -1,0 +1,18 @@
+{
+  "slug": "montana",
+  "name": "Montana",
+  "epithet": "The Man Who Didn't Know What He Was",
+  "faction": "The Fighters",
+  "status": "Active",
+  "tags": [
+    "Brawler",
+    "Ki User",
+    "Protagonist"
+  ],
+  "art": "art/montana.jpg",
+  "bio": [
+    "Montana grew up nomadic and never quite stopped \u2014 six years of following injustice from one address to the next, walking into situations that needed someone to walk into them and walking out the other side without ever settling anywhere long enough to call it home. His fighting style is brash and direct, the external expression of a personality that sees a problem and moves toward it without a lot of intermediary steps. He is also, when the situation calls for it, genuinely kind, which surprises people who clock the brash part first.",
+    "He has always been stronger than he should be. Not trained stronger \u2014 constitutionally stronger, the kind of strength that doesn't come from a gym and doesn't have a ceiling he's ever found. He spent thirty years not asking where it came from, partly from the instinct of someone raised nomadic to not examine gifts too carefully, and partly because the question felt like the beginning of a conversation he wasn't ready to have.",
+    "The Texas tournament gave him no choice. Watching Lorenzo fight, watching Ki manifest in the specific way it did, he understood what he had been carrying without knowing what to call it. White Ki \u2014 old, settled, the colour of a riverbed stone \u2014 came out of him in the final fight against Heksh not dramatically but inevitably, the way something comes out that has been waiting long enough. He left Texas with a tournament he hadn't quite won, friends he hadn't expected, and a question about his own history that the road would have to answer in its own time."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "zhu",
+  "name": "Zhu",
+  "epithet": "The Honor That Remained",
+  "faction": "The Shin-Ju",
+  "status": "Fallen",
+  "tags": [
+    "Shin-Ju",
+    "Undead",
+    "Bound"
+  ],
+  "art": "art/zhu.jpg",
+  "bio": [
+    "Zhu does not speak. He has not spoken to anyone in the tournament, and possibly has not spoken to anyone in a very long time, which is the kind of detail that sits differently once you understand what he is. He was honorable once \u2014 it is said, and you can almost see it in the way he holds himself even now, a posture that has not entirely been overwritten. He chose not to use his sword in the tournament to keep things fair, which is either the Shin-Ju's instruction or something older than their instruction that found a way to persist.",
+    "He is bound to the clan. He absorbs damage that should stop a fight and keeps moving, not because he is fearless but because the mechanism that registers consequence has been altered in a way that makes consequence optional. He was sent to deal with Drexl and he dealt with Drexl, which he did without cruelty, which is the last honorable thing he managed.",
+    "Montana's white Ki stopped him. Not destroyed \u2014 stopped, in the way that something very old and very settled can stop something that has been running on compulsion. Zhu looked at the white Ki for a moment before the end and something in him recognised it. Montana would remember that pause for a long time and never quite decide what it meant."
+  ]
+}
