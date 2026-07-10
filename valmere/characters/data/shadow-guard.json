@@ -1,0 +1,18 @@
+{
+  "slug": "shadow-guard",
+  "name": "Shadow Guard",
+  "epithet": "The Third Corps Nobody Talks About",
+  "faction": "Valmere",
+  "status": "Active",
+  "tags": [
+    "Covert Ops",
+    "Military",
+    "Shadow Corps"
+  ],
+  "art": "art/shadow-guard.jpg",
+  "bio": [
+    "The Shadow Guard are the elite covert operations division of Valmere's military, reporting directly to General Silich and operating at a level of classification that even Almira, the UN Ambassador, has not been granted access to. They are as deadly as they are mysterious, indoctrinated from a young age and loyal to Valmere with the specific completeness of people who have been given something worth being loyal to before they had the context to doubt it.",
+    "Their operations include involvement in settling disputes among other nations \u2014 interventions that have prevented larger conflicts but have never been attributed to Valmere, which is exactly how Silich prefers it. The gap between Valmere's public commitment to peaceful relations and the Shadow Corps' quiet operations in the world's contested spaces is one that Silich has resolved through the argument that peace is not the same as passivity, and that some fires are best extinguished before they're visible.",
+    "They are the answer to the question that Valmere's existence raises for every nation that has ever had something worth protecting: what are you willing to do to keep this safe? The Shadow Guard is Valmere's honest answer to that question, kept private not out of shame but out of the understanding that some answers are more useful when they remain unverified."
+  ]
+}

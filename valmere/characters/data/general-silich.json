@@ -1,0 +1,18 @@
+{
+  "slug": "general-silich",
+  "name": "General Silich",
+  "epithet": "The One Who Knows How It Was Built",
+  "faction": "Valmere",
+  "status": "Active",
+  "tags": [
+    "Military",
+    "Shadow Corps",
+    "Loyal"
+  ],
+  "art": "art/general-silich.jpg",
+  "bio": [
+    "Silich runs Valmere's military with the cold precision of a tactician who has never needed to be warm in a professional context and has found warmth anyway, in private, for the people he trusts. He commands the Navy and the Air Infantry publicly, and the Shadow Corps privately \u2014 an elite covert operations unit that involves itself in disputes between other nations in ways that are never attributed to Valmere and that even Almira is not fully aware of. He considers this appropriate. Almira's job is diplomacy. His is different.",
+    "He has been with Van Burnic since the beginning, which is a longer beginning than most people would consider possible. If anyone understands how Valmere became what it is \u2014 the deals made, the decades of construction, the specific patience required to build something across a timespan that exceeds ordinary human planning \u2014 it is Silich. He carries this knowledge with the flat, factual quality of someone who resolved long ago what he thought about all of it and has not needed to revisit the resolution.",
+    "He told Drake the truth about the High Council and about Van Burnic's nature because Van Burnic had told him to, if Drake asked directly. Van Burnic's approach to secrets is that they are not worth keeping from people who are genuinely asking, because genuinely curious people who receive genuine answers become allies, and Valmere needs allies more than it needs the comfort of maintained fictions."
+  ]
+}

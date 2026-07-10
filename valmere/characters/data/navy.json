@@ -1,0 +1,18 @@
+{
+  "slug": "navy",
+  "name": "The Valmerie Navy",
+  "epithet": "The Fleet That Guards the Rings",
+  "faction": "Valmere",
+  "status": "Active",
+  "tags": [
+    "Military",
+    "Naval",
+    "Valmere"
+  ],
+  "art": "art/navy.jpg",
+  "bio": [
+    "Valmere's navy is the most visible expression of the country's military capability \u2014 advanced, well-equipped, and operating with the quiet confidence of a force that has never needed to prove itself in open conflict and would prefer to keep it that way. The ships patrol the concentric channels between the island's three rings and maintain a presence in the surrounding ocean that is enough to be noticed and not enough to be provocative.",
+    "Command flows through General Silich, who treats the navy's public visibility as an asset \u2014 the world sees a capable force and draws its own conclusions about what lies behind it. What lies behind it includes the Air Infantry and the Shadow Corps, which are considerably less visible and considerably more operational in the areas that matter.",
+    "The navy's personnel are Valmerie citizens who enlisted for reasons that tend to be the same reasons people enlist anywhere \u2014 pride, purpose, the opportunity to be part of something larger than themselves \u2014 except that in Valmere, the thing they are part of has a clearer record of being worth the enlistment than most."
+  ]
+}

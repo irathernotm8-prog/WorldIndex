@@ -1,0 +1,18 @@
+{
+  "slug": "almira",
+  "name": "Almira",
+  "epithet": "The One Who Believes In What She Represents",
+  "faction": "Valmere",
+  "status": "Active",
+  "tags": [
+    "Diplomat",
+    "Ambassador",
+    "UN"
+  ],
+  "art": "art/almira.jpg",
+  "bio": [
+    "Almira is Valmere's UN Ambassador and is both the most public face of the nation and the most genuinely representative one \u2014 she believes what she says about Valmere, which is the specific quality that has made her UN speeches move people who were prepared to be unmoved. She has diffused conflicts between other nations through diplomacy alone, which is the kind of record that either reflects exceptional skill or exceptional luck and in her case reflects both.",
+    "She knows most of what there is to know about Valmere. Not everything \u2014 Silich's Shadow Corps operations exist at a level of classification she has not been given access to, which is a gap she is aware of and has made a decision about: she trusts that what she doesn't know doesn't contradict what she does. She has enough evidence that Van Burnic's intentions align with his presentation that she extends him the benefit of doubt on the things she can't see.",
+    "She guided Drake through Valmere when he arrived and recognized immediately that he was there for more than diplomatic observation. She told him this directly, which was the first of several ways she demonstrated that Valmere's approach to being scrutinized was to simply be what it said it was. She was the last person Drake spoke to before he asked for citizenship forms, and the conversation they had on the outer ring is one she has thought about since."
+  ]
+}

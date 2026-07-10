@@ -1,0 +1,18 @@
+{
+  "slug": "terrad",
+  "name": "Terrad",
+  "epithet": "The Anarchist Who Proved Van Burnic's Point",
+  "faction": "Unaligned",
+  "status": "Active",
+  "tags": [
+    "Anarchist",
+    "Bomber",
+    "Genuine"
+  ],
+  "art": "art/terrad.jpg",
+  "bio": [
+    "Terrad is world-renowned as an anarchist, which means he has a clear and consistent philosophy about systems of power and what should be done to them. He arrived in Valmere to create chaos, which is his method of demonstrating the fragility of anything that presents itself as stable. Nobody knows who sent him, if anyone did. Nobody knows how he got past Valmere's security. He detonated three devices and put the country into disarray for several hours.",
+    "He insists that he was acting on his own conviction \u2014 that he simply couldn't tolerate the existence of something so ostentatiously perfect, that the completeness of Valmere's presented goodness made him furious in a way that no argument could address. This is almost certainly true, and Van Burnic believed him when he said it, which Terrad found more disorienting than the interrogation. Van Burnic also said he knew someone had used that truth to point Terrad at Valmere, which Terrad did not deny.",
+    "He was caught by Clive and interrogated by Van Burnic in a way that showed Drake both sides of the leader at once \u2014 the man who managed a crisis with genuine calm and the man who sat in silence long enough to make silence do heavy work. Terrad broke faster than he expected. Van Burnic remains not entirely convinced he was acting alone, which is the kind of loose end that Valmere has learned to hold without requiring immediate resolution."
+  ]
+}

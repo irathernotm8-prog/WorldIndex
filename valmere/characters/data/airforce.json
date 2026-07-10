@@ -1,0 +1,18 @@
+{
+  "slug": "airforce",
+  "name": "The Valmerie Air Force",
+  "epithet": "The Wings Over the City",
+  "faction": "Valmere",
+  "status": "Active",
+  "tags": [
+    "Military",
+    "Air Force",
+    "Valmere"
+  ],
+  "art": "art/airforce.jpg",
+  "bio": [
+    "Valmere's Air Force operates from platforms built into the outer ring of the island, visible from the city's upper terraces as a regular presence of aircraft that are more advanced than anything in the publicly disclosed arsenals of most established nations. This is deliberate. Silich has always believed that visible capability is its own deterrent, and that a military you have to guess about is more frightening than one you can see.",
+    "The pilots are Valmerie-born, trained to standards that exceed most international equivalents, and selected with a rigour that reflects the Air Force's position as one of the country's primary deterrent forces. They know what Valmere is and why it matters and have chosen to defend it, which is the kind of conviction that military planners in other nations find difficult to account for in their threat assessments.",
+    "Drake watched them during his first week and noted in his private report \u2014 the one he wasn't sending to anyone \u2014 that the Air Force's existence answered a question he had arrived asking: whether Valmere was genuinely willing to defend itself or simply presenting the appearance of it. The aircraft flying over the channels were not for show. They were for exactly what they looked like they were for."
+  ]
+}

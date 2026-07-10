@@ -1,0 +1,18 @@
+{
+  "slug": "van-burnic",
+  "name": "Van Burnic",
+  "epithet": "The Man Who Built a Nation From a Very Long Patience",
+  "faction": "Valmere",
+  "status": "Active",
+  "tags": [
+    "Leader",
+    "Immortal",
+    "Visionary"
+  ],
+  "art": "art/van-burnic.jpg",
+  "bio": [
+    "Van Burnic is kind, strong, and exceedingly charismatic in ways that have less to do with performance than with genuine interest \u2014 every interview, every interaction with foreign dignitaries is watched closely by the world, and he gives them nothing to criticize because there is nothing to criticize. He has spent a very long time thinking about what a leader should be and has become that thing, which is either inspiring or unsettling depending on how you feel about the gap between intention and outcome.",
+    "He is immortal, which is the fact around which everything else in Valmere is organized. The High Council exists partly to ensure the country looks like what he believes it should be \u2014 a nation governed by consensus, belonging genuinely to its people \u2014 and partly to protect him from looking like what he technically is: an immortal man who designed a civilization and then invited the world in. He believes the distinction between those two things matters. He is probably right, and he is also the only one who gets to decide which version of himself the world sees.",
+    "He invited America's envoy specifically because America was the loudest skeptic, and because he understood that genuine skeptics who become believers carry more weight than people who were always inclined to trust. He was correct about Drake. He is usually correct about people, which is what happens when you have been reading them for as long as he has."
+  ]
+}

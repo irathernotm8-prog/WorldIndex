@@ -1,0 +1,18 @@
+{
+  "slug": "drake",
+  "name": "Drake",
+  "epithet": "The Spy Who Stopped Spying",
+  "faction": "Valmere",
+  "status": "Active",
+  "tags": [
+    "Ambassador",
+    "Former Intelligence",
+    "Convert"
+  ],
+  "art": "art/drake.jpg",
+  "bio": [
+    "Drake was sent to Valmere to gauge its capabilities and find its flaws, which was the assignment of a man who was very good at his job and who received it with the professional confidence of someone who had always found the flaws eventually. He arrived with a diplomatic credential and a secondary objective that his credential didn't mention. He found Clive had registered both on arrival, and that Valmere had let him in anyway, which was the first thing that didn't fit the intelligence model he had brought with him.",
+    "He spent thirty-five days in Valmere intending to stay two weeks. He met Van Burnic twice \u2014 once as an assessment and once as a conversation \u2014 and found the second meeting considerably harder to reduce to a report. The truth about the High Council, about Van Burnic's nature, about the 1960s deal that kept Valmere hidden reached him through Silich, not through any intelligence work of his own, which was also not how he had expected to receive it.",
+    "He filed an accurate report to his government recommending full diplomatic relations. He did not include what he knew about Van Burnic's immortality, which he told himself was because it was unverifiable and also because he had decided it wasn't relevant to the question of whether Valmere deserved trust. He is still working out whether those two justifications are the same thing or different ones. He asked for citizenship forms on his thirty-fifth day. He still uses his American contacts to manage tensions between the two nations, but his allegiance has settled somewhere new."
+  ]
+}

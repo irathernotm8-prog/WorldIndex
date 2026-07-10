@@ -1,0 +1,200 @@
+[
+  {
+    "slug": "almira",
+    "name": "Almira",
+    "epithet": "The One Who Believes In What She Represents",
+    "faction": "Valmere",
+    "status": "Active",
+    "tags": [
+      "Diplomat",
+      "Ambassador",
+      "UN"
+    ],
+    "art": "art/almira.jpg",
+    "bio": [
+      "Almira is Valmere's UN Ambassador and is both the most public face of the nation and the most genuinely representative one — she believes what she says about Valmere, which is the specific quality that has made her UN speeches move people who were prepared to be unmoved. She has diffused conflicts between other nations through diplomacy alone, which is the kind of record that either reflects exceptional skill or exceptional luck and in her case reflects both.",
+      "She knows most of what there is to know about Valmere. Not everything — Silich's Shadow Corps operations exist at a level of classification she has not been given access to, which is a gap she is aware of and has made a decision about: she trusts that what she doesn't know doesn't contradict what she does. She has enough evidence that Van Burnic's intentions align with his presentation that she extends him the benefit of doubt on the things she can't see.",
+      "She guided Drake through Valmere when he arrived and recognized immediately that he was there for more than diplomatic observation. She told him this directly, which was the first of several ways she demonstrated that Valmere's approach to being scrutinized was to simply be what it said it was. She was the last person Drake spoke to before he asked for citizenship forms, and the conversation they had on the outer ring is one she has thought about since."
+    ]
+  },
+  {
+    "slug": "clive",
+    "name": "Clive",
+    "epithet": "The Question the Country Can't Quite Answer",
+    "faction": "Valmere",
+    "status": "Active",
+    "tags": [
+      "Telepath",
+      "Security",
+      "Ethical Tension"
+    ],
+    "art": "art/clive.jpg",
+    "bio": [
+      "Clive is the world-class telepath Valmere keeps to secure its borders against people who intend harm, which is the kind of capability that a nation built on freedom finds genuinely uncomfortable to acknowledge. His loyalty to Valmere is absolute and his discipline with the ability is genuine — he maintains a clear distinction between threat and difference, between hostile intent and simple curiosity, and has never used his access to private thought for anything other than border security.",
+      "The question his existence poses — whether it is ethical for a country that prides itself on freedom to employ a telepath who screens arrivals without their knowledge — is one that Van Burnic has answered publicly by saying: yes, it is uncomfortable, and we live with the discomfort rather than pretending it isn't there. Whether this is the right answer or simply the most honest wrong answer depends on what you think freedom requires, which is exactly the kind of question Valmere is willing to sit with.",
+      "He detected Drake's secondary objective on arrival and reported it to Silich, who told Van Burnic, who said to let him in. He detected Scales moving through Valmere's interior and monitored him without confrontation. He is very good at his job and very aware that his job raises problems that his skill cannot resolve. He is, in this way, a useful representative of what Valmere actually is: a country that has made good decisions and is honest about the cost of them."
+    ]
+  },
+  {
+    "slug": "drake",
+    "name": "Drake",
+    "epithet": "The Spy Who Stopped Spying",
+    "faction": "Valmere",
+    "status": "Active",
+    "tags": [
+      "Ambassador",
+      "Former Intelligence",
+      "Convert"
+    ],
+    "art": "art/drake.jpg",
+    "bio": [
+      "Drake was sent to Valmere to gauge its capabilities and find its flaws, which was the assignment of a man who was very good at his job and who received it with the professional confidence of someone who had always found the flaws eventually. He arrived with a diplomatic credential and a secondary objective that his credential didn't mention. He found Clive had registered both on arrival, and that Valmere had let him in anyway, which was the first thing that didn't fit the intelligence model he had brought with him.",
+      "He spent thirty-five days in Valmere intending to stay two weeks. He met Van Burnic twice — once as an assessment and once as a conversation — and found the second meeting considerably harder to reduce to a report. The truth about the High Council, about Van Burnic's nature, about the 1960s deal that kept Valmere hidden reached him through Silich, not through any intelligence work of his own, which was also not how he had expected to receive it.",
+      "He filed an accurate report to his government recommending full diplomatic relations. He did not include what he knew about Van Burnic's immortality, which he told himself was because it was unverifiable and also because he had decided it wasn't relevant to the question of whether Valmere deserved trust. He is still working out whether those two justifications are the same thing or different ones. He asked for citizenship forms on his thirty-fifth day. He still uses his American contacts to manage tensions between the two nations, but his allegiance has settled somewhere new."
+    ]
+  },
+  {
+    "slug": "general-silich",
+    "name": "General Silich",
+    "epithet": "The One Who Knows How It Was Built",
+    "faction": "Valmere",
+    "status": "Active",
+    "tags": [
+      "Military",
+      "Shadow Corps",
+      "Loyal"
+    ],
+    "art": "art/general-silich.jpg",
+    "bio": [
+      "Silich runs Valmere's military with the cold precision of a tactician who has never needed to be warm in a professional context and has found warmth anyway, in private, for the people he trusts. He commands the Navy and the Air Infantry publicly, and the Shadow Corps privately — an elite covert operations unit that involves itself in disputes between other nations in ways that are never attributed to Valmere and that even Almira is not fully aware of. He considers this appropriate. Almira's job is diplomacy. His is different.",
+      "He has been with Van Burnic since the beginning, which is a longer beginning than most people would consider possible. If anyone understands how Valmere became what it is — the deals made, the decades of construction, the specific patience required to build something across a timespan that exceeds ordinary human planning — it is Silich. He carries this knowledge with the flat, factual quality of someone who resolved long ago what he thought about all of it and has not needed to revisit the resolution.",
+      "He told Drake the truth about the High Council and about Van Burnic's nature because Van Burnic had told him to, if Drake asked directly. Van Burnic's approach to secrets is that they are not worth keeping from people who are genuinely asking, because genuinely curious people who receive genuine answers become allies, and Valmere needs allies more than it needs the comfort of maintained fictions."
+    ]
+  },
+  {
+    "slug": "scales",
+    "name": "Scales",
+    "epithet": "The Assassin Who Changed His Mind",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Assassin",
+      "French",
+      "Reluctant"
+    ],
+    "art": "art/scales.jpg",
+    "bio": [
+      "Scales is a French-born global assassin of the highest order, which means there are very few contracts he would decline and several he has declined anyway, because one of the things that makes him exceptional is that he does his own research before accepting an assignment and trusts his assessment over a client's briefing. His assignment in Valmere gave him pause before he accepted it. The reconnaissance was low-risk. The secondary objective — eliminate a High Council member if the opportunity arose — seemed unlikely enough to be theoretical.",
+      "He infiltrated Valmere using methods that were designed specifically to stay below Clive's detection range, which he had studied carefully before attempting, because he had read about the telepath in the intelligence community's back-channel conversations about Valmere and had decided that knowing the range was worth the research time. He spent three days inside. He did his reconnaissance. He found a country that functioned the way it said it did.",
+      "He left without attempting the secondary objective. He has not discussed this with his client, or with anyone. He brought accurate intelligence back to whoever hired him, and Valmere chose not to pursue him because they had no objection to accurate information about Valmere reaching the world. Whether he will take another contract against Valmere depends on who asks, for what, and what his research tells him this time. His hesitation has not resolved into principle. It has resolved into a specific reluctance that he keeps as private as everything else."
+    ]
+  },
+  {
+    "slug": "shadow-guard",
+    "name": "Shadow Guard",
+    "epithet": "The Third Corps Nobody Talks About",
+    "faction": "Valmere",
+    "status": "Active",
+    "tags": [
+      "Covert Ops",
+      "Military",
+      "Shadow Corps"
+    ],
+    "art": "art/shadow-guard.jpg",
+    "bio": [
+      "The Shadow Guard are the elite covert operations division of Valmere's military, reporting directly to General Silich and operating at a level of classification that even Almira, the UN Ambassador, has not been granted access to. They are as deadly as they are mysterious, indoctrinated from a young age and loyal to Valmere with the specific completeness of people who have been given something worth being loyal to before they had the context to doubt it.",
+      "Their operations include involvement in settling disputes among other nations — interventions that have prevented larger conflicts but have never been attributed to Valmere, which is exactly how Silich prefers it. The gap between Valmere's public commitment to peaceful relations and the Shadow Corps' quiet operations in the world's contested spaces is one that Silich has resolved through the argument that peace is not the same as passivity, and that some fires are best extinguished before they're visible.",
+      "They are the answer to the question that Valmere's existence raises for every nation that has ever had something worth protecting: what are you willing to do to keep this safe? The Shadow Guard is Valmere's honest answer to that question, kept private not out of shame but out of the understanding that some answers are more useful when they remain unverified."
+    ]
+  },
+  {
+    "slug": "terrad",
+    "name": "Terrad",
+    "epithet": "The Anarchist Who Proved Van Burnic's Point",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "Anarchist",
+      "Bomber",
+      "Genuine"
+    ],
+    "art": "art/terrad.jpg",
+    "bio": [
+      "Terrad is world-renowned as an anarchist, which means he has a clear and consistent philosophy about systems of power and what should be done to them. He arrived in Valmere to create chaos, which is his method of demonstrating the fragility of anything that presents itself as stable. Nobody knows who sent him, if anyone did. Nobody knows how he got past Valmere's security. He detonated three devices and put the country into disarray for several hours.",
+      "He insists that he was acting on his own conviction — that he simply couldn't tolerate the existence of something so ostentatiously perfect, that the completeness of Valmere's presented goodness made him furious in a way that no argument could address. This is almost certainly true, and Van Burnic believed him when he said it, which Terrad found more disorienting than the interrogation. Van Burnic also said he knew someone had used that truth to point Terrad at Valmere, which Terrad did not deny.",
+      "He was caught by Clive and interrogated by Van Burnic in a way that showed Drake both sides of the leader at once — the man who managed a crisis with genuine calm and the man who sat in silence long enough to make silence do heavy work. Terrad broke faster than he expected. Van Burnic remains not entirely convinced he was acting alone, which is the kind of loose end that Valmere has learned to hold without requiring immediate resolution."
+    ]
+  },
+  {
+    "slug": "high-council",
+    "name": "The High Council",
+    "epithet": "The Governance That Is and Isn't",
+    "faction": "Valmere",
+    "status": "Active",
+    "tags": [
+      "Governance",
+      "Council",
+      "Structure"
+    ],
+    "art": "art/high-council.jpg",
+    "bio": [
+      "The High Council of Valmere is the governing body that Van Burnic presents to the world as the source of the nation's decisions, which is both true and not the whole truth. The council has members, meetings, votes, records, and genuine authority over a substantial range of decisions. The principles within which it operates were set by Van Burnic, and the structure was designed by Van Burnic, and the thing the council governs is a country that Van Burnic built across a span of time that exceeds any council member's lifetime.",
+      "The council is a ruse only in the specific sense that it obscures the fact of Van Burnic's immortality and the scope of his founding role. It is not a ruse in the sense that its decisions are fictional — the council has overruled Van Burnic. He accepted the ruling. The governance is real; what is managed is the appearance of its origins.",
+      "What Drake does when he learns this is the question the story spends its final chapters asking. He decides that the question of whether the foundation is perfect is the wrong one, and that the right question is whether what is built on it is worth having. He decides it is. Whether this is wisdom or rationalization is left, appropriately, unresolved."
+    ]
+  },
+  {
+    "slug": "airforce",
+    "name": "The Valmerie Air Force",
+    "epithet": "The Wings Over the City",
+    "faction": "Valmere",
+    "status": "Active",
+    "tags": [
+      "Military",
+      "Air Force",
+      "Valmere"
+    ],
+    "art": "art/airforce.jpg",
+    "bio": [
+      "Valmere's Air Force operates from platforms built into the outer ring of the island, visible from the city's upper terraces as a regular presence of aircraft that are more advanced than anything in the publicly disclosed arsenals of most established nations. This is deliberate. Silich has always believed that visible capability is its own deterrent, and that a military you have to guess about is more frightening than one you can see.",
+      "The pilots are Valmerie-born, trained to standards that exceed most international equivalents, and selected with a rigour that reflects the Air Force's position as one of the country's primary deterrent forces. They know what Valmere is and why it matters and have chosen to defend it, which is the kind of conviction that military planners in other nations find difficult to account for in their threat assessments.",
+      "Drake watched them during his first week and noted in his private report — the one he wasn't sending to anyone — that the Air Force's existence answered a question he had arrived asking: whether Valmere was genuinely willing to defend itself or simply presenting the appearance of it. The aircraft flying over the channels were not for show. They were for exactly what they looked like they were for."
+    ]
+  },
+  {
+    "slug": "navy",
+    "name": "The Valmerie Navy",
+    "epithet": "The Fleet That Guards the Rings",
+    "faction": "Valmere",
+    "status": "Active",
+    "tags": [
+      "Military",
+      "Naval",
+      "Valmere"
+    ],
+    "art": "art/navy.jpg",
+    "bio": [
+      "Valmere's navy is the most visible expression of the country's military capability — advanced, well-equipped, and operating with the quiet confidence of a force that has never needed to prove itself in open conflict and would prefer to keep it that way. The ships patrol the concentric channels between the island's three rings and maintain a presence in the surrounding ocean that is enough to be noticed and not enough to be provocative.",
+      "Command flows through General Silich, who treats the navy's public visibility as an asset — the world sees a capable force and draws its own conclusions about what lies behind it. What lies behind it includes the Air Infantry and the Shadow Corps, which are considerably less visible and considerably more operational in the areas that matter.",
+      "The navy's personnel are Valmerie citizens who enlisted for reasons that tend to be the same reasons people enlist anywhere — pride, purpose, the opportunity to be part of something larger than themselves — except that in Valmere, the thing they are part of has a clearer record of being worth the enlistment than most."
+    ]
+  },
+  {
+    "slug": "van-burnic",
+    "name": "Van Burnic",
+    "epithet": "The Man Who Built a Nation From a Very Long Patience",
+    "faction": "Valmere",
+    "status": "Active",
+    "tags": [
+      "Leader",
+      "Immortal",
+      "Visionary"
+    ],
+    "art": "art/van-burnic.jpg",
+    "bio": [
+      "Van Burnic is kind, strong, and exceedingly charismatic in ways that have less to do with performance than with genuine interest — every interview, every interaction with foreign dignitaries is watched closely by the world, and he gives them nothing to criticize because there is nothing to criticize. He has spent a very long time thinking about what a leader should be and has become that thing, which is either inspiring or unsettling depending on how you feel about the gap between intention and outcome.",
+      "He is immortal, which is the fact around which everything else in Valmere is organized. The High Council exists partly to ensure the country looks like what he believes it should be — a nation governed by consensus, belonging genuinely to its people — and partly to protect him from looking like what he technically is: an immortal man who designed a civilization and then invited the world in. He believes the distinction between those two things matters. He is probably right, and he is also the only one who gets to decide which version of himself the world sees.",
+      "He invited America's envoy specifically because America was the loudest skeptic, and because he understood that genuine skeptics who become believers carry more weight than people who were always inclined to trust. He was correct about Drake. He is usually correct about people, which is what happens when you have been reading them for as long as he has."
+    ]
+  }
+]

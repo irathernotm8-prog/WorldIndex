@@ -1,0 +1,18 @@
+{
+  "slug": "clive",
+  "name": "Clive",
+  "epithet": "The Question the Country Can't Quite Answer",
+  "faction": "Valmere",
+  "status": "Active",
+  "tags": [
+    "Telepath",
+    "Security",
+    "Ethical Tension"
+  ],
+  "art": "art/clive.jpg",
+  "bio": [
+    "Clive is the world-class telepath Valmere keeps to secure its borders against people who intend harm, which is the kind of capability that a nation built on freedom finds genuinely uncomfortable to acknowledge. His loyalty to Valmere is absolute and his discipline with the ability is genuine \u2014 he maintains a clear distinction between threat and difference, between hostile intent and simple curiosity, and has never used his access to private thought for anything other than border security.",
+    "The question his existence poses \u2014 whether it is ethical for a country that prides itself on freedom to employ a telepath who screens arrivals without their knowledge \u2014 is one that Van Burnic has answered publicly by saying: yes, it is uncomfortable, and we live with the discomfort rather than pretending it isn't there. Whether this is the right answer or simply the most honest wrong answer depends on what you think freedom requires, which is exactly the kind of question Valmere is willing to sit with.",
+    "He detected Drake's secondary objective on arrival and reported it to Silich, who told Van Burnic, who said to let him in. He detected Scales moving through Valmere's interior and monitored him without confrontation. He is very good at his job and very aware that his job raises problems that his skill cannot resolve. He is, in this way, a useful representative of what Valmere actually is: a country that has made good decisions and is honest about the cost of them."
+  ]
+}

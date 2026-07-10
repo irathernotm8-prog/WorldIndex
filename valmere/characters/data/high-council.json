@@ -1,0 +1,18 @@
+{
+  "slug": "high-council",
+  "name": "The High Council",
+  "epithet": "The Governance That Is and Isn't",
+  "faction": "Valmere",
+  "status": "Active",
+  "tags": [
+    "Governance",
+    "Council",
+    "Structure"
+  ],
+  "art": "art/high-council.jpg",
+  "bio": [
+    "The High Council of Valmere is the governing body that Van Burnic presents to the world as the source of the nation's decisions, which is both true and not the whole truth. The council has members, meetings, votes, records, and genuine authority over a substantial range of decisions. The principles within which it operates were set by Van Burnic, and the structure was designed by Van Burnic, and the thing the council governs is a country that Van Burnic built across a span of time that exceeds any council member's lifetime.",
+    "The council is a ruse only in the specific sense that it obscures the fact of Van Burnic's immortality and the scope of his founding role. It is not a ruse in the sense that its decisions are fictional \u2014 the council has overruled Van Burnic. He accepted the ruling. The governance is real; what is managed is the appearance of its origins.",
+    "What Drake does when he learns this is the question the story spends its final chapters asking. He decides that the question of whether the foundation is perfect is the wrong one, and that the right question is whether what is built on it is worth having. He decides it is. Whether this is wisdom or rationalization is left, appropriately, unresolved."
+  ]
+}
