@@ -1,0 +1,18 @@
+{
+  "slug": "vornakof",
+  "name": "Vornakof",
+  "epithet": "The Warlord Who Got What He Bargained For",
+  "faction": "The Outbreak",
+  "status": "Fallen",
+  "tags": [
+    "Warlord",
+    "Infected",
+    "Fallen"
+  ],
+  "art": "art/vornakof.jpg",
+  "bio": [
+    "Vornakof made a deal with Patchwork to secure and release the black ooze over Kryvstof, for reasons that had seemed sufficient at the time and that the ooze subsequently made irrelevant by infecting him anyway. He had presumably believed himself immune, or had believed the deal included protection, or had decided the risk was acceptable \u2014 any of these would be consistent with the kind of person who makes this kind of deal.",
+    "He retained his intelligence to an extent, which was the specific quality that made him more dangerous than the infantry and less dangerous than he thought he was. The ooze had preserved the residue of his wanting \u2014 not specific goals but the habit of power \u2014 and used what remained of his tactical instincts to organize the infection's distribution through the city. The hunter zombies clustered around the cathedral not because he ordered them there but because the ooze had arranged itself that way, using him as a template.",
+    "He went down without drama, which was appropriate. Things that had lost their specific character tended to lose their specific endings as well. The warlord who had wanted something large enough to release an outbreak over a city ended inside a cathedral in an infected zone, diminished by the thing he had dealt with, finished by a crew who had been in his city for four days."
+  ]
+}

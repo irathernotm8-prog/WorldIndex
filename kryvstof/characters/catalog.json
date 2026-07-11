@@ -1,0 +1,272 @@
+[
+  {
+    "slug": "aleshin",
+    "name": "Aleshin",
+    "epithet": "Valiant",
+    "faction": "Survivors",
+    "status": "Fallen",
+    "tags": [
+      "Martial Arts",
+      "Elmarie's Agent",
+      "Fallen"
+    ],
+    "art": "art/aleshin.jpg",
+    "bio": [
+      "Aleshin was a young martial arts master sent by Elmarie into Kryvstof to find a secret artifact before the quarantine dropped, which was the kind of mission that had a clear objective and an insufficient briefing on what the city was about to become. He was skilled — the scorch marks on the walls of the block where he fell were the marks of someone who had understood what he was fighting and had fought it with everything he had.",
+      "He was sent by Elmarie, which is the most important thing about his context: she trusted him with this, she sent him because he was the right person, and she sent Kai after him because she knew what it meant that he'd gone quiet. He didn't survive, which Kai found out in the specific way you find out things that have already happened when you arrive hoping to change them.",
+      "He put up a valiant fight. The sentence exists in his original description as a simple fact and it is a simple fact and it is also one of those simple facts that contains a great deal of weight if you hold it long enough. He was young and he was sent on a mission that outpaced its briefing and he fought with everything he had. He did not survive. The distinction between those two sentences is the whole story."
+    ]
+  },
+  {
+    "slug": "alexinof",
+    "name": "Alexinof",
+    "epithet": "The One Arm That Was Enough",
+    "faction": "Survivors",
+    "status": "Active",
+    "tags": [
+      "Special Forces",
+      "Survivor",
+      "Cold"
+    ],
+    "art": "art/alexinof.jpg",
+    "bio": [
+      "Alexinof cut off his own arm when it was infected. This is the fact that most efficiently describes him, not because it is the most important thing about him but because it is the thing that tells you everything about how he makes decisions. He had the infection, he had a blade, he had the assessment that one outcome was preferable to the other, and the assessment took a fraction of a second. He has no room for hesitation. He removed hesitation as a possibility and has operated without it since.",
+      "He was Russian special forces, left behind in the same sweep that left Seira. He had been studying Vornakof's movements for two weeks by the time the crew found him — not because he had orders, but because he had identified Vornakof as the thing that needed ending and was waiting until the ending could be done efficiently rather than merely done. He joined the crew with the same economy he applied to everything else.",
+      "He takes the center approach on the cathedral assault, which nobody else had assessed as viable. He is correct that it is viable. The correctness costs him something that he does not mention. He leaves the crew at the first stop after extraction because he operates alone and has for long enough that it is structural rather than preferential. He will go where he is useful. He will not announce it."
+    ]
+  },
+  {
+    "slug": "asai",
+    "name": "Asai",
+    "epithet": "The One Who Kept Coming Back",
+    "faction": "Unknown",
+    "status": "Active",
+    "tags": [
+      "Assassin",
+      "Mysterious",
+      "Persistent"
+    ],
+    "art": "art/asai.jpg",
+    "bio": [
+      "Asai appeared in Kryvstof moving toward Plokiv with the specific purpose of someone who had been sent for a specific target and was not going to be deterred by the surrounding situation. She came from above the first time, from building walls that had been assessed as untraversable and that she had assessed differently. She came back three times, adjusting her angle each time, reading the crew's perimeter and finding its edges.",
+      "Nobody knows who sent her. Nobody in the salvage crew found out, because she never engaged long enough to be asked and survived all three attempts, withdrawing before any of them established enough of a perimeter to hold her. She is mysterious in the way that people who operate with complete competence and no stated motivation tend to be mysterious: you can describe what she did without being able to explain why she was doing it.",
+      "She failed to reach Plokiv. Scales reached him instead, which may or may not have been connected — two actors after the same target, unknown to each other or operating in coordination, the city and the mission and the crew between them never yielded enough information to determine which. She remains active, somewhere. The question of who she serves and what she knows about the ooze is one that was not answered in Kryvstof."
+    ]
+  },
+  {
+    "slug": "drexl-voss",
+    "name": "Drexl Voss",
+    "epithet": "The Knight Who Always Shows Up",
+    "faction": "USS Salvage Crew",
+    "status": "Active",
+    "tags": [
+      "Knight",
+      "Hero",
+      "Interdimensional"
+    ],
+    "art": "art/drexl-voss.jpg",
+    "bio": [
+      "Drexl Voss is sent by the United States to secure a sample of Plokiv — a fully sentient, ooze-infected individual who appears to be biologically immune in a way that could yield a cure — so that a cure can be secured. He doesn't trust America's intentions with what they'd do with the cure, which is a concern he carried into the mission and held quietly throughout it. He has the spirit of a hero always, which means the concern about intentions doesn't stop him going. It just makes him watch what happens to the sample more carefully.",
+      "His blue-glowing sword cuts through the ooze with a precision that suggests the blade was designed with this specific purpose in mind, which it was not — it came from a different world entirely, forged for different battles — but the ooze is old enough that something designed for old battles works on it in ways that modern weapons don't. He moves through the infected zone with the uncomplicated commitment of someone who has decided that the work is worth doing and hasn't revisited the decision.",
+      "He has been resurrected, crossed worlds, and found purpose in each place he's landed. Kryvstof is another place, another purpose. He does not find this remarkable. He finds it, if anything, clarifying: wherever you end up, whatever the mechanism that put you there, the question is the same. What needs doing. He does it."
+    ]
+  },
+  {
+    "slug": "hythm",
+    "name": "Hythm",
+    "epithet": "The King Who Stopped Sitting Still",
+    "faction": "USS Salvage Crew",
+    "status": "Active",
+    "tags": [
+      "King",
+      "Leader",
+      "Restored"
+    ],
+    "art": "art/hythm.jpg",
+    "bio": [
+      "Hythm came to Kryvstof having recently done something he had spent years avoiding: remembered who he was. The crown he had sealed his memories into and given to Aluccard had found its way back to him after the New York investigation, and he had spent six months afterward in the specific limbo of someone who knows who they are again and has not yet worked out what that means for what they do next. He concluded, eventually, that being a king meant doing whatever needed doing, and that Kryvstof needed doing.",
+      "He was upset that the only available path into the mission was joining a U.S. government salvage crew — not because of the Americans, but because every instinct he had said the situation required more than a salvage operation and the structure didn't allow for more. He joined anyway. He led from the front because he had tried the other kind of leading and found, in the years of forgetting, what it cost the people around you.",
+      "His powers amplify his weapons, the crown's returned energy flowing through whatever he carries into something considerably more than the weapon alone. He is the crew's de facto leader throughout the mission, which is not a role anyone assigned him but one that settled naturally onto someone who has been a king long enough for it to be the shape he takes when things need a shape."
+    ]
+  },
+  {
+    "slug": "kai",
+    "name": "Kai",
+    "epithet": "Making Amends at the Wrong Moment",
+    "faction": "USS Salvage Crew",
+    "status": "Active",
+    "tags": [
+      "Ki User",
+      "Redemption",
+      "Grief"
+    ],
+    "art": "art/kai.jpg",
+    "bio": [
+      "Kai entered the fray at his sister Elmarie's instruction: find Aleshin, a young martial arts master she had sent into Kryvstof before the quarantine, who had gone quiet. It was the kind of mission that could have been phrased as a second chance, an opportunity to do something right after years of doing things in service of a clan he had left. He understood it as that. He went.",
+      "He found the scorch marks. He found the evidence of a fight that had ended without Aleshin surviving it, the golden energy burned into walls that were still standing, the signature of someone who had gone valiant rather than quietly. He filed this away in the part of him that was good at holding things until there was room for them, and stayed useful, and stayed completely useful, all the way through the mission.",
+      "The grief and the failure sat together in him for a long time afterward — not as separate things but as a combined weight, the weight of trying to make amends and finding the timing had been wrong. He proved to be a valuable member of the crew, which was true and also wasn't the thing he had come to prove. His flaming fist burns through the ooze directly, which made him effective throughout and saved the lives of everyone around him multiple times. He knows this. It doesn't close the gap."
+    ]
+  },
+  {
+    "slug": "leon",
+    "name": "Leon",
+    "epithet": "The Anchor, Older and Sharper",
+    "faction": "USS Salvage Crew",
+    "status": "Active",
+    "tags": [
+      "Tactician",
+      "Aluccard's Agent",
+      "Veteran"
+    ],
+    "art": "art/leon.jpg",
+    "bio": [
+      "Aluccard sent Leon to ensure the mission succeeded, which was the reason given and also the complete reason — Leon was the insurance, the person who understood what the mission actually required well enough to keep it on track when the situation exceeded the briefing, which the situation in Kryvstof exceeded immediately and completely.",
+      "He is older now. The age has made him precise in a way that youth couldn't have — not slower, but more decided, every action the result of a calculation that had already been made before the action was taken. He acts as the crew's anchor: the person who says *we move* when moving is what needs to happen, who coordinates the approach when the approach requires more than instinct, who keeps track of what the mission is when the mission is getting complicated by everything the mission is inside.",
+      "He was Aluccard's apprentice and has become something more specific than that — a person who does this kind of work because he understands why it matters and has stopped needing to be reminded. He returns to Aluccard with a complete mission report and the news about Plokiv, which Aluccard receives with the specific quality of someone filing away an irreversible loss alongside every other irreversible loss they have carried across a very long life."
+    ]
+  },
+  {
+    "slug": "patchwork",
+    "name": "Patchwork",
+    "epithet": "The Research That Became the Disaster",
+    "faction": "The Outbreak",
+    "status": "Fallen",
+    "tags": [
+      "Researcher",
+      "Toxic",
+      "Fallen"
+    ],
+    "art": "art/patchwork.jpg",
+    "bio": [
+      "Patchwork had nearly died somewhere else before he retreated to Kryvstof to continue his research and attempt to prolong a life that was failing by degrees. He understood the black ooze better than anyone operating in this period — its properties, its applications, its potential as a tool for extending biological capability beyond ordinary limits. He shared this understanding with Vornakof in the form of a deal that gave Vornakof the ooze and gave Patchwork the protected space to continue his work.",
+      "The result of his work was present in the city above the cathedral's lower level when the salvage crew found him, which he regarded with the equanimity of someone who had decided long ago that outcomes were secondary to process. The outcome was a quarantined Russian city full of infected people and a dead man named Plokiv who could have been the cure. The process had continued. He found the process more interesting than the outcome.",
+      "He was dangerous in the way that people who understand something better than their opponents are dangerous, the toxic gas his preferred instrument and the one that required the most lateral thinking to approach. He went down knowing his research was unfinished. This concerned him more than the going down did, which is either the most honest thing about him or the least human, depending on what you think research is for."
+    ]
+  },
+  {
+    "slug": "plokiv",
+    "name": "Plokiv",
+    "epithet": "The Cure That Didn't Know It Was One",
+    "faction": "Survivors",
+    "status": "Fallen",
+    "tags": [
+      "Infected",
+      "Sentient",
+      "Fallen"
+    ],
+    "art": "art/plokiv.jpg",
+    "bio": [
+      "Plokiv was fully infected and fully sentient, which the ooze was not supposed to allow. He had been sitting in a basement in the inner district for four weeks, reading books by chemical lamp and being ignored by other zombies, who did not register him as what they were because the ooze in him could not complete its process. He was immune in the most inconvenient way: not by fighting the ooze off, but by being too thoroughly himself for it to find the gap it needed to replace.",
+      "He understood, sitting in the basement, that his situation was either a problem or a solution and that the distinction depended on whether anyone found him who understood what the situation was. He had not been able to decide whether he hoped they would. He told the salvage crew what he'd worked out with the patient delivery of someone who has spent four weeks thinking about a problem from every angle. Leon said, quietly, that his biology was the cure.",
+      "He was killed by Scales before anyone could extract him. The implications of his death extend beyond Kryvstof — the specific immunity he represented, the potential cure for what the ooze does to people, went with him permanently and completely, which is what Plokiv himself had half-suspected about his own situation from the beginning. He could have been the cure to so many of life's diseases. The sentence in his bio is accurate and insufficient and that is the most honest way to write about things that were lost before they were fully understood."
+    ]
+  },
+  {
+    "slug": "reaver",
+    "name": "Reaver",
+    "epithet": "Half and Half",
+    "faction": "The Outbreak",
+    "status": "Active",
+    "tags": [
+      "Half-Infected",
+      "Dangerous",
+      "Secured"
+    ],
+    "art": "art/reaver.jpg",
+    "bio": [
+      "Reaver is half human, half infected — not in the metaphorical way that describes people changed by circumstances, but in the literal sense of someone the ooze has partially processed and stalled, leaving him in a state that is neither what he was nor what the infection makes people into. The result is all danger: the ooze's strength and the human's coordination, operating in a combination that neither the infantry zombies nor the hunter zombies managed.",
+      "He attacked the salvage crew with the specific ferocity of something that has two natures and no stability between them. He was neither conscious in the way Plokiv was conscious nor simply driven in the way the infantry were driven. He was somewhere in the gap that Plokiv had managed to hold open and that Reaver had not managed to hold, which made him dangerous and also, if you looked at him carefully, sad.",
+      "He was secured by the U.S. government at the end of the story — not destroyed, which was a decision that reflects either scientific interest in his half-state or a bureaucratic refusal to categorize him as simply a threat. He is in U.S. custody somewhere. What they intend to do with him, and whether he retains enough of the human side to have opinions about what they intend, is not information that was made available to the salvage crew when they extracted."
+    ]
+  },
+  {
+    "slug": "scales",
+    "name": "Scales",
+    "epithet": "The Assassin Who Closed a Door",
+    "faction": "Unknown",
+    "status": "Active",
+    "tags": [
+      "Assassin",
+      "French",
+      "Contract"
+    ],
+    "art": "art/scales.jpg",
+    "bio": [
+      "Scales came to Kryvstof with a contract: eliminate Plokiv, the sentient infected man who represented something that someone did not want to exist. He got the job done, which is the phrase that applies to him on every contract he has ever taken and that he would consider the highest available praise. He was in the infected zone of a quarantined Russian city, he identified his target, he found the window, and he acted.",
+      "Nobody in the salvage crew ever found out who sent him, which he would consider a professional success. He had done his own research before taking the contract, as he always did, and his research had told him what Plokiv was. Whether this information affected his decision to take the contract — whether he understood he was eliminating a potential cure and took it anyway, or did not fully understand, or understood and found the question outside the scope of his professional considerations — is not a question he has been asked.",
+      "He resurfaces five years later in Valmere, where he infiltrates the nation's borders on a reconnaissance contract and leaves without completing the secondary objective. Whether the Plokiv contract and the Valmere hesitation are connected — whether what he saw in Kryvstof and what he found in Valmere are part of the same long reassessment of what he is willing to do — is a question that his track record across both stories does not quite answer."
+    ]
+  },
+  {
+    "slug": "seira",
+    "name": "Seira",
+    "epithet": "Left Behind, Still Standing",
+    "faction": "Survivors",
+    "status": "Active",
+    "tags": [
+      "Soldier",
+      "Survivor",
+      "Abandoned"
+    ],
+    "art": "art/seira.jpg",
+    "bio": [
+      "Seira was Russian special forces — the kind that doesn't officially exist — and she was in Kryvstof on assignment when the outbreak happened. The people she was in Kryvstof with made a decision about acceptable losses and extracted without her. She had been fending for herself for five weeks when the salvage crew found her in the eastern district, and the five weeks had not broken her so much as completed her, in the way that situations which strip away everything non-essential tend to reveal what remains as the actual person.",
+      "She had gone into the inner district twice, not because she had orders or a specific target but because staying at the edge of the worst thing felt dishonest when she could move toward it. What she found there was the concentration of the ooze that told her the outbreak had a center, which she brought to the crew as the most actionable intelligence they received after Wendall's taxonomy.",
+      "She joins the crew the way soldiers join things in the middle of situations — not with agreements or negotiations but with the simple arithmetic of the moment. She leaves the city with them and carries with her the specific experience of being left behind by the people who were supposed to keep her safe, which is the kind of thing you eventually decide either defines you or informs you, and which she is still deciding."
+    ]
+  },
+  {
+    "slug": "zombie",
+    "name": "The Infected",
+    "epithet": "What the Ooze Makes of People",
+    "faction": "The Outbreak",
+    "status": "Active",
+    "tags": [
+      "Infected",
+      "Ooze",
+      "Infantry"
+    ],
+    "art": "art/zombie.jpg",
+    "bio": [
+      "The infantry of the outbreak — former civilians and soldiers of Kryvstof, now driven by the black ooze in ways that retained locomotion and removed everything else. They moved with the purposeless momentum of something that had been replaced, the ooze having substituted for whatever had been making decisions with something that had only one setting: toward anything living.",
+      "The ooze does not kill its hosts so much as repurpose them, which is the specific quality that makes it more disturbing than a substance that simply destroys. The people inside the infection are in some sense still there — Plokiv proved this — but the gap that the ooze required to take hold had been found in each of them, and the gap had been filled, and what remained moved through the city in patterns that served the ooze's distribution rather than any human purpose.",
+      "The hunter zombies — former military, the ooze having preserved their tactical instincts — were worse than the infantry for exactly the reason Wendall had identified: they used cover, they moved in patterns, they had the shape of competence without the restraint that had governed competence's use. They were not smart. They were trained, which in the dark and the rain came close enough to the same thing."
+    ]
+  },
+  {
+    "slug": "vornakof",
+    "name": "Vornakof",
+    "epithet": "The Warlord Who Got What He Bargained For",
+    "faction": "The Outbreak",
+    "status": "Fallen",
+    "tags": [
+      "Warlord",
+      "Infected",
+      "Fallen"
+    ],
+    "art": "art/vornakof.jpg",
+    "bio": [
+      "Vornakof made a deal with Patchwork to secure and release the black ooze over Kryvstof, for reasons that had seemed sufficient at the time and that the ooze subsequently made irrelevant by infecting him anyway. He had presumably believed himself immune, or had believed the deal included protection, or had decided the risk was acceptable — any of these would be consistent with the kind of person who makes this kind of deal.",
+      "He retained his intelligence to an extent, which was the specific quality that made him more dangerous than the infantry and less dangerous than he thought he was. The ooze had preserved the residue of his wanting — not specific goals but the habit of power — and used what remained of his tactical instincts to organize the infection's distribution through the city. The hunter zombies clustered around the cathedral not because he ordered them there but because the ooze had arranged itself that way, using him as a template.",
+      "He went down without drama, which was appropriate. Things that had lost their specific character tended to lose their specific endings as well. The warlord who had wanted something large enough to release an outbreak over a city ended inside a cathedral in an infected zone, diminished by the thing he had dealt with, finished by a crew who had been in his city for four days."
+    ]
+  },
+  {
+    "slug": "wendall",
+    "name": "Wendall",
+    "epithet": "Prepared for Everything Except This",
+    "faction": "Survivors",
+    "status": "Active",
+    "tags": [
+      "Military Veteran",
+      "Survivor",
+      "Survivor"
+    ],
+    "art": "art/wendall.jpg",
+    "bio": [
+      "Wendall was a military veteran stationed in Kryvstof when the outbreak happened, which is the kind of posting that sounds manageable until the thing it is not designed to manage arrives. He was prepared for any situation — genuinely, thoroughly prepared, with the resources and the training and the mindset of someone who has spent a career making sure he was ready for whatever came next. He was not prepared for this. He survived anyway.",
+      "Six weeks in the zone had given him a working knowledge of the outbreak's taxonomy — infantry zombies, hunter zombies, the way the ooze moved through a city, the specific qualities of what Vornakof had become — that no briefing had and that he had assembled through the unglamorous method of surviving long enough to observe. He was the most useful intelligence source the salvage crew found on entry, which he provided without ceremony because ceremony was one of the non-essentials he had put aside in the first week.",
+      "He meets the crew and eventually leaves with them, which is the simplest possible description of what happens when a man who has been surviving alone for six weeks encounters a group capable of extracting him. He gets on the transport and says nothing for the first twenty minutes, which is the correct response."
+    ]
+  }
+]

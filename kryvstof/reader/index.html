@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<link rel="icon" type="image/x-icon" href="/WorldIndex/favicon.ico">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KRYVSTOF — Read</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&family=Spectral:ital,wght@0,400;0,500;0,600;1,400&family=Spectral+SC:wght@500&display=swap');
+
+  :root {
+    --bg: #0c0a10;
+    --bg-panel: #15121a;
+    --bg-card: #1b1722;
+    --hairline: #2c2733;
+    --gold: #d8b369;
+    --gold-dim: #8a7245;
+    --shadow-violet: #7a4fb5;
+    --ink: #e9e2d4;
+    --ink-dim: #a89e8e;
+    --ink-faint: #6e6557;
+    --sidebar-w: 280px;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    font-family: 'Spectral', serif;
+    background: radial-gradient(ellipse 120% 80% at 50% -10%, #1c1624 0%, var(--bg) 55%);
+    color: var(--ink);
+    min-height: 100%;
+  }
+
+  /* HEADER */
+  .vk-header {
+    padding: 48px 24px 28px;
+    text-align: center;
+    position: relative;
+    border-bottom: 1px solid var(--hairline);
+  }
+  .vk-header::before {
+    content: ''; position: absolute; top: 0; left: 50%; transform: translateX(-50%);
+    width: 1px; height: 24px; background: linear-gradient(to bottom, transparent, var(--gold-dim));
+  }
+  .backlink {
+    display: inline-block; font-family: 'Spectral SC', serif; font-size: 10.5px;
+    letter-spacing: 0.14em; text-transform: uppercase; color: var(--gold-dim);
+    text-decoration: none; margin: 0 10px 16px;
+  }
+  .backlink:hover { color: var(--gold); }
+  .vk-eyebrow {
+    font-family: 'Spectral SC', serif; letter-spacing: 0.35em; font-size: 11px;
+    color: var(--shadow-violet); text-transform: uppercase; margin-bottom: 12px;
+  }
+  .vk-title {
+    font-family: 'Cinzel', serif; font-size: clamp(30px, 6vw, 46px); font-weight: 900;
+    letter-spacing: 0.06em;
+    background: linear-gradient(180deg, #f3e3b8 0%, var(--gold) 45%, #9d7e3e 100%);
+    -webkit-background-clip: text; background-clip: text; color: transparent;
+    margin: 0; line-height: 1.1;
+  }
+  .vk-subtitle { font-style: italic; color: var(--ink-dim); font-size: 14px; margin-top: 8px; }
+
+  /* NAV BAR */
+  .nav-bar {
+    position: sticky; top: 0; z-index: 20;
+    background: rgba(12,10,16,0.92);
+    backdrop-filter: blur(6px);
+    border-bottom: 1px solid var(--hairline);
+    padding: 14px 20px;
+    display: flex; align-items: center; justify-content: center; gap: 14px;
+    flex-wrap: wrap;
+  }
+  .nav-btn {
+    font-family: 'Spectral SC', serif; font-size: 11px; letter-spacing: 0.1em;
+    text-transform: uppercase; color: var(--ink-dim);
+    background: var(--bg-panel); border: 1px solid var(--hairline); border-radius: 3px;
+    padding: 8px 16px; cursor: pointer; transition: all 0.15s;
+  }
+  .nav-btn:hover:not(:disabled) { color: var(--gold); border-color: var(--gold-dim); }
+  .nav-btn:disabled { opacity: 0.3; cursor: default; }
+  .chapter-select {
+    font-family: 'Spectral', serif; font-size: 13px; color: var(--ink);
+    background: var(--bg-panel); border: 1px solid var(--hairline); border-radius: 3px;
+    padding: 8px 12px; max-width: 320px; cursor: pointer;
+  }
+  .progress {
+    font-family: 'Spectral SC', serif; font-size: 10.5px; letter-spacing: 0.1em;
+    color: var(--ink-faint); text-transform: uppercase; white-space: nowrap;
+  }
+
+  /* LAYOUT: reading pane + sidebar */
+  .reading-layout {
+    display: flex;
+    align-items: flex-start;
+    max-width: 1060px;
+    margin: 0 auto;
+    padding: 0 24px;
+    gap: 40px;
+  }
+
+  /* READING PANE */
+  .reading-pane {
+    flex: 1;
+    min-width: 0;
+    padding: 56px 0 100px;
+  }
+  .chapter-label {
+    font-family: 'Spectral SC', serif; font-size: 11px; letter-spacing: 0.2em;
+    color: var(--shadow-violet); text-transform: uppercase; text-align: center;
+    margin-bottom: 10px;
+  }
+  .chapter-title {
+    font-family: 'Cinzel', serif; font-weight: 700; font-size: clamp(24px, 4vw, 34px);
+    color: var(--gold); text-align: center; margin: 0 0 40px; line-height: 1.25;
+  }
+  .chapter-body p {
+    font-size: 17px; line-height: 1.85; color: var(--ink-dim); margin: 0 0 22px;
+  }
+  .chapter-body p:first-of-type::first-letter {
+    font-family: 'Cinzel', serif; font-size: 46px; font-weight: 700; color: var(--gold);
+    float: left; line-height: 0.8; padding: 6px 10px 0 0;
+  }
+
+  /* SIDEBAR */
+  .char-sidebar {
+    width: var(--sidebar-w);
+    flex-shrink: 0;
+    padding: 56px 0 100px;
+    position: sticky;
+    top: 64px;
+    max-height: calc(100vh - 64px);
+    overflow-y: auto;
+    scrollbar-width: thin;
+    scrollbar-color: var(--hairline) transparent;
+  }
+  .char-sidebar::-webkit-scrollbar { width: 4px; }
+  .char-sidebar::-webkit-scrollbar-track { background: transparent; }
+  .char-sidebar::-webkit-scrollbar-thumb { background: var(--hairline); border-radius: 2px; }
+
+  .sidebar-label {
+    font-family: 'Spectral SC', serif; font-size: 9.5px; letter-spacing: 0.2em;
+    text-transform: uppercase; color: var(--ink-faint);
+    margin-bottom: 14px; padding-bottom: 8px;
+    border-bottom: 1px solid var(--hairline);
+  }
+  .sidebar-empty {
+    font-style: italic; color: var(--ink-faint); font-size: 13px;
+    padding: 12px 0;
+  }
+
+  /* CHARACTER CARD */
+  .char-card {
+    background: var(--bg-card);
+    border: 1px solid var(--hairline);
+    border-radius: 6px;
+    overflow: hidden;
+    margin-bottom: 12px;
+    cursor: pointer;
+    transition: border-color 0.15s, transform 0.15s;
+  }
+  .char-card:hover { border-color: var(--gold-dim); transform: translateY(-1px); }
+  .char-card-img-wrap { position: relative; overflow: hidden; max-height: 160px; }
+  .char-card-zoom {
+    position: absolute; top: 6px; right: 6px;
+    background: rgba(12,10,16,0.75); border: 1px solid var(--hairline);
+    border-radius: 4px; color: var(--gold); font-size: 14px;
+    width: 28px; height: 28px; display: flex; align-items: center; justify-content: center;
+    cursor: pointer; opacity: 0; transition: opacity 0.15s;
+    padding: 0; line-height: 1;
+  }
+  .char-card-img-wrap:hover .char-card-zoom { opacity: 1; }
+  .char-card-img {
+    width: 100%; aspect-ratio: 3/4; object-fit: cover; object-position: top;
+    display: block;
+    max-height: 160px;
+    object-position: 50% 15%;
+  }
+  .char-card-body {
+    padding: 10px 12px 12px;
+  }
+  .char-card-name {
+    font-family: 'Cinzel', serif; font-size: 13px; font-weight: 700;
+    color: var(--gold); margin: 0 0 2px;
+  }
+  .char-card-epithet {
+    font-style: italic; font-size: 11px; color: var(--ink-faint);
+    margin: 0 0 6px; line-height: 1.3;
+  }
+  .char-card-faction {
+    font-family: 'Spectral SC', serif; font-size: 9px; letter-spacing: 0.12em;
+    color: var(--shadow-violet); text-transform: uppercase;
+  }
+  .char-card-status-fallen { color: #8a4a4a; }
+  .char-card-status-active  { color: #4a7a5a; }
+
+  /* EXPANDED BIO MODAL */
+  .bio-modal-overlay {
+    display: none; position: fixed; inset: 0; z-index: 100;
+    background: rgba(0,0,0,0.75); backdrop-filter: blur(4px);
+    align-items: center; justify-content: center; padding: 24px;
+  }
+  .bio-modal-overlay.open { display: flex; }
+  .bio-modal {
+    background: var(--bg-panel); border: 1px solid var(--hairline);
+    border-radius: 10px; max-width: 620px; width: 100%;
+    max-height: 90vh; overflow-y: auto;
+    display: flex; flex-direction: column;
+  }
+  .bio-modal-img {
+    width: 100%; max-height: 280px; object-fit: cover;
+    object-position: 50% 15%; border-radius: 10px 10px 0 0;
+  }
+  .bio-modal-body { padding: 24px 28px 32px; }
+  .bio-modal-name {
+    font-family: 'Cinzel', serif; font-size: 26px; font-weight: 900;
+    color: var(--gold); margin: 0 0 4px;
+  }
+  .bio-modal-epithet {
+    font-style: italic; color: var(--ink-dim); font-size: 14px; margin: 0 0 6px;
+  }
+  .bio-modal-meta {
+    font-family: 'Spectral SC', serif; font-size: 10px; letter-spacing: 0.12em;
+    color: var(--shadow-violet); text-transform: uppercase; margin-bottom: 20px;
+  }
+  .bio-modal-tags {
+    display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 20px;
+  }
+  .bio-modal-tag {
+    font-family: 'Spectral SC', serif; font-size: 9px; letter-spacing: 0.1em;
+    color: var(--ink-faint); background: var(--bg-card);
+    border: 1px solid var(--hairline); border-radius: 3px;
+    padding: 3px 8px; text-transform: uppercase;
+  }
+  .bio-modal-para {
+    font-size: 15px; line-height: 1.8; color: var(--ink-dim); margin: 0 0 16px;
+  }
+  .bio-modal-close {
+    position: sticky; top: 0; float: right;
+    font-family: 'Spectral SC', serif; font-size: 10px; letter-spacing: 0.1em;
+    text-transform: uppercase; color: var(--ink-faint);
+    background: var(--bg-panel); border: 1px solid var(--hairline); border-radius: 3px;
+    padding: 6px 12px; cursor: pointer; margin: 16px 16px 0 0;
+    transition: color 0.15s;
+  }
+  .bio-modal-close:hover { color: var(--gold); }
+
+  /* BOTTOM NAV */
+  .bottom-nav {
+    max-width: 700px; margin: 20px auto 0; padding: 28px 24px 0;
+    border-top: 1px solid var(--hairline);
+    display: flex; justify-content: space-between; gap: 16px;
+  }
+  .bottom-nav-btn {
+    flex: 1; text-align: left; cursor: pointer;
+    background: none; border: 1px solid var(--hairline); border-radius: 4px;
+    padding: 14px 16px; transition: border-color 0.15s;
+  }
+  .bottom-nav-btn:hover { border-color: var(--gold-dim); }
+  .bottom-nav-btn.next { text-align: right; }
+  .bottom-nav-btn:disabled { opacity: 0.3; cursor: default; }
+  .bottom-nav-btn:disabled:hover { border-color: var(--hairline); }
+  .bottom-nav-label {
+    font-family: 'Spectral SC', serif; font-size: 9.5px; letter-spacing: 0.14em;
+    color: var(--ink-faint); text-transform: uppercase; margin-bottom: 4px;
+  }
+  .bottom-nav-title { font-size: 13px; color: var(--ink); font-style: italic; }
+
+  .loading, .error {
+    text-align: center; padding: 80px 24px; color: var(--ink-faint); font-style: italic;
+  }
+
+  /* MOBILE: stack sidebar below on small screens */
+  @media (max-width: 720px) {
+    .reading-layout { flex-direction: column; padding: 0 16px; }
+    .char-sidebar {
+      width: 100%; position: static; max-height: none;
+      padding: 0 0 24px;
+      border-top: 1px solid var(--hairline);
+      overflow-x: auto; overflow-y: visible;
+    }
+    .char-sidebar-inner {
+      display: flex; gap: 12px; padding: 16px 0;
+    }
+    .char-card { width: 140px; flex-shrink: 0; margin-bottom: 0; }
+    .char-card-img { max-height: 120px; }
+  }
+
+  /* PORTRAIT LIGHTBOX */
+  .portrait-overlay {
+    display: none; position: fixed; inset: 0; z-index: 200;
+    background: rgba(0,0,0,0.92); backdrop-filter: blur(8px);
+    align-items: center; justify-content: center;
+    cursor: zoom-out;
+  }
+  .portrait-overlay.open { display: flex; }
+  .portrait-img {
+    max-width: 90vw; max-height: 90vh;
+    object-fit: contain; border-radius: 6px;
+    box-shadow: 0 0 60px rgba(0,0,0,0.8);
+  }
+  .portrait-close {
+    position: fixed; top: 20px; right: 24px;
+    font-size: 22px; color: var(--ink-dim); cursor: pointer;
+    background: var(--bg-panel); border: 1px solid var(--hairline);
+    border-radius: 4px; width: 36px; height: 36px;
+    display: flex; align-items: center; justify-content: center;
+    transition: color 0.15s; z-index: 201;
+  }
+  .portrait-close:hover { color: var(--gold); }
+</style>
+</head>
+<body>
+
+<div class="vk-header">
+  <a class="backlink" href="../../">&larr; The Valkorath Universe</a>
+  <a class="backlink" href="../catalog/">&larr; KRYVSTOF Catalog</a>
+  <div class="vk-eyebrow">2030 &middot; Russia</div>
+  <h1 class="vk-title">KRYVSTOF</h1>
+  <div class="vk-subtitle">Read Chapter by Chapter</div>
+</div>
+
+<div class="nav-bar" id="nav-bar" style="display:none;">
+  <button class="nav-btn" id="prev-btn">&larr; Prev</button>
+  <select class="chapter-select" id="chapter-select"></select>
+  <button class="nav-btn" id="next-btn">Next &rarr;</button>
+  <span class="progress" id="progress"></span>
+</div>
+
+<div id="content">
+  <div class="loading">Loading the chronicles&hellip;</div>
+</div>
+
+<!-- Bio modal -->
+<div class="bio-modal-overlay" id="bio-modal-overlay">
+  <div class="bio-modal" id="bio-modal">
+    <button class="bio-modal-close" onclick="closeBioModal()">Close &times;</button>
+    <div id="bio-modal-inner"></div>
+  </div>
+</div>
+
+<!-- Portrait lightbox -->
+<div class="portrait-overlay" id="portrait-overlay">
+  <div class="portrait-close" onclick="closePortrait()">&#x2715;</div>
+  <img class="portrait-img" id="portrait-img" src="" alt="">
+</div>
+
+<script>
+(function() {
+  const content    = document.getElementById('content');
+  const navBar     = document.getElementById('nav-bar');
+  const select     = document.getElementById('chapter-select');
+  const prevBtn    = document.getElementById('prev-btn');
+  const nextBtn    = document.getElementById('next-btn');
+  const progress   = document.getElementById('progress');
+  const overlay    = document.getElementById('bio-modal-overlay');
+
+  let chapters  = [];
+  let catalog   = [];
+  let current   = 0;
+  const ART_BASE = '../characters/art/';
+
+  // Close modal on overlay click
+  overlay.addEventListener('click', e => { if (e.target === overlay) closeBioModal(); });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') closeBioModal(); });
+
+  // Load catalog + story in parallel
+  Promise.all([
+    fetch('../characters/catalog.json').then(r => r.json()),
+    fetch('../story/kryvstof-story.md').then(r => { if (!r.ok) throw new Error(); return r.text(); })
+  ]).then(([cat, md]) => {
+    catalog  = cat;
+    chapters = parseChapters(md);
+    if (chapters.length === 0) {
+      content.innerHTML = '<div class="error">No chapters found yet.</div>';
+      return;
+    }
+    buildSelect();
+    navBar.style.display = 'flex';
+    const hash = parseInt((location.hash || '').replace('#',''), 10);
+    goTo(Number.isInteger(hash) && hash >= 0 && hash < chapters.length ? hash : 0);
+  }).catch(() => {
+    content.innerHTML = `<div class="error">Couldn't load the story file.<br><br>
+      If you opened this directly (file://), run a local server:<br>
+      <code>python3 -m http.server</code> from the repo root.</div>`;
+  });
+
+  // ── Parse markdown into chapters ──────────────────────────────
+  function parseChapters(md) {
+    const first = md.indexOf('\n## ');
+    const body  = first === -1 ? md : md.slice(first + 1);
+    const parts = body.split(/\n(?=## )/).filter(s => s.trim().startsWith('## '));
+    return parts.map(part => {
+      const lines = part.trim().split('\n');
+      const title = lines[0].replace(/^##\s*/, '').trim();
+      const bodyText = lines.slice(1).join('\n').trim();
+      const paragraphs = bodyText.split(/\n\s*\n/).map(p => p.trim()).filter(Boolean);
+      return { title, paragraphs };
+    });
+  }
+
+  // ── Detect which catalog characters appear in a chapter ───────
+  function detectChars(chapter) {
+    const text = [chapter.title, ...chapter.paragraphs].join(' ');
+    return catalog.filter(c => {
+      const names = [c.name];
+      // Also check first name for multi-word names
+      if (c.name.includes(' ')) names.push(c.name.split(' ')[0]);
+      return names.some(n => new RegExp('\\b' + n.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\b', 'i').test(text));
+    });
+  }
+
+  // ── Build nav select ──────────────────────────────────────────
+  function buildSelect() {
+    select.innerHTML = '';
+    chapters.forEach((c, i) => {
+      const opt = document.createElement('option');
+      opt.value = i;
+      opt.textContent = `${i + 1}. ${c.title}`;
+      select.appendChild(opt);
+    });
+    select.addEventListener('change', () => goTo(parseInt(select.value, 10)));
+    prevBtn.addEventListener('click', () => goTo(current - 1));
+    nextBtn.addEventListener('click', () => goTo(current + 1));
+  }
+
+  // ── Render chapter + sidebar ──────────────────────────────────
+  function goTo(i) {
+    if (i < 0 || i >= chapters.length) return;
+    current = i;
+    location.hash = String(i);
+    select.value  = String(i);
+    prevBtn.disabled = i === 0;
+    nextBtn.disabled = i === chapters.length - 1;
+    progress.textContent = `Chapter ${i + 1} of ${chapters.length}`;
+
+    const c     = chapters[i];
+    const chars = detectChars(c);
+
+    // Build sidebar HTML
+    const sidebarInner = chars.length === 0
+      ? `<div class="sidebar-empty">No named characters this chapter.</div>`
+      : chars.map(ch => `
+          <div class="char-card" onclick="openBioModal('${ch.slug}')">
+            <div class="char-card-img-wrap">
+            <img class="char-card-img" src="${ART_BASE}${ch.art.replace('art/','')}" alt="${esc(ch.name)}" loading="lazy">
+            <button class="char-card-zoom" onclick="event.stopPropagation();openPortrait('${ch.slug}')" title="View full portrait">&#128269;</button>
+          </div>
+            <div class="char-card-body">
+              <div class="char-card-name">${esc(ch.name)}</div>
+              <div class="char-card-epithet">${esc(ch.epithet)}</div>
+              <div class="char-card-faction">${esc(ch.faction)}</div>
+            </div>
+          </div>`).join('');
+
+    content.innerHTML = `
+      <div class="reading-layout">
+        <div class="reading-pane">
+          <div class="chapter-label">${i === 0 ? 'Beginning' : 'Chapter ' + i}</div>
+          <div class="chapter-title">${esc(c.title)}</div>
+          <div class="chapter-body">${c.paragraphs.map(p => `<p>${esc(p)}</p>`).join('')}</div>
+          <div class="bottom-nav">
+            <button class="bottom-nav-btn prev" ${i === 0 ? 'disabled' : ''} onclick="window.__vkGoTo(${i - 1})">
+              <div class="bottom-nav-label">&larr; Previous</div>
+              <div class="bottom-nav-title">${i > 0 ? esc(chapters[i-1].title) : ''}</div>
+            </button>
+            <button class="bottom-nav-btn next" ${i === chapters.length-1 ? 'disabled':''} onclick="window.__vkGoTo(${i + 1})">
+              <div class="bottom-nav-label">Next &rarr;</div>
+              <div class="bottom-nav-title">${i < chapters.length-1 ? esc(chapters[i+1].title) : ''}</div>
+            </button>
+          </div>
+        </div>
+        <aside class="char-sidebar">
+          <div class="sidebar-label">Characters this chapter</div>
+          <div class="char-sidebar-inner">${sidebarInner}</div>
+        </aside>
+      </div>`;
+
+    window.scrollTo({ top: 0, behavior: 'instant' in window ? 'instant' : 'auto' });
+  }
+
+  // ── Bio modal ─────────────────────────────────────────────────
+  window.openBioModal = function(slug) {
+    const ch = catalog.find(c => c.slug === slug);
+    if (!ch) return;
+    document.getElementById('bio-modal-inner').innerHTML = `
+      <img class="bio-modal-img" src="${ART_BASE}${ch.art.replace('art/','')}" alt="${esc(ch.name)}">
+      <div class="bio-modal-body">
+        <div class="bio-modal-name">${esc(ch.name)}</div>
+        <div class="bio-modal-epithet">&ldquo;${esc(ch.epithet)}&rdquo;</div>
+        <div class="bio-modal-meta">${esc(ch.faction)}</div>
+        <div class="bio-modal-tags">${(ch.tags||[]).map(t => `<span class="bio-modal-tag">${esc(t)}</span>`).join('')}</div>
+        ${(ch.bio||[]).map(p => `<p class="bio-modal-para">${esc(p)}</p>`).join('')}
+      </div>`;
+    overlay.classList.add('open');
+    document.getElementById('bio-modal').scrollTop = 0;
+  };
+
+  window.closeBioModal = function() {
+    overlay.classList.remove('open');
+  };
+
+  window.__vkGoTo = goTo;
+
+  function esc(s) {
+    return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+
+  window.openPortrait = function(slug) {
+    const ch = catalog.find(c => c.slug === slug);
+    if (!ch) return;
+    const img = document.getElementById('portrait-img');
+    img.src = ART_BASE + ch.art.replace('art/','');
+    img.alt = ch.name;
+    const po = document.getElementById('portrait-overlay');
+    po.classList.add('open');
+    po.onclick = e => { if (e.target === po || e.target === img) closePortrait(); };
+  };
+  window.closePortrait = function() {
+    document.getElementById('portrait-overlay').classList.remove('open');
+  };
+  // Close portrait on Escape (alongside bio modal)
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') { closeBioModal(); closePortrait(); } });
+
+  window.addEventListener('hashchange', () => {
+    const hash = parseInt((location.hash||'').replace('#',''), 10);
+    if (Number.isInteger(hash) && hash >= 0 && hash < chapters.length && hash !== current) goTo(hash);
+  });
+})();
+</script>
+</body>
+</html>

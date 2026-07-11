@@ -1,0 +1,18 @@
+{
+  "slug": "drexl-voss",
+  "name": "Drexl Voss",
+  "epithet": "The Knight Who Always Shows Up",
+  "faction": "USS Salvage Crew",
+  "status": "Active",
+  "tags": [
+    "Knight",
+    "Hero",
+    "Interdimensional"
+  ],
+  "art": "art/drexl-voss.jpg",
+  "bio": [
+    "Drexl Voss is sent by the United States to secure a sample of Plokiv \u2014 a fully sentient, ooze-infected individual who appears to be biologically immune in a way that could yield a cure \u2014 so that a cure can be secured. He doesn't trust America's intentions with what they'd do with the cure, which is a concern he carried into the mission and held quietly throughout it. He has the spirit of a hero always, which means the concern about intentions doesn't stop him going. It just makes him watch what happens to the sample more carefully.",
+    "His blue-glowing sword cuts through the ooze with a precision that suggests the blade was designed with this specific purpose in mind, which it was not \u2014 it came from a different world entirely, forged for different battles \u2014 but the ooze is old enough that something designed for old battles works on it in ways that modern weapons don't. He moves through the infected zone with the uncomplicated commitment of someone who has decided that the work is worth doing and hasn't revisited the decision.",
+    "He has been resurrected, crossed worlds, and found purpose in each place he's landed. Kryvstof is another place, another purpose. He does not find this remarkable. He finds it, if anything, clarifying: wherever you end up, whatever the mechanism that put you there, the question is the same. What needs doing. He does it."
+  ]
+}

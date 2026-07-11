@@ -1,0 +1,18 @@
+{
+  "slug": "patchwork",
+  "name": "Patchwork",
+  "epithet": "The Research That Became the Disaster",
+  "faction": "The Outbreak",
+  "status": "Fallen",
+  "tags": [
+    "Researcher",
+    "Toxic",
+    "Fallen"
+  ],
+  "art": "art/patchwork.jpg",
+  "bio": [
+    "Patchwork had nearly died somewhere else before he retreated to Kryvstof to continue his research and attempt to prolong a life that was failing by degrees. He understood the black ooze better than anyone operating in this period \u2014 its properties, its applications, its potential as a tool for extending biological capability beyond ordinary limits. He shared this understanding with Vornakof in the form of a deal that gave Vornakof the ooze and gave Patchwork the protected space to continue his work.",
+    "The result of his work was present in the city above the cathedral's lower level when the salvage crew found him, which he regarded with the equanimity of someone who had decided long ago that outcomes were secondary to process. The outcome was a quarantined Russian city full of infected people and a dead man named Plokiv who could have been the cure. The process had continued. He found the process more interesting than the outcome.",
+    "He was dangerous in the way that people who understand something better than their opponents are dangerous, the toxic gas his preferred instrument and the one that required the most lateral thinking to approach. He went down knowing his research was unfinished. This concerned him more than the going down did, which is either the most honest thing about him or the least human, depending on what you think research is for."
+  ]
+}

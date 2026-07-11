@@ -1,0 +1,18 @@
+{
+  "slug": "zombie",
+  "name": "The Infected",
+  "epithet": "What the Ooze Makes of People",
+  "faction": "The Outbreak",
+  "status": "Active",
+  "tags": [
+    "Infected",
+    "Ooze",
+    "Infantry"
+  ],
+  "art": "art/zombie.jpg",
+  "bio": [
+    "The infantry of the outbreak \u2014 former civilians and soldiers of Kryvstof, now driven by the black ooze in ways that retained locomotion and removed everything else. They moved with the purposeless momentum of something that had been replaced, the ooze having substituted for whatever had been making decisions with something that had only one setting: toward anything living.",
+    "The ooze does not kill its hosts so much as repurpose them, which is the specific quality that makes it more disturbing than a substance that simply destroys. The people inside the infection are in some sense still there \u2014 Plokiv proved this \u2014 but the gap that the ooze required to take hold had been found in each of them, and the gap had been filled, and what remained moved through the city in patterns that served the ooze's distribution rather than any human purpose.",
+    "The hunter zombies \u2014 former military, the ooze having preserved their tactical instincts \u2014 were worse than the infantry for exactly the reason Wendall had identified: they used cover, they moved in patterns, they had the shape of competence without the restraint that had governed competence's use. They were not smart. They were trained, which in the dark and the rain came close enough to the same thing."
+  ]
+}

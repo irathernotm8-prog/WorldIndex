@@ -1,0 +1,18 @@
+{
+  "slug": "hythm",
+  "name": "Hythm",
+  "epithet": "The King Who Stopped Sitting Still",
+  "faction": "USS Salvage Crew",
+  "status": "Active",
+  "tags": [
+    "King",
+    "Leader",
+    "Restored"
+  ],
+  "art": "art/hythm.jpg",
+  "bio": [
+    "Hythm came to Kryvstof having recently done something he had spent years avoiding: remembered who he was. The crown he had sealed his memories into and given to Aluccard had found its way back to him after the New York investigation, and he had spent six months afterward in the specific limbo of someone who knows who they are again and has not yet worked out what that means for what they do next. He concluded, eventually, that being a king meant doing whatever needed doing, and that Kryvstof needed doing.",
+    "He was upset that the only available path into the mission was joining a U.S. government salvage crew \u2014 not because of the Americans, but because every instinct he had said the situation required more than a salvage operation and the structure didn't allow for more. He joined anyway. He led from the front because he had tried the other kind of leading and found, in the years of forgetting, what it cost the people around you.",
+    "His powers amplify his weapons, the crown's returned energy flowing through whatever he carries into something considerably more than the weapon alone. He is the crew's de facto leader throughout the mission, which is not a role anyone assigned him but one that settled naturally onto someone who has been a king long enough for it to be the shape he takes when things need a shape."
+  ]
+}

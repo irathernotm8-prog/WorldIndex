@@ -1,0 +1,18 @@
+{
+  "slug": "leon",
+  "name": "Leon",
+  "epithet": "The Anchor, Older and Sharper",
+  "faction": "USS Salvage Crew",
+  "status": "Active",
+  "tags": [
+    "Tactician",
+    "Aluccard's Agent",
+    "Veteran"
+  ],
+  "art": "art/leon.jpg",
+  "bio": [
+    "Aluccard sent Leon to ensure the mission succeeded, which was the reason given and also the complete reason \u2014 Leon was the insurance, the person who understood what the mission actually required well enough to keep it on track when the situation exceeded the briefing, which the situation in Kryvstof exceeded immediately and completely.",
+    "He is older now. The age has made him precise in a way that youth couldn't have \u2014 not slower, but more decided, every action the result of a calculation that had already been made before the action was taken. He acts as the crew's anchor: the person who says *we move* when moving is what needs to happen, who coordinates the approach when the approach requires more than instinct, who keeps track of what the mission is when the mission is getting complicated by everything the mission is inside.",
+    "He was Aluccard's apprentice and has become something more specific than that \u2014 a person who does this kind of work because he understands why it matters and has stopped needing to be reminded. He returns to Aluccard with a complete mission report and the news about Plokiv, which Aluccard receives with the specific quality of someone filing away an irreversible loss alongside every other irreversible loss they have carried across a very long life."
+  ]
+}

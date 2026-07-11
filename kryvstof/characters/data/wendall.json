@@ -1,0 +1,18 @@
+{
+  "slug": "wendall",
+  "name": "Wendall",
+  "epithet": "Prepared for Everything Except This",
+  "faction": "Survivors",
+  "status": "Active",
+  "tags": [
+    "Military Veteran",
+    "Survivor",
+    "Survivor"
+  ],
+  "art": "art/wendall.jpg",
+  "bio": [
+    "Wendall was a military veteran stationed in Kryvstof when the outbreak happened, which is the kind of posting that sounds manageable until the thing it is not designed to manage arrives. He was prepared for any situation \u2014 genuinely, thoroughly prepared, with the resources and the training and the mindset of someone who has spent a career making sure he was ready for whatever came next. He was not prepared for this. He survived anyway.",
+    "Six weeks in the zone had given him a working knowledge of the outbreak's taxonomy \u2014 infantry zombies, hunter zombies, the way the ooze moved through a city, the specific qualities of what Vornakof had become \u2014 that no briefing had and that he had assembled through the unglamorous method of surviving long enough to observe. He was the most useful intelligence source the salvage crew found on entry, which he provided without ceremony because ceremony was one of the non-essentials he had put aside in the first week.",
+    "He meets the crew and eventually leaves with them, which is the simplest possible description of what happens when a man who has been surviving alone for six weeks encounters a group capable of extracting him. He gets on the transport and says nothing for the first twenty minutes, which is the correct response."
+  ]
+}

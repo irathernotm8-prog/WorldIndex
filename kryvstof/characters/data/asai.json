@@ -1,0 +1,18 @@
+{
+  "slug": "asai",
+  "name": "Asai",
+  "epithet": "The One Who Kept Coming Back",
+  "faction": "Unknown",
+  "status": "Active",
+  "tags": [
+    "Assassin",
+    "Mysterious",
+    "Persistent"
+  ],
+  "art": "art/asai.jpg",
+  "bio": [
+    "Asai appeared in Kryvstof moving toward Plokiv with the specific purpose of someone who had been sent for a specific target and was not going to be deterred by the surrounding situation. She came from above the first time, from building walls that had been assessed as untraversable and that she had assessed differently. She came back three times, adjusting her angle each time, reading the crew's perimeter and finding its edges.",
+    "Nobody knows who sent her. Nobody in the salvage crew found out, because she never engaged long enough to be asked and survived all three attempts, withdrawing before any of them established enough of a perimeter to hold her. She is mysterious in the way that people who operate with complete competence and no stated motivation tend to be mysterious: you can describe what she did without being able to explain why she was doing it.",
+    "She failed to reach Plokiv. Scales reached him instead, which may or may not have been connected \u2014 two actors after the same target, unknown to each other or operating in coordination, the city and the mission and the crew between them never yielded enough information to determine which. She remains active, somewhere. The question of who she serves and what she knows about the ooze is one that was not answered in Kryvstof."
+  ]
+}

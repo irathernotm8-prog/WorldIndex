@@ -1,0 +1,18 @@
+{
+  "slug": "seira",
+  "name": "Seira",
+  "epithet": "Left Behind, Still Standing",
+  "faction": "Survivors",
+  "status": "Active",
+  "tags": [
+    "Soldier",
+    "Survivor",
+    "Abandoned"
+  ],
+  "art": "art/seira.jpg",
+  "bio": [
+    "Seira was Russian special forces \u2014 the kind that doesn't officially exist \u2014 and she was in Kryvstof on assignment when the outbreak happened. The people she was in Kryvstof with made a decision about acceptable losses and extracted without her. She had been fending for herself for five weeks when the salvage crew found her in the eastern district, and the five weeks had not broken her so much as completed her, in the way that situations which strip away everything non-essential tend to reveal what remains as the actual person.",
+    "She had gone into the inner district twice, not because she had orders or a specific target but because staying at the edge of the worst thing felt dishonest when she could move toward it. What she found there was the concentration of the ooze that told her the outbreak had a center, which she brought to the crew as the most actionable intelligence they received after Wendall's taxonomy.",
+    "She joins the crew the way soldiers join things in the middle of situations \u2014 not with agreements or negotiations but with the simple arithmetic of the moment. She leaves the city with them and carries with her the specific experience of being left behind by the people who were supposed to keep her safe, which is the kind of thing you eventually decide either defines you or informs you, and which she is still deciding."
+  ]
+}

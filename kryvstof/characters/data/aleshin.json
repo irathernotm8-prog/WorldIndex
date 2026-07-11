@@ -1,0 +1,18 @@
+{
+  "slug": "aleshin",
+  "name": "Aleshin",
+  "epithet": "Valiant",
+  "faction": "Survivors",
+  "status": "Fallen",
+  "tags": [
+    "Martial Arts",
+    "Elmarie's Agent",
+    "Fallen"
+  ],
+  "art": "art/aleshin.jpg",
+  "bio": [
+    "Aleshin was a young martial arts master sent by Elmarie into Kryvstof to find a secret artifact before the quarantine dropped, which was the kind of mission that had a clear objective and an insufficient briefing on what the city was about to become. He was skilled \u2014 the scorch marks on the walls of the block where he fell were the marks of someone who had understood what he was fighting and had fought it with everything he had.",
+    "He was sent by Elmarie, which is the most important thing about his context: she trusted him with this, she sent him because he was the right person, and she sent Kai after him because she knew what it meant that he'd gone quiet. He didn't survive, which Kai found out in the specific way you find out things that have already happened when you arrive hoping to change them.",
+    "He put up a valiant fight. The sentence exists in his original description as a simple fact and it is a simple fact and it is also one of those simple facts that contains a great deal of weight if you hold it long enough. He was young and he was sent on a mission that outpaced its briefing and he fought with everything he had. He did not survive. The distinction between those two sentences is the whole story."
+  ]
+}

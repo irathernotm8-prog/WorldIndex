@@ -1,0 +1,18 @@
+{
+  "slug": "plokiv",
+  "name": "Plokiv",
+  "epithet": "The Cure That Didn't Know It Was One",
+  "faction": "Survivors",
+  "status": "Fallen",
+  "tags": [
+    "Infected",
+    "Sentient",
+    "Fallen"
+  ],
+  "art": "art/plokiv.jpg",
+  "bio": [
+    "Plokiv was fully infected and fully sentient, which the ooze was not supposed to allow. He had been sitting in a basement in the inner district for four weeks, reading books by chemical lamp and being ignored by other zombies, who did not register him as what they were because the ooze in him could not complete its process. He was immune in the most inconvenient way: not by fighting the ooze off, but by being too thoroughly himself for it to find the gap it needed to replace.",
+    "He understood, sitting in the basement, that his situation was either a problem or a solution and that the distinction depended on whether anyone found him who understood what the situation was. He had not been able to decide whether he hoped they would. He told the salvage crew what he'd worked out with the patient delivery of someone who has spent four weeks thinking about a problem from every angle. Leon said, quietly, that his biology was the cure.",
+    "He was killed by Scales before anyone could extract him. The implications of his death extend beyond Kryvstof \u2014 the specific immunity he represented, the potential cure for what the ooze does to people, went with him permanently and completely, which is what Plokiv himself had half-suspected about his own situation from the beginning. He could have been the cure to so many of life's diseases. The sentence in his bio is accurate and insufficient and that is the most honest way to write about things that were lost before they were fully understood."
+  ]
+}

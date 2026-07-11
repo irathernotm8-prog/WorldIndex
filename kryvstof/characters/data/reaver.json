@@ -1,0 +1,18 @@
+{
+  "slug": "reaver",
+  "name": "Reaver",
+  "epithet": "Half and Half",
+  "faction": "The Outbreak",
+  "status": "Active",
+  "tags": [
+    "Half-Infected",
+    "Dangerous",
+    "Secured"
+  ],
+  "art": "art/reaver.jpg",
+  "bio": [
+    "Reaver is half human, half infected \u2014 not in the metaphorical way that describes people changed by circumstances, but in the literal sense of someone the ooze has partially processed and stalled, leaving him in a state that is neither what he was nor what the infection makes people into. The result is all danger: the ooze's strength and the human's coordination, operating in a combination that neither the infantry zombies nor the hunter zombies managed.",
+    "He attacked the salvage crew with the specific ferocity of something that has two natures and no stability between them. He was neither conscious in the way Plokiv was conscious nor simply driven in the way the infantry were driven. He was somewhere in the gap that Plokiv had managed to hold open and that Reaver had not managed to hold, which made him dangerous and also, if you looked at him carefully, sad.",
+    "He was secured by the U.S. government at the end of the story \u2014 not destroyed, which was a decision that reflects either scientific interest in his half-state or a bureaucratic refusal to categorize him as simply a threat. He is in U.S. custody somewhere. What they intend to do with him, and whether he retains enough of the human side to have opinions about what they intend, is not information that was made available to the salvage crew when they extracted."
+  ]
+}

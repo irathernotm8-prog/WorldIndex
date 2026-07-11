@@ -1,0 +1,18 @@
+{
+  "slug": "scales",
+  "name": "Scales",
+  "epithet": "The Assassin Who Closed a Door",
+  "faction": "Unknown",
+  "status": "Active",
+  "tags": [
+    "Assassin",
+    "French",
+    "Contract"
+  ],
+  "art": "art/scales.jpg",
+  "bio": [
+    "Scales came to Kryvstof with a contract: eliminate Plokiv, the sentient infected man who represented something that someone did not want to exist. He got the job done, which is the phrase that applies to him on every contract he has ever taken and that he would consider the highest available praise. He was in the infected zone of a quarantined Russian city, he identified his target, he found the window, and he acted.",
+    "Nobody in the salvage crew ever found out who sent him, which he would consider a professional success. He had done his own research before taking the contract, as he always did, and his research had told him what Plokiv was. Whether this information affected his decision to take the contract \u2014 whether he understood he was eliminating a potential cure and took it anyway, or did not fully understand, or understood and found the question outside the scope of his professional considerations \u2014 is not a question he has been asked.",
+    "He resurfaces five years later in Valmere, where he infiltrates the nation's borders on a reconnaissance contract and leaves without completing the secondary objective. Whether the Plokiv contract and the Valmere hesitation are connected \u2014 whether what he saw in Kryvstof and what he found in Valmere are part of the same long reassessment of what he is willing to do \u2014 is a question that his track record across both stories does not quite answer."
+  ]
+}
