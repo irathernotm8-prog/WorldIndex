@@ -1,0 +1,15 @@
+{
+  "slug": "baldric",
+  "name": "Baldric",
+  "epithet": "The Unyielding",
+  "faction": "The Order of Solandis",
+  "status": "Active",
+  "tags": ["Knight", "Mentor"],
+  "bio": [
+    "Before he was a survivor, Baldric was simply the knight Sigurd trusted most -- entrenched in the order and in Solandis itself so completely that people sometimes forgot he'd had a life before the vow. He took an apprentice, a boy even younger than most recruits, with the specific reluctant fondness of a man who had told himself he wouldn't do exactly this.",
+    "He fought through every strange escalation of the war against Tiadel without ever losing his footing -- not when the dead stopped screaming, not when Tryfus turned in the refectory, not even when it became clear that the letters north to the Valkorath Crown were being read and quietly set aside. What broke him wasn't the fighting. It was watching Sigurd choose the north gate, and Galateya choose the west wall, and understanding that Solandis was going to be allowed to die in full view of a Crown that could have stopped it.",
+    "He walked out of the fallen kingdom wounded, his apprentice Alaric half-carrying him the last miles, carrying a grudge against King Valerius III that would never fully cool and a devotion to the order's memory that would outlive the order itself by a great many years -- following whispers of resistance across a war that was not yet done with him, all the way into the events of Valkorath."
+  ],
+  "art": "art/baldric.jpg",
+  "source_page": null
+}

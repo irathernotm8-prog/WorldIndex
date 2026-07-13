@@ -1,0 +1,15 @@
+{
+  "slug": "tryfus",
+  "name": "Tryfus",
+  "epithet": "The Turned Blade",
+  "faction": "The Order of Solandis",
+  "status": "Corrupted",
+  "tags": ["Knight", "Corrupted"],
+  "bio": [
+    "A broad, laughing swordsman with a reputation for ending fights before they properly started, Tryfus led the second column at Fenmarch and was the first to notice the wrongness in it -- the strange, sourceless silence in dying men who should have been screaming. He said nothing about it that night. He would, eventually, in the worst possible way.",
+    "The second strange raid nearly took his life and took his sword arm outright, and returned him to the chapter house a full week late, healed faster than any wound should heal, flinching now at ordinary firelight he'd never flinched at before. Nothing about him quite fit together anymore, though it took his closest friends time to admit they'd noticed.",
+    "Once a great fighter, he became -- in a single, violent moment in the chapter house refectory, in front of forty witnesses who would spend the rest of their lives disagreeing about exactly what they'd seen -- a bloodthirsty stranger wearing a friend's face. It took six Templars to bring him down. His turn was the first undeniable proof, spoken aloud by Sigurd himself, that another force entirely was at work behind Tiadel's war -- though neither Tryfus nor anyone who loved him ever learned whose hand had reached into him to do it."
+  ],
+  "art": "art/tryfus.jpg",
+  "source_page": null
+}

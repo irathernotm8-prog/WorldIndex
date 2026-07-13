@@ -1,0 +1,15 @@
+{
+  "slug": "galateya",
+  "name": "Galateya",
+  "epithet": "The Fiercest Kindness",
+  "faction": "The Order of Solandis",
+  "status": "Fallen",
+  "tags": ["Knight", "Warrior"],
+  "bio": [
+    "By wide agreement, Galateya was the finest blade in the Order of Solandis -- and, by even wider agreement, one of the kindest people in it, a combination the older knights liked to say shouldn't be possible and clearly was. She fought the way Sigurd led: without apparent effort, without apparent doubt. More than almost anyone else still standing in the order's later years, she was what the Templars had told themselves they were for, before the wars got long enough to make people start forgetting.",
+    "It was Galateya who first told Sigurd that something in Tryfus's eyes had stopped looking entirely like Tryfus -- and, when the corruption finally surfaced in the chapter house refectory, Galateya who put her sword through the friend she had nursed back from his wounds, weeping while she did it, because kindness in Solandis had never meant softness. It meant the cost of a thing was always paid in full and never pretended away.",
+    "When the capital fell, she died on the west wall in direct defiance of Sigurd's retreat order -- the only order of his she ever ignored -- because the evacuation route ran past a nursery she had visited every week for six years, and she would not let it empty into the street unescorted. She got every child out. She did not get herself out. The knights who found her after said she was still smiling."
+  ],
+  "art": "art/galateya.jpg",
+  "source_page": null
+}

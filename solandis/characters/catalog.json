@@ -1,0 +1,165 @@
+[
+  {
+    "slug": "alaric",
+    "name": "Alaric",
+    "epithet": "The Devoted Disciple",
+    "faction": "The Order of Solandis",
+    "status": "Active",
+    "tags": [
+      "Knight",
+      "Warrior"
+    ],
+    "bio": [
+      "Younger even than most recruits, Alaric attached himself to Baldric two winters before Solandis fell, with the specific stubborn devotion of a boy who has decided, against all the evidence that devotion is dangerous, to have a hero anyway. He believed, longer than almost anyone else in the chapter house, that the Valkorath Crown would answer their letters if someone only explained the stakes clearly enough.",
+      "He was wrong about that, and watched Baldric absorb being wrong about it so the lesson wouldn't have to land on him directly. When Solandis burned, Alaric carried his mentor out of the ruins on his own strength for the final miles, still telling him -- still telling himself -- that someone would account for what had happened here.",
+      "That belief followed him out of Solandis and into the wider world alongside Baldric, a young knight still trying to hold the shape of the ideals the fallen order had stood for. It is worth remembering, of him, that a devotion never given a true target to aim at can be turned -- in an instant, by the right hands, at the right moment -- into something its owner would not recognize."
+    ],
+    "art": "art/alaric.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "baldric",
+    "name": "Baldric",
+    "epithet": "The Unyielding",
+    "faction": "The Order of Solandis",
+    "status": "Active",
+    "tags": [
+      "Knight",
+      "Mentor"
+    ],
+    "bio": [
+      "Before he was a survivor, Baldric was simply the knight Sigurd trusted most -- entrenched in the order and in Solandis itself so completely that people sometimes forgot he'd had a life before the vow. He took an apprentice, a boy even younger than most recruits, with the specific reluctant fondness of a man who had told himself he wouldn't do exactly this.",
+      "He fought through every strange escalation of the war against Tiadel without ever losing his footing -- not when the dead stopped screaming, not when Tryfus turned in the refectory, not even when it became clear that the letters north to the Valkorath Crown were being read and quietly set aside. What broke him wasn't the fighting. It was watching Sigurd choose the north gate, and Galateya choose the west wall, and understanding that Solandis was going to be allowed to die in full view of a Crown that could have stopped it.",
+      "He walked out of the fallen kingdom wounded, his apprentice Alaric half-carrying him the last miles, carrying a grudge against King Valerius III that would never fully cool and a devotion to the order's memory that would outlive the order itself by a great many years -- following whispers of resistance across a war that was not yet done with him, all the way into the events of Valkorath."
+    ],
+    "art": "art/baldric.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "drexl",
+    "name": "Drexl",
+    "epithet": "The Shape in the Smoke",
+    "faction": "Unknown",
+    "status": "Active",
+    "tags": [
+      "Mage",
+      "Warrior",
+      "Hidden"
+    ],
+    "bio": [
+      "Years before the war that would make his name known across Valkorath, Drexl found Solandis's ancient, grinding border war with Tiadel and recognized it for what it was: the perfect place to test exactly how much of an army he could turn without anyone noticing whose hand was really on the reins. Tiadel took the blame for every strange silence and every raid that fought like nothing they'd ever fielded before, because Tiadel was standing where the blame was easiest to place -- and a war fought in someone else's name is, for the one actually fighting it, the safest kind there is.",
+      "He was seen only once, by a Templar recruit named Non who mistook him for a still, patient shadow the fire wouldn't touch, and spoke to only one Templar directly -- Sir Roger, outside the shattered south wall of the fallen capital, in the last hour before dawn. He gave his name freely there, the way a man might introduce himself to someone he intends to kill and finds he respects regardless.",
+      "Sir Roger's dying stand cost him a wound that would not close quickly, one he carried unseen for years afterward -- into the fight that would finally catch up to him: a battle against a golden knight named Tyrus, fighting alongside Sir Aldric and Lady Valeria, that Drexl would lose. It is this same Drexl, prior to that first defeat, that the fall of Solandis truly belongs to -- never publicly named for it, the ruin of an entire kingdom quietly folded into the much longer story that Valkorath would eventually tell about him."
+    ],
+    "art": "art/drexl.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "galateya",
+    "name": "Galateya",
+    "epithet": "The Fiercest Kindness",
+    "faction": "The Order of Solandis",
+    "status": "Fallen",
+    "tags": [
+      "Knight",
+      "Warrior"
+    ],
+    "bio": [
+      "By wide agreement, Galateya was the finest blade in the Order of Solandis -- and, by even wider agreement, one of the kindest people in it, a combination the older knights liked to say shouldn't be possible and clearly was. She fought the way Sigurd led: without apparent effort, without apparent doubt. More than almost anyone else still standing in the order's later years, she was what the Templars had told themselves they were for, before the wars got long enough to make people start forgetting.",
+      "It was Galateya who first told Sigurd that something in Tryfus's eyes had stopped looking entirely like Tryfus -- and, when the corruption finally surfaced in the chapter house refectory, Galateya who put her sword through the friend she had nursed back from his wounds, weeping while she did it, because kindness in Solandis had never meant softness. It meant the cost of a thing was always paid in full and never pretended away.",
+      "When the capital fell, she died on the west wall in direct defiance of Sigurd's retreat order -- the only order of his she ever ignored -- because the evacuation route ran past a nursery she had visited every week for six years, and she would not let it empty into the street unescorted. She got every child out. She did not get herself out. The knights who found her after said she was still smiling."
+    ],
+    "art": "art/galateya.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "non",
+    "name": "Non",
+    "epithet": "The Quiet Devotee",
+    "faction": "The Order of Solandis",
+    "status": "Active",
+    "tags": [
+      "Knight",
+      "Recruit"
+    ],
+    "bio": [
+      "Non grew up in the literal shadow of the Solandis chapter house, wanting to be a Templar since before he understood what the word cost, and drilled harder than any other recruit because he still believed, at seventeen, that effort was the thing that decided outcomes.",
+      "He was posted to the ridge above the eastern watchtowers during the third strange raid -- close enough to watch the battle, too far to reach it in time to matter -- and became the only Templar to see, however briefly, the still and patient shape moving behind Tiadel's lines where no ordinary commander had any business standing. He never learned what he had actually seen. He carried the sight anyway.",
+      "Years of a war that kept refusing to make honest sense wore his optimism down into something narrower and harder -- a young man who no longer believed effort alone decided anything, and had not yet decided what belief to put in its place. He walked out of the ashes of Solandis alongside Baldric and Alaric, quieter than either of them, and history loses track of him not long after -- the way it loses track of most survivors, once the story stops needing them."
+    ],
+    "art": "art/non.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "pyre",
+    "name": "Pyre",
+    "epithet": "The Original Flame",
+    "faction": "The Order of Solandis",
+    "status": "Fallen",
+    "tags": [
+      "Templar",
+      "Pyromancer"
+    ],
+    "bio": [
+      "Pyre started as a swordsman like any other Templar, until Tiadel's raids grew stranger -- fewer soldiers, more fire, villages burned in patterns that didn't look like accidents -- and Grandmaster Sigurd made the decision that split the chapter house down the middle: if their enemy had started using something like sorcery, Solandis would need an answer that wasn't only steel. Pyre volunteered before anyone finished asking, and was given his own division and his own scorched training yard to make good on it.",
+      "He didn't love what he'd become. He loved that it was useful, and let Galateya remind him, most evenings, that he was still allowed to be gentle with people even after a day spent being anything but gentle with fire.",
+      "When Solandis fell, Pyre and his division held the eastern gate long enough to clear the lower quarter of the capital, and then long enough after that to clear the quarter behind it, buying hours with the only currency the order had left to spend. There was no one left to tell him he'd done enough by the time it would have mattered. The tradition of Templar pyromancy he founded would not die with him -- generations later, in the events of Valkorath, it would resurface in a very different Templar, for very different reasons."
+    ],
+    "art": "art/pyre.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "sigurd",
+    "name": "Sigurd",
+    "epithet": "The Grandmaster",
+    "faction": "The Order of Solandis",
+    "status": "Fallen",
+    "tags": [
+      "Knight",
+      "Leader"
+    ],
+    "bio": [
+      "Sigurd led the Templars of Solandis for eleven years, and made his peace early with the fact that being right and being loved rarely came as a set. He built an order that did not depend on him personally to function -- clear chains of command, divisions like Pyre's given room to exist even when older knights grumbled about it, a chapter house that could keep training recruits with or without him standing over the yard.",
+      "Many of his methods were unpopular. Almost none of them were wrong. When the raids out of Tiadel stopped behaving like raids -- when the silence in the dead became stranger than the killing -- Sigurd was the first senior Templar willing to say, out loud, that something other than their oldest enemy was involved.",
+      "He held the north gate himself when Solandis fell, because he had spent a decade making sure the order would not need him, and because that decade had never once meant he was exempt from the bill when it finally came due. He did not survive the holding. The order survived him anyway, carried forward by the two knights he trusted to carry anything: Baldric and Sir Roger."
+    ],
+    "art": "art/sigurd.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "sir-roger",
+    "name": "Sir Roger",
+    "epithet": "The Ultimate Templar",
+    "faction": "The Order of Solandis",
+    "status": "Fallen",
+    "tags": [
+      "Knight",
+      "Elder"
+    ],
+    "bio": [
+      "Old enough to have trained half the senior knights still standing in Solandis's final years, Sigurd included, Sir Roger had long since stopped expecting the world to reward good behavior. He'd outlived two Grandmasters before Sigurd and fully expected the pattern to continue. It never made him bitter. It made him useful in the specific way an old soldier who has run out of illusions is useful -- nothing left to protect but the thing actually worth protecting.",
+      "He found the shape in the smoke outside the shattered south wall in the last hour before dawn, on the night the capital fell, and understood -- the way old soldiers sometimes simply understand things without being told -- that this was the actual war, and everything before it had only been the distance Solandis had been made to run before reaching it. The shape gave its name freely: Drexl. Sir Roger was the only Templar of Solandis who ever heard it spoken aloud.",
+      "He burned his own life force to meet Drexl's strength, drawing on rites his order had guarded and rarely used, because the cost of them was exactly what it sounds like. He fought longer than anything wearing that much darkness should have allowed, and drew a wound that would not close quickly -- one Drexl would carry, unseen, into a fight years later against a golden knight named Tyrus. It was not enough to save Solandis. Sir Roger had known, riding out, that it would not be. He died with the cross still on his chest and his honor and ideals fully intact, and nobody left alive close enough to hear the one truth he'd paid everything to learn."
+    ],
+    "art": "art/sir-roger.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "tryfus",
+    "name": "Tryfus",
+    "epithet": "The Turned Blade",
+    "faction": "The Order of Solandis",
+    "status": "Corrupted",
+    "tags": [
+      "Knight",
+      "Corrupted"
+    ],
+    "bio": [
+      "A broad, laughing swordsman with a reputation for ending fights before they properly started, Tryfus led the second column at Fenmarch and was the first to notice the wrongness in it -- the strange, sourceless silence in dying men who should have been screaming. He said nothing about it that night. He would, eventually, in the worst possible way.",
+      "The second strange raid nearly took his life and took his sword arm outright, and returned him to the chapter house a full week late, healed faster than any wound should heal, flinching now at ordinary firelight he'd never flinched at before. Nothing about him quite fit together anymore, though it took his closest friends time to admit they'd noticed.",
+      "Once a great fighter, he became -- in a single, violent moment in the chapter house refectory, in front of forty witnesses who would spend the rest of their lives disagreeing about exactly what they'd seen -- a bloodthirsty stranger wearing a friend's face. It took six Templars to bring him down. His turn was the first undeniable proof, spoken aloud by Sigurd himself, that another force entirely was at work behind Tiadel's war -- though neither Tryfus nor anyone who loved him ever learned whose hand had reached into him to do it."
+    ],
+    "art": "art/tryfus.jpg",
+    "source_page": null
+  }
+]

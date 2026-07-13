@@ -1,0 +1,15 @@
+{
+  "slug": "sigurd",
+  "name": "Sigurd",
+  "epithet": "The Grandmaster",
+  "faction": "The Order of Solandis",
+  "status": "Fallen",
+  "tags": ["Knight", "Leader"],
+  "bio": [
+    "Sigurd led the Templars of Solandis for eleven years, and made his peace early with the fact that being right and being loved rarely came as a set. He built an order that did not depend on him personally to function -- clear chains of command, divisions like Pyre's given room to exist even when older knights grumbled about it, a chapter house that could keep training recruits with or without him standing over the yard.",
+    "Many of his methods were unpopular. Almost none of them were wrong. When the raids out of Tiadel stopped behaving like raids -- when the silence in the dead became stranger than the killing -- Sigurd was the first senior Templar willing to say, out loud, that something other than their oldest enemy was involved.",
+    "He held the north gate himself when Solandis fell, because he had spent a decade making sure the order would not need him, and because that decade had never once meant he was exempt from the bill when it finally came due. He did not survive the holding. The order survived him anyway, carried forward by the two knights he trusted to carry anything: Baldric and Sir Roger."
+  ],
+  "art": "art/sigurd.jpg",
+  "source_page": null
+}

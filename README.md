@@ -13,8 +13,8 @@ existing links and the build script commands below are unaffected.
 ## What's in here
 
 ```
-Valkorath-World/
-├── index.html               ← the universe landing page (links to all stories)
+WorldIndex/
+├── index.html               ← the universe landing page (links to all stories, in timeline order)
 ├── catalog/
 │   └── index.html            ← Valkorath's interactive character browser
 ├── characters/
@@ -25,35 +25,61 @@ Valkorath-World/
 │       └── reign-002.jpg
 ├── story/
 │   └── valkorath-story.md    ← Valkorath's full narrative, chapter by chapter
+├── solandis/
+│   ├── catalog/index.html    ← Solandis's interactive character browser
+│   ├── characters/           ← same layout as Valkorath's (catalog.json, data/, art/)
+│   └── story/solandis-story.md
 ├── pantheon/
 │   ├── catalog/index.html    ← Elarion's interactive character browser
 │   ├── characters/           ← same layout as Valkorath's (catalog.json, data/, art/)
 │   └── story/pantheon-story.md
+├── greece/
+│   ├── catalog/index.html    ← Greece's interactive character browser
+│   ├── characters/
+│   └── story/greece-story.md
 ├── blade-of-honor/
 │   ├── catalog/index.html    ← Aridel's interactive character browser
 │   ├── characters/
 │   └── story/blade-of-honor-story.md
+├── london/
+│   ├── catalog/index.html    ← London's interactive character browser
+│   ├── characters/
+│   └── story/london-story.md
+├── texas/
+│   ├── catalog/index.html    ← Texas's interactive character browser
+│   ├── characters/
+│   └── story/texas-story.md
 ├── centennial/
 │   ├── catalog/index.html    ← New York's interactive character browser
 │   ├── characters/
 │   └── story/centennial-story.md
-└── greece/
-    ├── catalog/index.html    ← Greece's interactive character browser
-    ├── characters/           ← currently empty, awaiting character art
-    └── story/greece-story.md
+├── kryvstof/
+│   ├── catalog/index.html    ← Kryvstof's interactive character browser
+│   ├── characters/
+│   └── story/kryvstof-story.md
+└── valmere/
+    ├── catalog/index.html    ← Valmere's interactive character browser
+    ├── characters/
+    └── story/valmere-story.md
 ```
 
-All five stories are live now. The landing page (`index.html`) is the front door to the
-whole universe — it links out to each one.
+All ten stories are live now, each with a full chapter-by-chapter narrative. The landing
+page (`index.html`) is the front door to the whole universe — it links out to each one in
+chronological order, from Elarion's primordial age through to Valmere in 2035.
 
 The rebuild script works for any story:
 
 ```bash
 python3 scripts/build_catalog.py                 # rebuilds Valkorath (default)
+python3 scripts/build_catalog.py solandis         # rebuilds Solandis
 python3 scripts/build_catalog.py pantheon         # rebuilds Elarion
-python3 scripts/build_catalog.py blade-of-honor   # rebuilds Aridel
-python3 scripts/build_catalog.py centennial       # rebuilds New York
 python3 scripts/build_catalog.py greece           # rebuilds Greece
+python3 scripts/build_catalog.py blade-of-honor   # rebuilds Aridel
+python3 scripts/build_catalog.py london           # rebuilds London
+python3 scripts/build_catalog.py texas            # rebuilds Texas
+python3 scripts/build_catalog.py centennial       # rebuilds New York
+python3 scripts/build_catalog.py kryvstof         # rebuilds Kryvstof
+python3 scripts/build_catalog.py valmere          # rebuilds Valmere
 ```
 
 ## Reading chapter by chapter
@@ -161,6 +187,36 @@ since art hasn't been made for this cast yet. The story itself is fully readable
 the same pipeline as everyone else: a JSON file per character in `characters/data/`, the
 portrait in `characters/art/`, then `python3 scripts/build_catalog.py greece` to wire it
 into the catalog.
+
+## About Solandis
+
+The newest addition, and the earliest story on the timeline after Elarion — a direct
+prequel to Valkorath, drafted from a short outline and nine character portraits you
+provided. It tells the last stand of the Templars of Solandis, a small southern kingdom
+whose order of knights (the origin of the red-cross-on-white imagery later echoed by
+Valkorath's own crusaders) is destroyed in a border war against Tiadel that turns out to
+be a proxy for something else entirely: Lord Drexl himself, testing how much of an army he
+can turn without anyone tracing it back to him.
+
+This isn't a stand-alone story — it's built directly into existing Valkorath canon rather
+than alongside it. Baldric and Alaric (Templar Order, in the main Valkorath roster) are
+Solandis survivors; their existing bios already described Solandis's fall, so this story
+gives that backstory its own full narrative and a little extra connective tissue was added
+to both bios, plus Frenry's, tying his pyromancy back to Solandis's original flame-wielder,
+Pyre. Sir Roger's death in the story's climax is also what leaves the wound on Drexl that,
+years later, Sir Tyrus finally finishes in the fight his own bio already describes -- so
+nothing here contradicts what was already on the site, it just fills in the gap before it.
+
+Nine characters in `solandis/characters/`: Sigurd (the Grandmaster), Baldric and his
+apprentice Alaric, Non, Pyre, Galateya, Tryfus (whose corruption is the first proof
+something beyond ordinary war is at work), Sir Roger, and this era's Drexl. Portraits came
+directly from the source PDF.
+
+## A note on the modern-era stories
+
+London, Texas, Kryvstof, and Valmere were added after this README's "About" sections were
+last written and don't have write-ups here yet -- all four are live on the landing page
+and fully readable, just not yet documented in this file the way the earlier stories are.
 
 ## Viewing it
 

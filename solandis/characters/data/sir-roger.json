@@ -1,0 +1,15 @@
+{
+  "slug": "sir-roger",
+  "name": "Sir Roger",
+  "epithet": "The Ultimate Templar",
+  "faction": "The Order of Solandis",
+  "status": "Fallen",
+  "tags": ["Knight", "Elder"],
+  "bio": [
+    "Old enough to have trained half the senior knights still standing in Solandis's final years, Sigurd included, Sir Roger had long since stopped expecting the world to reward good behavior. He'd outlived two Grandmasters before Sigurd and fully expected the pattern to continue. It never made him bitter. It made him useful in the specific way an old soldier who has run out of illusions is useful -- nothing left to protect but the thing actually worth protecting.",
+    "He found the shape in the smoke outside the shattered south wall in the last hour before dawn, on the night the capital fell, and understood -- the way old soldiers sometimes simply understand things without being told -- that this was the actual war, and everything before it had only been the distance Solandis had been made to run before reaching it. The shape gave its name freely: Drexl. Sir Roger was the only Templar of Solandis who ever heard it spoken aloud.",
+    "He burned his own life force to meet Drexl's strength, drawing on rites his order had guarded and rarely used, because the cost of them was exactly what it sounds like. He fought longer than anything wearing that much darkness should have allowed, and drew a wound that would not close quickly -- one Drexl would carry, unseen, into a fight years later against a golden knight named Tyrus. It was not enough to save Solandis. Sir Roger had known, riding out, that it would not be. He died with the cross still on his chest and his honor and ideals fully intact, and nobody left alive close enough to hear the one truth he'd paid everything to learn."
+  ],
+  "art": "art/sir-roger.jpg",
+  "source_page": null
+}

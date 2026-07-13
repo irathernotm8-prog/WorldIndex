@@ -1,0 +1,15 @@
+{
+  "slug": "pyre",
+  "name": "Pyre",
+  "epithet": "The Original Flame",
+  "faction": "The Order of Solandis",
+  "status": "Fallen",
+  "tags": ["Templar", "Pyromancer"],
+  "bio": [
+    "Pyre started as a swordsman like any other Templar, until Tiadel's raids grew stranger -- fewer soldiers, more fire, villages burned in patterns that didn't look like accidents -- and Grandmaster Sigurd made the decision that split the chapter house down the middle: if their enemy had started using something like sorcery, Solandis would need an answer that wasn't only steel. Pyre volunteered before anyone finished asking, and was given his own division and his own scorched training yard to make good on it.",
+    "He didn't love what he'd become. He loved that it was useful, and let Galateya remind him, most evenings, that he was still allowed to be gentle with people even after a day spent being anything but gentle with fire.",
+    "When Solandis fell, Pyre and his division held the eastern gate long enough to clear the lower quarter of the capital, and then long enough after that to clear the quarter behind it, buying hours with the only currency the order had left to spend. There was no one left to tell him he'd done enough by the time it would have mattered. The tradition of Templar pyromancy he founded would not die with him -- generations later, in the events of Valkorath, it would resurface in a very different Templar, for very different reasons."
+  ],
+  "art": "art/pyre.jpg",
+  "source_page": null
+}

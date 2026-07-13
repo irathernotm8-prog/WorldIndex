@@ -1,0 +1,15 @@
+{
+  "slug": "alaric",
+  "name": "Alaric",
+  "epithet": "The Devoted Disciple",
+  "faction": "The Order of Solandis",
+  "status": "Active",
+  "tags": ["Knight", "Warrior"],
+  "bio": [
+    "Younger even than most recruits, Alaric attached himself to Baldric two winters before Solandis fell, with the specific stubborn devotion of a boy who has decided, against all the evidence that devotion is dangerous, to have a hero anyway. He believed, longer than almost anyone else in the chapter house, that the Valkorath Crown would answer their letters if someone only explained the stakes clearly enough.",
+    "He was wrong about that, and watched Baldric absorb being wrong about it so the lesson wouldn't have to land on him directly. When Solandis burned, Alaric carried his mentor out of the ruins on his own strength for the final miles, still telling him -- still telling himself -- that someone would account for what had happened here.",
+    "That belief followed him out of Solandis and into the wider world alongside Baldric, a young knight still trying to hold the shape of the ideals the fallen order had stood for. It is worth remembering, of him, that a devotion never given a true target to aim at can be turned -- in an instant, by the right hands, at the right moment -- into something its owner would not recognize."
+  ],
+  "art": "art/alaric.jpg",
+  "source_page": null
+}

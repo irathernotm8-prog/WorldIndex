@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <link rel="icon" type="image/x-icon" href="/WorldIndex/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>THE CENTENNIAL — Read</title>
+<title>SOLANDIS — Read</title>
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&family=Spectral:ital,wght@0,400;0,500;0,600;1,400&family=Spectral+SC:wght@500&display=swap');
 
@@ -313,9 +313,9 @@
 
 <div class="vk-header">
   <a class="backlink" href="../../">&larr; The Valkorath Universe</a>
-  <a class="backlink" href="../catalog/">&larr; THE CENTENNIAL Catalog</a>
-  <div class="vk-eyebrow">2026 · New York</div>
-  <h1 class="vk-title">THE CENTENNIAL</h1>
+  <a class="backlink" href="../catalog/">&larr; SOLANDIS Catalog</a>
+  <div class="vk-eyebrow">Before the Founding War &middot; Solandis</div>
+  <h1 class="vk-title">SOLANDIS</h1>
   <div class="vk-subtitle">Read Chapter by Chapter</div>
 </div>
 
@@ -366,7 +366,7 @@
   // Load catalog + story in parallel
   Promise.all([
     fetch('../characters/catalog.json').then(r => r.json()),
-    fetch('../story/centennial-story.md').then(r => { if (!r.ok) throw new Error(); return r.text(); })
+    fetch('../story/solandis-story.md').then(r => { if (!r.ok) throw new Error(); return r.text(); })
   ]).then(([cat, md]) => {
     catalog  = cat;
     chapters = parseChapters(md);

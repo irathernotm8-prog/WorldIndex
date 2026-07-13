@@ -1,0 +1,15 @@
+{
+  "slug": "non",
+  "name": "Non",
+  "epithet": "The Quiet Devotee",
+  "faction": "The Order of Solandis",
+  "status": "Active",
+  "tags": ["Knight", "Recruit"],
+  "bio": [
+    "Non grew up in the literal shadow of the Solandis chapter house, wanting to be a Templar since before he understood what the word cost, and drilled harder than any other recruit because he still believed, at seventeen, that effort was the thing that decided outcomes.",
+    "He was posted to the ridge above the eastern watchtowers during the third strange raid -- close enough to watch the battle, too far to reach it in time to matter -- and became the only Templar to see, however briefly, the still and patient shape moving behind Tiadel's lines where no ordinary commander had any business standing. He never learned what he had actually seen. He carried the sight anyway.",
+    "Years of a war that kept refusing to make honest sense wore his optimism down into something narrower and harder -- a young man who no longer believed effort alone decided anything, and had not yet decided what belief to put in its place. He walked out of the ashes of Solandis alongside Baldric and Alaric, quieter than either of them, and history loses track of him not long after -- the way it loses track of most survivors, once the story stops needing them."
+  ],
+  "art": "art/non.jpg",
+  "source_page": null
+}

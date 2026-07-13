@@ -1,0 +1,15 @@
+{
+  "slug": "drexl",
+  "name": "Drexl",
+  "epithet": "The Shape in the Smoke",
+  "faction": "Unknown",
+  "status": "Active",
+  "tags": ["Mage", "Warrior", "Hidden"],
+  "bio": [
+    "Years before the war that would make his name known across Valkorath, Drexl found Solandis's ancient, grinding border war with Tiadel and recognized it for what it was: the perfect place to test exactly how much of an army he could turn without anyone noticing whose hand was really on the reins. Tiadel took the blame for every strange silence and every raid that fought like nothing they'd ever fielded before, because Tiadel was standing where the blame was easiest to place -- and a war fought in someone else's name is, for the one actually fighting it, the safest kind there is.",
+    "He was seen only once, by a Templar recruit named Non who mistook him for a still, patient shadow the fire wouldn't touch, and spoke to only one Templar directly -- Sir Roger, outside the shattered south wall of the fallen capital, in the last hour before dawn. He gave his name freely there, the way a man might introduce himself to someone he intends to kill and finds he respects regardless.",
+    "Sir Roger's dying stand cost him a wound that would not close quickly, one he carried unseen for years afterward -- into the fight that would finally catch up to him: a battle against a golden knight named Tyrus, fighting alongside Sir Aldric and Lady Valeria, that Drexl would lose. It is this same Drexl, prior to that first defeat, that the fall of Solandis truly belongs to -- never publicly named for it, the ruin of an entire kingdom quietly folded into the much longer story that Valkorath would eventually tell about him."
+  ],
+  "art": "art/drexl.jpg",
+  "source_page": null
+}
