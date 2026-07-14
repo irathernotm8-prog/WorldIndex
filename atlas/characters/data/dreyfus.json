@@ -1,0 +1,15 @@
+{
+  "slug": "dreyfus",
+  "name": "Dreyfus",
+  "epithet": "The Devil Father Tom Bargained With",
+  "faction": "The Underworld",
+  "status": "Active",
+  "tags": ["King", "Underworld", "Possessor"],
+  "bio": [
+    "Once a king many thousands of years before Atlas ever existed, Dreyfus rules the underworld now, taking hold of mortal bodies whenever he needs to speak in the world above -- possession being, in every era of his long reign, the only door he has into a world he no longer belongs to. In this particular era he has no lieutenants to send in his place, no smooth operators to handle his accounts. When Dreyfus wants a deal made, Dreyfus makes it himself.",
+    "He made exactly this kind of deal with Father Tom several years before the events of this story -- a medallion of protection traded for a promise left deliberately vague, the kind of bargain devils have always preferred, worded so a desperate man fills in the kindest meaning himself and is wrong. He came to collect on it personally, in a city that no longer technically existed by the time he found its people again, and took the payment he'd always intended to take: not the priest, but the priest's own hired protection.",
+    "It would be a long time yet, in the underworld's own reckoning, before Dreyfus stopped doing this kind of collecting personally -- before the network of dealers he'd eventually come to rely on made a moment like this one common enough to need a name for the whole category of person it produced."
+  ],
+  "art": "art/dreyfus.jpg",
+  "source_page": null
+}

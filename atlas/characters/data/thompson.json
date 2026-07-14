@@ -1,0 +1,15 @@
+{
+  "slug": "thompson",
+  "name": "Thompson",
+  "epithet": "The Sailor Who Saw Too Much",
+  "faction": "Atlas",
+  "status": "Active",
+  "tags": ["Navy", "Survivor"],
+  "bio": [
+    "Thompson went to war the way most of his generation did -- because it was there, because everyone he knew was going -- and came home believing the worst the universe had to offer was already behind him. The Pacific had taken friends from him in ways he never discussed afterward, and he told himself, as so many of that generation did, that the account was closed.",
+    "Atlas disagreed. Strange things followed him after he settled in the city -- lights in the water that weren't boats, sounds from empty holds that weren't the hull settling -- culminating in an encounter off the Louisiana coast he never fully described to anyone: something that came up out of the water that was not a fish and was not a man, and looked at him the way something looks at a meal it intends to finish later.",
+    "He should have died that night. Something else intervened -- a light, a voice, a sense of a hand closing around him that had nothing to do with luck -- and Thompson, unable to call it anything but divine intervention, left the Navy in the years after and found his way toward the collar, the way people handed a second life they don't feel they earned sometimes go looking for somewhere to put the debt."
+  ],
+  "art": "art/thompson.jpg",
+  "source_page": null
+}

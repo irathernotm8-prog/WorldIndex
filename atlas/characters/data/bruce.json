@@ -1,0 +1,15 @@
+{
+  "slug": "bruce",
+  "name": "Bruce",
+  "epithet": "The Faithful Enforcer",
+  "faction": "Atlas",
+  "status": "Corrupted",
+  "tags": ["Bodyguard", "Mafia", "Faithful"],
+  "bio": [
+    "An old soul even for his own era, Bruce spent twenty years making his living with his hands in the outfit before he aged out of usefulness and was let go with the closest thing to mercy the mafia offers a man in his line of work. What he had left afterward was his hands, a churchgoing faith the outfit years had never managed to grind out of him, and a reputation good enough to rent out as a bodyguard.",
+    "Taking a job protecting a priest felt, at the time, like an honor -- the one part of himself that had survived twenty years of violence finally being asked to do something he could be proud of. He had no idea what he was actually being hired to carry, or that the man hiring him had, without ever telling him, already spent Bruce's future to buy his own protection.",
+    "When the debt came due, Dreyfus collected it personally -- there were no lieutenants yet, in this era, to send in his place -- and took hold of Bruce the way he took hold of anything he wanted to speak through. What stood up afterward wearing Bruce's face was the first of what would eventually be called, in cities and centuries far from Atlas, the Minodas: a demon soul collector, patient and utterly without mercy, who killed Father Tom in the same breath he stopped being entirely Bruce, and never fully explained -- to himself or anyone left to ask -- how thoroughly his own goodness had been spent without his permission."
+  ],
+  "art": "art/bruce.jpg",
+  "source_page": null
+}

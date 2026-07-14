@@ -1,0 +1,15 @@
+{
+  "slug": "yog-sothoth",
+  "name": "Yog-Sothoth",
+  "epithet": "The Outer God",
+  "faction": "Elder Forces",
+  "status": "Active",
+  "tags": ["Outer God", "Indifferent", "Cataclysm"],
+  "bio": [
+    "Summoned by Bruce, Father Tom, and Chiro as a last-ditch effort to stop Nyarlathotep once every other option had failed, Yog-Sothoth cannot be reasoned with and does not concern itself with the trifles of mortals. It does not fight the way anything mortal fights. It simply is, at every point in every place, indifferent to all of it in a way that made even Nyarlathotep's appetite look almost intimate by comparison.",
+    "In this case it opted to erase the city of Atlas from existence altogether, taking Nyarlathotep, Cthulhu, Polygaster's black seed, and everything else that had drawn its attention with it to the far reaches of space -- correcting the problem the only way something that large bothers to correct anything, without malice and entirely without concern for what had been living in the wound.",
+    "It left Bruce, Father Tom, and Chiro adrift in the specific, silent nowhere a city leaves behind when a god decides the city was never truly the point. Summoning it stopped the herald that had been feeding on Atlas. It did not, in any sense the three men who called on it would have recognized as a victory, save the city they'd been trying to protect."
+  ],
+  "art": "art/yog-sothoth.jpg",
+  "source_page": null
+}

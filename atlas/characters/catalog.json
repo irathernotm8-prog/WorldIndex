@@ -1,0 +1,208 @@
+[
+  {
+    "slug": "atlas-spirit",
+    "name": "The Atlas-Spirit",
+    "epithet": "The City's Living Embodiment",
+    "faction": "The City Itself",
+    "status": "Fallen",
+    "tags": [
+      "Guide",
+      "City-bound",
+      "Unique"
+    ],
+    "bio": [
+      "The stalker of Bruce, Father Tom, and Chiro for a majority of the story, the Atlas-spirit is the living embodiment of the city's own accumulated soul -- every prayer, every debt, every quiet act of faith or corruption the city ever held, given a single watching shape that moved through the fog a half-step behind the three men for longer than any of them realized.",
+      "It never spoke first, and rarely spoke plainly. Its purpose, once understood, was simple: to move the three of them in the direction of the true evil feeding on Atlas, in the hopes that something outside the city might do what the city itself no longer had the strength to do for its own people.",
+      "It could not survive what came after. When Yog-Sothoth erased Atlas from existence, the Atlas-spirit went with it -- being, in the most literal sense possible, the city itself, and having no shape left to hold once the streets, the docks, and the people it had spent its whole existence watching over were gone. It spent its last purpose making sure the three men it had guided all along had a fighting chance to matter, even after there was no city left for that chance to save."
+    ],
+    "art": "art/atlas-spirit.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "bruce",
+    "name": "Bruce",
+    "epithet": "The Faithful Enforcer",
+    "faction": "Atlas",
+    "status": "Corrupted",
+    "tags": [
+      "Bodyguard",
+      "Mafia",
+      "Faithful"
+    ],
+    "bio": [
+      "An old soul even for his own era, Bruce spent twenty years making his living with his hands in the outfit before he aged out of usefulness and was let go with the closest thing to mercy the mafia offers a man in his line of work. What he had left afterward was his hands, a churchgoing faith the outfit years had never managed to grind out of him, and a reputation good enough to rent out as a bodyguard.",
+      "Taking a job protecting a priest felt, at the time, like an honor -- the one part of himself that had survived twenty years of violence finally being asked to do something he could be proud of. He had no idea what he was actually being hired to carry, or that the man hiring him had, without ever telling him, already spent Bruce's future to buy his own protection.",
+      "When the debt came due, Dreyfus collected it personally -- there were no lieutenants yet, in this era, to send in his place -- and took hold of Bruce the way he took hold of anything he wanted to speak through. What stood up afterward wearing Bruce's face was the first of what would eventually be called, in cities and centuries far from Atlas, the Minodas: a demon soul collector, patient and utterly without mercy, who killed Father Tom in the same breath he stopped being entirely Bruce, and never fully explained -- to himself or anyone left to ask -- how thoroughly his own goodness had been spent without his permission."
+    ],
+    "art": "art/bruce.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "chiro",
+    "name": "Chiro",
+    "epithet": "The Dragon-Kin Detective",
+    "faction": "Atlas",
+    "status": "Active",
+    "tags": [
+      "Detective",
+      "Dragon-kin",
+      "Mage"
+    ],
+    "bio": [
+      "Chiro's kind once walked Atlas openly, back when the city had a different name and a different relationship with what lived beneath it -- long before the war, before the outfit, before any of the streets Bruce grew up hurting people on had even been paved. Few dragon-kin remain now. Chiro learned young to fold his true shape down into something that could pass a human checkpoint without incident: a working suit, a tired detective's hat, and a badge from an agency that mostly leaves him alone because he closes more cases than anyone else on the payroll.",
+      "He acts as the third part of the story's unlikely trio, his information consistently better than either of his human companions', his true nose recognizing things beneath Atlas's streets that neither Bruce's faith nor Father Tom's collar could have identified alone. From time to time he looks inward and asks himself what the great Draven would have done -- a name he never fully explains to either of the others, less out of secrecy than the private grief of a species with almost no elders left to explain its own history to itself.",
+      "He was the last of the three still standing, in the end, in a nowhere that had once been a city -- a dragon-kin detective very far from anyone who remembered what his true face looked like, watching a debt collector wearing his friend's ruined features turn to consider what was owed next."
+    ],
+    "art": "art/chiro.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "cthulhu",
+    "name": "Cthulhu",
+    "epithet": "What Wore the Kraken's Face",
+    "faction": "Elder Forces",
+    "status": "Active",
+    "tags": [
+      "Ancient",
+      "Primordial",
+      "Sea Beast"
+    ],
+    "bio": [
+      "Formerly known as the Kraken in the Greek era of history -- a vast, patient sea-intelligence that fed on faith before Poseidon had a name for his own domain, and outlasted the whole of Olympus without particular effort -- the same being now walks Atlas under a newer name, having simply picked up a new coastline and a new set of worshippers when the old world stopped being interesting.",
+      "He enjoys using the humans of Atlas as his own personal experiments, the way a bored, ancient intelligence uses whatever is nearest to hand -- not out of malice, but out of a curiosity that has never once considered that its subjects might object. Bruce, Father Tom, and Chiro found him first among their suspects, and for a long, terrible moment believed they'd found their answer.",
+      "That said, as the heroes come to realize, he is not behind the corruption of the Guidry twins. 'I have taken things from this city,' he told them, with the mild honesty of something too old to bother lying. 'I have not taken your twins.' He returned to the water without further explanation -- unhurried, entirely certain the conversation would still be there whenever he next found it interesting -- and was, in the end, swept up along with the rest of Atlas when Yog-Sothoth removed the city from existence."
+    ],
+    "art": "art/cthulhu.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "dreyfus",
+    "name": "Dreyfus",
+    "epithet": "The Devil Father Tom Bargained With",
+    "faction": "The Underworld",
+    "status": "Active",
+    "tags": [
+      "King",
+      "Underworld",
+      "Possessor"
+    ],
+    "bio": [
+      "Once a king many thousands of years before Atlas ever existed, Dreyfus rules the underworld now, taking hold of mortal bodies whenever he needs to speak in the world above -- possession being, in every era of his long reign, the only door he has into a world he no longer belongs to. In this particular era he has no lieutenants to send in his place, no smooth operators to handle his accounts. When Dreyfus wants a deal made, Dreyfus makes it himself.",
+      "He made exactly this kind of deal with Father Tom several years before the events of this story -- a medallion of protection traded for a promise left deliberately vague, the kind of bargain devils have always preferred, worded so a desperate man fills in the kindest meaning himself and is wrong. He came to collect on it personally, in a city that no longer technically existed by the time he found its people again, and took the payment he'd always intended to take: not the priest, but the priest's own hired protection.",
+      "It would be a long time yet, in the underworld's own reckoning, before Dreyfus stopped doing this kind of collecting personally -- before the network of dealers he'd eventually come to rely on made a moment like this one common enough to need a name for the whole category of person it produced."
+    ],
+    "art": "art/dreyfus.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "father-tom",
+    "name": "Father Tom",
+    "epithet": "The City's Priest",
+    "faction": "Atlas",
+    "status": "Fallen",
+    "tags": [
+      "Priest",
+      "Bargainer"
+    ],
+    "bio": [
+      "Formerly Thompson, now Father Tom, the city's priest -- a decade into the collar by the time this story catches up to him, and carrying, underneath the collar, considerably more secrets than a parish priest is generally expected to hold. He kept a private ledger of Atlas's darker business that would have gotten him defrocked twice over if the diocese had ever seen it.",
+      "Several years before hiring Bruce as his muscle, Father Tom made a deal in a rather un-priestly way with Dreyfus, the underworld's ruler, trading a vaguely worded promise -- something, when the time came -- for a flame-lit medallion of protection he wore under his collar from that day forward. He told himself he'd find a way to renegotiate before it mattered. He never did.",
+      "He never once considered that hiring Bruce and making that bargain were connected. They were the same decision, seen from two different directions, and when Dreyfus finally came to collect -- naming Bruce as the something Father Tom had promised all along -- the priest who had spent years protecting the city from what lived beneath it died not understanding that the medallion around his own neck had been bought with the one man's future he trusted most."
+    ],
+    "art": "art/father-tom.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "nyarlathotep",
+    "name": "Nyarlathotep",
+    "epithet": "The Root of It",
+    "faction": "Elder Forces",
+    "status": "Active",
+    "tags": [
+      "Outer God",
+      "Herald",
+      "True Evil"
+    ],
+    "bio": [
+      "The real evil of this story and the root of everything that had been going wrong in Atlas for longer than anyone still living had been paying attention -- the butcher's shaking hands, the thinning walls between the city and whatever lay beneath it, the slow, specific unraveling of the Guidry twins. It walked the city in a shape that dressed and spoke like a businessman, if a businessman's actual product had ever been despair rather than anything with a price tag.",
+      "It seeks human suffering the way other things seek food, selecting a city the way a farmer selects good soil -- not out of hatred, but out of an appetite that simply required somewhere fertile. Bruce's faith, Father Tom's medallion, and Chiro's true nature registered to it as nothing more than additional flavor, and the trio's first direct confrontation with it went as badly as three mortal men should have expected a fight with an outer god's herald to go.",
+      "It did not stay defeated so much as get removed -- swept up, along with Cthulhu, Polygaster's black seed, and whatever remained of the Guidry twins, when the three men's last resort finally arrived. Yog-Sothoth did not so much fight it as correct it, the way an accountant corrects an error, and carried it off toward the same uncaring reaches of space it took the rest of Atlas to. Nothing about an outer god's herald being removed from one city should be mistaken, by anyone who understands what it actually is, for it having been ended."
+    ],
+    "art": "art/nyarlathotep.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "polygaster",
+    "name": "Polygaster",
+    "epithet": "The Progenitor of the Black Ooze",
+    "faction": "Elder Forces",
+    "status": "Active",
+    "tags": [
+      "Ancient",
+      "Progenitor",
+      "Unknown"
+    ],
+    "bio": [
+      "Another mysterious force moving beneath Atlas alongside Cthulhu and the thing that would come to be named Nyarlathotep, Polygaster drew far less attention from the city's few investigators than either of them -- which suited whatever it actually was. It left behind, in the deep water below Third Street, a slow black seed that nobody in Atlas ever managed to properly identify or stop.",
+      "That seed would prove to be the progenitor of the black ooze -- a substance that meant nothing to anyone in this era and would go on, decades later and a continent away, to consume a Russian city called Kryvstof from the inside out. Nobody who fought the outbreak there ever traced its origin back this far. Nobody in Atlas ever learned what they were failing to contain.",
+      "When Yog-Sothoth erased the city, Polygaster's seed was swept up with everything else the outer god judged worth removing -- Nyarlathotep, Cthulhu, the last traces of the Guidry twins -- carried off toward the same uncaring reaches of space. Whether that erasure caught every trace of what Polygaster had already planted, or whether some of it had already found its way out into the wider world by other means, is a question the black ooze itself would eventually answer, in Kryvstof, in a way nobody there was prepared for."
+    ],
+    "art": "art/polygaster.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "ricky",
+    "name": "Ricky",
+    "epithet": "The Butcher of Third Street",
+    "faction": "Atlas",
+    "status": "Corrupted",
+    "tags": [
+      "Butcher",
+      "Civilian"
+    ],
+    "bio": [
+      "Ricky ran the best butcher shop on Arkham's Third Street for eleven years without giving anybody cause to look at him twice. He'd always been aware of the darker side of the city the way any long-time local is aware of it -- as rumor, as something that happened to other people in other parts of town.",
+      "That distance closed in increments too small for anyone to report officially: a scale that weighed a little differently, cuts that came out a little stranger, a regular customer who swore she'd seen something in the back freezer she had no polite word for. People started noticing Ricky himself had been acting strange well before anyone connected his shop to what was actually happening beneath it.",
+      "The city's true threat never needed Ricky specifically -- his shop was simply where the thinning walls of Atlas happened to show first, close enough to Third Street's older, stranger business that something ancient had found it convenient to feed nearby. He became, without ever fully understanding why, one of the first visible cracks in a city that was already coming apart underneath."
+    ],
+    "art": "art/ricky.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "thompson",
+    "name": "Thompson",
+    "epithet": "The Sailor Who Saw Too Much",
+    "faction": "Atlas",
+    "status": "Active",
+    "tags": [
+      "Navy",
+      "Survivor"
+    ],
+    "bio": [
+      "Thompson went to war the way most of his generation did -- because it was there, because everyone he knew was going -- and came home believing the worst the universe had to offer was already behind him. The Pacific had taken friends from him in ways he never discussed afterward, and he told himself, as so many of that generation did, that the account was closed.",
+      "Atlas disagreed. Strange things followed him after he settled in the city -- lights in the water that weren't boats, sounds from empty holds that weren't the hull settling -- culminating in an encounter off the Louisiana coast he never fully described to anyone: something that came up out of the water that was not a fish and was not a man, and looked at him the way something looks at a meal it intends to finish later.",
+      "He should have died that night. Something else intervened -- a light, a voice, a sense of a hand closing around him that had nothing to do with luck -- and Thompson, unable to call it anything but divine intervention, left the Navy in the years after and found his way toward the collar, the way people handed a second life they don't feel they earned sometimes go looking for somewhere to put the debt."
+    ],
+    "art": "art/thompson.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "yog-sothoth",
+    "name": "Yog-Sothoth",
+    "epithet": "The Outer God",
+    "faction": "Elder Forces",
+    "status": "Active",
+    "tags": [
+      "Outer God",
+      "Indifferent",
+      "Cataclysm"
+    ],
+    "bio": [
+      "Summoned by Bruce, Father Tom, and Chiro as a last-ditch effort to stop Nyarlathotep once every other option had failed, Yog-Sothoth cannot be reasoned with and does not concern itself with the trifles of mortals. It does not fight the way anything mortal fights. It simply is, at every point in every place, indifferent to all of it in a way that made even Nyarlathotep's appetite look almost intimate by comparison.",
+      "In this case it opted to erase the city of Atlas from existence altogether, taking Nyarlathotep, Cthulhu, Polygaster's black seed, and everything else that had drawn its attention with it to the far reaches of space -- correcting the problem the only way something that large bothers to correct anything, without malice and entirely without concern for what had been living in the wound.",
+      "It left Bruce, Father Tom, and Chiro adrift in the specific, silent nowhere a city leaves behind when a god decides the city was never truly the point. Summoning it stopped the herald that had been feeding on Atlas. It did not, in any sense the three men who called on it would have recognized as a victory, save the city they'd been trying to protect."
+    ],
+    "art": "art/yog-sothoth.jpg",
+    "source_page": null
+  }
+]

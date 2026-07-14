@@ -1,0 +1,15 @@
+{
+  "slug": "polygaster",
+  "name": "Polygaster",
+  "epithet": "The Progenitor of the Black Ooze",
+  "faction": "Elder Forces",
+  "status": "Active",
+  "tags": ["Ancient", "Progenitor", "Unknown"],
+  "bio": [
+    "Another mysterious force moving beneath Atlas alongside Cthulhu and the thing that would come to be named Nyarlathotep, Polygaster drew far less attention from the city's few investigators than either of them -- which suited whatever it actually was. It left behind, in the deep water below Third Street, a slow black seed that nobody in Atlas ever managed to properly identify or stop.",
+    "That seed would prove to be the progenitor of the black ooze -- a substance that meant nothing to anyone in this era and would go on, decades later and a continent away, to consume a Russian city called Kryvstof from the inside out. Nobody who fought the outbreak there ever traced its origin back this far. Nobody in Atlas ever learned what they were failing to contain.",
+    "When Yog-Sothoth erased the city, Polygaster's seed was swept up with everything else the outer god judged worth removing -- Nyarlathotep, Cthulhu, the last traces of the Guidry twins -- carried off toward the same uncaring reaches of space. Whether that erasure caught every trace of what Polygaster had already planted, or whether some of it had already found its way out into the wider world by other means, is a question the black ooze itself would eventually answer, in Kryvstof, in a way nobody there was prepared for."
+  ],
+  "art": "art/polygaster.jpg",
+  "source_page": null
+}

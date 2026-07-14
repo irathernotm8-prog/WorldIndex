@@ -1,0 +1,15 @@
+{
+  "slug": "chiro",
+  "name": "Chiro",
+  "epithet": "The Dragon-Kin Detective",
+  "faction": "Atlas",
+  "status": "Active",
+  "tags": ["Detective", "Dragon-kin", "Mage"],
+  "bio": [
+    "Chiro's kind once walked Atlas openly, back when the city had a different name and a different relationship with what lived beneath it -- long before the war, before the outfit, before any of the streets Bruce grew up hurting people on had even been paved. Few dragon-kin remain now. Chiro learned young to fold his true shape down into something that could pass a human checkpoint without incident: a working suit, a tired detective's hat, and a badge from an agency that mostly leaves him alone because he closes more cases than anyone else on the payroll.",
+    "He acts as the third part of the story's unlikely trio, his information consistently better than either of his human companions', his true nose recognizing things beneath Atlas's streets that neither Bruce's faith nor Father Tom's collar could have identified alone. From time to time he looks inward and asks himself what the great Draven would have done -- a name he never fully explains to either of the others, less out of secrecy than the private grief of a species with almost no elders left to explain its own history to itself.",
+    "He was the last of the three still standing, in the end, in a nowhere that had once been a city -- a dragon-kin detective very far from anyone who remembered what his true face looked like, watching a debt collector wearing his friend's ruined features turn to consider what was owed next."
+  ],
+  "art": "art/chiro.jpg",
+  "source_page": null
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "nyarlathotep",
+  "name": "Nyarlathotep",
+  "epithet": "The Root of It",
+  "faction": "Elder Forces",
+  "status": "Active",
+  "tags": ["Outer God", "Herald", "True Evil"],
+  "bio": [
+    "The real evil of this story and the root of everything that had been going wrong in Atlas for longer than anyone still living had been paying attention -- the butcher's shaking hands, the thinning walls between the city and whatever lay beneath it, the slow, specific unraveling of the Guidry twins. It walked the city in a shape that dressed and spoke like a businessman, if a businessman's actual product had ever been despair rather than anything with a price tag.",
+    "It seeks human suffering the way other things seek food, selecting a city the way a farmer selects good soil -- not out of hatred, but out of an appetite that simply required somewhere fertile. Bruce's faith, Father Tom's medallion, and Chiro's true nature registered to it as nothing more than additional flavor, and the trio's first direct confrontation with it went as badly as three mortal men should have expected a fight with an outer god's herald to go.",
+    "It did not stay defeated so much as get removed -- swept up, along with Cthulhu, Polygaster's black seed, and whatever remained of the Guidry twins, when the three men's last resort finally arrived. Yog-Sothoth did not so much fight it as correct it, the way an accountant corrects an error, and carried it off toward the same uncaring reaches of space it took the rest of Atlas to. Nothing about an outer god's herald being removed from one city should be mistaken, by anyone who understands what it actually is, for it having been ended."
+  ],
+  "art": "art/nyarlathotep.jpg",
+  "source_page": null
+}

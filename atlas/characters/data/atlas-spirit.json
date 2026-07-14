@@ -1,0 +1,15 @@
+{
+  "slug": "atlas-spirit",
+  "name": "The Atlas-Spirit",
+  "epithet": "The City's Living Embodiment",
+  "faction": "The City Itself",
+  "status": "Fallen",
+  "tags": ["Guide", "City-bound", "Unique"],
+  "bio": [
+    "The stalker of Bruce, Father Tom, and Chiro for a majority of the story, the Atlas-spirit is the living embodiment of the city's own accumulated soul -- every prayer, every debt, every quiet act of faith or corruption the city ever held, given a single watching shape that moved through the fog a half-step behind the three men for longer than any of them realized.",
+    "It never spoke first, and rarely spoke plainly. Its purpose, once understood, was simple: to move the three of them in the direction of the true evil feeding on Atlas, in the hopes that something outside the city might do what the city itself no longer had the strength to do for its own people.",
+    "It could not survive what came after. When Yog-Sothoth erased Atlas from existence, the Atlas-spirit went with it -- being, in the most literal sense possible, the city itself, and having no shape left to hold once the streets, the docks, and the people it had spent its whole existence watching over were gone. It spent its last purpose making sure the three men it had guided all along had a fighting chance to matter, even after there was no city left for that chance to save."
+  ],
+  "art": "art/atlas-spirit.jpg",
+  "source_page": null
+}

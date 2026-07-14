@@ -1,0 +1,15 @@
+{
+  "slug": "father-tom",
+  "name": "Father Tom",
+  "epithet": "The City's Priest",
+  "faction": "Atlas",
+  "status": "Fallen",
+  "tags": ["Priest", "Bargainer"],
+  "bio": [
+    "Formerly Thompson, now Father Tom, the city's priest -- a decade into the collar by the time this story catches up to him, and carrying, underneath the collar, considerably more secrets than a parish priest is generally expected to hold. He kept a private ledger of Atlas's darker business that would have gotten him defrocked twice over if the diocese had ever seen it.",
+    "Several years before hiring Bruce as his muscle, Father Tom made a deal in a rather un-priestly way with Dreyfus, the underworld's ruler, trading a vaguely worded promise -- something, when the time came -- for a flame-lit medallion of protection he wore under his collar from that day forward. He told himself he'd find a way to renegotiate before it mattered. He never did.",
+    "He never once considered that hiring Bruce and making that bargain were connected. They were the same decision, seen from two different directions, and when Dreyfus finally came to collect -- naming Bruce as the something Father Tom had promised all along -- the priest who had spent years protecting the city from what lived beneath it died not understanding that the medallion around his own neck had been bought with the one man's future he trusted most."
+  ],
+  "art": "art/father-tom.jpg",
+  "source_page": null
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "cthulhu",
+  "name": "Cthulhu",
+  "epithet": "What Wore the Kraken's Face",
+  "faction": "Elder Forces",
+  "status": "Active",
+  "tags": ["Ancient", "Primordial", "Sea Beast"],
+  "bio": [
+    "Formerly known as the Kraken in the Greek era of history -- a vast, patient sea-intelligence that fed on faith before Poseidon had a name for his own domain, and outlasted the whole of Olympus without particular effort -- the same being now walks Atlas under a newer name, having simply picked up a new coastline and a new set of worshippers when the old world stopped being interesting.",
+    "He enjoys using the humans of Atlas as his own personal experiments, the way a bored, ancient intelligence uses whatever is nearest to hand -- not out of malice, but out of a curiosity that has never once considered that its subjects might object. Bruce, Father Tom, and Chiro found him first among their suspects, and for a long, terrible moment believed they'd found their answer.",
+    "That said, as the heroes come to realize, he is not behind the corruption of the Guidry twins. 'I have taken things from this city,' he told them, with the mild honesty of something too old to bother lying. 'I have not taken your twins.' He returned to the water without further explanation -- unhurried, entirely certain the conversation would still be there whenever he next found it interesting -- and was, in the end, swept up along with the rest of Atlas when Yog-Sothoth removed the city from existence."
+  ],
+  "art": "art/cthulhu.jpg",
+  "source_page": null
+}

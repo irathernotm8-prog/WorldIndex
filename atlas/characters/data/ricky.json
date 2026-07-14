@@ -1,0 +1,15 @@
+{
+  "slug": "ricky",
+  "name": "Ricky",
+  "epithet": "The Butcher of Third Street",
+  "faction": "Atlas",
+  "status": "Corrupted",
+  "tags": ["Butcher", "Civilian"],
+  "bio": [
+    "Ricky ran the best butcher shop on Arkham's Third Street for eleven years without giving anybody cause to look at him twice. He'd always been aware of the darker side of the city the way any long-time local is aware of it -- as rumor, as something that happened to other people in other parts of town.",
+    "That distance closed in increments too small for anyone to report officially: a scale that weighed a little differently, cuts that came out a little stranger, a regular customer who swore she'd seen something in the back freezer she had no polite word for. People started noticing Ricky himself had been acting strange well before anyone connected his shop to what was actually happening beneath it.",
+    "The city's true threat never needed Ricky specifically -- his shop was simply where the thinning walls of Atlas happened to show first, close enough to Third Street's older, stranger business that something ancient had found it convenient to feed nearby. He became, without ever fully understanding why, one of the first visible cracks in a city that was already coming apart underneath."
+  ],
+  "art": "art/ricky.jpg",
+  "source_page": null
+}

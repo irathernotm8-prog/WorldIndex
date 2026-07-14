@@ -29,6 +29,10 @@ WorldIndex/
 │   ├── catalog/index.html    ← Solandis's interactive character browser
 │   ├── characters/           ← same layout as Valkorath's (catalog.json, data/, art/)
 │   └── story/solandis-story.md
+├── atlas/
+│   ├── catalog/index.html    ← Atlas's interactive character browser
+│   ├── characters/           ← same layout as Valkorath's (catalog.json, data/, art/)
+│   └── story/atlas-story.md
 ├── pantheon/
 │   ├── catalog/index.html    ← Elarion's interactive character browser
 │   ├── characters/           ← same layout as Valkorath's (catalog.json, data/, art/)
@@ -63,7 +67,7 @@ WorldIndex/
     └── story/valmere-story.md
 ```
 
-All ten stories are live now, each with a full chapter-by-chapter narrative. The landing
+All eleven stories are live now, each with a full chapter-by-chapter narrative. The landing
 page (`index.html`) is the front door to the whole universe — it links out to each one in
 chronological order, from Elarion's primordial age through to Valmere in 2035.
 
@@ -75,6 +79,7 @@ python3 scripts/build_catalog.py solandis         # rebuilds Solandis
 python3 scripts/build_catalog.py pantheon         # rebuilds Elarion
 python3 scripts/build_catalog.py greece           # rebuilds Greece
 python3 scripts/build_catalog.py blade-of-honor   # rebuilds Aridel
+python3 scripts/build_catalog.py atlas            # rebuilds Atlas
 python3 scripts/build_catalog.py london           # rebuilds London
 python3 scripts/build_catalog.py texas            # rebuilds Texas
 python3 scripts/build_catalog.py centennial       # rebuilds New York
@@ -217,6 +222,44 @@ directly from the source PDF.
 London, Texas, Kryvstof, and Valmere were added after this README's "About" sections were
 last written and don't have write-ups here yet -- all four are live on the landing page
 and fully readable, just not yet documented in this file the way the earlier stories are.
+
+## About Atlas
+
+A 1950s Lovecraftian noir set in a Louisiana city called Atlas, built from a short outline
+and eleven character portraits. A former mafia enforcer (Bruce), a priest hiding a bad
+bargain (Father Tom, formerly a sailor named Thompson), and a dragon-kin detective passing
+as human (Chiro) get pulled into investigating a corruption spreading through the city, and
+end up face to face with something much larger than any of them expected -- Nyarlathotep,
+feeding on the city's suffering -- and are forced into a last resort that costs them the
+city itself.
+
+Like Solandis, this one is written to connect directly into characters and lore already on
+the site rather than sit beside it:
+
+- **Cthulhu** is explicitly the same being as **the Kraken** from the Greece story ("Formerly
+  the kraken of the greek era of history, now cthulhu walks atlas" is straight from the
+  source material) -- I added a closing line to the Kraken's existing bio in
+  `greece/characters/data/kraken.json` to make the throughline explicit.
+- **Dreyfus**, ruler of the underworld here, is the same Dreyfus who appears in the root
+  Valkorath roster (Drexl's brother, King Dreyfus, who becomes "King of the Damned" after
+  his death) and later in Centennial's New York as "Ruler of the Underworld" with a network
+  of dealers called **Minodas**. Atlas is the missing middle chapter: an era before Dreyfus
+  had any Minodas working for him, when he made deals like this one personally. I added
+  connective notes to both `centennial/characters/data/dreyfus.json` and
+  `centennial/characters/data/minodas.json` -- the latter now carries a strong implication
+  that Bruce, transformed at the end of this story, is the origin of what New York's heroes
+  simply know as Minodas.
+- **Polygaster**, the "progenitor of the black ooze" in Atlas, is the origin point of the
+  same black ooze that causes the outbreak in Kryvstof decades later. I added a line to
+  `kryvstof/characters/data/zombie.json` tracing it back.
+- **Chiro**'s reverence for "the great Draven" refers to Draven Blackscale, the half-dragon
+  warrior from the root Valkorath roster -- a legendary ancestral figure to what's left of
+  the dragon-kin by Chiro's time, rather than someone he ever met.
+
+Eleven characters in `atlas/characters/`, portraits pulled directly from the source PDF:
+Bruce, Thompson and Father Tom (his before-and-after, given separate entries the way the
+site already splits other characters across life stages), Ricky, Dreyfus, Chiro, Polygaster,
+Cthulhu, the Atlas-Spirit, Nyarlathotep, and Yog-Sothoth.
 
 ## Viewing it
 
