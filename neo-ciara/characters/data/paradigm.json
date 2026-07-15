@@ -1,0 +1,15 @@
+{
+  "slug": "paradigm",
+  "name": "Paradigm",
+  "epithet": "The Resurrected Tech God",
+  "faction": "Kleon's Circle",
+  "status": "Active",
+  "tags": ["God", "Technology", "Resurrected"],
+  "bio": [
+    "The resurrected tech god, brought back by Kleon's assembled allies as a last-ditch effort against Malakar. Born during an entirely different century's industrial revolution and grown into one of the most powerful beings to ever walk among mortals, Paradigm had died once, in circumstances none of the gathered allies in Neo Ciara fully understood, sometime in the long gap between an older war and this one.",
+    "Bringing him back required more than any single person present could offer -- Kleon's old authority, Andromedus's ancient weight, Drexl Voss's borrowed legend, and Magni and Modi's inherited divinity, all poured together into a working none of them were fully confident would hold. It held.",
+    "Paradigm returned to a world he barely recognized, older technology than his own grown up strange and sprawling all around him, and understood within minutes of waking exactly why he'd been called back and what it was going to cost to finish the job properly. He helped break Malakar's hold on Nexus's stolen infrastructure from the inside, unmaking piece by piece the throne room a desperate CEO had handed over to something far worse than himself."
+  ],
+  "art": "art/paradigm.jpg",
+  "source_page": null
+}

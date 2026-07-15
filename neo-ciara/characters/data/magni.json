@@ -1,0 +1,15 @@
+{
+  "slug": "magni",
+  "name": "Magni",
+  "epithet": "Son of Thor",
+  "faction": "Kleon's Circle",
+  "status": "Active",
+  "tags": ["Demigod", "Warrior"],
+  "bio": [
+    "One of Thor's sons, now helping Kleon's resistance against Malakar. Generations after his father passed briefly through this world -- a wandering challenger of gods and men who found something in a realm called Elarion that couldn't be fought, only reckoned with -- Magni inherited the thunder god's appetite for worthy combat without inheriting much of his restraint.",
+    "He answered Kleon's call eagerly, treating the fight against Death's Hand and Malakar as precisely the kind of contest his blood was built for. He fought alongside his brother Modi through the final battle at Nexus Tower, less concerned with the war's cost than with whether the fight, at the end of it, had been a worthy one.",
+    "It was, by his own loud and satisfied estimation, one of the better ones he'd found on this side of his father's old travels."
+  ],
+  "art": "art/magni.jpg",
+  "source_page": null
+}

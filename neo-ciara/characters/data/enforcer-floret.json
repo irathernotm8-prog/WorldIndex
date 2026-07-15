@@ -1,0 +1,15 @@
+{
+  "slug": "enforcer-floret",
+  "name": "Enforcer Floret",
+  "epithet": "Nexus's Fixer",
+  "faction": "Nexus Corporation",
+  "status": "Active",
+  "tags": ["Enforcer", "Augmented"],
+  "bio": [
+    "Floret is the go-to, teched-up enforcer for Nexus -- if the corporation has a problem, he's the one who fixes it; if the church has a problem, he's the one who fixes that too. Over the years he's allowed Nexus to augment his body to the point where even he doesn't know where he begins and where the machine ends.",
+    "He didn't enjoy killing Reeva for her failure, and that, in its own bleak way, was the most human thing left in him -- that after everything Nexus had done to his body, he still felt the weight of what he did, even when he did it without hesitation. He spent the following weeks fresh on the hunt for the two would-be gun-runners who'd caused it all, and nothing was going to stand in his way.",
+    "It wasn't always like this. He used to be private security, a long time ago, before a lieutenant he'd trusted with his life sold him out to save himself. What survived that betrayal wasn't entirely Floret anymore. What Nexus rebuilt out of the wreckage became the enforcer Neo Ciara fears today -- and when the same old betrayal finally circled back around to Gary himself, Floret was the one Nexus sent to collect that debt too."
+  ],
+  "art": "art/enforcer-floret.jpg",
+  "source_page": null
+}

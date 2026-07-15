@@ -1,0 +1,15 @@
+{
+  "slug": "a-d",
+  "name": "A-D",
+  "epithet": "Arthur Diego",
+  "faction": "The Underworld's Nobodies",
+  "status": "Active",
+  "tags": ["Dealer", "Survivor"],
+  "bio": [
+    "A-D -- standing for Arthur Diego, a name he hasn't answered to in fifteen years -- ran away from home young and never looked back. Neo Ciara raised him instead, badly and unevenly, alongside a kid named Fitch he grew up protecting more than anything else in his life. He became a small-time arms dealer, usually ripping off a fair number of his clients and dealing with the consequences later, not exactly a glamorous life but one he was perfectly happy to live.",
+    "That changed the day he and Fitch sold to the wrong guy at the wrong time -- a chain of consequences that cost him his home, most of the allies he gathered along the way, and eventually Fitch himself, corrupted by Malakar into the killing machine known as Death's Hand. A-D was the one who finally ended it, two years and one devastating mercy later, doing himself what nobody else in the fight was going to be allowed to carry.",
+    "He stayed in Neo Ciara after the dust settled, because it was the only home he'd ever had, even hollowed out the way the war left him. He kept the arms trade going, smaller and more careful, and never quite stopped listening on quiet nights for a voice that used to fill every silence in the room before it had reason to."
+  ],
+  "art": "art/a-d.jpg",
+  "source_page": null
+}

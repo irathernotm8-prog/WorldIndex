@@ -1,0 +1,15 @@
+{
+  "slug": "gary",
+  "name": "Gary",
+  "epithet": "Leader of the Ciara Locos",
+  "faction": "Ciara Locos",
+  "status": "Fallen",
+  "tags": ["Gang Leader", "Unstable"],
+  "bio": [
+    "How crazy can a guy named Gary be? The answer is perhaps the craziest anyone in Neo Ciara would ever meet. Gary led the Ciara Locos, and if his appearance -- augment scars worn like trophies, a mohawk dyed whatever color caught his eye that week -- wasn't already a dead giveaway, he was more than a little unstable underneath it too.",
+    "He used to run with a private security force, a long time before any of this, disciplined work under a commander he'd once have died for. That life ended the day Gary betrayed him, a choice he never fully explained to anyone in the Locos and buried instead under years of chaos and a running war against the rival Crux gang.",
+    "When a gunfight over a contested corner turned ugly and brought Nexus Corp down on his neck personally, Gary made an agreement to save his own skin: offering up A-D and Fitch, the two gun-runners who'd supplied both sides of the fight, as an easy answer to a question Nexus badly wanted closed. It was the second time in his life he'd sold out someone who trusted him to survive something -- and, eventually, it caught up with him the same way the first betrayal caught up with the man he'd once called his commander."
+  ],
+  "art": "art/gary.jpg",
+  "source_page": null
+}

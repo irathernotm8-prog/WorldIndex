@@ -1,0 +1,15 @@
+{
+  "slug": "volkov",
+  "name": "Volkov",
+  "epithet": "Leader of the Crux",
+  "faction": "The Crux",
+  "status": "Active",
+  "tags": ["Gang Leader", "Rival"],
+  "bio": [
+    "Leader of the Crux gang, Volkov built his organization into something considerably more disciplined than Gary's chaos ever managed to be -- fewer theatrics, more patience, a rivalry with the Ciara Locos he treated less as a street war and more as a long, cold campaign to be won on his own terms.",
+    "When Nexus's attention swung toward the Locos in the wake of the botched gunfight and Gary's bargain with Cletus, Volkov watched with the calculating satisfaction of a man who had spent years waiting for exactly this kind of opening, and began quietly positioning to take advantage of his rival's collapse.",
+    "That advantage never fully materialized. Malakar's rise made the old gang war look small by comparison, and Volkov, pragmatic above all else, found himself an uneasy ally against a threat that didn't care which colors anyone wore. He never became a friend to A-D's circle, but he stopped being their enemy when it mattered, which was, by Neo Ciara's standards, close enough."
+  ],
+  "art": "art/volkov.jpg",
+  "source_page": null
+}

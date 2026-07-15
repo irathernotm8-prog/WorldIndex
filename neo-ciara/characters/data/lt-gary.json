@@ -1,0 +1,15 @@
+{
+  "slug": "lt-gary",
+  "name": "Lt. Gary",
+  "epithet": "Before the Locos",
+  "faction": "Private Security",
+  "status": "Fallen",
+  "tags": ["Soldier", "Betrayer"],
+  "bio": [
+    "Once upon a time, before the mohawk and the gang colors and the war with the Crux, Gary was a lieutenant in a private security crew under a commander he respected more than he ever admitted out loud -- a young soldier with discipline nobody who met the Ciara Locos leader decades later would ever have guessed he once carried.",
+    "It didn't last. Gary betrayed his commander -- for reasons he never fully explained to anyone, before or after -- and sent both of them down a path of no return. His commander survived the betrayal and became, over the following years, something considerably less than the man he'd been. Gary survived it too, and became the Ciara Locos.",
+    "Neither man ever spoke of it directly again. Both of them, in their own way, spent the rest of their lives circling the same old wound -- until it finally closed the only way old wounds like that ever close."
+  ],
+  "art": "art/lt-gary.jpg",
+  "source_page": null
+}

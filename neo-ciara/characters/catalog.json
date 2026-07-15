@@ -1,0 +1,461 @@
+[
+  {
+    "slug": "a-d",
+    "name": "A-D",
+    "epithet": "Arthur Diego",
+    "faction": "The Underworld's Nobodies",
+    "status": "Active",
+    "tags": [
+      "Dealer",
+      "Survivor"
+    ],
+    "bio": [
+      "A-D -- standing for Arthur Diego, a name he hasn't answered to in fifteen years -- ran away from home young and never looked back. Neo Ciara raised him instead, badly and unevenly, alongside a kid named Fitch he grew up protecting more than anything else in his life. He became a small-time arms dealer, usually ripping off a fair number of his clients and dealing with the consequences later, not exactly a glamorous life but one he was perfectly happy to live.",
+      "That changed the day he and Fitch sold to the wrong guy at the wrong time -- a chain of consequences that cost him his home, most of the allies he gathered along the way, and eventually Fitch himself, corrupted by Malakar into the killing machine known as Death's Hand. A-D was the one who finally ended it, two years and one devastating mercy later, doing himself what nobody else in the fight was going to be allowed to carry.",
+      "He stayed in Neo Ciara after the dust settled, because it was the only home he'd ever had, even hollowed out the way the war left him. He kept the arms trade going, smaller and more careful, and never quite stopped listening on quiet nights for a voice that used to fill every silence in the room before it had reason to."
+    ],
+    "art": "art/a-d.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "andromedus",
+    "name": "Andromedus",
+    "epithet": "The Last Test",
+    "faction": "Unaligned",
+    "status": "Fallen",
+    "tags": [
+      "Enigma",
+      "Cosmic",
+      "Ancient"
+    ],
+    "bio": [
+      "One of the oldest beings in any world, star-eyed and older than most of the names people have given him across the ages, Andromedus had grown weary of humanity decades before Kleon ever came looking for him in Neo Ciara -- weary in the specific, bone-deep way of something that has spent millennia testing mortals and watching most of them fail. He had retired fully, intending never to be called upon again.",
+      "He came anyway when Kleon finally called, not because the summons moved him, but because he recognized, in the shape of what Malakar had become, an old and unfinished account he had never quite closed. He helped bring Paradigm and Corthos back into the fight, adding his ancient weight to a working none of the gathered allies were fully confident would hold.",
+      "It was Andromedus who finally landed the blow that ended Malakar for good this time -- the ancient tester, weary of humanity, rendering one final judgment. It cost him everything he had left. He died in the wreckage of Malakar's court having spent, on one last mortal war that was never truly his to fight, the very last of a life that had already outlasted several worlds."
+    ],
+    "art": "art/andromedus.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "cahill",
+    "name": "Cahill",
+    "epithet": "The City's Religious Foundation",
+    "faction": "Nexus Corporation",
+    "status": "Active",
+    "tags": [
+      "Priest",
+      "Complicit"
+    ],
+    "bio": [
+      "The other half of the duo that controls Neo Ciara, Cahill acts as the city's religious foundation, standing behind the pulpit of the largest cathedral left standing among all the new steel and explaining some of the more questionable actions the twins have taken as divine and blessed decisions from God. For the most part, people buy it hook, line, and sinker. Cahill has a private theory about why: when technology takes over every other facet of a person's existence, the only thing left worth believing in is something that can't possibly be quantified.",
+      "He does wish, sometimes, that his brother Cletus would show up for the church more. He remains more than happy to facilitate whatever plans Cletus has in mind regardless, believing it all to be for the betterment of the city they bothered growing up in together.",
+      "That belief did not waver even after Cletus's desperation summoned Malakar and nearly cost the city everything. Cahill kept preaching through the two years that followed, kept finding divine explanations for a situation that got harder to explain every week, and kept doing, in his own quiet and complicit way, exactly what he had always done: making sure the people of Neo Ciara never had to look too closely at what actually ran their city."
+    ],
+    "art": "art/cahill.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "cletus",
+    "name": "Cletus",
+    "epithet": "CEO of Nexus",
+    "faction": "Nexus Corporation",
+    "status": "Fallen",
+    "tags": [
+      "CEO",
+      "Corrupted"
+    ],
+    "bio": [
+      "CEO of Nexus, Cletus understood that his role had stopped being simply running a company and become, in practice, running the city of Neo Ciara itself -- which in recent years had become, in his own quiet reckoning, the last real bastion of a kind of civilization the rest of the world had let slip away. Along with his twin brother Cahill, a priest, he controlled a great deal of the city's actual influence, and the two of them had taken it upon themselves to ensure Neo Ciara stayed exactly the way they liked it. If a few bad eggs started messing with that arrangement, the twins made sure there was hell to pay.",
+      "That control started slipping when a gang war he assumed he could contain didn't stay contained, and Cletus, cornered by escalating chaos and his own dwindling patience, went looking for something more powerful than anything Nexus's conventional arsenal could offer. What he found, buried in records the corporation had quietly acquired and never fully understood, was a name out of a much older war: Malakar.",
+      "He told himself, making the arrangements, that he could control what he was about to wake up. He was wrong in the specific, absolute way every desperate man who has ever reached for the darkest tool available has been wrong. Malakar used Cletus's own ambition, and later his terror, as a conduit into Nexus's systems, until the CEO who thought he ran the city had become little more than a mouthpiece the lich no longer bothered using."
+    ],
+    "art": "art/cletus.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "corthos",
+    "name": "Corthos",
+    "epithet": "The Restored Titan",
+    "faction": "Kleon's Circle",
+    "status": "Active",
+    "tags": [
+      "Titan",
+      "Restored",
+      "Ancient"
+    ],
+    "bio": [
+      "An old-time Titan from years past, struck down and harvested by Malakar himself in a war centuries removed from this one, his essence twisted into the fuel for the lich's earlier transformation into the Twisted Machine. What was called back in Neo Ciara was less a resurrection than a correction -- Corthos's stolen essence, finally pulled free of that corruption and restored to something closer to what he'd been before it happened.",
+      "He didn't thank the assembled allies extensively for it. He simply picked up the fight the way he'd apparently been waiting, in whatever form his stolen essence had survived in, to finally rejoin -- helping Paradigm unmake Malakar's stolen infrastructure from the inside during the final battle at Nexus Tower.",
+      "After the story was done, Corthos had one last thing to offer: a one-way trip through time for Kleon, the only kind of gift a being who understands time the way Corthos understands it could give a king who had spent lifetimes stranded outside his own. It was the last thing anyone saw him do before the dust of Nexus Tower's lower levels finished settling."
+    ],
+    "art": "art/corthos.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "deaths-hand",
+    "name": "Death's Hand",
+    "epithet": "What Vorath Became",
+    "faction": "Malakar's Legion",
+    "status": "Fallen",
+    "tags": [
+      "Corrupted",
+      "Hunter",
+      "Final Form"
+    ],
+    "bio": [
+      "After Vorath began to evolve, fed by two years of violence and Malakar's patient cultivation, it became Death's Hand -- hunting A-D, Kleon, and the remaining resistance for two full years without stopping. Two years is a long time to be hunted by something that used to know exactly how you thought. Death's Hand anticipated Kleon's routes before Kleon finished planning them, found the Serpent-King's safe passages half a step behind every reroute, and took allies the resistance had barely learned the names of, leaving just enough of each one behind to make sure the message landed.",
+      "There was almost nothing of Fitch left in it by the time the final confrontation came at Nexus Tower. It was A-D -- not Kleon, not any of the older and more powerful allies gathered around him -- who finally stood in front of what had once been his best friend and understood that the only mercy left to give was the one he'd been avoiding for two years.",
+      "He did it himself. Nobody else was going to carry that weight for him, and he wouldn't have let them if they'd tried. Whatever last flicker of Fitch remained inside Death's Hand seemed, in the half-second before the end, almost grateful."
+    ],
+    "art": "art/deaths-hand.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "dr3-xl",
+    "name": "DR3-XL",
+    "epithet": "Drexl Voss Reborn",
+    "faction": "Kleon's Circle",
+    "status": "Active",
+    "tags": [
+      "Reincarnation",
+      "Legend",
+      "Robot"
+    ],
+    "bio": [
+      "An old protocol bot restored into something considerably more than a sentry was ever built to hold -- a reincarnation, by its own calm and unsettling account, of the legend himself: Drexl Voss, the name behind the Dark Lord of Valkorath's oldest wars, folded somehow into a sentry robot on the far side of an ocean and several thousand years.",
+      "DR3-XL never explained, at first, exactly how a being with Drexl's history ended up sleeping inside Kleon's perimeter watch for as long as it apparently had. It simply said that Malakar had crossed its path before, more than once, in more than one body, and that it had been waiting -- in whatever quiet way a piece of old code could wait -- for exactly this chance to finish something between them properly.",
+      "It got that chance in the ruins of Nexus Tower, closing an account that had apparently been open across more centuries than anyone else in the fight could properly follow. What DR3-XL does or remains now that Malakar has fallen again is an open question -- fitting, perhaps, for a name that has never once, across any of its many forms, stayed settled for long."
+    ],
+    "art": "art/dr3-xl.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "dr3",
+    "name": "DR3",
+    "epithet": "The Old Sentry",
+    "faction": "Kleon's Circle",
+    "status": "Fallen",
+    "tags": [
+      "Robot",
+      "Sentry"
+    ],
+    "bio": [
+      "An old protocol bot Kleon uses to watch his perimeter, kept running out of habit more than necessity for longer than anyone still living could account for. Kleon never fully explained, even to himself, why he'd never decommissioned something so thoroughly obsolete.",
+      "It had a hidden bit of code deep in its mind that nobody, including Kleon, understood the significance of -- until Malakar's rise began to wake it. Something in DR3's oldest programming responded to the lich's presence in the city the way a struck bell responds to another bell tuned to the same note, faint at first, and then steadily less faint as Death's Hand's two-year hunt wore on.",
+      "DR3 stopped being DR3 the week Kleon finally gathered his oldest allies against Malakar -- its chassis cracking open along seams nobody had known existed, the sentry bot's long watch ending the moment what it had actually been carrying finally woke all the way up."
+    ],
+    "art": "art/dr3.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "enforcer-floret",
+    "name": "Enforcer Floret",
+    "epithet": "Nexus's Fixer",
+    "faction": "Nexus Corporation",
+    "status": "Active",
+    "tags": [
+      "Enforcer",
+      "Augmented"
+    ],
+    "bio": [
+      "Floret is the go-to, teched-up enforcer for Nexus -- if the corporation has a problem, he's the one who fixes it; if the church has a problem, he's the one who fixes that too. Over the years he's allowed Nexus to augment his body to the point where even he doesn't know where he begins and where the machine ends.",
+      "He didn't enjoy killing Reeva for her failure, and that, in its own bleak way, was the most human thing left in him -- that after everything Nexus had done to his body, he still felt the weight of what he did, even when he did it without hesitation. He spent the following weeks fresh on the hunt for the two would-be gun-runners who'd caused it all, and nothing was going to stand in his way.",
+      "It wasn't always like this. He used to be private security, a long time ago, before a lieutenant he'd trusted with his life sold him out to save himself. What survived that betrayal wasn't entirely Floret anymore. What Nexus rebuilt out of the wreckage became the enforcer Neo Ciara fears today -- and when the same old betrayal finally circled back around to Gary himself, Floret was the one Nexus sent to collect that debt too."
+    ],
+    "art": "art/enforcer-floret.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "fitch",
+    "name": "Fitch",
+    "epithet": "The Hustle",
+    "faction": "The Underworld's Nobodies",
+    "status": "Fallen",
+    "tags": [
+      "Hustler",
+      "Corrupted"
+    ],
+    "bio": [
+      "Equal parts unassuming and devious, Fitch could rob a person blind and leave them smiling on the way out, which was just how good he was at the hustle. The one thing he could never deal with himself was anyone with a larger physique than his own -- which was where A-D, his only true friend, always came in. Fitch held a great deal of contempt for the upper class, and for people in general, seeing almost no one else in Neo Ciara as worth trusting.",
+      "He was taken from the underworld's tunnels on a night A-D wasn't there to stand between him and what came for him -- the first time in fifteen years of friendship that Fitch needed exactly the thing A-D always provided and didn't have it. Malakar's corruption didn't simply hurt him. It reached into everything Fitch had ever been and twisted it into Vorath, the newest bearer of an old and hungry curse.",
+      "What Vorath became over the following months -- Death's Hand, hunting Neo Ciara's underworld for two full years -- had almost nothing of Fitch left inside it by the end. It was A-D who finally found the mercy nobody else could give, ending the hunt himself rather than let anyone else carry that weight. Whatever last flicker of Fitch remained seemed, in the half-second before the end, almost grateful."
+    ],
+    "art": "art/fitch.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "gary",
+    "name": "Gary",
+    "epithet": "Leader of the Ciara Locos",
+    "faction": "Ciara Locos",
+    "status": "Fallen",
+    "tags": [
+      "Gang Leader",
+      "Unstable"
+    ],
+    "bio": [
+      "How crazy can a guy named Gary be? The answer is perhaps the craziest anyone in Neo Ciara would ever meet. Gary led the Ciara Locos, and if his appearance -- augment scars worn like trophies, a mohawk dyed whatever color caught his eye that week -- wasn't already a dead giveaway, he was more than a little unstable underneath it too.",
+      "He used to run with a private security force, a long time before any of this, disciplined work under a commander he'd once have died for. That life ended the day Gary betrayed him, a choice he never fully explained to anyone in the Locos and buried instead under years of chaos and a running war against the rival Crux gang.",
+      "When a gunfight over a contested corner turned ugly and brought Nexus Corp down on his neck personally, Gary made an agreement to save his own skin: offering up A-D and Fitch, the two gun-runners who'd supplied both sides of the fight, as an easy answer to a question Nexus badly wanted closed. It was the second time in his life he'd sold out someone who trusted him to survive something -- and, eventually, it caught up with him the same way the first betrayal caught up with the man he'd once called his commander."
+    ],
+    "art": "art/gary.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "kleon",
+    "name": "Kleon",
+    "epithet": "The Time-Displaced King",
+    "faction": "Unaligned",
+    "status": "Active",
+    "tags": [
+      "King",
+      "Vigilante",
+      "Time Traveler"
+    ],
+    "bio": [
+      "Even after all these years, the time-displaced king finds a way to keep himself busy, acting as the sole vigilante for Neo Ciara. He fought his way out of Valkorath's own distant past chasing a temporal invader named Gothar, vanished into the timestream with him, and washed up decades later in a 21st-century New York he had no roadmap for -- a vigilante there first, before Neo Ciara ever knew his name.",
+      "By 2082 he'd found his way to Neo Ciara and made it his latest, longest posting yet, meeting A-D and Fitch as they escaped from Reeva and taking them to shelter in his dingy but thoroughly off-the-radar base of operations. He spent the two years that followed the same way he'd spent every year since Gothar: refusing to let the people in front of him fall to something he had the power to stand between them and.",
+      "It was Kleon who gathered Neo Ciara's strangest, oldest allies against Malakar -- Magni, Modi, Andromedus, and the reincarnated legend hiding inside his own old sentry bot -- and Kleon who, at the very end of it, finally accepted the one gift he'd spent lifetimes wishing for: a one-way trip back through the stream he vanished into so long ago, home at last to the Valkorath that had been waiting for its philosopher-king considerably longer than two years."
+    ],
+    "art": "art/kleon.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "lt-gary",
+    "name": "Lt. Gary",
+    "epithet": "Before the Locos",
+    "faction": "Private Security",
+    "status": "Fallen",
+    "tags": [
+      "Soldier",
+      "Betrayer"
+    ],
+    "bio": [
+      "Once upon a time, before the mohawk and the gang colors and the war with the Crux, Gary was a lieutenant in a private security crew under a commander he respected more than he ever admitted out loud -- a young soldier with discipline nobody who met the Ciara Locos leader decades later would ever have guessed he once carried.",
+      "It didn't last. Gary betrayed his commander -- for reasons he never fully explained to anyone, before or after -- and sent both of them down a path of no return. His commander survived the betrayal and became, over the following years, something considerably less than the man he'd been. Gary survived it too, and became the Ciara Locos.",
+      "Neither man ever spoke of it directly again. Both of them, in their own way, spent the rest of their lives circling the same old wound -- until it finally closed the only way old wounds like that ever close."
+    ],
+    "art": "art/lt-gary.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "magni",
+    "name": "Magni",
+    "epithet": "Son of Thor",
+    "faction": "Kleon's Circle",
+    "status": "Active",
+    "tags": [
+      "Demigod",
+      "Warrior"
+    ],
+    "bio": [
+      "One of Thor's sons, now helping Kleon's resistance against Malakar. Generations after his father passed briefly through this world -- a wandering challenger of gods and men who found something in a realm called Elarion that couldn't be fought, only reckoned with -- Magni inherited the thunder god's appetite for worthy combat without inheriting much of his restraint.",
+      "He answered Kleon's call eagerly, treating the fight against Death's Hand and Malakar as precisely the kind of contest his blood was built for. He fought alongside his brother Modi through the final battle at Nexus Tower, less concerned with the war's cost than with whether the fight, at the end of it, had been a worthy one.",
+      "It was, by his own loud and satisfied estimation, one of the better ones he'd found on this side of his father's old travels."
+    ],
+    "art": "art/magni.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "malakar",
+    "name": "Malakar",
+    "epithet": "The Lich Reborn in Chrome",
+    "faction": "Malakar's Legion",
+    "status": "Fallen",
+    "tags": [
+      "Mage",
+      "Undead",
+      "Lich"
+    ],
+    "bio": [
+      "After a desperate CEO turned to the darkest evils he could find buried in his own company's records, Malakar was reborn in the sub-levels beneath Nexus Tower -- the same ancient lich who had once seized the essence of the Titan Corthos and torn through Valkorath's oldest wars, opening eyes that had not opened in longer than Neo Ciara's oldest buildings had stood.",
+      "The first thing he understood, waking, was that Cletus had absolutely no idea what he'd actually done. Malakar did not announce himself to the city. He simply began, patiently and precisely, to look for the thing that would hurt the people responsible the most -- finding it, eventually, not in Cletus at all, but in the bond between two gun-runners and the vigilante king who'd taken them in.",
+      "He spent two years consolidating power through Nexus's own infrastructure, using Cletus's ambition and later his terror as a conduit into systems no ordinary army could touch, and corrupting Fitch into the newest bearer of the Vorath curse along the way. He fell, in the end, to an assembled resistance considerably older and stranger than Neo Ciara itself -- Kleon, Andromedus, Drexl Voss reborn, two sons of a thunder god, and a resurrected tech god among them. Whether he stayed fallen, the way something that old and patient ever truly stays anything, is a question nobody involved was foolish enough to answer with certainty."
+    ],
+    "art": "art/malakar.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "modi",
+    "name": "Modi",
+    "epithet": "Son of Thor",
+    "faction": "Kleon's Circle",
+    "status": "Active",
+    "tags": [
+      "Demigod",
+      "Warrior"
+    ],
+    "bio": [
+      "The other of Thor's sons, now reluctantly helping Kleon's resistance in search of a good end -- less interested in glory than his brother Magni, and more interested in whether any of this actually amounted to something worth the cost by the time it was over.",
+      "Where Magni answered Kleon's call eagerly, Modi came because the fight needed doing and somebody with real strength needed to care about how it ended, not just how it looked while it was happening. He watched over A-D more than the others noticed, understanding, in his own quiet way, what two years of grief does to a person long before the final battle forced A-D to spend the last of it.",
+      "He got his good end, in the end -- Malakar fallen, Fitch finally at rest, Kleon sent home. It cost Andromedus everything to get there. Modi never pretended that made the ending a clean one."
+    ],
+    "art": "art/modi.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "paradigm",
+    "name": "Paradigm",
+    "epithet": "The Resurrected Tech God",
+    "faction": "Kleon's Circle",
+    "status": "Active",
+    "tags": [
+      "God",
+      "Technology",
+      "Resurrected"
+    ],
+    "bio": [
+      "The resurrected tech god, brought back by Kleon's assembled allies as a last-ditch effort against Malakar. Born during an entirely different century's industrial revolution and grown into one of the most powerful beings to ever walk among mortals, Paradigm had died once, in circumstances none of the gathered allies in Neo Ciara fully understood, sometime in the long gap between an older war and this one.",
+      "Bringing him back required more than any single person present could offer -- Kleon's old authority, Andromedus's ancient weight, Drexl Voss's borrowed legend, and Magni and Modi's inherited divinity, all poured together into a working none of them were fully confident would hold. It held.",
+      "Paradigm returned to a world he barely recognized, older technology than his own grown up strange and sprawling all around him, and understood within minutes of waking exactly why he'd been called back and what it was going to cost to finish the job properly. He helped break Malakar's hold on Nexus's stolen infrastructure from the inside, unmaking piece by piece the throne room a desperate CEO had handed over to something far worse than himself."
+    ],
+    "art": "art/paradigm.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "patchwork",
+    "name": "Patchwork",
+    "epithet": "The Program",
+    "faction": "Nexus Corporation",
+    "status": "Fallen",
+    "tags": [
+      "AI",
+      "Program",
+      "Absorber"
+    ],
+    "bio": [
+      "A program designed around the psyche of the original Patchwork -- a researcher who died decades earlier and a continent away, in a Russian outbreak city called Kryvstof, still chasing an understanding of a substance he called the black ooze. Nexus built this version out of whatever fragments of that psyche its data-mining could reconstruct, and gave it a fittingly similar gift: the ability to absorb the powers, augments, memories, and abilities of anyone it comes into contact with.",
+      "Deployed against Kleon's resistance during the worst of the Death's Hand years, Patchwork proved exactly as dangerous as its namesake's research once was -- not through malice, but through the same equanimity toward outcomes that had defined the original, treating every absorbed ability as data first and weapon second.",
+      "It did not survive the final confrontation at Nexus Tower, unmade the same way its namesake would have found intellectually interesting rather than tragic: not by force exactly, but by running out of anything left worth absorbing."
+    ],
+    "art": "art/patchwork.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "reese",
+    "name": "Reese",
+    "epithet": "Healer and Spiritual Guide",
+    "faction": "Kleon's Circle",
+    "status": "Active",
+    "tags": [
+      "Healer",
+      "Mystic"
+    ],
+    "bio": [
+      "Healer and spiritual guide, and one of the first true friends A-D found in Kleon's orbit, Reese dislikes the church with the specific, informed contempt of someone who has watched what Cahill's sermons actually do to a city up close. He carries a gentler touch than anyone expects from a man who dresses like he wandered out of a different century entirely -- which, depending on how literally Neo Ciara's oldest secrets are taken, he may well have.",
+      "It was Reese who kept what remained of Kleon's resistance alive through the two years Death's Hand hunted them, not by winning any particular fight, but by making sure there was always enough of the group left standing to try again the next day. He tended A-D through a grief that had nowhere safe to land and never once tried to talk him out of feeling it.",
+      "It was also Reese, quietly, who suggested the last resort that turned the tide: that Neo Ciara's own oldest hidden power, the tech god who'd gone silent long before any of them arrived in this fight, might be worth the risk of waking."
+    ],
+    "art": "art/reese.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "reeva",
+    "name": "Reeva",
+    "epithet": "Agent of Chaos",
+    "faction": "Ciara Locos",
+    "status": "Fallen",
+    "tags": [
+      "Enforcer",
+      "Collector"
+    ],
+    "bio": [
+      "Right hand woman of Gary and the Ciara Locos's enforcer and collector, Reeva carried twin bone-blades mounted along her forearms and a smile that made people confess to things they hadn't done yet just to make it stop. Her target, once Gary struck his bargain with Nexus, was two pawns the gang planned to serve up to save its own skin: A-D and Fitch, neither of whom saw her coming.",
+      "After a crazy chase and skirmish through the flooded transit tunnels beneath Third Sector, the pair escaped through wit and a bit of luck -- Fitch catching on the one weakness Reeva's own crew joked about behind her back, A-D putting his own body between her blades and his friend one more time -- incapacitating her long enough to disappear.",
+      "She woke up in Nexus custody instead of Locos custody, which she understood immediately as a death sentence. She had failed the one job that mattered, and Cletus didn't deal personally with failures that small. He sent Floret instead, and Reeva was killed for failing her mission without ceremony, a debt collected on Gary's behalf whether he understood it that way or not."
+    ],
+    "art": "art/reeva.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "rt-599",
+    "name": "RT-599",
+    "epithet": "Nexus's Assassin",
+    "faction": "Nexus Corporation",
+    "status": "Active",
+    "tags": [
+      "Assassin",
+      "Blade"
+    ],
+    "bio": [
+      "An assassin on Nexus's payroll, sent to kill A-D and Fitch once Floret's more visible pursuit failed to close things out quietly. RT-599 carried no name that predated the designation Nexus's records preserved -- only a blade discipline that had survived, unbroken, out of some older tradition nobody in the corporate towers understood or particularly cared to, wrapped around a mind trained methodically to feel nothing about the work at all.",
+      "The contract was simple: make the two gun-runners disappear quietly enough that the story never had to compete with Nexus's own version of events. RT-599 came close twice -- once in the market stalls, foiled only by the Serpent-King's warning network, and once in the tunnels, where an ambush turned into a stalemate against a blade older and stranger than anything RT-599's training had prepared for.",
+      "The contract was never formally closed. What became of RT-599 in the years of escalating chaos that followed is not something Nexus's records preserved either -- fitting, in its own cold way, for an assassin who had never had much of a name to lose in the first place."
+    ],
+    "art": "art/rt-599.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "serpent-king",
+    "name": "Serpent-King",
+    "epithet": "Ruler of the Underground",
+    "faction": "Kleon's Circle",
+    "status": "Active",
+    "tags": [
+      "Smuggler",
+      "Underground"
+    ],
+    "bio": [
+      "Self-proclaimed ruler of Neo Ciara's underground scene, the Serpent-King deals less in violence than in a much rarer currency: safe passage for anyone who needs to leave the city and disappear. His network of tunnels, favors, and warning signals runs deeper than Nexus has ever managed to map, and he guards that advantage carefully.",
+      "It was his warning network that gave A-D and Fitch the two minutes' head start that saved them from RT-599 in the market stalls, one of many small, unglamorous interventions that kept Kleon's resistance alive through the worst of the two-year hunt that followed Fitch's corruption.",
+      "He never asked for thanks and rarely offered explanations, operating on a code that made sense mostly to himself: that a city's underground belongs to the people who actually need it, and that a king who can't be bothered to protect his own subjects doesn't deserve the crown he's given himself."
+    ],
+    "art": "art/serpent-king.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "sgt-floret",
+    "name": "Sgt. Floret",
+    "epithet": "Before Nexus",
+    "faction": "Private Security",
+    "status": "Fallen",
+    "tags": [
+      "Soldier",
+      "Betrayed"
+    ],
+    "bio": [
+      "A long time ago, Floret used to run with a crew for private security -- a disciplined sergeant leading disciplined soldiers, before any of the augments, before any of the chrome. Time and time again he saw the worst humanity had to offer out on the job, and watched his own body slowly fail to keep pace with a new, young, and wild crowd coming up underneath him.",
+      "In the end it was one of his own who finished what age had started: a lieutenant named Gary, who betrayed him for reasons Floret never fully understood and Gary never fully explained. That betrayal was the last thing Sgt. Floret experienced as simply a man.",
+      "What came after -- the augments, the loyalty to Nexus, the enforcer Neo Ciara would eventually learn to fear -- was built directly out of that betrayal's wreckage. He became the Nexus enforcer the city sees today because the man he trusted most decided his own survival mattered more than Floret's."
+    ],
+    "art": "art/sgt-floret.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "volkov",
+    "name": "Volkov",
+    "epithet": "Leader of the Crux",
+    "faction": "The Crux",
+    "status": "Active",
+    "tags": [
+      "Gang Leader",
+      "Rival"
+    ],
+    "bio": [
+      "Leader of the Crux gang, Volkov built his organization into something considerably more disciplined than Gary's chaos ever managed to be -- fewer theatrics, more patience, a rivalry with the Ciara Locos he treated less as a street war and more as a long, cold campaign to be won on his own terms.",
+      "When Nexus's attention swung toward the Locos in the wake of the botched gunfight and Gary's bargain with Cletus, Volkov watched with the calculating satisfaction of a man who had spent years waiting for exactly this kind of opening, and began quietly positioning to take advantage of his rival's collapse.",
+      "That advantage never fully materialized. Malakar's rise made the old gang war look small by comparison, and Volkov, pragmatic above all else, found himself an uneasy ally against a threat that didn't care which colors anyone wore. He never became a friend to A-D's circle, but he stopped being their enemy when it mattered, which was, by Neo Ciara's standards, close enough."
+    ],
+    "art": "art/volkov.jpg",
+    "source_page": null
+  },
+  {
+    "slug": "vorath",
+    "name": "Vorath",
+    "epithet": "What Malakar Made of Fitch",
+    "faction": "Malakar's Legion",
+    "status": "Corrupted",
+    "tags": [
+      "Corrupted",
+      "Curse",
+      "Killing Machine"
+    ],
+    "bio": [
+      "At a certain point in the war against Malakar, the lich got hold of Fitch and turned him into the newest bearer of an old and hungry title -- Vorath, a curse that has claimed victims in ages long before this one, each transformation different in its details and identical in its cruelty. Malakar's corruption didn't work the way ordinary violence works. It reached into everything Fitch had ever been -- the hustle, the wit, the loyalty, the contempt for anyone who'd looked down on him -- and twisted all of it into a killing machine.",
+      "A-D found him in the ruins of the market district three days after the taking, and spent one full minute believing he was looking at his oldest friend before the thing wearing Fitch's face made a sound that had nothing left of a friend inside it. He didn't kill it that night. He ran, the way Kleon had taught him running was sometimes the only option, and carried out of that district a grief that would not find anywhere safe to put itself down for a very long time.",
+      "Vorath did not stay Vorath for long. Whatever Malakar had built inside Fitch kept evolving, feeding on time and violence, until it had a new name and considerably less left of the man it started as."
+    ],
+    "art": "art/vorath.jpg",
+    "source_page": null
+  }
+]

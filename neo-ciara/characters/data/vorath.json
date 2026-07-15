@@ -1,0 +1,15 @@
+{
+  "slug": "vorath",
+  "name": "Vorath",
+  "epithet": "What Malakar Made of Fitch",
+  "faction": "Malakar's Legion",
+  "status": "Corrupted",
+  "tags": ["Corrupted", "Curse", "Killing Machine"],
+  "bio": [
+    "At a certain point in the war against Malakar, the lich got hold of Fitch and turned him into the newest bearer of an old and hungry title -- Vorath, a curse that has claimed victims in ages long before this one, each transformation different in its details and identical in its cruelty. Malakar's corruption didn't work the way ordinary violence works. It reached into everything Fitch had ever been -- the hustle, the wit, the loyalty, the contempt for anyone who'd looked down on him -- and twisted all of it into a killing machine.",
+    "A-D found him in the ruins of the market district three days after the taking, and spent one full minute believing he was looking at his oldest friend before the thing wearing Fitch's face made a sound that had nothing left of a friend inside it. He didn't kill it that night. He ran, the way Kleon had taught him running was sometimes the only option, and carried out of that district a grief that would not find anywhere safe to put itself down for a very long time.",
+    "Vorath did not stay Vorath for long. Whatever Malakar had built inside Fitch kept evolving, feeding on time and violence, until it had a new name and considerably less left of the man it started as."
+  ],
+  "art": "art/vorath.jpg",
+  "source_page": null
+}

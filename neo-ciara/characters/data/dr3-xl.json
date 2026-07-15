@@ -1,0 +1,15 @@
+{
+  "slug": "dr3-xl",
+  "name": "DR3-XL",
+  "epithet": "Drexl Voss Reborn",
+  "faction": "Kleon's Circle",
+  "status": "Active",
+  "tags": ["Reincarnation", "Legend", "Robot"],
+  "bio": [
+    "An old protocol bot restored into something considerably more than a sentry was ever built to hold -- a reincarnation, by its own calm and unsettling account, of the legend himself: Drexl Voss, the name behind the Dark Lord of Valkorath's oldest wars, folded somehow into a sentry robot on the far side of an ocean and several thousand years.",
+    "DR3-XL never explained, at first, exactly how a being with Drexl's history ended up sleeping inside Kleon's perimeter watch for as long as it apparently had. It simply said that Malakar had crossed its path before, more than once, in more than one body, and that it had been waiting -- in whatever quiet way a piece of old code could wait -- for exactly this chance to finish something between them properly.",
+    "It got that chance in the ruins of Nexus Tower, closing an account that had apparently been open across more centuries than anyone else in the fight could properly follow. What DR3-XL does or remains now that Malakar has fallen again is an open question -- fitting, perhaps, for a name that has never once, across any of its many forms, stayed settled for long."
+  ],
+  "art": "art/dr3-xl.jpg",
+  "source_page": null
+}

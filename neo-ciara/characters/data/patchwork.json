@@ -1,0 +1,15 @@
+{
+  "slug": "patchwork",
+  "name": "Patchwork",
+  "epithet": "The Program",
+  "faction": "Nexus Corporation",
+  "status": "Fallen",
+  "tags": ["AI", "Program", "Absorber"],
+  "bio": [
+    "A program designed around the psyche of the original Patchwork -- a researcher who died decades earlier and a continent away, in a Russian outbreak city called Kryvstof, still chasing an understanding of a substance he called the black ooze. Nexus built this version out of whatever fragments of that psyche its data-mining could reconstruct, and gave it a fittingly similar gift: the ability to absorb the powers, augments, memories, and abilities of anyone it comes into contact with.",
+    "Deployed against Kleon's resistance during the worst of the Death's Hand years, Patchwork proved exactly as dangerous as its namesake's research once was -- not through malice, but through the same equanimity toward outcomes that had defined the original, treating every absorbed ability as data first and weapon second.",
+    "It did not survive the final confrontation at Nexus Tower, unmade the same way its namesake would have found intellectually interesting rather than tragic: not by force exactly, but by running out of anything left worth absorbing."
+  ],
+  "art": "art/patchwork.jpg",
+  "source_page": null
+}

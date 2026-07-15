@@ -33,6 +33,10 @@ WorldIndex/
 │   ├── catalog/index.html    ← Atlas's interactive character browser
 │   ├── characters/           ← same layout as Valkorath's (catalog.json, data/, art/)
 │   └── story/atlas-story.md
+├── neo-ciara/
+│   ├── catalog/index.html    ← Neo Ciara's interactive character browser
+│   ├── characters/           ← same layout as Valkorath's (catalog.json, data/, art/)
+│   └── story/neo-ciara-story.md
 ├── pantheon/
 │   ├── catalog/index.html    ← Elarion's interactive character browser
 │   ├── characters/           ← same layout as Valkorath's (catalog.json, data/, art/)
@@ -67,9 +71,9 @@ WorldIndex/
     └── story/valmere-story.md
 ```
 
-All eleven stories are live now, each with a full chapter-by-chapter narrative. The landing
+All twelve stories are live now, each with a full chapter-by-chapter narrative. The landing
 page (`index.html`) is the front door to the whole universe — it links out to each one in
-chronological order, from Elarion's primordial age through to Valmere in 2035.
+chronological order, from Elarion's primordial age through to Neo Ciara in 2082.
 
 The rebuild script works for any story:
 
@@ -85,6 +89,7 @@ python3 scripts/build_catalog.py texas            # rebuilds Texas
 python3 scripts/build_catalog.py centennial       # rebuilds New York
 python3 scripts/build_catalog.py kryvstof         # rebuilds Kryvstof
 python3 scripts/build_catalog.py valmere          # rebuilds Valmere
+python3 scripts/build_catalog.py neo-ciara        # rebuilds Neo Ciara
 ```
 
 ## Reading chapter by chapter
@@ -260,6 +265,48 @@ Eleven characters in `atlas/characters/`, portraits pulled directly from the sou
 Bruce, Thompson and Father Tom (his before-and-after, given separate entries the way the
 site already splits other characters across life stages), Ricky, Dreyfus, Chiro, Polygaster,
 Cthulhu, the Atlas-Spirit, Nyarlathotep, and Yog-Sothoth.
+
+## About Neo Ciara
+
+The furthest point on the timeline yet — 2082, a cyberpunk metropolis called Neo Ciara —
+and by a wide margin the most heavily cross-referenced story on the site. Built from a
+25-character outline, it turned out to be less a self-contained story than a converging
+point for plot threads several other stories had already left open. Per your instruction,
+none of the older character files this story touches were changed — every connection below
+is one-directional, made only within `neo-ciara/characters/`.
+
+The confirmed connections, all already sitting in the existing roster before this story
+ever got written:
+
+- **Kleon** ("The King Out of Time") already existed in both the root Valkorath roster and
+  Centennial's New York, with a matching epithet in both places. His root bio has him
+  vanishing into the timestream chasing a temporal tyrant named Gothar and never returning;
+  Centennial's bio has him surfacing in 21st-century New York as a vigilante. Neo Ciara is
+  simply the next stop on that same unresolved arc -- and the one where it finally resolves.
+  Corthos sending him home at the end closes a loop that's been open since the root roster
+  was first built.
+- **Andromedus**, **Paradigm**, and **Corthos** all had existing entries (Elarion,
+  Centennial, and root Valkorath respectively) establishing them as ancient, recurring,
+  multi-era beings. Neo Ciara uses their established characterization directly: Andromedus's
+  weariness with mortals, Paradigm's status as a 21st-century tech god, Corthos's history of
+  being harvested by Malakar -- all treated as canon rather than invented fresh.
+- **Malakar** and the **Vorath** curse are both established root Valkorath elements (Malakar
+  as the lich who once harvested Corthos; Vorath as a corruption-title that's already been
+  reused once, in London, as "the newest bearer" of an old curse). Fitch becoming "the new
+  Vorath" here follows that same established pattern rather than inventing a one-off.
+- **DR3-XL / Drexl Voss** is a new take on the site's most recurring name, following the
+  precedent already set by Drexl's many other forms across Blade of Honor, Centennial,
+  Texas, and Kryvstof -- here reincarnated, literally, inside an old robot.
+- **Patchwork** is explicitly "a program designed around the psyche of the original
+  Patchwork," i.e. Kryvstof's Patchwork -- the researcher who died studying the black ooze.
+  Neo Ciara's version is Nexus Corp's attempt to rebuild his mind as a weapon.
+- **Thor**'s existing Elarion appearance (a wandering god who passed through that realm once)
+  makes his sons Magni and Modi showing up generations later, in a different story entirely,
+  consistent rather than out of nowhere.
+
+Twenty-five characters in `neo-ciara/characters/`, including several -- like Gary/Lt. Gary
+and Enforcer Floret/Sgt. Floret -- split across two entries for their before-and-after life
+stages, the same way Atlas split Thompson from Father Tom.
 
 ## Viewing it
 

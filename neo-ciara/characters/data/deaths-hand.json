@@ -1,0 +1,15 @@
+{
+  "slug": "deaths-hand",
+  "name": "Death's Hand",
+  "epithet": "What Vorath Became",
+  "faction": "Malakar's Legion",
+  "status": "Fallen",
+  "tags": ["Corrupted", "Hunter", "Final Form"],
+  "bio": [
+    "After Vorath began to evolve, fed by two years of violence and Malakar's patient cultivation, it became Death's Hand -- hunting A-D, Kleon, and the remaining resistance for two full years without stopping. Two years is a long time to be hunted by something that used to know exactly how you thought. Death's Hand anticipated Kleon's routes before Kleon finished planning them, found the Serpent-King's safe passages half a step behind every reroute, and took allies the resistance had barely learned the names of, leaving just enough of each one behind to make sure the message landed.",
+    "There was almost nothing of Fitch left in it by the time the final confrontation came at Nexus Tower. It was A-D -- not Kleon, not any of the older and more powerful allies gathered around him -- who finally stood in front of what had once been his best friend and understood that the only mercy left to give was the one he'd been avoiding for two years.",
+    "He did it himself. Nobody else was going to carry that weight for him, and he wouldn't have let them if they'd tried. Whatever last flicker of Fitch remained inside Death's Hand seemed, in the half-second before the end, almost grateful."
+  ],
+  "art": "art/deaths-hand.jpg",
+  "source_page": null
+}

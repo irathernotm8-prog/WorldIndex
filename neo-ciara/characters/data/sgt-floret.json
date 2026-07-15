@@ -1,0 +1,15 @@
+{
+  "slug": "sgt-floret",
+  "name": "Sgt. Floret",
+  "epithet": "Before Nexus",
+  "faction": "Private Security",
+  "status": "Fallen",
+  "tags": ["Soldier", "Betrayed"],
+  "bio": [
+    "A long time ago, Floret used to run with a crew for private security -- a disciplined sergeant leading disciplined soldiers, before any of the augments, before any of the chrome. Time and time again he saw the worst humanity had to offer out on the job, and watched his own body slowly fail to keep pace with a new, young, and wild crowd coming up underneath him.",
+    "In the end it was one of his own who finished what age had started: a lieutenant named Gary, who betrayed him for reasons Floret never fully understood and Gary never fully explained. That betrayal was the last thing Sgt. Floret experienced as simply a man.",
+    "What came after -- the augments, the loyalty to Nexus, the enforcer Neo Ciara would eventually learn to fear -- was built directly out of that betrayal's wreckage. He became the Nexus enforcer the city sees today because the man he trusted most decided his own survival mattered more than Floret's."
+  ],
+  "art": "art/sgt-floret.jpg",
+  "source_page": null
+}

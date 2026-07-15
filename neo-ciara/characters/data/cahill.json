@@ -1,0 +1,15 @@
+{
+  "slug": "cahill",
+  "name": "Cahill",
+  "epithet": "The City's Religious Foundation",
+  "faction": "Nexus Corporation",
+  "status": "Active",
+  "tags": ["Priest", "Complicit"],
+  "bio": [
+    "The other half of the duo that controls Neo Ciara, Cahill acts as the city's religious foundation, standing behind the pulpit of the largest cathedral left standing among all the new steel and explaining some of the more questionable actions the twins have taken as divine and blessed decisions from God. For the most part, people buy it hook, line, and sinker. Cahill has a private theory about why: when technology takes over every other facet of a person's existence, the only thing left worth believing in is something that can't possibly be quantified.",
+    "He does wish, sometimes, that his brother Cletus would show up for the church more. He remains more than happy to facilitate whatever plans Cletus has in mind regardless, believing it all to be for the betterment of the city they bothered growing up in together.",
+    "That belief did not waver even after Cletus's desperation summoned Malakar and nearly cost the city everything. Cahill kept preaching through the two years that followed, kept finding divine explanations for a situation that got harder to explain every week, and kept doing, in his own quiet and complicit way, exactly what he had always done: making sure the people of Neo Ciara never had to look too closely at what actually ran their city."
+  ],
+  "art": "art/cahill.jpg",
+  "source_page": null
+}

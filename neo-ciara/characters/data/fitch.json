@@ -1,0 +1,15 @@
+{
+  "slug": "fitch",
+  "name": "Fitch",
+  "epithet": "The Hustle",
+  "faction": "The Underworld's Nobodies",
+  "status": "Fallen",
+  "tags": ["Hustler", "Corrupted"],
+  "bio": [
+    "Equal parts unassuming and devious, Fitch could rob a person blind and leave them smiling on the way out, which was just how good he was at the hustle. The one thing he could never deal with himself was anyone with a larger physique than his own -- which was where A-D, his only true friend, always came in. Fitch held a great deal of contempt for the upper class, and for people in general, seeing almost no one else in Neo Ciara as worth trusting.",
+    "He was taken from the underworld's tunnels on a night A-D wasn't there to stand between him and what came for him -- the first time in fifteen years of friendship that Fitch needed exactly the thing A-D always provided and didn't have it. Malakar's corruption didn't simply hurt him. It reached into everything Fitch had ever been and twisted it into Vorath, the newest bearer of an old and hungry curse.",
+    "What Vorath became over the following months -- Death's Hand, hunting Neo Ciara's underworld for two full years -- had almost nothing of Fitch left inside it by the end. It was A-D who finally found the mercy nobody else could give, ending the hunt himself rather than let anyone else carry that weight. Whatever last flicker of Fitch remained seemed, in the half-second before the end, almost grateful."
+  ],
+  "art": "art/fitch.jpg",
+  "source_page": null
+}

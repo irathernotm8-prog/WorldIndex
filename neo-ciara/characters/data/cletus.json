@@ -1,0 +1,15 @@
+{
+  "slug": "cletus",
+  "name": "Cletus",
+  "epithet": "CEO of Nexus",
+  "faction": "Nexus Corporation",
+  "status": "Fallen",
+  "tags": ["CEO", "Corrupted"],
+  "bio": [
+    "CEO of Nexus, Cletus understood that his role had stopped being simply running a company and become, in practice, running the city of Neo Ciara itself -- which in recent years had become, in his own quiet reckoning, the last real bastion of a kind of civilization the rest of the world had let slip away. Along with his twin brother Cahill, a priest, he controlled a great deal of the city's actual influence, and the two of them had taken it upon themselves to ensure Neo Ciara stayed exactly the way they liked it. If a few bad eggs started messing with that arrangement, the twins made sure there was hell to pay.",
+    "That control started slipping when a gang war he assumed he could contain didn't stay contained, and Cletus, cornered by escalating chaos and his own dwindling patience, went looking for something more powerful than anything Nexus's conventional arsenal could offer. What he found, buried in records the corporation had quietly acquired and never fully understood, was a name out of a much older war: Malakar.",
+    "He told himself, making the arrangements, that he could control what he was about to wake up. He was wrong in the specific, absolute way every desperate man who has ever reached for the darkest tool available has been wrong. Malakar used Cletus's own ambition, and later his terror, as a conduit into Nexus's systems, until the CEO who thought he ran the city had become little more than a mouthpiece the lich no longer bothered using."
+  ],
+  "art": "art/cletus.jpg",
+  "source_page": null
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "corthos",
+  "name": "Corthos",
+  "epithet": "The Restored Titan",
+  "faction": "Kleon's Circle",
+  "status": "Active",
+  "tags": ["Titan", "Restored", "Ancient"],
+  "bio": [
+    "An old-time Titan from years past, struck down and harvested by Malakar himself in a war centuries removed from this one, his essence twisted into the fuel for the lich's earlier transformation into the Twisted Machine. What was called back in Neo Ciara was less a resurrection than a correction -- Corthos's stolen essence, finally pulled free of that corruption and restored to something closer to what he'd been before it happened.",
+    "He didn't thank the assembled allies extensively for it. He simply picked up the fight the way he'd apparently been waiting, in whatever form his stolen essence had survived in, to finally rejoin -- helping Paradigm unmake Malakar's stolen infrastructure from the inside during the final battle at Nexus Tower.",
+    "After the story was done, Corthos had one last thing to offer: a one-way trip through time for Kleon, the only kind of gift a being who understands time the way Corthos understands it could give a king who had spent lifetimes stranded outside his own. It was the last thing anyone saw him do before the dust of Nexus Tower's lower levels finished settling."
+  ],
+  "art": "art/corthos.jpg",
+  "source_page": null
+}

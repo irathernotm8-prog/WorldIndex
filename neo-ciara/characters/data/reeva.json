@@ -1,0 +1,15 @@
+{
+  "slug": "reeva",
+  "name": "Reeva",
+  "epithet": "Agent of Chaos",
+  "faction": "Ciara Locos",
+  "status": "Fallen",
+  "tags": ["Enforcer", "Collector"],
+  "bio": [
+    "Right hand woman of Gary and the Ciara Locos's enforcer and collector, Reeva carried twin bone-blades mounted along her forearms and a smile that made people confess to things they hadn't done yet just to make it stop. Her target, once Gary struck his bargain with Nexus, was two pawns the gang planned to serve up to save its own skin: A-D and Fitch, neither of whom saw her coming.",
+    "After a crazy chase and skirmish through the flooded transit tunnels beneath Third Sector, the pair escaped through wit and a bit of luck -- Fitch catching on the one weakness Reeva's own crew joked about behind her back, A-D putting his own body between her blades and his friend one more time -- incapacitating her long enough to disappear.",
+    "She woke up in Nexus custody instead of Locos custody, which she understood immediately as a death sentence. She had failed the one job that mattered, and Cletus didn't deal personally with failures that small. He sent Floret instead, and Reeva was killed for failing her mission without ceremony, a debt collected on Gary's behalf whether he understood it that way or not."
+  ],
+  "art": "art/reeva.jpg",
+  "source_page": null
+}

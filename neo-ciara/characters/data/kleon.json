@@ -1,0 +1,15 @@
+{
+  "slug": "kleon",
+  "name": "Kleon",
+  "epithet": "The Time-Displaced King",
+  "faction": "Unaligned",
+  "status": "Active",
+  "tags": ["King", "Vigilante", "Time Traveler"],
+  "bio": [
+    "Even after all these years, the time-displaced king finds a way to keep himself busy, acting as the sole vigilante for Neo Ciara. He fought his way out of Valkorath's own distant past chasing a temporal invader named Gothar, vanished into the timestream with him, and washed up decades later in a 21st-century New York he had no roadmap for -- a vigilante there first, before Neo Ciara ever knew his name.",
+    "By 2082 he'd found his way to Neo Ciara and made it his latest, longest posting yet, meeting A-D and Fitch as they escaped from Reeva and taking them to shelter in his dingy but thoroughly off-the-radar base of operations. He spent the two years that followed the same way he'd spent every year since Gothar: refusing to let the people in front of him fall to something he had the power to stand between them and.",
+    "It was Kleon who gathered Neo Ciara's strangest, oldest allies against Malakar -- Magni, Modi, Andromedus, and the reincarnated legend hiding inside his own old sentry bot -- and Kleon who, at the very end of it, finally accepted the one gift he'd spent lifetimes wishing for: a one-way trip back through the stream he vanished into so long ago, home at last to the Valkorath that had been waiting for its philosopher-king considerably longer than two years."
+  ],
+  "art": "art/kleon.jpg",
+  "source_page": null
+}

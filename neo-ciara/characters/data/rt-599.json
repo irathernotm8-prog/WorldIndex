@@ -1,0 +1,15 @@
+{
+  "slug": "rt-599",
+  "name": "RT-599",
+  "epithet": "Nexus's Assassin",
+  "faction": "Nexus Corporation",
+  "status": "Active",
+  "tags": ["Assassin", "Blade"],
+  "bio": [
+    "An assassin on Nexus's payroll, sent to kill A-D and Fitch once Floret's more visible pursuit failed to close things out quietly. RT-599 carried no name that predated the designation Nexus's records preserved -- only a blade discipline that had survived, unbroken, out of some older tradition nobody in the corporate towers understood or particularly cared to, wrapped around a mind trained methodically to feel nothing about the work at all.",
+    "The contract was simple: make the two gun-runners disappear quietly enough that the story never had to compete with Nexus's own version of events. RT-599 came close twice -- once in the market stalls, foiled only by the Serpent-King's warning network, and once in the tunnels, where an ambush turned into a stalemate against a blade older and stranger than anything RT-599's training had prepared for.",
+    "The contract was never formally closed. What became of RT-599 in the years of escalating chaos that followed is not something Nexus's records preserved either -- fitting, in its own cold way, for an assassin who had never had much of a name to lose in the first place."
+  ],
+  "art": "art/rt-599.jpg",
+  "source_page": null
+}

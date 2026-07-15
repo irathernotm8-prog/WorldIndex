@@ -1,0 +1,15 @@
+{
+  "slug": "reese",
+  "name": "Reese",
+  "epithet": "Healer and Spiritual Guide",
+  "faction": "Kleon's Circle",
+  "status": "Active",
+  "tags": ["Healer", "Mystic"],
+  "bio": [
+    "Healer and spiritual guide, and one of the first true friends A-D found in Kleon's orbit, Reese dislikes the church with the specific, informed contempt of someone who has watched what Cahill's sermons actually do to a city up close. He carries a gentler touch than anyone expects from a man who dresses like he wandered out of a different century entirely -- which, depending on how literally Neo Ciara's oldest secrets are taken, he may well have.",
+    "It was Reese who kept what remained of Kleon's resistance alive through the two years Death's Hand hunted them, not by winning any particular fight, but by making sure there was always enough of the group left standing to try again the next day. He tended A-D through a grief that had nowhere safe to land and never once tried to talk him out of feeling it.",
+    "It was also Reese, quietly, who suggested the last resort that turned the tide: that Neo Ciara's own oldest hidden power, the tech god who'd gone silent long before any of them arrived in this fight, might be worth the risk of waking."
+  ],
+  "art": "art/reese.jpg",
+  "source_page": null
+}

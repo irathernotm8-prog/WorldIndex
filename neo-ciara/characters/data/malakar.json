@@ -1,0 +1,15 @@
+{
+  "slug": "malakar",
+  "name": "Malakar",
+  "epithet": "The Lich Reborn in Chrome",
+  "faction": "Malakar's Legion",
+  "status": "Fallen",
+  "tags": ["Mage", "Undead", "Lich"],
+  "bio": [
+    "After a desperate CEO turned to the darkest evils he could find buried in his own company's records, Malakar was reborn in the sub-levels beneath Nexus Tower -- the same ancient lich who had once seized the essence of the Titan Corthos and torn through Valkorath's oldest wars, opening eyes that had not opened in longer than Neo Ciara's oldest buildings had stood.",
+    "The first thing he understood, waking, was that Cletus had absolutely no idea what he'd actually done. Malakar did not announce himself to the city. He simply began, patiently and precisely, to look for the thing that would hurt the people responsible the most -- finding it, eventually, not in Cletus at all, but in the bond between two gun-runners and the vigilante king who'd taken them in.",
+    "He spent two years consolidating power through Nexus's own infrastructure, using Cletus's ambition and later his terror as a conduit into systems no ordinary army could touch, and corrupting Fitch into the newest bearer of the Vorath curse along the way. He fell, in the end, to an assembled resistance considerably older and stranger than Neo Ciara itself -- Kleon, Andromedus, Drexl Voss reborn, two sons of a thunder god, and a resurrected tech god among them. Whether he stayed fallen, the way something that old and patient ever truly stays anything, is a question nobody involved was foolish enough to answer with certainty."
+  ],
+  "art": "art/malakar.jpg",
+  "source_page": null
+}

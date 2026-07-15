@@ -1,0 +1,15 @@
+{
+  "slug": "dr3",
+  "name": "DR3",
+  "epithet": "The Old Sentry",
+  "faction": "Kleon's Circle",
+  "status": "Fallen",
+  "tags": ["Robot", "Sentry"],
+  "bio": [
+    "An old protocol bot Kleon uses to watch his perimeter, kept running out of habit more than necessity for longer than anyone still living could account for. Kleon never fully explained, even to himself, why he'd never decommissioned something so thoroughly obsolete.",
+    "It had a hidden bit of code deep in its mind that nobody, including Kleon, understood the significance of -- until Malakar's rise began to wake it. Something in DR3's oldest programming responded to the lich's presence in the city the way a struck bell responds to another bell tuned to the same note, faint at first, and then steadily less faint as Death's Hand's two-year hunt wore on.",
+    "DR3 stopped being DR3 the week Kleon finally gathered his oldest allies against Malakar -- its chassis cracking open along seams nobody had known existed, the sentry bot's long watch ending the moment what it had actually been carrying finally woke all the way up."
+  ],
+  "art": "art/dr3.jpg",
+  "source_page": null
+}

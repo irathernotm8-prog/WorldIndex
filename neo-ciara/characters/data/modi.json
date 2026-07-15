@@ -1,0 +1,15 @@
+{
+  "slug": "modi",
+  "name": "Modi",
+  "epithet": "Son of Thor",
+  "faction": "Kleon's Circle",
+  "status": "Active",
+  "tags": ["Demigod", "Warrior"],
+  "bio": [
+    "The other of Thor's sons, now reluctantly helping Kleon's resistance in search of a good end -- less interested in glory than his brother Magni, and more interested in whether any of this actually amounted to something worth the cost by the time it was over.",
+    "Where Magni answered Kleon's call eagerly, Modi came because the fight needed doing and somebody with real strength needed to care about how it ended, not just how it looked while it was happening. He watched over A-D more than the others noticed, understanding, in his own quiet way, what two years of grief does to a person long before the final battle forced A-D to spend the last of it.",
+    "He got his good end, in the end -- Malakar fallen, Fitch finally at rest, Kleon sent home. It cost Andromedus everything to get there. Modi never pretended that made the ending a clean one."
+  ],
+  "art": "art/modi.jpg",
+  "source_page": null
+}

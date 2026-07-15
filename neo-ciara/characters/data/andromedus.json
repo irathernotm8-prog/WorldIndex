@@ -1,0 +1,15 @@
+{
+  "slug": "andromedus",
+  "name": "Andromedus",
+  "epithet": "The Last Test",
+  "faction": "Unaligned",
+  "status": "Fallen",
+  "tags": ["Enigma", "Cosmic", "Ancient"],
+  "bio": [
+    "One of the oldest beings in any world, star-eyed and older than most of the names people have given him across the ages, Andromedus had grown weary of humanity decades before Kleon ever came looking for him in Neo Ciara -- weary in the specific, bone-deep way of something that has spent millennia testing mortals and watching most of them fail. He had retired fully, intending never to be called upon again.",
+    "He came anyway when Kleon finally called, not because the summons moved him, but because he recognized, in the shape of what Malakar had become, an old and unfinished account he had never quite closed. He helped bring Paradigm and Corthos back into the fight, adding his ancient weight to a working none of the gathered allies were fully confident would hold.",
+    "It was Andromedus who finally landed the blow that ended Malakar for good this time -- the ancient tester, weary of humanity, rendering one final judgment. It cost him everything he had left. He died in the wreckage of Malakar's court having spent, on one last mortal war that was never truly his to fight, the very last of a life that had already outlasted several worlds."
+  ],
+  "art": "art/andromedus.jpg",
+  "source_page": null
+}

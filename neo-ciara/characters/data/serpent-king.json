@@ -1,0 +1,15 @@
+{
+  "slug": "serpent-king",
+  "name": "Serpent-King",
+  "epithet": "Ruler of the Underground",
+  "faction": "Kleon's Circle",
+  "status": "Active",
+  "tags": ["Smuggler", "Underground"],
+  "bio": [
+    "Self-proclaimed ruler of Neo Ciara's underground scene, the Serpent-King deals less in violence than in a much rarer currency: safe passage for anyone who needs to leave the city and disappear. His network of tunnels, favors, and warning signals runs deeper than Nexus has ever managed to map, and he guards that advantage carefully.",
+    "It was his warning network that gave A-D and Fitch the two minutes' head start that saved them from RT-599 in the market stalls, one of many small, unglamorous interventions that kept Kleon's resistance alive through the worst of the two-year hunt that followed Fitch's corruption.",
+    "He never asked for thanks and rarely offered explanations, operating on a code that made sense mostly to himself: that a city's underground belongs to the people who actually need it, and that a king who can't be bothered to protect his own subjects doesn't deserve the crown he's given himself."
+  ],
+  "art": "art/serpent-king.jpg",
+  "source_page": null
+}
